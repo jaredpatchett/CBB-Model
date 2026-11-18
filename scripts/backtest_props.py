@@ -227,15 +227,18 @@ def main():
     R = rules.load()
 
     # 3) grade every line
-    out, unmatched = [], 0
+    out, unmatched, miss = [], 0, []
     for _, r in lines.iterrows():
         stat = pf.STATS.get(r["prop_market"])
         hs, as_ = match(r["home_team"]), match(r["away_team"])
         k = pd.to_datetime(r["kickoff"], utc=True)
         cand = test[(test["team"].isin([hs, as_])) & (test["_pn"] == norm_player(r["player"])) &
                     ((test["start"] - k).abs() < pd.Timedelta(hours=18))]
-        if cand.empty or pd.isna(r.get("over_price")) or pd.isna(r.get("under_price")):
+        why = ("team not matched" if not (hs and as_) else "one-sided line" if pd.isna(r.get("over_price")) or pd.isna(r.get("under_price"))
+               else "player not in box score" if cand.empty else None)
+        if why:
             unmatched += 1
+            miss.append({**r.to_dict(), "home_cbbd": hs, "away_cbbd": as_, "why": why})
             continue
         row = cand.iloc[0]
         m = models[stat]
@@ -260,13 +263,17 @@ def main():
                     "why_not": ev["why_not"], "matchup": "soft D" if soft else ("tough D" if tough else "average D"),
                     "grade": g, "price": price, "actual": actual, "result": res, "units": units(res, price)})
     df = pd.DataFrame(out)
-    print(f"graded {len(df)} lines, {unmatched} unmatched (player not found in box scores or one-sided line)")
+    miss = pd.DataFrame(miss)
+    reasons = miss["why"].value_counts().to_dict() if len(miss) else {}
+    print(f"graded {len(df)} lines, {unmatched} unmatched: {reasons}")
+    if len(miss):
+        miss.to_csv(OUT_CSV.replace(".csv", "_unmatched.csv"), index=False)
     if df.empty:
         return
     off = df[df.official]
     res = {"generated_at": datetime.now(timezone.utc).isoformat(), "window": [a.start, a.end],
            "snapshot_hours_before": a.hours_before, "stopped_early": stopped, "credits_used": budget.used,
-           "credits_remaining": budget.remaining, "lines": int(len(df)), "unmatched": unmatched,
+           "credits_remaining": budget.remaining, "lines": int(len(df)), "unmatched": unmatched, "unmatched_why": reasons,
            "official": summ(off), "all_lines": summ(df),
            "by_grade": {k: summ(off[off.grade == k]) for k in ("A", "B", "C")},
            "by_edge": [{"label": f"{lo}-{hi}%" if hi < 999 else f"{lo}%+", **summ(df[(df.edge >= lo) & (df.edge < hi)])}
