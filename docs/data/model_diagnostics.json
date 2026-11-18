@@ -1,0 +1,80 @@
+{
+ "margin": {
+  "n": 10534,
+  "holdout_mae": 10.37,
+  "sd": 13.31,
+  "top": {
+   "elo_diff": 0.2937,
+   "net_diff": 0.2507,
+   "away_games_prior": 0.2267,
+   "prior_net_diff": 0.0928,
+   "away_efg_matchup": 0.0247,
+   "home_court": 0.0225,
+   "home_games_prior": 0.0224,
+   "r_tempo_diff": 0.0147
+  }
+ },
+ "total": {
+  "n": 10534,
+  "holdout_mae": 13.23,
+  "sd": 16.72,
+  "top": {
+   "exp_total": 0.4587,
+   "exp_poss": 0.1452,
+   "home_r_tempo": 0.0345,
+   "away_r_adj_off": 0.03,
+   "home_games_prior": 0.025,
+   "away_games_prior": 0.0245,
+   "away_r_tempo": 0.0237,
+   "home_r_tov_o": 0.0226
+  }
+ },
+ "props_points": {
+  "n": 316731,
+  "holdout_mae": 3.9,
+  "sd": 5.14,
+  "top": {
+   "p_points": 0.8465,
+   "p_minutes": 0.0952,
+   "p_usage": 0.0278,
+   "p_starter": 0.0107,
+   "opp_adj_def": 0.0082
+  }
+ },
+ "props_rebounds": {
+  "n": 316731,
+  "holdout_mae": 1.72,
+  "sd": 2.26,
+  "top": {
+   "p_rebounds": 0.9301,
+   "p_minutes": 0.0231,
+   "p_starter": 0.0162,
+   "opp_adj_def": 0.0085,
+   "p_rebounds_per40": 0.0069
+  }
+ },
+ "props_assists": {
+  "n": 316731,
+  "holdout_mae": 0.99,
+  "sd": 1.38,
+  "top": {
+   "p_assists": 0.9174,
+   "p_minutes": 0.0435,
+   "opp_adj_def": 0.0136,
+   "is_home": 0.0105,
+   "opp_tempo": 0.0055
+  }
+ },
+ "props_threes": {
+  "n": 316731,
+  "holdout_mae": 0.67,
+  "sd": 1.01,
+  "top": {
+   "p_threes_att": 0.9098,
+   "p_threes": 0.0673,
+   "opp_adj_def": 0.0063,
+   "p_minutes": 0.0055,
+   "opp_tempo": 0.0031
+  }
+ }
+}

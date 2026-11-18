@@ -1,0 +1,2043 @@
+{
+ "plays": {
+  "spread|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|home": {
+   "market": "spread",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -3.5,
+     -9.4,
+     5.9,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Florida Gators|Houston Cougars|2026-11-18T21:30:00Z|home": {
+   "market": "spread",
+   "home": "Florida Gators",
+   "away": "Houston Cougars",
+   "kickoff": "2026-11-18T21:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Florida",
+   "away_cbbd": "Houston",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -2.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -2.5,
+     -6.2,
+     3.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Winthrop Eagles|Chattanooga Mocs|2026-11-18T23:30:00Z|home": {
+   "market": "spread",
+   "home": "Winthrop Eagles",
+   "away": "Chattanooga Mocs",
+   "kickoff": "2026-11-18T23:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Winthrop",
+   "away_cbbd": "Chattanooga",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     3.5,
+     -5.3,
+     8.8,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 3.5,
+   "final_score": "0-0"
+  },
+  "spread|Eastern Michigan Eagles|Detroit Mercy Titans|2026-11-18T23:30:00Z|home": {
+   "market": "spread",
+   "home": "Eastern Michigan Eagles",
+   "away": "Detroit Mercy Titans",
+   "kickoff": "2026-11-18T23:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Eastern Michigan",
+   "away_cbbd": "Detroit Mercy",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -10.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -10.5,
+     -34.3,
+     23.8,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -10.5,
+   "final_score": "0-0"
+  },
+  "total|Eastern Michigan Eagles|Detroit Mercy Titans|2026-11-18T23:30:00Z|over": {
+   "market": "total",
+   "home": "Eastern Michigan Eagles",
+   "away": "Detroit Mercy Titans",
+   "kickoff": "2026-11-18T23:30:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Eastern Michigan",
+   "away_cbbd": "Detroit Mercy",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 140.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     140.5,
+     146.8,
+     6.3,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 140.5,
+   "final_score": "0-0"
+  },
+  "spread|South Carolina Upstate Spartans|Samford Bulldogs|2026-11-18T23:30:00Z|home": {
+   "market": "spread",
+   "home": "South Carolina Upstate Spartans",
+   "away": "Samford Bulldogs",
+   "kickoff": "2026-11-18T23:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "South Carolina Upstate",
+   "away_cbbd": "Samford",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     6.5,
+     -2.2,
+     8.7,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 6.5,
+   "final_score": "0-0"
+  },
+  "spread|UNC Asheville Bulldogs|Tennessee Tech Golden Eagles|2026-11-18T23:30:00Z|home": {
+   "market": "spread",
+   "home": "UNC Asheville Bulldogs",
+   "away": "Tennessee Tech Golden Eagles",
+   "kickoff": "2026-11-18T23:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "UNC Asheville",
+   "away_cbbd": "Tennessee Tech",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     3.5,
+     -1.2,
+     4.7,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "0-0"
+  },
+  "total|UNC Asheville Bulldogs|Tennessee Tech Golden Eagles|2026-11-18T23:30:00Z|under": {
+   "market": "total",
+   "home": "UNC Asheville Bulldogs",
+   "away": "Tennessee Tech Golden Eagles",
+   "kickoff": "2026-11-18T23:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "UNC Asheville",
+   "away_cbbd": "Tennessee Tech",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 162.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     162.5,
+     156.7,
+     5.8,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 162.5,
+   "final_score": "0-0"
+  },
+  "spread|Lafayette Leopards|Binghamton Bearcats|2026-11-19T00:00:00Z|home": {
+   "market": "spread",
+   "home": "Lafayette Leopards",
+   "away": "Binghamton Bearcats",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Lafayette",
+   "away_cbbd": "Binghamton",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -3.5,
+     -6.5,
+     3.0,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -3.5,
+   "final_score": "0-0"
+  },
+  "spread|Charleston Southern Buccaneers|Wofford Terriers|2026-11-19T00:00:00Z|home": {
+   "market": "spread",
+   "home": "Charleston Southern Buccaneers",
+   "away": "Wofford Terriers",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Charleston Southern",
+   "away_cbbd": "Wofford",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     2.5,
+     -5.6,
+     8.1,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 2.5,
+   "final_score": "0-0"
+  },
+  "total|Charleston Southern Buccaneers|Wofford Terriers|2026-11-19T00:00:00Z|under": {
+   "market": "total",
+   "home": "Charleston Southern Buccaneers",
+   "away": "Wofford Terriers",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Charleston Southern",
+   "away_cbbd": "Wofford",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 163.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     163.5,
+     155.6,
+     7.9,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 163.5,
+   "final_score": "0-0"
+  },
+  "spread|La Salle Explorers|Coppin St Eagles|2026-11-19T00:00:00Z|away": {
+   "market": "spread",
+   "home": "La Salle Explorers",
+   "away": "Coppin St Eagles",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "La Salle",
+   "away_cbbd": "Coppin State",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -14.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -14.5,
+     -8.7,
+     5.8,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -14.5,
+   "final_score": "0-0"
+  },
+  "spread|Duquesne Dukes|Howard Bison|2026-11-19T00:00:00Z|away": {
+   "market": "spread",
+   "home": "Duquesne Dukes",
+   "away": "Howard Bison",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Duquesne",
+   "away_cbbd": "Howard",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -4.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -4.5,
+     -1.5,
+     3.0,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -4.5,
+   "final_score": "0-0"
+  },
+  "total|Duquesne Dukes|Howard Bison|2026-11-19T00:00:00Z|under": {
+   "market": "total",
+   "home": "Duquesne Dukes",
+   "away": "Howard Bison",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Duquesne",
+   "away_cbbd": "Howard",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 139.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     139.5,
+     132.4,
+     7.1,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 139.5,
+   "final_score": "0-0"
+  },
+  "spread|South Carolina Gamecocks|Elon Phoenix|2026-11-19T00:00:00Z|away": {
+   "market": "spread",
+   "home": "South Carolina Gamecocks",
+   "away": "Elon Phoenix",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "South Carolina",
+   "away_cbbd": "Elon",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -15.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -15.5,
+     -12.3,
+     3.2,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -15.5,
+   "final_score": "0-0"
+  },
+  "spread|Fairleigh Dickinson Knights|NJIT Highlanders|2026-11-19T00:00:00Z|home": {
+   "market": "spread",
+   "home": "Fairleigh Dickinson Knights",
+   "away": "NJIT Highlanders",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Fairleigh Dickinson",
+   "away_cbbd": "NJIT",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -3.5,
+     -13.9,
+     10.4,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -3.5,
+   "final_score": "0-0"
+  },
+  "spread|Florida Atlantic Owls|Florida Gulf Coast Eagles|2026-11-19T00:00:00Z|away": {
+   "market": "spread",
+   "home": "Florida Atlantic Owls",
+   "away": "Florida Gulf Coast Eagles",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Florida Atlantic",
+   "away_cbbd": "Florida Gulf Coast",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -4.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -4.5,
+     -1.3,
+     3.2,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -4.5,
+   "final_score": "0-0"
+  },
+  "spread|Towson Tigers|James Madison Dukes|2026-11-19T00:00:00Z|home": {
+   "market": "spread",
+   "home": "Towson Tigers",
+   "away": "James Madison Dukes",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Towson",
+   "away_cbbd": "James Madison",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -3.5,
+     -11.7,
+     8.2,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -3.5,
+   "final_score": "0-0"
+  },
+  "spread|Longwood Lancers|VMI Keydets|2026-11-19T00:00:00Z|home": {
+   "market": "spread",
+   "home": "Longwood Lancers",
+   "away": "VMI Keydets",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Longwood",
+   "away_cbbd": "VMI",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -7.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -7.5,
+     -17.3,
+     9.8,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -7.5,
+   "final_score": "0-0"
+  },
+  "spread|Presbyterian Blue Hose|Mercer Bears|2026-11-19T00:00:00Z|away": {
+   "market": "spread",
+   "home": "Presbyterian Blue Hose",
+   "away": "Mercer Bears",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Presbyterian",
+   "away_cbbd": "Mercer",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -2.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -2.5,
+     4.8,
+     7.3,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -2.5,
+   "final_score": "0-0"
+  },
+  "spread|Ohio Bobcats|Morehead St Eagles|2026-11-19T00:00:00Z|away": {
+   "market": "spread",
+   "home": "Ohio Bobcats",
+   "away": "Morehead St Eagles",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Ohio",
+   "away_cbbd": "Morehead State",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -16.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -16.5,
+     -5.5,
+     11.0,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -16.5,
+   "final_score": "0-0"
+  },
+  "total|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under": {
+   "market": "total",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 170.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     170.5,
+     161.0,
+     9.5,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 170.5,
+   "final_score": "0-0"
+  },
+  "total|Yale Bulldogs|Vermont Catamounts|2026-11-19T00:00:00Z|over": {
+   "market": "total",
+   "home": "Yale Bulldogs",
+   "away": "Vermont Catamounts",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Yale",
+   "away_cbbd": "Vermont",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 139.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     139.5,
+     146.1,
+     6.6,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 139.5,
+   "final_score": "0-0"
+  },
+  "spread|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|home": {
+   "market": "spread",
+   "home": "West Virginia Mountaineers",
+   "away": "Kansas Jayhawks",
+   "kickoff": "2026-11-19T00:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "West Virginia",
+   "away_cbbd": "Kansas",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 8.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     8.5,
+     -4.8,
+     13.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Marquette Golden Eagles|Northern Illinois Huskies|2026-11-19T00:30:00Z|under": {
+   "market": "total",
+   "home": "Marquette Golden Eagles",
+   "away": "Northern Illinois Huskies",
+   "kickoff": "2026-11-19T00:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Marquette",
+   "away_cbbd": "Northern Illinois",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 146.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     146.5,
+     138.0,
+     8.5,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 146.5,
+   "final_score": "0-0"
+  },
+  "spread|Syracuse Orange|Cornell Big Red|2026-11-19T01:00:00Z|away": {
+   "market": "spread",
+   "home": "Syracuse Orange",
+   "away": "Cornell Big Red",
+   "kickoff": "2026-11-19T01:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Syracuse",
+   "away_cbbd": "Cornell",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -19.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -19.5,
+     -11.9,
+     7.6,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -19.5,
+   "final_score": "0-0"
+  },
+  "spread|Gardner-Webb Bulldogs|UNC Greensboro Spartans|2026-11-19T01:00:00Z|away": {
+   "market": "spread",
+   "home": "Gardner-Webb Bulldogs",
+   "away": "UNC Greensboro Spartans",
+   "kickoff": "2026-11-19T01:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Gardner-Webb",
+   "away_cbbd": "UNC Greensboro",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     2.5,
+     8.8,
+     6.3,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "0-0"
+  },
+  "spread|Texas State Bobcats|Incarnate Word Cardinals|2026-11-19T01:00:00Z|home": {
+   "market": "spread",
+   "home": "Texas State Bobcats",
+   "away": "Incarnate Word Cardinals",
+   "kickoff": "2026-11-19T01:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Texas State",
+   "away_cbbd": "Incarnate Word",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -17.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -17.5,
+     -28.5,
+     11.0,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -17.5,
+   "final_score": "0-0"
+  },
+  "total|Texas State Bobcats|Incarnate Word Cardinals|2026-11-19T01:00:00Z|over": {
+   "market": "total",
+   "home": "Texas State Bobcats",
+   "away": "Incarnate Word Cardinals",
+   "kickoff": "2026-11-19T01:00:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Texas State",
+   "away_cbbd": "Incarnate Word",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 141.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     141.5,
+     150.4,
+     8.9,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 141.5,
+   "final_score": "0-0"
+  },
+  "total|Stonehill Skyhawks|New Hampshire Wildcats|2026-11-19T01:00:00Z|over": {
+   "market": "total",
+   "home": "Stonehill Skyhawks",
+   "away": "New Hampshire Wildcats",
+   "kickoff": "2026-11-19T01:00:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Stonehill",
+   "away_cbbd": "New Hampshire",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 129.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     129.5,
+     136.5,
+     7.0,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 129.5,
+   "final_score": "0-0"
+  },
+  "spread|Colorado Buffaloes|Portland Pilots|2026-11-19T02:00:00Z|away": {
+   "market": "spread",
+   "home": "Colorado Buffaloes",
+   "away": "Portland Pilots",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Colorado",
+   "away_cbbd": "Portland",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -14.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -14.5,
+     -4.5,
+     10.0,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -14.5,
+   "final_score": "0-0"
+  },
+  "spread|Colorado St Rams|North Dakota St Bison|2026-11-19T02:00:00Z|away": {
+   "market": "spread",
+   "home": "Colorado St Rams",
+   "away": "North Dakota St Bison",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Colorado State",
+   "away_cbbd": "North Dakota State",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -13.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -13.5,
+     -6.9,
+     6.6,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -13.5,
+   "final_score": "0-0"
+  },
+  "total|Colorado St Rams|North Dakota St Bison|2026-11-19T02:00:00Z|over": {
+   "market": "total",
+   "home": "Colorado St Rams",
+   "away": "North Dakota St Bison",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Colorado State",
+   "away_cbbd": "North Dakota State",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 147.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     147.5,
+     152.5,
+     5.0,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 147.5,
+   "final_score": "0-0"
+  },
+  "spread|San Jos\u00e9 St Spartans|Fresno St Bulldogs|2026-11-19T02:00:00Z|away": {
+   "market": "spread",
+   "home": "San Jos\u00e9 St Spartans",
+   "away": "Fresno St Bulldogs",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "San Jos\u00e9 State",
+   "away_cbbd": "Fresno State",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -6.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -6.5,
+     -1.7,
+     4.8,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -6.5,
+   "final_score": "0-0"
+  },
+  "total|Utah State Aggies|Weber State Wildcats|2026-11-19T02:00:00Z|under": {
+   "market": "total",
+   "home": "Utah State Aggies",
+   "away": "Weber State Wildcats",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Utah State",
+   "away_cbbd": "Weber State",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 170.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     170.5,
+     164.5,
+     6.0,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 170.5,
+   "final_score": "0-0"
+  },
+  "total|San Diego Toreros|UC Riverside Highlanders|2026-11-19T02:30:00Z|over": {
+   "market": "total",
+   "home": "San Diego Toreros",
+   "away": "UC Riverside Highlanders",
+   "kickoff": "2026-11-19T02:30:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "San Diego",
+   "away_cbbd": "UC Riverside",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 147.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     147.5,
+     152.7,
+     5.2,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 147.5,
+   "final_score": "0-0"
+  },
+  "spread|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|home": {
+   "market": "spread",
+   "home": "Auburn Tigers",
+   "away": "UNLV Rebels",
+   "kickoff": "2026-11-19T03:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Auburn",
+   "away_cbbd": "UNLV",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -8.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -8.5,
+     -12.2,
+     3.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|under": {
+   "market": "total",
+   "home": "Auburn Tigers",
+   "away": "UNLV Rebels",
+   "kickoff": "2026-11-19T03:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Auburn",
+   "away_cbbd": "UNLV",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 160.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     160.5,
+     154.5,
+     6.0,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Washington St Cougars|Hawai'i Rainbow Warriors|2026-11-19T03:00:00Z|home": {
+   "market": "spread",
+   "home": "Washington St Cougars",
+   "away": "Hawai'i Rainbow Warriors",
+   "kickoff": "2026-11-19T03:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Washington State",
+   "away_cbbd": "Hawai'i",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     1.5,
+     -4.7,
+     6.2,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Washington St Cougars|Hawai'i Rainbow Warriors|2026-11-19T03:00:00Z|over": {
+   "market": "total",
+   "home": "Washington St Cougars",
+   "away": "Hawai'i Rainbow Warriors",
+   "kickoff": "2026-11-19T03:00:00Z",
+   "side": "over",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Washington State",
+   "away_cbbd": "Hawai'i",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 138.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     138.5,
+     154.7,
+     16.2,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Nevada Wolf Pack|Idaho Vandals|2026-11-19T03:00:00Z|away": {
+   "market": "spread",
+   "home": "Nevada Wolf Pack",
+   "away": "Idaho Vandals",
+   "kickoff": "2026-11-19T03:00:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Nevada",
+   "away_cbbd": "Idaho",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -18.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -18.5,
+     -8.5,
+     10.0,
+     "A",
+     1,
+     null
+    ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -18.5,
+   "final_score": "0-0"
+  },
+  "spread|San Francisco Dons|Louisiana Ragin' Cajuns|2026-11-19T03:00:00Z|home": {
+   "market": "spread",
+   "home": "San Francisco Dons",
+   "away": "Louisiana Ragin' Cajuns",
+   "kickoff": "2026-11-19T03:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "San Francisco",
+   "away_cbbd": "Louisiana",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": -10.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     -10.5,
+     -16.0,
+     5.5,
+     "B",
+     1,
+     null
+    ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -10.5,
+   "final_score": "0-0"
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|over|Braeden Smith|Assists": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "over",
+   "player": "Braeden Smith",
+   "prop_market": "Assists",
+   "athleteId": 187,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     4.5,
+     5.5,
+     24.4,
+     "B",
+     1,
+     -155
+    ],
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     5.5,
+     5.5,
+     2.5,
+     "C",
+     0,
+     110
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|over|Braeden Smith|Points": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "over",
+   "player": "Braeden Smith",
+   "prop_market": "Points",
+   "athleteId": 187,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 8.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     8.5,
+     10.6,
+     24.4,
+     "B",
+     1,
+     -113
+    ],
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     9.5,
+     10.6,
+     26.1,
+     "B",
+     1,
+     115
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|under|Brady Koehler|Rebounds": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "under",
+   "player": "Brady Koehler",
+   "prop_market": "Rebounds",
+   "athleteId": 201202,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     6.5,
+     5.8,
+     15.3,
+     "B",
+     1,
+     -118
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|under|Ethan Roberts|Threes": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "under",
+   "player": "Ethan Roberts",
+   "prop_market": "Threes",
+   "athleteId": 2424,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     1.5,
+     1.4,
+     27.9,
+     "A",
+     1,
+     129
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|under|Braeden Shrewsberry|Threes": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "under",
+   "player": "Braeden Shrewsberry",
+   "prop_market": "Threes",
+   "athleteId": 8158,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     3.5,
+     2.8,
+     26.6,
+     "A",
+     1,
+     -156
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|over|Braeden Shrewsberry|Assists": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "over",
+   "player": "Braeden Shrewsberry",
+   "prop_market": "Assists",
+   "athleteId": 8158,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     1.5,
+     2.6,
+     26.6,
+     "B",
+     1,
+     -169
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|under|Ethan Roberts|Assists": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "under",
+   "player": "Ethan Roberts",
+   "prop_market": "Assists",
+   "athleteId": 2424,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     1.5,
+     0.9,
+     15.9,
+     "B",
+     1,
+     -137
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|under|Logan Duncomb|Points": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "under",
+   "player": "Logan Duncomb",
+   "prop_market": "Points",
+   "athleteId": 1405,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 9.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     9.5,
+     8.8,
+     13.1,
+     "B",
+     1,
+     104
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|over|Braeden Shrewsberry|Rebounds": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "over",
+   "player": "Braeden Shrewsberry",
+   "prop_market": "Rebounds",
+   "athleteId": 8158,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     4.5,
+     4.6,
+     26.3,
+     "B",
+     1,
+     146
+    ]
+   ]
+  },
+  "prop|Notre Dame Fighting Irish|Rutgers Scarlet Knights|2026-11-18T19:00:00Z|under|Brady Koehler|Threes": {
+   "market": "prop",
+   "home": "Notre Dame Fighting Irish",
+   "away": "Rutgers Scarlet Knights",
+   "kickoff": "2026-11-18T19:00:00Z",
+   "side": "under",
+   "player": "Brady Koehler",
+   "prop_market": "Threes",
+   "athleteId": 201202,
+   "home_cbbd": "Notre Dame",
+   "away_cbbd": "Rutgers",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     2.5,
+     1.6,
+     19.5,
+     "B",
+     1,
+     -213
+    ]
+   ]
+  },
+  "prop|Florida Gators|Houston Cougars|2026-11-18T21:30:00Z|under|Dedan Thomas Jr.|Assists": {
+   "market": "prop",
+   "home": "Florida Gators",
+   "away": "Houston Cougars",
+   "kickoff": "2026-11-18T21:30:00Z",
+   "side": "under",
+   "player": "Dedan Thomas Jr.",
+   "prop_market": "Assists",
+   "athleteId": 7355,
+   "home_cbbd": "Florida",
+   "away_cbbd": "Houston",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     5.5,
+     4.2,
+     34.9,
+     "A",
+     1,
+     -155
+    ]
+   ]
+  },
+  "prop|Florida Gators|Houston Cougars|2026-11-18T21:30:00Z|under|Thomas Haugh|Points": {
+   "market": "prop",
+   "home": "Florida Gators",
+   "away": "Houston Cougars",
+   "kickoff": "2026-11-18T21:30:00Z",
+   "side": "under",
+   "player": "Thomas Haugh",
+   "prop_market": "Points",
+   "athleteId": 502,
+   "home_cbbd": "Florida",
+   "away_cbbd": "Houston",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     15.5,
+     12.9,
+     32.4,
+     "A",
+     1,
+     -110
+    ]
+   ]
+  },
+  "prop|Florida Gators|Houston Cougars|2026-11-18T21:30:00Z|under|Rueben Chinyelu|Rebounds": {
+   "market": "prop",
+   "home": "Florida Gators",
+   "away": "Houston Cougars",
+   "kickoff": "2026-11-18T21:30:00Z",
+   "side": "under",
+   "player": "Rueben Chinyelu",
+   "prop_market": "Rebounds",
+   "athleteId": 497,
+   "home_cbbd": "Florida",
+   "away_cbbd": "Houston",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     7.5,
+     6.6,
+     35.3,
+     "A",
+     1,
+     105
+    ],
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     8.5,
+     6.6,
+     44.6,
+     "A",
+     0,
+     -125
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|over|Ruben Prey|Assists": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "over",
+   "player": "Ruben Prey",
+   "prop_market": "Assists",
+   "athleteId": 1429,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     1.5,
+     2.3,
+     16.7,
+     "B",
+     1,
+     -154
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Ian Jackson|Points": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Ian Jackson",
+   "prop_market": "Points",
+   "athleteId": 243,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 16.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     16.5,
+     14.4,
+     26.5,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Ruben Prey|Points": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Ruben Prey",
+   "prop_market": "Points",
+   "athleteId": 1429,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 9.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     9.5,
+     8.3,
+     14.2,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Tounde Yessoufou|Points": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Tounde Yessoufou",
+   "prop_market": "Points",
+   "athleteId": 198155,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 17.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     17.5,
+     16.1,
+     11.6,
+     "B",
+     1,
+     -120
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Keyshawn Hall|Points": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Keyshawn Hall",
+   "prop_market": "Points",
+   "athleteId": 334,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 18.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     18.5,
+     17.0,
+     11.2,
+     "B",
+     1,
+     -125
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Ruben Prey|Rebounds": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Ruben Prey",
+   "prop_market": "Rebounds",
+   "athleteId": 1429,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     6.5,
+     5.2,
+     23.4,
+     "B",
+     1,
+     -141
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|over|Tounde Yessoufou|Rebounds": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "over",
+   "player": "Tounde Yessoufou",
+   "prop_market": "Rebounds",
+   "athleteId": 198155,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     6.5,
+     7.7,
+     25.3,
+     "B",
+     1,
+     -130
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Quinn Ellis|Rebounds": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Quinn Ellis",
+   "prop_market": "Rebounds",
+   "athleteId": 232635,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     4.5,
+     4.0,
+     17.0,
+     "B",
+     1,
+     102
+    ]
+   ]
+  },
+  "prop|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under|Ian Jackson|Threes": {
+   "market": "prop",
+   "home": "St. John's Red Storm",
+   "away": "Siena Saints",
+   "kickoff": "2026-11-19T00:00:00Z",
+   "side": "under",
+   "player": "Ian Jackson",
+   "prop_market": "Threes",
+   "athleteId": 243,
+   "home_cbbd": "St. John's",
+   "away_cbbd": "Siena",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     2.5,
+     2.1,
+     11.8,
+     "B",
+     1,
+     -141
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Silas Demary Jr.|Points": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "UConn Huskies",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "under",
+   "player": "Silas Demary Jr.",
+   "prop_market": "Points",
+   "athleteId": 22,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "UConn",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 14.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     14.5,
+     13.1,
+     11.3,
+     "B",
+     1,
+     -120
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Colben Landrew|Points": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "UConn Huskies",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "under",
+   "player": "Colben Landrew",
+   "prop_market": "Points",
+   "athleteId": 227611,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "UConn",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     10.5,
+     8.4,
+     21.1,
+     "A",
+     1,
+     -120
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Jayden Ross|Rebounds": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "UConn Huskies",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "under",
+   "player": "Jayden Ross",
+   "prop_market": "Rebounds",
+   "athleteId": 7802,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "UConn",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     3.5,
+     2.8,
+     25.4,
+     "A",
+     1,
+     102
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Colben Landrew|Rebounds": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "UConn Huskies",
+   "kickoff": "2026-11-19T02:00:00Z",
+   "side": "under",
+   "player": "Colben Landrew",
+   "prop_market": "Rebounds",
+   "athleteId": 227611,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "UConn",
+   "first": {
+    "at": "2026-11-18T15:34:58.596601+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-18T15:34:58.596601+00:00",
+     4.5,
+     3.6,
+     27.9,
+     "A",
+     1,
+     -105
+    ]
+   ]
+  }
+ },
+ "updated": "2026-11-18T15:34:58.596601+00:00"
+}
