@@ -268,6 +268,14 @@ def main():
     print(f"graded {len(df)} lines, {unmatched} unmatched: {reasons}")
     if len(miss):
         miss.to_csv(OUT_CSV.replace(".csv", "_unmatched.csv"), index=False)
+        # diagnostics: box-score coverage by day, and what we have for missed games
+        print("player-game rows by day:", test["start"].dt.strftime("%m-%d").value_counts().sort_index().to_dict())
+        for _, mrow in miss[miss.why == "player not in box score"].drop_duplicates("event_id").head(4).iterrows():
+            t = p[p["team"].isin([mrow["home_cbbd"], mrow["away_cbbd"]]) & (p["season"] == p["season"].max())]
+            print(f"  missed {mrow['away_cbbd']} @ {mrow['home_cbbd']} {mrow['kickoff']} | {mrow['player']} "
+                  f"(norm '{norm_player(mrow['player'])}') | that team's games: {sorted(t['start'].dt.strftime('%m-%d %H:%M').unique())[:8]}")
+            names = sorted(t["name"].dropna().unique())[:6]
+            print(f"    names on file: {names}")
     if df.empty:
         return
     off = df[df.official]
