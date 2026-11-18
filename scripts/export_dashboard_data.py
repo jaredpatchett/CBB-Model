@@ -22,7 +22,7 @@ import pandas as pd
 from scipy.stats import norm
 
 import config
-from src.analysis import play_log, rules
+from src.analysis import play_log, prop_archive, rules
 from src.data import load
 from src.features import player_features as pf, team_features as tf
 from src.models.gbm import GBMModel
@@ -164,7 +164,7 @@ def main():
         games_out.append(gm)
 
     # ---- Props
-    props_out = []
+    props_out, archive_rows = [], []
     props = pd.read_csv(f"{config.DATA_CURRENT_DIR}/props.csv") if os.path.exists(f"{config.DATA_CURRENT_DIR}/props.csv") else pd.DataFrame()
     for _, p in props.iterrows():
         stat = pf.STATS.get(p["market_name"])
@@ -208,11 +208,16 @@ def main():
                "book": p.get("book_used")}
         props_out.append(row)
         plays.append(row)
+        archive_rows.append({**row, "over_price": p["over_price"], "under_price": p["under_price"], "p_over": round(p_over, 3)})
 
     play_log.record_run(log, plays, now_iso)
     n = play_log.grade_results(log, games_cur, pl_cur)
     play_log.save(log)
     rec = play_log.record(log)
+    # every scored prop line, graded later from the box score (props backtest builds itself)
+    prop_archive.append(archive_rows, now_iso)
+    n_arch = prop_archive.grade(pl_cur)
+    plab = prop_archive.lab()
     lab = json.load(open(f"{config.DOCS_DATA_DIR}/lab.json")) if os.path.exists(f"{config.DOCS_DATA_DIR}/lab.json") else {}
     diag = json.load(open(f"{config.DOCS_DATA_DIR}/model_diagnostics.json")) if os.path.exists(f"{config.DOCS_DATA_DIR}/model_diagnostics.json") else {}
     order = {"A": 0, "B": 1, "C": 2}
@@ -223,11 +228,12 @@ def main():
            "spreads": sorted([p for p in official if p["market"] == "spread"], key=lambda p: (order[p["grade"]], -p["edge"]))[:R["spread"]["card_size"]],
            "totals": sorted([p for p in official if p["market"] == "total"], key=lambda p: (order[p["grade"]], -p["edge"])),
            "props": sorted(props_out, key=lambda p: (not p["official"], order[p["grade"]], -p["edge"])),
-           "record": rec, "lab": lab, "diagnostics": diag}
+           "record": rec, "lab": lab, "prop_lab": plab, "diagnostics": diag}
     os.makedirs(config.DOCS_DATA_DIR, exist_ok=True)
     json.dump(out, open(f"{config.DOCS_DATA_DIR}/latest.json", "w"), indent=1, default=str)
     print(f"slate: {len(games_out)} games | official: {len(out['spreads'])} spreads, {len(out['totals'])} totals, "
           f"{sum(p['official'] for p in props_out)} props | graded {n} | unmatched {len(unmatched)}")
+    print(f"prop archive: +{len(archive_rows)} lines, graded {n_arch}, {plab.get('graded', 0)} props graded so far")
 
 
 if __name__ == "__main__":
