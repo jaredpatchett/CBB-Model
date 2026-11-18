@@ -28,8 +28,8 @@ jobs:
       - uses: actions/cache/restore@v4
         with:
           path: data/raw
-          key: cbbd-raw-${{ github.run_id }}
-          restore-keys: cbbd-raw-
+          key: cbbd-raw-v2-${{ github.run_id }}
+          restore-keys: cbbd-raw-v2-
       - name: Fetch 4 past seasons + this one
         run: |
           CUR=$(python -c "import config; print(config.current_season())")
@@ -37,7 +37,7 @@ jobs:
       - uses: actions/cache/save@v4
         with:
           path: data/raw
-          key: cbbd-raw-${{ github.run_id }}
+          key: cbbd-raw-v2-${{ github.run_id }}
       - run: python scripts/build_features.py
       - run: python scripts/run_backtest.py
       - name: Commit results

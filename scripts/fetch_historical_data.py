@@ -5,7 +5,7 @@ a finished season is skipped once saved; the current season is always
 re-pulled). Files per season: games, game_teams (box scores), players,
 lines (raw JSON), adjusted (season-end adjusted efficiency).
 
-Call budget: about 12 calls a season for box scores (two-week windows) +
+Call budget: about 12 calls a season each for schedule, lines and box scores (two-week windows) +
 12 for players + 3 others. Same key/quota as the CFB model's CFBD key.
 
 Usage:

@@ -49,7 +49,31 @@ def _get(path: str, params: dict = None, retries: int = 3):
 
 # ---------------------------------------------------------------- games
 
+ROW_CAP = 3000  # CBBD returns at most this many rows per call
+
+
+def _windowed(path: str, season: int, extra: dict = None, key: str = "id") -> list:
+    """Pull a whole season in two-week windows. One call per season stops at
+    CBBD's 3,000-row cap (about early January), which silently cut every past
+    season short in the first real backtest (11/18/2026)."""
+    out, seen = [], set()
+    for a, b in _date_chunks(season):
+        data = _get(path, {"season": season, "startDateRange": a, "endDateRange": b, **(extra or {})}) or []
+        if len(data) >= ROW_CAP:
+            print(f"  [warn] {path} {a[:10]}..{b[:10]} hit the {ROW_CAP}-row cap; shrink the window")
+        for row in data:
+            k = row.get(key)
+            if k is None or k not in seen:
+                seen.add(k)
+                out.append(row)
+        time.sleep(0.3)
+    return out
+
+
 def get_games(season: int, season_type: str = None, start=None, end=None) -> pd.DataFrame:
+    if not start and not end:
+        extra = {"seasonType": season_type} if season_type else None
+        return pd.json_normalize(_windowed("/games", season, extra))
     params = {"season": season}
     if season_type:
         params["seasonType"] = season_type
@@ -129,7 +153,7 @@ def flatten_player(p: dict) -> dict:
 # ---------------------------------------------------------------- lines & ratings
 
 def get_lines(season: int) -> list:
-    return _get("/lines", {"season": season})
+    return _windowed("/lines", season, key="gameId")
 
 
 def lines_to_dataframe(raw: list, prefs: list = None) -> pd.DataFrame:
