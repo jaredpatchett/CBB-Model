@@ -23,7 +23,18 @@ import config
 from src.data import cbbd_client as cbbd
 
 
+# Bump when a fetch bug means saved seasons must be pulled again. 3 = box
+# scores split windows at CBBD's 3,000-row cap (11/18/2026).
+DATA_VERSION = "3"
+
+
+def _vfile(season):
+    return f"{config.DATA_RAW_DIR}/.v{DATA_VERSION}_{season}"
+
+
 def cached(season):
+    if not os.path.exists(_vfile(season)):
+        return False
     return all(os.path.exists(f"{config.DATA_RAW_DIR}/{n}_{season}.csv") for n in ("games", "game_teams", "players", "adjusted"))
 
 
@@ -76,3 +87,4 @@ if __name__ == "__main__":
                 print(f"--- {s}: cached ---")
             continue
         fetch(s)
+        open(_vfile(s), "w").close()

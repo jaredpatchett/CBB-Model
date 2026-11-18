@@ -60,22 +60,38 @@ def _get(path: str, params: dict = None, retries: int = 5):
 ROW_CAP = 3000  # CBBD returns at most this many rows per call
 
 
-def _windowed(path: str, season: int, extra: dict = None, key: str = "id") -> list:
-    """Pull a whole season in two-week windows. One call per season stops at
-    CBBD's 3,000-row cap (about early January), which silently cut every past
-    season short in the first real backtest (11/18/2026)."""
+def _pull(path: str, params: dict, a: str, b: str) -> list:
+    """One date window; if CBBD returns a full 3,000 rows the window was cut
+    off, so split it in half and pull each half (down to one day)."""
+    data = _get(path, {**params, "startDateRange": a, "endDateRange": b}) or []
+    time.sleep(0.3)
+    ta, tb = pd.Timestamp(a), pd.Timestamp(b)
+    if len(data) < ROW_CAP:
+        return data
+    if tb - ta <= pd.Timedelta(days=1):
+        print(f"  [warn] {path} {a[:10]}..{b[:10]} still hits the {ROW_CAP}-row cap in one day")
+        return data
+    mid = (ta + (tb - ta) / 2).floor("D").strftime("%Y-%m-%dT00:00:00Z")
+    return _pull(path, params, a, mid) + _pull(path, params, mid, b)
+
+
+def _season_rows(path: str, season: int, extra: dict = None, keys=("id",), since=None) -> list:
+    """Pull a season window by window, splitting any window that hits CBBD's
+    3,000-row cap. One call per season cut every past season off in early
+    January, and two-week box-score windows cut the opening two weeks of
+    each season (both found 11/18/2026)."""
     out, seen = [], set()
-    for a, b in _date_chunks(season):
-        data = _get(path, {"season": season, "startDateRange": a, "endDateRange": b, **(extra or {})}) or []
-        if len(data) >= ROW_CAP:
-            print(f"  [warn] {path} {a[:10]}..{b[:10]} hit the {ROW_CAP}-row cap; shrink the window")
-        for row in data:
-            k = row.get(key)
-            if k is None or k not in seen:
+    for a, b in _date_chunks(season, since=since):
+        for row in _pull(path, {"season": season, **(extra or {})}, a, b):
+            k = tuple(row.get(x) for x in keys)
+            if None in k or k not in seen:
                 seen.add(k)
                 out.append(row)
-        time.sleep(0.3)
     return out
+
+
+def _windowed(path: str, season: int, extra: dict = None, key: str = "id") -> list:
+    return _season_rows(path, season, extra, keys=(key,))
 
 
 def get_games(season: int, season_type: str = None, start=None, end=None) -> pd.DataFrame:
@@ -109,29 +125,18 @@ def _date_chunks(season: int, days: int = 14, since=None):
 def get_game_teams(season: int, since=None) -> pd.DataFrame:
     """One row per team per game: the team's box score and its opponent's,
     flattened (teamStats.possessions, opponentStats.fourFactors.effectiveFieldGoalPct, ...)."""
-    frames = []
-    for a, b in _date_chunks(season, since=since):
-        data = _get("/games/teams", {"season": season, "startDateRange": a, "endDateRange": b})
-        if data:
-            frames.append(pd.json_normalize(data))
-        time.sleep(0.3)
-    return pd.concat(frames, ignore_index=True).drop_duplicates(["gameId", "team"]) if frames else pd.DataFrame()
+    data = _season_rows("/games/teams", season, keys=("gameId", "team"), since=since)
+    return pd.json_normalize(data).drop_duplicates(["gameId", "team"]) if data else pd.DataFrame()
 
 
 def get_game_players(season: int, since=None) -> pd.DataFrame:
     """One row per player per game (players list exploded)."""
-    windows = list(_date_chunks(season, since=since))
     rows = []
-    for a, b in windows:
-        params = {"season": season}
-        if a:
-            params.update({"startDateRange": a, "endDateRange": b})
-        for g in _get("/games/players", params) or []:
-            base = {k: g.get(k) for k in ("gameId", "season", "startDate", "team", "opponent", "isHome",
-                                          "neutralSite", "gamePace", "seasonType")}
-            for p in g.get("players") or []:
-                rows.append({**base, **flatten_player(p)})
-        time.sleep(0.3)
+    for g in _season_rows("/games/players", season, keys=("gameId", "team"), since=since):
+        base = {k: g.get(k) for k in ("gameId", "season", "startDate", "team", "opponent", "isHome",
+                                      "neutralSite", "gamePace", "seasonType")}
+        for p in g.get("players") or []:
+            rows.append({**base, **flatten_player(p)})
     return pd.DataFrame(rows)
 
 
