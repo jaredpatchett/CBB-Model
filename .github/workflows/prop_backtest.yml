@@ -1,0 +1,74 @@
+name: Props backtest (by grade)
+
+# Past sportsbook prop lines (The Odds API historical, paid plan) scored by
+# the live prop models trained only on earlier games, graded A/B/C with the
+# live rules, results from the box score. Writes docs/data/prop_backtest.json.
+# Costs Odds API credits: up to 40 per game with props (cached, so re-runs of
+# the same days are free). max_credits stops it before going over.
+on:
+  workflow_dispatch:
+    inputs:
+      start:
+        description: "First day (YYYY-MM-DD). Blank = 7 days ago"
+        default: ""
+      end:
+        description: "Last day (YYYY-MM-DD). Blank = yesterday"
+        default: ""
+      max_credits:
+        description: "Odds API credit cap for this run"
+        default: "8000"
+      dry_run:
+        description: "Only count games and estimate credits"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-run
+  cancel-in-progress: false
+
+jobs:
+  props:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    env:
+      CBBD_API_KEY: ${{ secrets.CBBD_API_KEY }}
+      ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - run: pip install -r requirements.txt
+      - uses: actions/cache/restore@v4
+        with:
+          path: data/raw
+          key: cbbd-raw-v2-${{ github.run_id }}
+          restore-keys: cbbd-raw-v2-
+      - name: Top up box scores
+        run: |
+          CUR=$(python -c "import config; print(config.current_season())")
+          python scripts/fetch_historical_data.py --seasons $((CUR-3)) $((CUR-2)) $((CUR-1)) $CUR
+      - run: python scripts/build_features.py
+      - name: Props backtest
+        run: |
+          ARGS="--max-credits ${{ inputs.max_credits }}"
+          [ -n "${{ inputs.start }}" ] && ARGS="$ARGS --start ${{ inputs.start }}"
+          [ -n "${{ inputs.end }}" ] && ARGS="$ARGS --end ${{ inputs.end }}"
+          [ "${{ inputs.dry_run }}" = "true" ] && ARGS="$ARGS --dry-run"
+          python scripts/backtest_props.py $ARGS
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: data/raw
+          key: cbbd-raw-v2-${{ github.run_id }}
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/prop_backtest.json docs/data/prop_backtest_detail.csv 2>/dev/null || true
+          git diff --cached --quiet && exit 0
+          git commit -m "Props backtest results [skip ci]"
+          git fetch origin main && git merge -X ours --no-edit origin/main -m "Merge [skip ci]" && git push origin main
