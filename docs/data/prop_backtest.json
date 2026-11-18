@@ -1,15 +1,20 @@
 {
- "generated_at": "2026-11-18T17:38:17.792142+00:00",
+ "generated_at": "2026-11-18T18:04:51.752392+00:00",
  "window": [
   "2026-11-11",
   "2026-11-17"
  ],
  "snapshot_hours_before": 3.0,
  "stopped_early": null,
- "credits_used": 1960,
- "credits_remaining": "64127",
+ "credits_used": 0,
+ "credits_remaining": null,
  "lines": 467,
  "unmatched": 485,
+ "unmatched_why": {
+  "player not in box score": 454,
+  "team not matched": 22,
+  "one-sided line": 9
+ },
  "official": {
   "n": 38,
   "w": 25,
