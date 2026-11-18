@@ -31,6 +31,7 @@ from src.models.gbm import GBMModel
 
 SPREAD_TIERS = [(0, 2), (2, 3), (3, 5), (5, 7), (7, 10), (10, 99)]
 TOTAL_TIERS = [(0, 3), (3, 5), (5, 7), (7, 10), (10, 99)]
+ML_TIERS = [(0, 5), (5, 10), (10, 20), (20, 30), (30, 999)]   # expected value, % of stake
 
 
 def summ(d):
@@ -61,6 +62,49 @@ def grade(d, pred_col, line_col, market):
     return d
 
 
+def ml_grade(d):
+    """Moneylines at the real closing price. Model win% = P(margin > 0) from
+    the margin model and its holdout sd; bet the side with the higher EV."""
+    from scipy.stats import norm
+    d = d.copy()
+    for c in ("market_ml_home", "market_ml_away"):
+        d[c] = pd.to_numeric(d[c], errors="coerce")
+    d = d.dropna(subset=["p_margin", "market_ml_home", "market_ml_away", "ml_sd"])
+    d = d[(d.market_ml_home.abs() < 5000) & (d.market_ml_away.abs() < 5000) & (d.market_ml_home.abs() >= 100) & (d.market_ml_away.abs() >= 100)]
+    pay = lambda pr: np.where(pr > 0, pr / 100, 100 / pr.abs())
+    p_home = norm.cdf(d.p_margin / d.ml_sd)
+    ev_h = p_home * pay(d.market_ml_home) - (1 - p_home)
+    ev_a = (1 - p_home) * pay(d.market_ml_away) - p_home
+    home = ev_h >= ev_a
+    d["side"] = np.where(home, "home", "away")
+    d["price"] = np.where(home, d.market_ml_home, d.market_ml_away)
+    d["model_p"] = np.where(home, p_home, 1 - p_home)
+    d["edge"] = 100 * np.where(home, ev_h, ev_a)
+    d["line"] = d["price"]
+    d = d[d.edge > 0]
+    won = np.where(d.side == "home", d.margin > 0, d.margin < 0)
+    d["result"] = np.where(d.margin == 0, "P", np.where(won, "W", "L"))
+    d["units"] = np.where(d.result == "W", pay(d.price.astype(float)), np.where(d.result == "L", -1.0, 0.0))
+    return d
+
+
+def ml_block(d):
+    out = {"every_game": summ(d), "tiers": [], "favorites": summ(d[d.price < 0]), "underdogs": summ(d[d.price > 0]),
+           "calibration": []}
+    for lo, hi in ML_TIERS:
+        s = summ(d[(d.edge >= lo) & (d.edge < hi)])
+        s.update({"lo": lo, "hi": hi, "label": f"{lo}-{hi}% EV" if hi < 999 else f"{lo}%+ EV"})
+        out["tiers"].append(s)
+    for lo in (0.5, 0.6, 0.7, 0.8, 0.9):
+        b = d[(d.model_p >= lo) & (d.model_p < lo + 0.1)]
+        if len(b):
+            out["calibration"].append({"band": f"{int(lo * 100)}-{int(lo * 100) + 10}%", "n": int(len(b)),
+                                       "model_says": round(float(b.model_p.mean()) * 100, 1),
+                                       "actually_won": round(float((b.result == "W").mean()) * 100, 1),
+                                       "roi": round(float(b.units.mean()) * 100, 1)})
+    return out
+
+
 def block(d, tiers, per_day=8):
     out = {"every_game": summ(d), "tiers": []}
     for lo, hi in tiers:
@@ -78,7 +122,8 @@ def main():
     cur = config.current_season()
     g = pd.read_csv(f"{config.DATA_PROCESSED_DIR}/game_features.csv", low_memory=False)
     lines = load.lines(seasons)
-    j = g.merge(lines[["id", "market_spread_home", "market_spread_open_home", "market_total", "market_total_open"]], on="id", how="inner")
+    j = g.merge(lines[["id", "market_spread_home", "market_spread_open_home", "market_total", "market_total_open",
+                       "market_ml_home", "market_ml_away"]], on="id", how="inner")
     j = j[j["home_games_prior"].fillna(0) + j["away_games_prior"].fillna(0) >= 2]
     test_seasons = [s for s in seasons[1:] if s <= cur]
     parts = []
@@ -87,7 +132,9 @@ def main():
         te = j[j.season == s].copy()
         if len(tr) < 300 or te.empty:
             continue
-        te["p_margin"] = GBMModel(tf.MARGIN_FEATURES, "margin").fit(tr, verbose=False).predict(te)
+        mm = GBMModel(tf.MARGIN_FEATURES, "margin").fit(tr, verbose=False)
+        te["p_margin"] = mm.predict(te)
+        te["ml_sd"] = mm.residual_std
         te["p_total"] = GBMModel(tf.TOTAL_FEATURES, "total").fit(tr, verbose=False).predict(te)
         parts.append(te)
         print(f"  {s}: trained on {len(tr)}, graded {len(te)}")
@@ -109,6 +156,11 @@ def main():
         for m, d in (("spread", sp), ("total", tt)):
             details.append(d.assign(market=m, vs=lab)[["market", "vs", "season", "startDate", "homeTeam", "awayTeam",
                                                          "line", "side", "edge", "result", "units"]])
+    ml = ml_grade(sc)
+    out["moneyline"] = {"vs_close": ml_block(ml),
+                        "note": "closing moneylines only (CBBD has no opening moneyline); never official, like CFB"}
+    details.append(ml.assign(market="moneyline", vs="close")[["market", "vs", "season", "startDate", "homeTeam", "awayTeam",
+                                                               "line", "side", "edge", "result", "units"]])
     out["accuracy"] = {"margin_mae": round(float((sc.p_margin - sc.margin).abs().mean()), 2),
                        "market_spread_mae": round(float((-sc.market_spread_home - sc.margin).abs().mean()), 2),
                        "total_mae": round(float((sc.p_total - sc.total).abs().mean()), 2),
@@ -140,6 +192,13 @@ def main():
                   f"{b['every_game'].get('roi')}% | daily card {b['daily_card'].get('roi')}%")
             for t in b["tiers"]:
                 print(f"   {t['label']:<10} {t.get('w', 0)}-{t.get('l', 0):<5} {t.get('roi', 0):+6.1f}%  {t.get('seasons')}")
+    b = out["moneyline"]["vs_close"]
+    print(f"\nMONEYLINE vs close: every game {b['every_game'].get('w')}-{b['every_game'].get('l')} {b['every_game'].get('roi')}% "
+          f"| favorites {b['favorites'].get('roi')}% | dogs {b['underdogs'].get('roi')}%")
+    for t in b["tiers"]:
+        print(f"   {t['label']:<10} {t.get('w', 0)}-{t.get('l', 0):<5} {t.get('roi', 0):+6.1f}%  {t.get('seasons')}")
+    for c in b["calibration"]:
+        print(f"   model {c['band']}: says {c['model_says']}%, won {c['actually_won']}% (n={c['n']}, ROI {c['roi']}%)")
     print("\nprops accuracy:", props)
 
 

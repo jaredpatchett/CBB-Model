@@ -182,13 +182,17 @@ def lines_to_dataframe(raw: list, prefs: list = None) -> pd.DataFrame:
             continue
         by = {l.get("provider"): l for l in lines}
         chosen = next((by[p] for p in prefs if p in by), lines[0])
+        # moneylines: the chosen book, else the first book that has both sides
+        mlb = chosen if chosen.get("homeMoneyline") and chosen.get("awayMoneyline") else next(
+            (l for l in lines if l.get("homeMoneyline") and l.get("awayMoneyline")), {})
         rows.append({"id": g.get("gameId"), "season": g.get("season"), "startDate": g.get("startDate"),
                      "homeTeam": g.get("homeTeam"), "awayTeam": g.get("awayTeam"),
                      "homeScore": g.get("homeScore"), "awayScore": g.get("awayScore"),
                      "line_provider": chosen.get("provider"),
                      "market_spread_home": chosen.get("spread"), "market_spread_open_home": chosen.get("spreadOpen"),
                      "market_total": chosen.get("overUnder"), "market_total_open": chosen.get("overUnderOpen"),
-                     "market_ml_home": chosen.get("homeMoneyline"), "market_ml_away": chosen.get("awayMoneyline")})
+                     "market_ml_home": mlb.get("homeMoneyline"), "market_ml_away": mlb.get("awayMoneyline"),
+                     "ml_provider": mlb.get("provider")})
     return pd.DataFrame(rows)
 
 
