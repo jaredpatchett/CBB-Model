@@ -33,14 +33,22 @@ import config
 DEFAULT_LINE_PROVIDER_PREFERENCE = ["consensus", "ESPN Bet", "DraftKings", "Bovada", "William Hill (New Jersey)"]
 
 
-def _get(path: str, params: dict = None, retries: int = 3):
+def _get(path: str, params: dict = None, retries: int = 5):
     config.require_keys("CBBD_API_KEY")
     url = f"{config.CBBD_BASE_URL}{path}"
     headers = {"Authorization": f"Bearer {config.CBBD_API_KEY}", "Accept": "application/json"}
     for i in range(retries):
-        r = requests.get(url, params=params or {}, headers=headers, timeout=60)
-        if r.status_code == 429 and i < retries - 1:
-            time.sleep(5 * (i + 1))
+        last = i == retries - 1
+        try:
+            r = requests.get(url, params=params or {}, headers=headers, timeout=60)
+        except (requests.ConnectionError, requests.Timeout, requests.exceptions.ChunkedEncodingError):
+            # dropped connections happen on big pulls; wait and retry
+            if last:
+                raise
+            time.sleep(10 * (i + 1))
+            continue
+        if (r.status_code == 429 or r.status_code >= 500) and not last:
+            time.sleep(10 * (i + 1))
             continue
         r.raise_for_status()
         return r.json()
