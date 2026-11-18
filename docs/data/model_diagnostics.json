@@ -1,80 +1,80 @@
 {
  "margin": {
-  "n": 10534,
-  "holdout_mae": 10.37,
-  "sd": 13.31,
+  "n": 23534,
+  "holdout_mae": 9.52,
+  "sd": 12.15,
   "top": {
-   "elo_diff": 0.2937,
-   "net_diff": 0.2507,
-   "away_games_prior": 0.2267,
-   "prior_net_diff": 0.0928,
-   "away_efg_matchup": 0.0247,
-   "home_court": 0.0225,
-   "home_games_prior": 0.0224,
-   "r_tempo_diff": 0.0147
+   "elo_diff": 0.3745,
+   "away_games_prior": 0.2577,
+   "net_diff": 0.2036,
+   "prior_net_diff": 0.0602,
+   "away_efg_matchup": 0.0232,
+   "home_games_prior": 0.0209,
+   "home_court": 0.0152,
+   "r_tempo_diff": 0.0095
   }
  },
  "total": {
-  "n": 10534,
-  "holdout_mae": 13.23,
-  "sd": 16.72,
+  "n": 23534,
+  "holdout_mae": 13.45,
+  "sd": 17.04,
   "top": {
-   "exp_total": 0.4587,
-   "exp_poss": 0.1452,
-   "home_r_tempo": 0.0345,
-   "away_r_adj_off": 0.03,
-   "home_games_prior": 0.025,
-   "away_games_prior": 0.0245,
-   "away_r_tempo": 0.0237,
-   "home_r_tov_o": 0.0226
+   "exp_total": 0.6266,
+   "exp_poss": 0.0974,
+   "home_games_prior": 0.0332,
+   "away_games_prior": 0.0222,
+   "home_r_tempo": 0.0216,
+   "away_r_adj_off": 0.0176,
+   "away_r_tempo": 0.0165,
+   "away_r_three_rate_o": 0.0149
   }
  },
  "props_points": {
-  "n": 316731,
-  "holdout_mae": 3.9,
-  "sd": 5.14,
+  "n": 417103,
+  "holdout_mae": 3.83,
+  "sd": 5.04,
   "top": {
-   "p_points": 0.8465,
-   "p_minutes": 0.0952,
-   "p_usage": 0.0278,
-   "p_starter": 0.0107,
-   "opp_adj_def": 0.0082
+   "p_points": 0.8656,
+   "p_minutes": 0.0838,
+   "p_usage": 0.0239,
+   "opp_adj_def": 0.0082,
+   "p_starter": 0.0079
   }
  },
  "props_rebounds": {
-  "n": 316731,
-  "holdout_mae": 1.72,
+  "n": 417103,
+  "holdout_mae": 1.71,
   "sd": 2.26,
   "top": {
-   "p_rebounds": 0.9301,
-   "p_minutes": 0.0231,
-   "p_starter": 0.0162,
-   "opp_adj_def": 0.0085,
-   "p_rebounds_per40": 0.0069
+   "p_rebounds": 0.9375,
+   "p_minutes": 0.022,
+   "p_starter": 0.0129,
+   "opp_adj_def": 0.0084,
+   "p_rebounds_per40": 0.0058
   }
  },
  "props_assists": {
-  "n": 316731,
-  "holdout_mae": 0.99,
-  "sd": 1.38,
+  "n": 417103,
+  "holdout_mae": 0.98,
+  "sd": 1.36,
   "top": {
-   "p_assists": 0.9174,
-   "p_minutes": 0.0435,
-   "opp_adj_def": 0.0136,
+   "p_assists": 0.9227,
+   "p_minutes": 0.0403,
+   "opp_adj_def": 0.0133,
    "is_home": 0.0105,
-   "opp_tempo": 0.0055
+   "opp_tempo": 0.0048
   }
  },
  "props_threes": {
-  "n": 316731,
-  "holdout_mae": 0.67,
-  "sd": 1.01,
+  "n": 417103,
+  "holdout_mae": 0.66,
+  "sd": 0.99,
   "top": {
-   "p_threes_att": 0.9098,
-   "p_threes": 0.0673,
-   "opp_adj_def": 0.0063,
-   "p_minutes": 0.0055,
-   "opp_tempo": 0.0031
+   "p_threes_att": 0.9137,
+   "p_threes": 0.0659,
+   "opp_adj_def": 0.0058,
+   "p_minutes": 0.0043,
+   "opp_tempo": 0.0029
   }
  }
 }

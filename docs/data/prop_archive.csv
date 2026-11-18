@@ -1,0 +1,137 @@
+run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,over_price,under_price,book,model,p_over,side,edge,games,matchup,official,grade,actual,result
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Assists,2.5,-127,-102,betonlineag,2.5,0.512,under,-3.4,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Assists,3.5,-105,-123,betonlineag,3.7,0.562,over,9.7,3,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Points,10.5,-109,-119,betonlineag,9.6,0.432,under,4.6,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Points,14.5,-120,-108,betonlineag,14.4,0.49,under,-1.7,3,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Jakub Necas,5541,Points,7.5,-116,-111,betonlineag,8.7,0.593,over,10.4,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Aleksas Bieliauskas,203451,Points,8.5,-116,-111,betonlineag,12.8,0.804,over,49.8,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Juan Fernandez,226956,Points,16.5,-114,-114,betonlineag,14.3,0.333,under,25.2,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Aleksas Bieliauskas,203451,Rebounds,4.5,-115,-112,betonlineag,3.9,0.395,under,14.6,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Rebounds,2.5,-139,107,betonlineag,2.6,0.511,under,1.3,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Rebounds,2.5,-120,-108,betonlineag,2.3,0.463,under,3.4,3,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Jakub Necas,5541,Rebounds,5.5,117,-152,betonlineag,4.1,0.267,under,21.5,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Juan Fernandez,226956,Rebounds,6.5,117,-152,betonlineag,5.4,0.321,under,12.6,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Threes,0.5,-233,175,betonlineag,0.7,0.568,under,18.8,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Threes,0.5,-189,143,betonlineag,0.9,0.645,over,-1.3,3,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Assists,1.5,-154,119,betonlineag,2.0,0.636,over,4.9,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Assists,2.5,-145,111,betonlineag,3.2,0.706,over,19.3,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Assists,7.5,-139,107,betonlineag,6.2,0.173,under,71.2,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Points,16.5,-120,-108,betonlineag,14.7,0.361,under,23.0,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Points,9.5,-127,-102,betonlineag,9.3,0.484,under,2.2,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Points,17.5,-108,-120,betonlineag,15.4,0.342,under,20.7,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Points,19.5,109,-141,betonlineag,16.8,0.294,under,20.6,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Points,8.5,-114,-114,betonlineag,8.8,0.527,over,-1.0,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Rebounds,6.5,128,-167,betonlineag,5.7,0.367,under,1.2,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Rebounds,6.5,-143,110,betonlineag,7.3,0.633,over,7.6,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Rebounds,4.5,-133,103,betonlineag,4.4,0.484,under,4.8,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Rebounds,2.5,-189,144,betonlineag,2.9,0.562,under,6.9,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Rebounds,6.5,-116,-111,betonlineag,5.5,0.324,under,28.4,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Threes,0.5,-154,118,betonlineag,1.0,0.683,over,12.6,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Threes,1.5,-109,-119,betonlineag,1.3,0.428,under,5.3,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Threes,2.5,110,-143,betonlineag,2.1,0.336,under,12.8,4,average D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Threes,1.5,-141,108,betonlineag,1.6,0.546,under,-5.6,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Threes,0.5,104,-135,betonlineag,0.4,0.466,over,-5.0,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Miles Sadler,233694,Assists,5.5,-105,-125,fanduel,5.3,0.434,under,2.0,4,tough D,0,B,6.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Leroy Blyden Jr.,202599,Points,12.5,-108,-120,fanduel,10.8,0.366,under,16.2,4,tough D,1,B,23.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Finley Bizjack,1508,Points,14.5,-108,-120,fanduel,13.6,0.43,under,4.4,4,tough D,0,B,18.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Miles Sadler,233694,Points,16.5,-125,-104,fanduel,16.6,0.506,under,-3.1,4,tough D,0,B,18.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tre White,5642,Points,16.5,-104,-125,fanduel,13.8,0.297,under,26.6,4,tough D,1,A,15.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Leroy Blyden Jr.,202599,Points,11.5,-135,100,betmgm,10.8,0.443,under,11.4,4,tough D,1,B,23.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tre White,5642,Points,15.5,-130,-105,betmgm,13.8,0.369,under,23.2,4,tough D,1,A,15.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Finley Bizjack,1508,Assists,1.5,-149,115,betonlineag,2.1,0.68,over,13.6,4,tough D,1,C,2.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Leroy Blyden Jr.,202599,Assists,3.5,100,-130,betonlineag,2.3,0.198,under,42.0,4,tough D,0,A,6.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Brenen Lorient,7556,Assists,1.5,130,-169,betonlineag,1.1,0.397,under,-4.1,4,tough D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tre White,5642,Assists,1.5,120,-156,betonlineag,0.9,0.324,under,11.0,4,tough D,1,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tyran Stokes,224938,Assists,1.5,-141,108,betonlineag,1.6,0.541,under,-4.6,4,tough D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Taylen Kinney,224930,Assists,3.5,-143,110,betonlineag,2.8,0.29,under,49.0,4,tough D,0,A,3.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Seydou Traore,5491,Assists,1.5,136,-179,betonlineag,1.1,0.385,under,-4.1,4,tough D,0,B,0.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Trey Kaufman-Renn,366,Assists,3.5,136,-179,betonlineag,2.6,0.247,under,17.4,4,tough D,1,B,4.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Mouhamed Sylla,199432,Points,7.5,106,-137,betonlineag,8.2,0.554,over,14.2,4,tough D,1,C,6.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tyran Stokes,224938,Points,15.5,-120,-108,betonlineag,12.3,0.264,under,41.7,4,tough D,0,A,13.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Seydou Traore,5491,Points,5.5,-141,108,betonlineag,5.7,0.519,under,-0.1,4,tough D,0,B,0.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Brenen Lorient,7556,Points,9.5,-135,104,betonlineag,10.5,0.581,over,1.2,4,tough D,0,C,19.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Trey Kaufman-Renn,366,Points,12.5,-123,-104,betonlineag,7.9,0.18,under,60.8,4,tough D,0,A,5.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Taylen Kinney,224930,Points,9.5,110,-143,betonlineag,6.4,0.267,under,24.5,4,tough D,1,A,11.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tre White,5642,Points,17.5,-114,-114,betonlineag,13.8,0.232,under,44.1,4,tough D,0,A,15.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Leroy Blyden Jr.,202599,Rebounds,2.5,107,-139,betonlineag,1.6,0.343,under,13.0,4,tough D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Mouhamed Sylla,199432,Rebounds,5.5,136,-179,betonlineag,4.9,0.39,under,-4.9,4,tough D,0,B,4.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tyran Stokes,224938,Rebounds,7.5,115,-149,betonlineag,6.5,0.322,under,13.3,4,tough D,1,B,10.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tre White,5642,Rebounds,6.5,-110,-118,betonlineag,3.7,0.111,under,64.3,4,tough D,0,A,3.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Finley Bizjack,1508,Rebounds,4.5,141,-185,betonlineag,4.2,0.453,over,9.1,4,tough D,0,C,5.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Seydou Traore,5491,Rebounds,4.5,-110,-118,betonlineag,4.0,0.418,under,7.6,4,tough D,0,B,2.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Taylen Kinney,224930,Rebounds,2.5,-105,-123,betonlineag,1.8,0.38,under,12.5,4,tough D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Trey Kaufman-Renn,366,Rebounds,6.5,-110,-118,betonlineag,3.3,0.081,under,69.8,4,tough D,0,A,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Brenen Lorient,7556,Rebounds,5.5,-125,-103,betonlineag,3.6,0.195,under,58.6,4,tough D,0,A,2.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Brenen Lorient,7556,Threes,0.5,-179,136,betonlineag,1.1,0.725,over,13.0,4,tough D,1,C,3.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Leroy Blyden Jr.,202599,Threes,1.5,-120,-108,betonlineag,1.0,0.322,under,30.7,4,tough D,1,A,3.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Finley Bizjack,1508,Threes,1.5,-120,-108,betonlineag,1.9,0.642,over,17.7,4,tough D,1,C,2.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tyran Stokes,224938,Threes,1.5,110,-143,betonlineag,1.0,0.318,under,15.9,4,tough D,1,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Seydou Traore,5491,Threes,0.5,-179,136,betonlineag,0.5,0.506,under,16.5,4,tough D,1,B,0.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Miles Sadler,233694,Threes,1.5,-141,108,betonlineag,2.1,0.715,over,22.2,4,tough D,1,B,2.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Tre White,5642,Threes,2.5,161,-213,betonlineag,1.4,0.133,under,27.4,4,tough D,1,A,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T01:00:00Z,Oklahoma Sooners,Campbell Fighting Camels,Oklahoma,Campbell,Xzayvier Brown,3520,Points,14.5,-110,-118,betonlineag,11.8,0.294,under,30.5,3,soft D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T01:00:00Z,Oklahoma Sooners,Campbell Fighting Camels,Oklahoma,Campbell,Derrion Reid,82,Points,16.5,-112,-115,betonlineag,12.7,0.228,under,44.4,4,soft D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T01:00:00Z,Oklahoma Sooners,Campbell Fighting Camels,Oklahoma,Campbell,Pop Isaacs,7819,Points,12.5,-123,-105,betonlineag,12.4,0.495,under,-1.5,4,soft D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Silas Demary Jr.,22,Assists,5.5,-140,105,fanduel,4.6,0.247,under,54.3,4,tough D,0,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Ivan Kharchenkov,197989,Points,18.5,-118,-113,fanduel,17.9,0.451,under,3.5,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Caleb Holt,223164,Points,16.5,-114,-114,fanduel,16.3,0.484,under,-3.2,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Motiejus Krivas,274,Points,14.5,-114,-114,fanduel,15.1,0.548,over,2.9,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Derek Dixon,200978,Points,12.5,-110,-118,fanduel,11.4,0.412,under,8.6,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Silas Demary Jr.,22,Points,13.5,-130,100,fanduel,12.3,0.408,under,18.4,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Braylon Mullins,202778,Points,18.5,-108,-120,fanduel,15.8,0.296,under,29.0,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Caleb Holt,223164,Rebounds,6.5,-110,-120,fanduel,6.6,0.512,over,-2.3,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Motiejus Krivas,274,Rebounds,8.5,-125,-105,fanduel,7.7,0.361,under,24.8,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Ivan Kharchenkov,197989,Rebounds,7.5,-110,-120,fanduel,7.3,0.472,under,-3.2,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Caleb Holt,223164,Points,17.5,-125,-105,betmgm,16.3,0.406,under,16.0,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Ivan Kharchenkov,197989,Points,19.5,-112,-120,williamhill_us,17.9,0.374,under,14.9,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Braylon Mullins,202778,Points,19.5,-108,-125,williamhill_us,15.8,0.232,under,38.3,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Silas Demary Jr.,22,Points,14.5,-115,-115,williamhill_us,12.3,0.333,under,24.7,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Motiejus Krivas,274,Rebounds,9.5,106,-141,williamhill_us,7.7,0.212,under,34.6,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Braylon Mullins,202778,Threes,3.5,-130,-114,betonlineag,2.4,0.133,under,62.7,4,tough D,0,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Caleb Holt,223164,Threes,1.5,-127,-114,betonlineag,1.5,0.488,under,-3.9,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Ivan Kharchenkov,197989,Threes,0.5,-173,136,betonlineag,0.8,0.635,over,0.1,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Jayden Ross,7802,Assists,1.5,167,-222,betonlineag,0.8,0.298,under,1.9,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Motiejus Krivas,274,Assists,1.5,144,-189,betonlineag,2.0,0.639,over,55.8,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Braylon Mullins,202778,Assists,1.5,-135,105,betonlineag,2.1,0.661,over,15.0,4,tough D,1,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Caleb Holt,223164,Assists,1.5,120,-156,betonlineag,1.5,0.513,over,12.9,4,tough D,1,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Colben Landrew,227611,Assists,1.5,112,-145,betonlineag,1.3,0.429,under,-3.5,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Ivan Kharchenkov,197989,Assists,3.5,106,-137,betonlineag,3.8,0.594,over,22.5,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Caleb Holt,223164,Points,18.5,-102,-127,betonlineag,16.3,0.331,under,19.6,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Colben Landrew,227611,Points,10.5,-130,100,betonlineag,9.3,0.409,under,18.1,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Jayden Ross,7802,Points,7.5,-120,-108,betonlineag,8.5,0.576,over,5.6,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Derek Dixon,200978,Points,11.5,-114,-114,betonlineag,11.4,0.491,under,-4.4,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Jayden Ross,7802,Rebounds,3.5,-135,105,betonlineag,2.4,0.321,under,39.2,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Silas Demary Jr.,22,Rebounds,5.5,128,-167,betonlineag,4.4,0.321,under,8.6,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Braylon Mullins,202778,Rebounds,3.5,-114,-114,betonlineag,2.7,0.359,under,20.3,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Colben Landrew,227611,Rebounds,4.5,-135,104,betonlineag,3.8,0.379,under,26.7,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Silas Demary Jr.,22,Threes,1.5,122,-159,betonlineag,1.0,0.316,under,11.5,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Colben Landrew,227611,Threes,0.5,-192,147,betonlineag,0.9,0.671,over,2.0,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Jayden Ross,7802,Threes,1.5,139,-182,betonlineag,1.0,0.323,under,4.8,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T02:00:00Z,Arizona Wildcats,UConn Huskies,Arizona,UConn,Colben Landrew,227611,Points,11.5,105,-140,hardrockbet,9.3,0.334,under,14.1,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Assists,4.5,125,-170,fanduel,3.3,0.183,under,29.8,4,average D,1,B,3.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Points,10.5,102,-132,fanduel,7.9,0.305,under,22.2,4,average D,1,B,4.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Points,20.5,-120,-108,fanduel,16.9,0.239,under,46.5,4,average D,0,B,21.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Points,15.5,-120,-108,fanduel,15.1,0.469,under,2.3,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Points,13.5,100,-130,fanduel,12.9,0.455,under,-3.6,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Points,13.5,-120,-108,fanduel,13.2,0.476,under,0.9,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Rebounds,5.5,-140,105,fanduel,4.6,0.353,under,32.7,4,tough D,1,A,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Assists,1.5,167,-222,betonlineag,1.1,0.372,over,-0.8,4,average D,0,B,0.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Assists,1.5,155,-204,betonlineag,1.1,0.379,over,-3.3,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Assists,2.5,-115,-112,betonlineag,2.5,0.501,under,-5.6,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Thomas Dowd,2532,Assists,1.5,-123,-104,betonlineag,1.8,0.598,over,8.5,4,average D,0,B,1.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Assists,1.5,-154,118,betonlineag,2.4,0.735,over,21.2,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Thomas Dowd,2532,Points,8.5,-115,-112,betonlineag,8.7,0.519,over,-3.0,4,average D,0,B,7.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Jeremy Foumena,4160,Points,5.5,100,-130,betonlineag,4.6,0.431,under,0.7,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Points,9.5,115,-149,betonlineag,9.5,0.502,over,7.9,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Rebounds,2.5,-105,-123,betonlineag,2.1,0.427,under,3.9,4,average D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Thomas Dowd,2532,Rebounds,8.5,110,-143,betonlineag,7.5,0.327,under,14.4,4,average D,1,B,7.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Rebounds,2.5,100,-130,betonlineag,2.4,0.485,over,-3.0,4,tough D,0,C,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Jeremy Foumena,4160,Rebounds,4.5,-115,-112,betonlineag,3.7,0.368,under,19.6,4,tough D,1,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Rebounds,4.5,146,-192,betonlineag,3.4,0.318,under,3.7,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Rebounds,3.5,106,-137,betonlineag,2.9,0.395,under,4.6,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Rebounds,3.5,120,-156,betonlineag,2.5,0.335,under,9.1,4,average D,0,B,2.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Threes,1.5,-152,117,betonlineag,1.8,0.623,over,3.3,4,average D,0,B,1.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Threes,1.5,-123,-104,betonlineag,1.5,0.516,under,-5.1,4,average D,0,B,0.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Threes,2.5,112,-145,betonlineag,2.2,0.364,under,7.5,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Threes,0.5,136,-179,betonlineag,0.1,0.333,under,3.9,4,tough D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Threes,1.5,115,-149,betonlineag,1.5,0.514,over,10.4,4,tough D,1,C,,
