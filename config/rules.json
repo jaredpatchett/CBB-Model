@@ -1,0 +1,74 @@
+{
+  "_note": "PROVISIONAL rules for the CBB draft (11/2026). Set from scripts/run_backtest.py results (docs/data/lab.json edge tiers) before betting real money. Grade: tier points + matchup (props) - 1 if the line moved against us; 2+ = A, 0-1 = B, <0 = C. A line moving our way never raises a grade; it adds a 'bet small' tag (CFB lesson).",
+  "spread": {
+    "min_edge": 3.0,
+    "max_abs_spread": 20.0,
+    "tiers": [
+      [
+        3,
+        5,
+        0
+      ],
+      [
+        5,
+        7,
+        1
+      ],
+      [
+        7,
+        99,
+        2
+      ]
+    ],
+    "card_size": 12
+  },
+  "total": {
+    "min_edge": 5.0,
+    "tiers": [
+      [
+        5,
+        7,
+        0
+      ],
+      [
+        7,
+        10,
+        1
+      ],
+      [
+        10,
+        99,
+        2
+      ]
+    ]
+  },
+  "prop": {
+    "min_ev": 10.0,
+    "max_ev": 40.0,
+    "tiers": [
+      [
+        10,
+        20,
+        0
+      ],
+      [
+        20,
+        30,
+        1
+      ],
+      [
+        30,
+        99,
+        1
+      ]
+    ],
+    "min_games": 3,
+    "min_line": {
+      "Points": 6.5,
+      "Rebounds": 3.5,
+      "Assists": 1.5,
+      "Threes": 0.5
+    }
+  },
+  "moneyline_official": false
+}
