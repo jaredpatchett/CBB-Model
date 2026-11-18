@@ -24,8 +24,9 @@ from src.data import cbbd_client as cbbd
 
 
 # Bump when a fetch bug means saved seasons must be pulled again. 3 = box
-# scores split windows at CBBD's 3,000-row cap (11/18/2026).
-DATA_VERSION = "3"
+# scores split windows at CBBD's 3,000-row cap; 4 = split at 1,000 rows
+# (player box scores stop near 1,000 team-games) (both 11/18/2026).
+DATA_VERSION = "4"
 
 
 def _vfile(season):

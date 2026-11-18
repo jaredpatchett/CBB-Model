@@ -57,19 +57,21 @@ def _get(path: str, params: dict = None, retries: int = 5):
 
 # ---------------------------------------------------------------- games
 
-ROW_CAP = 3000  # CBBD returns at most this many rows per call
+ROW_CAP = 3000  # CBBD returns at most this many rows per call on /games
+SPLIT_AT = 1000  # /games/players stops near 1,000 team-games, so split any window this big
 
 
 def _pull(path: str, params: dict, a: str, b: str) -> list:
-    """One date window; if CBBD returns a full 3,000 rows the window was cut
-    off, so split it in half and pull each half (down to one day)."""
+    """One date window. CBBD silently stops at a row cap (3,000 on /games,
+    about 1,000 on /games/players), so any window with 1,000+ rows is split in
+    half and each half pulled again (down to one day)."""
     data = _get(path, {**params, "startDateRange": a, "endDateRange": b}) or []
     time.sleep(0.3)
     ta, tb = pd.Timestamp(a), pd.Timestamp(b)
-    if len(data) < ROW_CAP:
+    if len(data) < SPLIT_AT:
         return data
     if tb - ta <= pd.Timedelta(days=1):
-        print(f"  [warn] {path} {a[:10]}..{b[:10]} still hits the {ROW_CAP}-row cap in one day")
+        print(f"  [warn] {path} {a[:10]}..{b[:10]}: {len(data)} rows in one day (may be capped)")
         return data
     mid = (ta + (tb - ta) / 2).floor("D").strftime("%Y-%m-%dT00:00:00Z")
     return _pull(path, params, a, mid) + _pull(path, params, mid, b)
