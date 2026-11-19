@@ -6,6 +6,11 @@ name: Backtest lab (sets the official rules)
 # the model changes. Also runs when this file is pushed.
 on:
   workflow_dispatch:
+    inputs:
+      compare:
+        description: "Also test the other feature sets (writes docs/data/feature_test.json; about 3x longer)"
+        type: boolean
+        default: false
   push:
     branches: [main]
     paths: [".github/workflows/backtest_lab.yml"]
@@ -16,7 +21,7 @@ permissions:
 jobs:
   lab:
     runs-on: ubuntu-latest
-    timeout-minutes: 120
+    timeout-minutes: 300
     env:
       CBBD_API_KEY: ${{ secrets.CBBD_API_KEY }}
     steps:
@@ -39,12 +44,12 @@ jobs:
           path: data/raw
           key: cbbd-raw-v2-${{ github.run_id }}
       - run: python scripts/build_features.py
-      - run: python scripts/run_backtest.py
+      - run: python scripts/run_backtest.py ${{ inputs.compare && '--compare' || '' }}
       - name: Commit results
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/data/lab.json docs/data/lab_detail.csv
+          git add docs/data/lab.json docs/data/lab_detail.csv docs/data/feature_test.json 2>/dev/null || true; git add docs/data/lab.json docs/data/lab_detail.csv
           git diff --cached --quiet && exit 0
           git commit -m "Backtest lab results [skip ci]"
           git fetch origin main && git merge -X ours --no-edit origin/main -m "Merge [skip ci]" && git push origin main

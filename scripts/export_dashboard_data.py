@@ -99,8 +99,9 @@ def main():
     gt_cur = load.game_teams([cur])
     pl_cur = load.players([cur])
     adj_prev = load.adjusted([cur - 1])
-    states = tf.current_team_states(gt_cur, adj_prev, cur) if len(gt_cur) else {}
-    pstates = pf.current_player_states(pl_cur, cur) if len(pl_cur) else {}
+    pl_two = pd.concat([load.players([cur - 1]), pl_cur], ignore_index=True)   # last season feeds the roster/prop priors
+    states = tf.current_team_states(gt_cur, adj_prev, cur, pl_two) if len(gt_cur) else {}
+    pstates = pf.current_player_states(pl_two, cur) if len(pl_cur) else {}
     models = {k: GBMModel.load(f"{config.MODELS_DIR}/{k}.joblib") for k in ("margin", "total")}
     pmodels = {s: GBMModel.load(f"{config.MODELS_DIR}/props_{s}.joblib") for s in pf.STATS.values()
                if os.path.exists(f"{config.MODELS_DIR}/props_{s}.joblib")}
@@ -182,7 +183,8 @@ def main():
         opp = as_ if team == hs else hs
         ts, os_ = states.get(team) or {}, states.get(opp) or {}
         feat = {**{k: v for k, v in st.items() if k.startswith("p_")}, "team_tempo": ts.get("r_tempo"),
-                "opp_tempo": os_.get("r_tempo"), "opp_adj_def": os_.get("r_adj_def"), "is_home": 1.0 if team == hs else 0.0}
+                "opp_tempo": os_.get("r_tempo"), "opp_adj_def": os_.get("r_adj_def"), "is_home": 1.0 if team == hs else 0.0,
+                "team_out_last": ts.get("out_last")}
         mdl = pmodels[stat]
         mu = float(mdl.predict(pd.DataFrame([feat]))[0])
         p_over = float(1 - norm.cdf((float(p["line"]) - mu) / mdl.residual_std))
@@ -213,6 +215,15 @@ def main():
     play_log.record_run(log, plays, now_iso)
     n = play_log.grade_results(log, games_cur, pl_cur)
     play_log.save(log)
+    # every game line each run, with the model's numbers: shows line movement and
+    # whether the model beats the closing line (spreads/totals CLV)
+    arch = pd.DataFrame([{"run_at": now_iso, "kickoff": gm["kickoff"], "home": gm["home_school"], "away": gm["away_school"],
+                          "book": gm.get("book"), "spread": gm.get("market_spread"), "total": gm.get("market_total"),
+                          "ml_home": gm.get("ml_home"), "ml_away": gm.get("ml_away"),
+                          "model_spread": gm.get("model_spread"), "model_total": gm.get("model_total")} for gm in games_out])
+    if len(arch):
+        lp = f"{config.DOCS_DATA_DIR}/line_archive.csv"
+        arch.to_csv(lp, mode="a", header=not os.path.exists(lp), index=False)
     rec = play_log.record(log)
     # every scored prop line, graded later from the box score (props backtest builds itself)
     prop_archive.append(archive_rows, now_iso)

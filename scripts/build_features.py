@@ -20,8 +20,8 @@ from src.features import team_features as tf, player_features as pf
 def main(seasons):
     g, gt, pl = load.games(seasons), load.game_teams(seasons), load.players(seasons)
     adj = load.adjusted([s - 1 for s in seasons] + seasons)
-    feats = tf.build_game_features(g, gt, adj)
-    long = tf.add_rolling(tf.team_game_long(gt), tf.prior_ratings(adj))
+    long = tf.add_rolling(tf.team_game_long(gt), tf.prior_ratings(adj), pl)
+    feats = tf.build_game_features(g, gt, adj, long=long)
     os.makedirs(config.DATA_PROCESSED_DIR, exist_ok=True)
     feats.to_csv(f"{config.DATA_PROCESSED_DIR}/game_features.csv", index=False)
     long.to_csv(f"{config.DATA_PROCESSED_DIR}/team_long.csv", index=False)

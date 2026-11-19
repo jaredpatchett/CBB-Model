@@ -117,38 +117,58 @@ def block(d, tiers, per_day=8):
     return out
 
 
-def main():
-    seasons = load.saved_seasons()
-    cur = config.current_season()
-    g = pd.read_csv(f"{config.DATA_PROCESSED_DIR}/game_features.csv", low_memory=False)
-    lines = load.lines(seasons)
-    j = g.merge(lines[["id", "market_spread_home", "market_spread_open_home", "market_total", "market_total_open",
-                       "market_ml_home", "market_ml_away"]], on="id", how="inner")
-    j = j[j["home_games_prior"].fillna(0) + j["away_games_prior"].fillna(0) >= 2]
-    test_seasons = [s for s in seasons[1:] if s <= cur]
+def model_cfg():
+    try:
+        return json.load(open(os.path.join(os.path.dirname(__file__), "..", "config", "model.json")))
+    except OSError:
+        return {"features": "base", "anchored": False}
+
+
+def walk(g, j, test_seasons, features="base", anchored=False):
+    """Walk-forward predictions. Plain: predict margin/total from team inputs.
+    Anchored: predict how far the result lands from the market line (trained
+    on closing lines), then add back the line being bet -- the opener for the
+    vs-open test, the close for the vs-close test."""
+    mf, tf_ = tf.FEATURE_SETS[features]
     parts = []
     for s in test_seasons:
-        tr = g[(g.season < s) & (g["home_games_prior"].fillna(0) + g["away_games_prior"].fillna(0) >= 2)]
+        tr = j[j.season < s] if anchored else g[g.season < s]
+        tr = tr[tr["home_games_prior"].fillna(0) + tr["away_games_prior"].fillna(0) >= 2].copy()
         te = j[j.season == s].copy()
         if len(tr) < 300 or te.empty:
             continue
-        mm = GBMModel(tf.MARGIN_FEATURES, "margin").fit(tr, verbose=False)
-        te["p_margin"] = mm.predict(te)
-        te["ml_sd"] = mm.residual_std
-        te["p_total"] = GBMModel(tf.TOTAL_FEATURES, "total").fit(tr, verbose=False).predict(te)
+        if anchored:
+            tr = tr[tr.market_spread_home.notna() & tr.market_total.notna()].copy()
+            tr["ats"], tr["ou"] = tr.margin + tr.market_spread_home, tr.total - tr.market_total
+            tr["mkt_spread"], tr["mkt_total"] = tr.market_spread_home, tr.market_total
+            mm = GBMModel(mf + ["mkt_spread"], "ats").fit(tr, verbose=False)
+            tm = GBMModel(tf_ + ["mkt_total"], "ou").fit(tr, verbose=False)
+            for ref, sl, tl_ in (("close", "market_spread_home", "market_total"), ("open", "market_spread_open_home", "market_total_open")):
+                x = te.assign(mkt_spread=te[sl], mkt_total=te[tl_])
+                te[f"p_margin_{ref}"] = -te[sl] + mm.predict(x)
+                te[f"p_total_{ref}"] = te[tl_] + tm.predict(x)
+            te["ml_sd"] = mm.residual_std
+        else:
+            mm = GBMModel(mf, "margin").fit(tr, verbose=False)
+            pm = mm.predict(te)
+            pt = GBMModel(tf_, "total").fit(tr, verbose=False).predict(te)
+            te["p_margin_close"] = te["p_margin_open"] = pm
+            te["p_total_close"] = te["p_total_open"] = pt
+            te["ml_sd"] = mm.residual_std
         parts.append(te)
-        print(f"  {s}: trained on {len(tr)}, graded {len(te)}")
-    if not parts:
-        raise SystemExit("not enough seasons to backtest")
+        print(f"  [{features}{' anchored' if anchored else ''}] {s}: trained on {len(tr)}, graded {len(te)}")
     sc = pd.concat(parts, ignore_index=True)
     sc = sc[sc["margin"].notna()]
-    out = {"generated_at": datetime.now(timezone.utc).isoformat(), "seasons": test_seasons, "demo": config.DEMO,
-           "method": "walk-forward by season, -110, edge vs the line shown", "spread": {}, "total": {}}
-    details = []
+    sc["p_margin"], sc["p_total"] = sc["p_margin_close"], sc["p_total_close"]
+    return sc
+
+
+def evaluate(sc):
+    out, details = {"spread": {}, "total": {}}, []
     for lab, sl, tl_ in (("close", "market_spread_home", "market_total"), ("open", "market_spread_open_home", "market_total_open")):
-        sp = grade(sc, "p_margin", sl, "spread")
+        sp = grade(sc, f"p_margin_{lab}", sl, "spread")
         sp = sp[sp["line"].abs() < 20]
-        tt = grade(sc, "p_total", tl_, "total")
+        tt = grade(sc, f"p_total_{lab}", tl_, "total")
         out["spread"][f"vs_{lab}"] = block(sp, SPREAD_TIERS)
         out["total"][f"vs_{lab}"] = block(tt, TOTAL_TIERS)
         out["total"][f"vs_{lab}"]["over"] = block(tt[tt.side == "over"], TOTAL_TIERS)
@@ -161,27 +181,100 @@ def main():
                         "note": "closing moneylines only (CBBD has no opening moneyline); never official, like CFB"}
     details.append(ml.assign(market="moneyline", vs="close")[["market", "vs", "season", "startDate", "homeTeam", "awayTeam",
                                                                "line", "side", "edge", "result", "units"]])
-    out["accuracy"] = {"margin_mae": round(float((sc.p_margin - sc.margin).abs().mean()), 2),
-                       "market_spread_mae": round(float((-sc.market_spread_home - sc.margin).abs().mean()), 2),
-                       "total_mae": round(float((sc.p_total - sc.total).abs().mean()), 2),
-                       "market_total_mae": round(float((sc.market_total - sc.total).abs().mean()), 2)}
-    # Props: accuracy only (no past prop lines yet).
-    p = pd.read_csv(f"{config.DATA_PROCESSED_DIR}/player_features.csv", low_memory=False)
-    p = p[p["p_games"] >= 3]
+    ok = sc.market_spread_home.notna() & sc.market_total.notna()
+    out["accuracy"] = {"margin_mae": round(float((sc.p_margin - sc.margin).abs()[ok].mean()), 2),
+                       "market_spread_mae": round(float((-sc.market_spread_home - sc.margin).abs()[ok].mean()), 2),
+                       "total_mae": round(float((sc.p_total - sc.total).abs()[ok].mean()), 2),
+                       "market_total_mae": round(float((sc.market_total - sc.total).abs()[ok].mean()), 2)}
+    oo = sc.market_spread_open_home.notna()
+    if oo.any():
+        out["accuracy"]["margin_mae_vs_open_games"] = round(float((sc.p_margin_open - sc.margin).abs()[oo].mean()), 2)
+        out["accuracy"]["market_open_spread_mae"] = round(float((-sc.market_spread_open_home - sc.margin).abs()[oo].mean()), 2)
+    return out, details
+
+
+def headline(out):
+    """The numbers that decide whether a change is kept."""
+    h = {"accuracy": out["accuracy"]}
+    for m in ("spread", "total"):
+        for lab in ("close", "open"):
+            b = out[m][f"vs_{lab}"]
+            h[f"{m}_vs_{lab}"] = {"all": b["every_game"].get("roi"),
+                                  "tiers": {t["label"]: [t.get("n"), t.get("roi"), t.get("every")] for t in b["tiers"]}}
+    for lab in ("close", "open"):
+        u = out["total"][f"vs_{lab}"]["under"]["tiers"]
+        h[f"unders_vs_{lab}"] = {t["label"]: [t.get("n"), t.get("roi"), t.get("every")] for t in u}
+    ml = out["moneyline"]["vs_close"]
+    h["moneyline"] = {"all": ml["every_game"].get("roi"), "calibration": [[c["model_says"], c["actually_won"]] for c in ml["calibration"]]}
+    return h
+
+
+def props_accuracy(test_seasons, version):
+    """Prop model accuracy (MAE) vs a recent-average guess; "early" = a
+    player's 2nd-3rd game of the season, where last season's numbers matter most."""
+    pall = pd.read_csv(f"{config.DATA_PROCESSED_DIR}/player_features.csv", low_memory=False)
+    pall = pall[pall["p_games"] >= 1]
+    p = pall[pall["p_games"] >= 3]
     props = {}
     for stat in pf.STATS.values():
-        maes = []
+        maes, early = [], []
         for s in test_seasons:
             tr, te = p[p.season < s], p[p.season == s]
             if len(tr) < 1000 or te.empty:
                 continue
-            pred = GBMModel(pf.features_for(stat), stat, n_estimators=150).fit(tr, verbose=False).predict(te)
+            m = GBMModel(pf.features_for(stat, version), stat, n_estimators=150).fit(tr, verbose=False)
+            pred = m.predict(te)
             maes.append((float(np.abs(pred - te[stat]).mean()), float(np.abs(te[f"p_{stat}"] - te[stat]).mean()), len(te)))
+            ee = pall[(pall.season == s) & (pall.p_games < 3)]
+            if len(ee):
+                early.append((float(np.abs(m.predict(ee) - ee[stat]).mean()), len(ee)))
         if maes:
             n = sum(x[2] for x in maes)
             props[stat] = {"model_mae": round(sum(x[0] * x[2] for x in maes) / n, 2),
                            "recent_avg_mae": round(sum(x[1] * x[2] for x in maes) / n, 2), "n": n}
-    out["props_accuracy"] = props
+            if early:
+                ne = sum(x[1] for x in early)
+                props[stat]["early_mae"] = round(sum(x[0] * x[1] for x in early) / ne, 2)
+    return props
+
+
+def main():
+    import argparse
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--compare", action="store_true", help="also test the other feature sets; writes docs/data/feature_test.json")
+    a = ap.parse_args()
+    cfg = model_cfg()
+    seasons = load.saved_seasons()
+    cur = config.current_season()
+    g = pd.read_csv(f"{config.DATA_PROCESSED_DIR}/game_features.csv", low_memory=False)
+    lines = load.lines(seasons)
+    j = g.merge(lines[["id", "market_spread_home", "market_spread_open_home", "market_total", "market_total_open",
+                       "market_ml_home", "market_ml_away"]], on="id", how="inner")
+    j = j[j["home_games_prior"].fillna(0) + j["away_games_prior"].fillna(0) >= 2]
+    test_seasons = [s for s in seasons[1:] if s <= cur]
+
+    if a.compare:
+        variants = [("base", False), ("v2", False), ("v2", True)]
+        res = {"generated_at": datetime.now(timezone.utc).isoformat(), "seasons": test_seasons, "variants": {}}
+        for feats, anch in variants:
+            name = feats + ("_anchored" if anch else "")
+            o, _ = evaluate(walk(g, j, test_seasons, feats, anch))
+            res["variants"][name] = headline(o)
+            print(f"\n=== {name} ===\n" + json.dumps(res["variants"][name]["accuracy"]))
+            for k in ("spread_vs_open", "spread_vs_close", "total_vs_open", "total_vs_close"):
+                print(k, res["variants"][name][k]["all"], res["variants"][name][k]["tiers"])
+            print("unders_vs_open", res["variants"][name]["unders_vs_open"])
+            print("moneyline", res["variants"][name]["moneyline"])
+        res["props_accuracy"] = {v: props_accuracy(test_seasons, v) for v in ("base", "v2")}
+        print("\nprops", res["props_accuracy"])
+        os.makedirs(config.DOCS_DATA_DIR, exist_ok=True)
+        json.dump(res, open(f"{config.DOCS_DATA_DIR}/feature_test.json", "w"), indent=1)
+
+    sc = walk(g, j, test_seasons, cfg.get("features", "base"), cfg.get("anchored", False))
+    out, details = evaluate(sc)
+    out = {"generated_at": datetime.now(timezone.utc).isoformat(), "seasons": test_seasons, "demo": config.DEMO,
+           "model": cfg, "method": "walk-forward by season, -110, edge vs the line shown", **out}
+    out["props_accuracy"] = props_accuracy(test_seasons, cfg.get("features", "base"))
     os.makedirs(config.DOCS_DATA_DIR, exist_ok=True)
     json.dump(out, open(f"{config.DOCS_DATA_DIR}/lab.json", "w"), indent=1)
     pd.concat(details, ignore_index=True).to_csv(f"{config.DOCS_DATA_DIR}/lab_detail.csv", index=False)
@@ -192,14 +285,7 @@ def main():
                   f"{b['every_game'].get('roi')}% | daily card {b['daily_card'].get('roi')}%")
             for t in b["tiers"]:
                 print(f"   {t['label']:<10} {t.get('w', 0)}-{t.get('l', 0):<5} {t.get('roi', 0):+6.1f}%  {t.get('seasons')}")
-    b = out["moneyline"]["vs_close"]
-    print(f"\nMONEYLINE vs close: every game {b['every_game'].get('w')}-{b['every_game'].get('l')} {b['every_game'].get('roi')}% "
-          f"| favorites {b['favorites'].get('roi')}% | dogs {b['underdogs'].get('roi')}%")
-    for t in b["tiers"]:
-        print(f"   {t['label']:<10} {t.get('w', 0)}-{t.get('l', 0):<5} {t.get('roi', 0):+6.1f}%  {t.get('seasons')}")
-    for c in b["calibration"]:
-        print(f"   model {c['band']}: says {c['model_says']}%, won {c['actually_won']}% (n={c['n']}, ROI {c['roi']}%)")
-    print("\nprops accuracy:", props)
+    print("\naccuracy:", out["accuracy"], "\nprops accuracy:", out["props_accuracy"])
 
 
 if __name__ == "__main__":

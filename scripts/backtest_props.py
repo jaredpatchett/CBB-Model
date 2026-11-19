@@ -219,7 +219,8 @@ def main():
     test["_pn"] = test["name"].map(norm_player)
     models = {}
     for stat in pf.STATS.values():
-        models[stat] = GBMModel(pf.features_for(stat), stat, n_estimators=200).fit(train, verbose=False)
+        ver = json.load(open(os.path.join(os.path.dirname(__file__), "..", "config", "model.json"))).get("features", "base")
+        models[stat] = GBMModel(pf.features_for(stat, ver), stat, n_estimators=200).fit(train, verbose=False)
         print(f"  {stat}: trained on {models[stat].n_train} player-games, sd {models[stat].residual_std:.2f}")
     defs = test["opp_adj_def"].dropna()
     cut_lo, cut_hi = (np.percentile(defs, 33), np.percentile(defs, 67)) if len(defs) else (None, None)
