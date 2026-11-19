@@ -171,7 +171,7 @@ function pageEdge(){
       (open?'<tr><td colspan="6" style="padding:0">'+breakdown(g)+'</td></tr>':'');}).join('');
   return kpis()+'<div class="grid2"><div><div class="sh"><h2>Bet Card</h2><span class="sub">spreads &amp; totals &middot; tap for the breakdown</span></div>'+
     card('spreads','SPREADS','sp',D.spreads,'No official spreads right now.')+'<div style="height:12px"></div>'+card('totals','TOTALS','tot',D.totals,'No official totals right now.')+
-    '<div class="pn" style="margin-top:10px">Moneylines are shown in the breakdown but never official (the CFB model&rsquo;s lost 14u in 2026).</div></div>'+
+    '<div class="pn" style="margin-top:10px">Moneylines are shown in the breakdown but never official (backtest: -6.1%, and the model&rsquo;s win% runs about 10 points high).</div></div>'+
     '<div><div class="sh"><h2>Slate</h2><span class="sub">every game &middot; tap to open</span></div><div class="card"><table><tr><th>Game</th><th class="num">Mkt</th><th class="num">Model</th><th class="num hide-m">Total</th><th class="num hide-m">Model</th><th>Plays</th></tr>'+games+'</table></div></div></div>';}
 function edgeKey(block,side){var b=(((D.lab||{})[block]||{}).vs_open||{});if(side)b=b[side]||{};var T=(b.tiers||[]).filter(function(t){return t.n;});if(!T.length)return '<div class="pn">Run the backtest (Actions &rarr; Backtest lab) to fill this in.</div>';
   var mx=Math.max.apply(null,T.map(function(t){return Math.abs(t.roi);}).concat([1]));
@@ -189,7 +189,7 @@ function pageProps(){var mk=S.propMk,arr=D.props.filter(function(p){return (S.pr
   mks.map(function(m){return '<button class="tab'+(mk===m?' on':'')+'" onclick="window.__set(&quot;propMk&quot;,&quot;'+m+'&quot;)">'+m+'</button>';}).join('')+'</div>'+
   '<div class="card"><div class="grp"><span class="pill pr">PROPS</span> '+(S.propShow==='official'?'official plays':'every line the model priced')+'<span style="margin-left:auto">'+arr.length+'</span></div>'+
   (arr.length?arr.slice(0,150).map(function(p){return playRow(p,D.props.indexOf(p),'props');}).join(''):'<div class="empty">No props posted yet. Books post college props mostly on bigger games, usually the day before.</div>')+'</div>'+
-  '<div class="pn" style="margin-top:10px">No past college prop lines exist in the data feed, so props can&rsquo;t be backtested for ROI yet: they are graded live from the box score starting now. Treat them as watch-only until the live record says otherwise.</div>';}
+  '<div class="pn" style="margin-top:10px">Every prop line is saved and graded from the box score. Backtest (Nov 11-17): &#128293; A&rsquo;s 45-22 (+25%), B&rsquo;s and C&rsquo;s lost. One early-season week, so treat props as watch-only until the live record backs it up.</div>';}
 function pageTracker(){var t=trk().slice().sort(function(a,b){return a.kickoff<b.kickoff?1:-1;});var w=0,l=0,u=0;
   t.forEach(function(x){if(x.res==='W'){w++;var pr=Number(x.price)||-110;u+=pr>0?pr/100:100/Math.abs(pr);}else if(x.res==='L'){l++;u-=1;}});
   return '<div class="sh"><h2>My Tracker</h2><span class="sub">your bets &middot; saved in this browser</span></div>'+
@@ -212,7 +212,7 @@ function render(){
   document.getElementById('mnav').innerHTML=PAGES.map(function(p){return '<button class="'+(S.page===p[0]?'on':'')+'" onclick="window.__go(&quot;'+p[0]+'&quot;)">'+p[1].replace('Model ','').replace('Player ','')+'</button>';}).join('');
   document.getElementById('asof').textContent='Updated '+kick(D.meta.generated_at);
   var banner=D.meta.demo?'<div class="demo">&#9888; DEMO DATA: every number on this page is made up to preview the layout. Real numbers appear after the first run with API keys. Official rules are provisional until the backtest sets them.</div>':
-    '<div class="demo" style="border-color:rgba(94,200,255,.4);color:var(--blue);background:rgba(94,200,255,.08)">Draft model: official rules are provisional (config/rules.json) until the backtest and a few weeks of live results back them up.</div>';
+    '<div class="demo" style="border-color:rgba(94,200,255,.4);color:var(--blue);background:rgba(94,200,255,.08)">Rules set 11/19 from the backtest: unders 10+ = &#128293; A, unders 5-10 and spreads 7+ = &#127922; B. The edge is vs opening lines, so bet early.</div>';
   var body={edge:pageEdge,totals:pageTotals,props:pageProps,tracker:pageTracker,perf:pagePerf}[S.page]||pageEdge;
   document.getElementById('app').innerHTML=banner+body();}
 render();
