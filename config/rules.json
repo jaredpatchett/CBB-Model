@@ -1,37 +1,25 @@
 {
-  "_note": "PROVISIONAL rules for the CBB draft (11/2026). Set from scripts/run_backtest.py results (docs/data/lab.json edge tiers) before betting real money. Grade: tier points + matchup (props) - 1 if the line moved against us; 2+ = A, 0-1 = B, <0 = C. A line moving our way never raises a grade; it adds a 'bet small' tag (CFB lesson).",
+  "_note": "Set 11/19/2026 from the backtest lab (docs/data/lab.json, walk-forward 2024-2027; see the CBB Model project's backtest-findings doc). Only big edges vs OPENING lines made money; everything loses vs the close, so bet early. Totals: unders only (10+ unders 160-113 +11.9% vs openers; overs lost). Spreads: 7+ only, B grade (watch) until more opener data. Moneylines lost -6.1% and the model's win% runs ~10 pts high: never official. Props: unchanged, being graded live. Grade: tier points + matchup (props) - 1 if the line moved against us; 2+ = A, 0-1 = B, <0 = C. A line moving our way never raises a grade; it adds a 'bet small' tag (CFB lesson).",
   "spread": {
-    "min_edge": 3.0,
+    "min_edge": 7.0,
     "max_abs_spread": 20.0,
     "tiers": [
       [
-        3,
-        5,
-        0
-      ],
-      [
-        5,
-        7,
-        1
-      ],
-      [
         7,
         99,
-        2
+        1
       ]
     ],
     "card_size": 12
   },
   "total": {
     "min_edge": 5.0,
+    "sides": [
+      "under"
+    ],
     "tiers": [
       [
         5,
-        7,
-        0
-      ],
-      [
-        7,
         10,
         1
       ],

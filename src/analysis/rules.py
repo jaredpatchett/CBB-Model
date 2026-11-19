@@ -12,8 +12,8 @@ Same shape as the CFB model:
     -4.4% at the moved number)
   * moneylines are unofficial (the CFB model's moneylines lost 14u in 2026)
 
-The numbers live in config/rules.json and are PROVISIONAL until the
-walk-forward backtest (scripts/run_backtest.py) says where the edge is.
+The numbers live in config/rules.json, set 11/19/2026 from the walk-forward
+backtest (scripts/run_backtest.py): totals are unders only ("sides").
 """
 import json
 import os
@@ -77,9 +77,11 @@ def evaluate_total(pred, line, R=None):
     e = pred - line
     side = "over" if e > 0 else "under"
     pts, tier = tier_points(abs(e), R["tiers"])
-    official = abs(e) >= R["min_edge"]
-    return {"side": side, "edge": round(abs(e), 1), "tier": tier, "tier_pts": pts or 0, "official": official,
-            "why_not": "" if official else f"edge {abs(e):.1f} (needs {R['min_edge']:g}+)"}
+    sides = R.get("sides", ["over", "under"])
+    big = abs(e) >= R["min_edge"]
+    official = big and side in sides
+    why = "" if official else (f"edge {abs(e):.1f} (needs {R['min_edge']:g}+)" if not big else f"{side}s never official (backtest)")
+    return {"side": side, "edge": round(abs(e), 1), "tier": tier, "tier_pts": pts or 0, "official": official, "why_not": why}
 
 
 def evaluate_prop(market, line, ev_pct, side, games, R=None):
