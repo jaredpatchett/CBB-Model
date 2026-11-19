@@ -251,6 +251,8 @@ def main():
     j = g.merge(lines[["id", "market_spread_home", "market_spread_open_home", "market_total", "market_total_open",
                        "market_ml_home", "market_ml_away"]], on="id", how="inner")
     j = j[j["home_games_prior"].fillna(0) + j["away_games_prior"].fillna(0) >= 2]
+    for c in ("market_spread_home", "market_spread_open_home", "market_total", "market_total_open", "market_ml_home", "market_ml_away"):
+        j[c] = pd.to_numeric(j[c], errors="coerce")          # missing lines come through as None
     test_seasons = [s for s in seasons[1:] if s <= cur]
 
     if a.compare:
