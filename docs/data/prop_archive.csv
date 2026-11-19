@@ -1,36 +1,36 @@
 run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,over_price,under_price,book,model,p_over,side,edge,games,matchup,official,grade,actual,result
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Assists,2.5,-127,-102,betonlineag,2.5,0.512,under,-3.4,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Assists,3.5,-105,-123,betonlineag,3.7,0.562,over,9.7,3,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Points,10.5,-109,-119,betonlineag,9.6,0.432,under,4.6,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Points,14.5,-120,-108,betonlineag,14.4,0.49,under,-1.7,3,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Jakub Necas,5541,Points,7.5,-116,-111,betonlineag,8.7,0.593,over,10.4,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Aleksas Bieliauskas,203451,Points,8.5,-116,-111,betonlineag,12.8,0.804,over,49.8,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Juan Fernandez,226956,Points,16.5,-114,-114,betonlineag,14.3,0.333,under,25.2,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Aleksas Bieliauskas,203451,Rebounds,4.5,-115,-112,betonlineag,3.9,0.395,under,14.6,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Rebounds,2.5,-139,107,betonlineag,2.6,0.511,under,1.3,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Rebounds,2.5,-120,-108,betonlineag,2.3,0.463,under,3.4,3,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Jakub Necas,5541,Rebounds,5.5,117,-152,betonlineag,4.1,0.267,under,21.5,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Juan Fernandez,226956,Rebounds,6.5,117,-152,betonlineag,5.4,0.321,under,12.6,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Threes,0.5,-233,175,betonlineag,0.7,0.568,under,18.8,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Threes,0.5,-189,143,betonlineag,0.9,0.645,over,-1.3,3,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Assists,1.5,-154,119,betonlineag,2.0,0.636,over,4.9,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Assists,2.5,-145,111,betonlineag,3.2,0.706,over,19.3,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Assists,7.5,-139,107,betonlineag,6.2,0.173,under,71.2,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Points,16.5,-120,-108,betonlineag,14.7,0.361,under,23.0,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Points,9.5,-127,-102,betonlineag,9.3,0.484,under,2.2,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Points,17.5,-108,-120,betonlineag,15.4,0.342,under,20.7,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Points,19.5,109,-141,betonlineag,16.8,0.294,under,20.6,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Points,8.5,-114,-114,betonlineag,8.8,0.527,over,-1.0,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Rebounds,6.5,128,-167,betonlineag,5.7,0.367,under,1.2,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Rebounds,6.5,-143,110,betonlineag,7.3,0.633,over,7.6,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Rebounds,4.5,-133,103,betonlineag,4.4,0.484,under,4.8,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Rebounds,2.5,-189,144,betonlineag,2.9,0.562,under,6.9,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Rebounds,6.5,-116,-111,betonlineag,5.5,0.324,under,28.4,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Threes,0.5,-154,118,betonlineag,1.0,0.683,over,12.6,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Threes,1.5,-109,-119,betonlineag,1.3,0.428,under,5.3,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Threes,2.5,110,-143,betonlineag,2.1,0.336,under,12.8,4,average D,1,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Threes,1.5,-141,108,betonlineag,1.6,0.546,under,-5.6,4,average D,0,B,,
-2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Threes,0.5,104,-135,betonlineag,0.4,0.466,over,-5.0,4,average D,0,B,,
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Assists,2.5,-127,-102,betonlineag,2.5,0.512,under,-3.4,4,average D,0,B,3.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Assists,3.5,-105,-123,betonlineag,3.7,0.562,over,9.7,3,average D,0,B,0.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Points,10.5,-109,-119,betonlineag,9.6,0.432,under,4.6,4,average D,0,B,6.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Points,14.5,-120,-108,betonlineag,14.4,0.49,under,-1.7,3,average D,0,B,10.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Jakub Necas,5541,Points,7.5,-116,-111,betonlineag,8.7,0.593,over,10.4,4,average D,1,B,24.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Aleksas Bieliauskas,203451,Points,8.5,-116,-111,betonlineag,12.8,0.804,over,49.8,4,average D,0,B,8.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Juan Fernandez,226956,Points,16.5,-114,-114,betonlineag,14.3,0.333,under,25.2,4,average D,1,B,15.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Aleksas Bieliauskas,203451,Rebounds,4.5,-115,-112,betonlineag,3.9,0.395,under,14.6,4,average D,1,B,7.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Rebounds,2.5,-139,107,betonlineag,2.6,0.511,under,1.3,4,average D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Rebounds,2.5,-120,-108,betonlineag,2.3,0.463,under,3.4,3,average D,0,B,3.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Jakub Necas,5541,Rebounds,5.5,117,-152,betonlineag,4.1,0.267,under,21.5,4,average D,1,B,8.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Juan Fernandez,226956,Rebounds,6.5,117,-152,betonlineag,5.4,0.321,under,12.6,4,average D,1,B,3.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Kory Mincy,5100,Threes,0.5,-233,175,betonlineag,0.7,0.568,under,18.8,4,average D,1,B,0.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,South Carolina Gamecocks,Elon Phoenix,South Carolina,Elon,Marcus Johnson,226960,Threes,0.5,-189,143,betonlineag,0.9,0.645,over,-1.3,3,average D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Assists,1.5,-154,119,betonlineag,2.0,0.636,over,4.9,4,average D,0,B,3.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Assists,2.5,-145,111,betonlineag,3.2,0.706,over,19.3,4,average D,1,B,5.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Assists,7.5,-139,107,betonlineag,6.2,0.173,under,71.2,4,average D,0,B,10.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Points,16.5,-120,-108,betonlineag,14.7,0.361,under,23.0,4,average D,1,B,22.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Points,9.5,-127,-102,betonlineag,9.3,0.484,under,2.2,4,average D,0,B,0.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Points,17.5,-108,-120,betonlineag,15.4,0.342,under,20.7,4,average D,1,B,12.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Points,19.5,109,-141,betonlineag,16.8,0.294,under,20.6,4,average D,1,B,20.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Points,8.5,-114,-114,betonlineag,8.8,0.527,over,-1.0,4,average D,0,B,14.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Rebounds,6.5,128,-167,betonlineag,5.7,0.367,under,1.2,4,average D,0,B,6.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Rebounds,6.5,-143,110,betonlineag,7.3,0.633,over,7.6,4,average D,0,B,7.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Rebounds,4.5,-133,103,betonlineag,4.4,0.484,under,4.8,4,average D,0,B,5.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Rebounds,2.5,-189,144,betonlineag,2.9,0.562,under,6.9,4,average D,0,B,1.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Rebounds,6.5,-116,-111,betonlineag,5.5,0.324,under,28.4,4,average D,1,B,5.0,W
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ruben Prey,1429,Threes,0.5,-154,118,betonlineag,1.0,0.683,over,12.6,4,average D,1,B,0.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Keyshawn Hall,334,Threes,1.5,-109,-119,betonlineag,1.3,0.428,under,5.3,4,average D,0,B,2.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Ian Jackson,243,Threes,2.5,110,-143,betonlineag,2.1,0.336,under,12.8,4,average D,1,B,3.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Tounde Yessoufou,198155,Threes,1.5,-141,108,betonlineag,1.6,0.546,under,-5.6,4,average D,0,B,3.0,L
+2026-11-18T23:07:22.816708+00:00,2026-11-19T00:00:00Z,St. John's Red Storm,Siena Saints,St. John's,Siena,Quinn Ellis,232635,Threes,0.5,104,-135,betonlineag,0.4,0.466,over,-5.0,4,average D,0,B,2.0,W
 2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Miles Sadler,233694,Assists,5.5,-105,-125,fanduel,5.3,0.434,under,2.0,4,tough D,0,B,6.0,L
 2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Leroy Blyden Jr.,202599,Points,12.5,-108,-120,fanduel,10.8,0.366,under,16.2,4,tough D,1,B,23.0,L
 2026-11-18T23:07:22.816708+00:00,2026-11-19T00:30:00Z,West Virginia Mountaineers,Kansas Jayhawks,West Virginia,Kansas,Finley Bizjack,1508,Points,14.5,-108,-120,fanduel,13.6,0.43,under,4.4,4,tough D,0,B,18.0,L
@@ -135,3 +135,32 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Threes,2.5,112,-145,betonlineag,2.2,0.364,under,7.5,4,tough D,0,B,,
 2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Threes,0.5,136,-179,betonlineag,0.1,0.333,under,3.9,4,tough D,0,B,,
 2026-11-18T23:07:22.816708+00:00,2026-11-19T03:00:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Threes,1.5,115,-149,betonlineag,1.5,0.514,over,10.4,4,tough D,1,C,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Assists,4.5,134,-176,fanduel,3.3,0.183,under,28.2,4,average D,1,B,3.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Points,10.5,-120,-106,fanduel,7.9,0.305,under,35.1,4,average D,1,B,4.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Points,20.5,-120,-106,fanduel,16.9,0.239,under,47.8,4,average D,0,B,21.0,L
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Points,15.5,-120,-106,fanduel,15.1,0.469,under,3.2,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Points,13.5,-115,-111,fanduel,12.9,0.455,under,3.5,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Points,13.5,-120,-106,fanduel,13.2,0.476,under,1.8,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Rebounds,6.5,116,-152,fanduel,4.6,0.206,under,31.6,4,tough D,1,A,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Assists,1.5,167,-222,betonlineag,1.1,0.372,over,-0.8,4,average D,0,B,0.0,L
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Assists,1.5,141,-185,betonlineag,1.1,0.379,under,-4.4,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Assists,2.5,-130,100,betonlineag,2.5,0.501,under,-0.3,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Thomas Dowd,2532,Assists,1.5,-123,-104,betonlineag,1.8,0.598,over,8.5,4,average D,0,B,1.0,L
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Assists,1.5,-154,118,betonlineag,2.4,0.735,over,21.2,4,tough D,1,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Points,14.5,-101,-128,betonlineag,12.9,0.378,under,10.8,4,tough D,1,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Jeremy Foumena,4160,Points,5.5,-105,-123,betonlineag,4.6,0.431,under,3.2,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Points,8.5,-101,-128,betonlineag,9.5,0.58,over,15.5,4,tough D,1,C,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Thomas Dowd,2532,Points,6.5,-103,-125,betonlineag,8.7,0.672,over,32.4,4,average D,1,B,7.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Rebounds,2.5,-110,-118,betonlineag,2.1,0.427,under,5.8,4,average D,0,B,1.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Thomas Dowd,2532,Rebounds,8.5,128,-167,betonlineag,7.5,0.327,under,7.7,4,average D,0,B,7.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Rebounds,2.5,-110,-118,betonlineag,2.4,0.485,under,-4.9,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Jeremy Foumena,4160,Rebounds,4.5,-110,-118,betonlineag,3.7,0.368,under,16.8,4,tough D,1,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Rebounds,4.5,152,-200,betonlineag,3.4,0.318,under,2.3,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Rebounds,3.5,106,-137,betonlineag,2.9,0.395,under,4.6,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tyrin Jones,202951,Rebounds,5.5,-143,110,betonlineag,4.6,0.353,under,35.9,4,tough D,1,A,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Rebounds,3.5,120,-156,betonlineag,2.5,0.335,under,9.1,4,average D,0,B,2.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Tahaad Pettiford,9,Threes,1.5,-147,113,betonlineag,1.8,0.623,over,4.6,4,average D,0,B,1.0,L
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Kevin Overton,7583,Threes,1.5,-130,100,betonlineag,1.5,0.516,under,-3.2,4,average D,0,B,0.0,W
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Threes,2.5,106,-137,betonlineag,2.2,0.364,under,10.0,4,tough D,1,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Threes,0.5,136,-179,betonlineag,0.1,0.333,under,3.9,4,tough D,0,B,,
+2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Threes,1.5,115,-149,betonlineag,1.5,0.514,over,10.4,4,tough D,1,C,,
