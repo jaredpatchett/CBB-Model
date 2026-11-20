@@ -1,0 +1,722 @@
+{
+ "generated_at": "2026-11-19T21:33:33.100733+00:00",
+ "seasons": [
+  2024,
+  2025,
+  2026,
+  2027
+ ],
+ "variants": {
+  "base": {
+   "accuracy": {
+    "margin_mae": 9.53,
+    "market_spread_mae": 8.87,
+    "total_mae": 13.62,
+    "market_total_mae": 12.98,
+    "margin_mae_vs_open_games": 9.47,
+    "market_open_spread_mae": 8.96
+   },
+   "spread_vs_close": {
+    "all": -2.5,
+    "tiers": {
+     "0-2 pts": [
+      6448,
+      -3.7,
+      false
+     ],
+     "2-3 pts": [
+      2472,
+      -5.0,
+      false
+     ],
+     "3-5 pts": [
+      3124,
+      0.6,
+      false
+     ],
+     "5-7 pts": [
+      1610,
+      -3.2,
+      false
+     ],
+     "7-10 pts": [
+      1018,
+      -0.2,
+      false
+     ],
+     "10+ pts": [
+      526,
+      3.5,
+      false
+     ]
+    }
+   },
+   "spread_vs_open": {
+    "all": -2.8,
+    "tiers": {
+     "0-2 pts": [
+      3368,
+      -5.0,
+      false
+     ],
+     "2-3 pts": [
+      1251,
+      -0.4,
+      false
+     ],
+     "3-5 pts": [
+      1483,
+      -1.5,
+      false
+     ],
+     "5-7 pts": [
+      657,
+      -7.7,
+      false
+     ],
+     "7-10 pts": [
+      333,
+      4.6,
+      true
+     ],
+     "10+ pts": [
+      210,
+      11.4,
+      false
+     ]
+    }
+   },
+   "total_vs_close": {
+    "all": -3.8,
+    "tiers": {
+     "0-3 pts": [
+      7226,
+      -3.1,
+      false
+     ],
+     "3-5 pts": [
+      3768,
+      -6.5,
+      false
+     ],
+     "5-7 pts": [
+      2502,
+      -4.4,
+      false
+     ],
+     "7-10 pts": [
+      1909,
+      -1.2,
+      false
+     ],
+     "10+ pts": [
+      1022,
+      -1.0,
+      false
+     ]
+    }
+   },
+   "total_vs_open": {
+    "all": -1.0,
+    "tiers": {
+     "0-3 pts": [
+      3795,
+      -3.4,
+      false
+     ],
+     "3-5 pts": [
+      1771,
+      0.3,
+      false
+     ],
+     "5-7 pts": [
+      1116,
+      1.5,
+      true
+     ],
+     "7-10 pts": [
+      781,
+      -0.5,
+      false
+     ],
+     "10+ pts": [
+      398,
+      7.0,
+      true
+     ]
+    }
+   },
+   "unders_vs_close": {
+    "0-3 pts": [
+     3503,
+     -3.1,
+     false
+    ],
+    "3-5 pts": [
+     1703,
+     -6.1,
+     false
+    ],
+    "5-7 pts": [
+     1132,
+     -6.8,
+     false
+    ],
+    "7-10 pts": [
+     845,
+     0.9,
+     false
+    ],
+    "10+ pts": [
+     537,
+     3.1,
+     false
+    ]
+   },
+   "unders_vs_open": {
+    "0-3 pts": [
+     1908,
+     -2.6,
+     false
+    ],
+    "3-5 pts": [
+     904,
+     -2.5,
+     false
+    ],
+    "5-7 pts": [
+     592,
+     1.4,
+     false
+    ],
+    "7-10 pts": [
+     469,
+     -3.7,
+     false
+    ],
+    "10+ pts": [
+     275,
+     12.5,
+     false
+    ]
+   },
+   "moneyline": {
+    "all": -6.2,
+    "calibration": [
+     [
+      55.0,
+      43.8
+     ],
+     [
+      65.0,
+      54.6
+     ],
+     [
+      74.8,
+      62.4
+     ],
+     [
+      84.5,
+      73.9
+     ],
+     [
+      94.3,
+      84.4
+     ]
+    ]
+   }
+  },
+  "v2": {
+   "accuracy": {
+    "margin_mae": 9.43,
+    "market_spread_mae": 8.87,
+    "total_mae": 13.58,
+    "market_total_mae": 12.98,
+    "margin_mae_vs_open_games": 9.3,
+    "market_open_spread_mae": 8.96
+   },
+   "spread_vs_close": {
+    "all": -1.5,
+    "tiers": {
+     "0-2 pts": [
+      6522,
+      -2.3,
+      false
+     ],
+     "2-3 pts": [
+      2437,
+      -5.7,
+      false
+     ],
+     "3-5 pts": [
+      3234,
+      1.5,
+      false
+     ],
+     "5-7 pts": [
+      1612,
+      -1.1,
+      false
+     ],
+     "7-10 pts": [
+      912,
+      -1.1,
+      false
+     ],
+     "10+ pts": [
+      481,
+      7.4,
+      false
+     ]
+    }
+   },
+   "spread_vs_open": {
+    "all": -0.7,
+    "tiers": {
+     "0-2 pts": [
+      3452,
+      -3.6,
+      false
+     ],
+     "2-3 pts": [
+      1236,
+      1.1,
+      false
+     ],
+     "3-5 pts": [
+      1482,
+      1.3,
+      false
+     ],
+     "5-7 pts": [
+      646,
+      1.0,
+      true
+     ],
+     "7-10 pts": [
+      312,
+      1.3,
+      false
+     ],
+     "10+ pts": [
+      174,
+      19.1,
+      true
+     ]
+    }
+   },
+   "total_vs_close": {
+    "all": -2.9,
+    "tiers": {
+     "0-3 pts": [
+      7291,
+      -2.4,
+      false
+     ],
+     "3-5 pts": [
+      3684,
+      -5.5,
+      false
+     ],
+     "5-7 pts": [
+      2556,
+      -3.5,
+      false
+     ],
+     "7-10 pts": [
+      1900,
+      -1.1,
+      false
+     ],
+     "10+ pts": [
+      996,
+      1.2,
+      false
+     ]
+    }
+   },
+   "total_vs_open": {
+    "all": -0.1,
+    "tiers": {
+     "0-3 pts": [
+      3783,
+      -1.4,
+      false
+     ],
+     "3-5 pts": [
+      1794,
+      -0.9,
+      false
+     ],
+     "5-7 pts": [
+      1095,
+      3.3,
+      true
+     ],
+     "7-10 pts": [
+      788,
+      -3.7,
+      false
+     ],
+     "10+ pts": [
+      401,
+      12.6,
+      true
+     ]
+    }
+   },
+   "unders_vs_close": {
+    "0-3 pts": [
+     3466,
+     -2.3,
+     false
+    ],
+    "3-5 pts": [
+     1701,
+     -4.9,
+     false
+    ],
+    "5-7 pts": [
+     1043,
+     -4.8,
+     false
+    ],
+    "7-10 pts": [
+     780,
+     0.6,
+     false
+    ],
+    "10+ pts": [
+     471,
+     5.4,
+     true
+    ]
+   },
+   "unders_vs_open": {
+    "0-3 pts": [
+     1908,
+     -1.4,
+     false
+    ],
+    "3-5 pts": [
+     947,
+     -3.7,
+     false
+    ],
+    "5-7 pts": [
+     595,
+     3.2,
+     false
+    ],
+    "7-10 pts": [
+     452,
+     -2.4,
+     false
+    ],
+    "10+ pts": [
+     288,
+     14.4,
+     false
+    ]
+   },
+   "moneyline": {
+    "all": -4.5,
+    "calibration": [
+     [
+      55.0,
+      46.1
+     ],
+     [
+      64.9,
+      54.6
+     ],
+     [
+      74.8,
+      64.5
+     ],
+     [
+      84.5,
+      73.0
+     ],
+     [
+      94.4,
+      87.2
+     ]
+    ]
+   }
+  },
+  "v2_anchored": {
+   "accuracy": {
+    "margin_mae": 8.94,
+    "market_spread_mae": 8.87,
+    "total_mae": 13.11,
+    "market_total_mae": 12.98,
+    "margin_mae_vs_open_games": 8.99,
+    "market_open_spread_mae": 8.96
+   },
+   "spread_vs_close": {
+    "all": -3.6,
+    "tiers": {
+     "0-2 pts": [
+      12120,
+      -4.5,
+      false
+     ],
+     "2-3 pts": [
+      1781,
+      -2.6,
+      false
+     ],
+     "3-5 pts": [
+      1076,
+      3.2,
+      false
+     ],
+     "5-7 pts": [
+      164,
+      4.8,
+      false
+     ],
+     "7-10 pts": [
+      46,
+      16.2,
+      false
+     ],
+     "10+ pts": [
+      11,
+      4.1,
+      false
+     ]
+    }
+   },
+   "spread_vs_open": {
+    "all": -3.2,
+    "tiers": {
+     "0-2 pts": [
+      6214,
+      -5.0,
+      false
+     ],
+     "2-3 pts": [
+      695,
+      8.7,
+      true
+     ],
+     "3-5 pts": [
+      340,
+      5.1,
+      true
+     ],
+     "5-7 pts": [
+      34,
+      -27.0,
+      false
+     ],
+     "7-10 pts": [
+      14,
+      36.4,
+      false
+     ],
+     "10+ pts": [
+      5,
+      90.9,
+      true
+     ]
+    }
+   },
+   "total_vs_close": {
+    "all": -3.3,
+    "tiers": {
+     "0-3 pts": [
+      13325,
+      -3.4,
+      false
+     ],
+     "3-5 pts": [
+      2351,
+      -1.9,
+      false
+     ],
+     "5-7 pts": [
+      586,
+      -3.6,
+      false
+     ],
+     "7-10 pts": [
+      141,
+      -18.8,
+      false
+     ],
+     "10+ pts": [
+      24,
+      19.3,
+      false
+     ]
+    }
+   },
+   "total_vs_open": {
+    "all": -3.8,
+    "tiers": {
+     "0-3 pts": [
+      6987,
+      -4.1,
+      false
+     ],
+     "3-5 pts": [
+      689,
+      -1.9,
+      false
+     ],
+     "5-7 pts": [
+      154,
+      1.7,
+      false
+     ],
+     "7-10 pts": [
+      28,
+      -18.2,
+      false
+     ],
+     "10+ pts": [
+      3,
+      27.3,
+      false
+     ]
+    }
+   },
+   "unders_vs_close": {
+    "0-3 pts": [
+     5053,
+     -3.5,
+     false
+    ],
+    "3-5 pts": [
+     820,
+     2.8,
+     true
+    ],
+    "5-7 pts": [
+     258,
+     0.3,
+     false
+    ],
+    "7-10 pts": [
+     62,
+     -10.7,
+     false
+    ],
+    "10+ pts": [
+     7,
+     63.6,
+     false
+    ]
+   },
+   "unders_vs_open": {
+    "0-3 pts": [
+     2519,
+     -3.9,
+     false
+    ],
+    "3-5 pts": [
+     299,
+     0.2,
+     false
+    ],
+    "5-7 pts": [
+     95,
+     0.5,
+     false
+    ],
+    "7-10 pts": [
+     17,
+     -21.4,
+     false
+    ],
+    "10+ pts": [
+     3,
+     27.3,
+     false
+    ]
+   },
+   "moneyline": {
+    "all": 0.0,
+    "calibration": [
+     [
+      55.5,
+      52.4
+     ],
+     [
+      65.0,
+      60.6
+     ],
+     [
+      74.8,
+      68.0
+     ],
+     [
+      84.3,
+      83.2
+     ],
+     [
+      94.3,
+      93.4
+     ]
+    ]
+   }
+  }
+ },
+ "props_accuracy": {
+  "base": {
+   "points": {
+    "model_mae": 3.89,
+    "recent_avg_mae": 3.93,
+    "n": 320624,
+    "early_mae": 3.84
+   },
+   "rebounds": {
+    "model_mae": 1.72,
+    "recent_avg_mae": 1.74,
+    "n": 320624,
+    "early_mae": 1.75
+   },
+   "assists": {
+    "model_mae": 0.99,
+    "recent_avg_mae": 1.0,
+    "n": 320624,
+    "early_mae": 0.99
+   },
+   "threes": {
+    "model_mae": 0.68,
+    "recent_avg_mae": 0.68,
+    "n": 320624,
+    "early_mae": 0.64
+   }
+  },
+  "v2": {
+   "points": {
+    "model_mae": 3.88,
+    "recent_avg_mae": 3.93,
+    "n": 320624,
+    "early_mae": 3.83
+   },
+   "rebounds": {
+    "model_mae": 1.71,
+    "recent_avg_mae": 1.74,
+    "n": 320624,
+    "early_mae": 1.74
+   },
+   "assists": {
+    "model_mae": 0.99,
+    "recent_avg_mae": 1.0,
+    "n": 320624,
+    "early_mae": 0.98
+   },
+   "threes": {
+    "model_mae": 0.68,
+    "recent_avg_mae": 0.68,
+    "n": 320624,
+    "early_mae": 0.64
+   }
+  }
+ }
+}
