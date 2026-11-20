@@ -226,6 +226,14 @@ def main():
         os.makedirs("logs", exist_ok=True)
         arch.to_csv(lp, mode="a", header=not os.path.exists(lp), index=False)
     rec = play_log.record(log)
+    # plays flagged before the official rules were set (Nov 17-19): still graded, shown separately, never in the record
+    prov_path = f"{config.DOCS_DATA_DIR}/play_log_provisional_nov17-19.json"
+    prelaunch = None
+    if os.path.exists(prov_path):
+        prov = play_log.load(prov_path)
+        if play_log.grade_results(prov, games_cur, pl_cur):
+            play_log.save(prov, prov_path)
+        prelaunch = {"label": "Pre-launch, Nov 17-19 (provisional rules: spreads 7+ = A)", **play_log.record(prov)}
     # every scored prop line, graded later from the box score (props backtest builds itself)
     prop_archive.append(archive_rows, now_iso)
     n_arch = prop_archive.grade(pl_cur)
@@ -240,7 +248,7 @@ def main():
            "spreads": sorted([p for p in official if p["market"] == "spread"], key=lambda p: (order[p["grade"]], -p["edge"]))[:R["spread"]["card_size"]],
            "totals": sorted([p for p in official if p["market"] == "total"], key=lambda p: (order[p["grade"]], -p["edge"])),
            "props": sorted(props_out, key=lambda p: (not p["official"], order[p["grade"]], -p["edge"])),
-           "record": rec, "lab": lab, "prop_lab": plab, "diagnostics": diag}
+           "record": rec, "prelaunch": prelaunch, "lab": lab, "prop_lab": plab, "diagnostics": diag}
     os.makedirs(config.DOCS_DATA_DIR, exist_ok=True)
     json.dump(out, open(f"{config.DOCS_DATA_DIR}/latest.json", "w"), indent=1, default=str)
     print(f"slate: {len(games_out)} games | official: {len(out['spreads'])} spreads, {len(out['totals'])} totals, "

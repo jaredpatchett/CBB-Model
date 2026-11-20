@@ -26,11 +26,11 @@
      null
     ]
    ],
-   "result": "W",
-   "units": 0.9091,
-   "final_grade": "B",
-   "final_line": 164.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "total|Butler Bulldogs|Northeastern Huskies|2026-11-20T00:00:00Z|under": {
    "market": "total",
@@ -67,11 +67,11 @@
      null
     ]
    ],
-   "result": "W",
-   "units": 0.9091,
-   "final_grade": "B",
-   "final_line": 163.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "total|Louisiana Tech Bulldogs|Tulane Green Wave|2026-11-20T00:30:00Z|under": {
    "market": "total",
@@ -108,11 +108,11 @@
      null
     ]
    ],
-   "result": "W",
-   "units": 0.9091,
-   "final_grade": "B",
-   "final_line": 142.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "spread|Seton Hall Pirates|Wisconsin Badgers|2026-11-20T01:30:00Z|home": {
    "market": "spread",
@@ -149,11 +149,11 @@
      null
     ]
    ],
-   "result": "W",
-   "units": 0.9091,
-   "final_grade": "B",
-   "final_line": 5.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "spread|Oregon Ducks|Oregon St Beavers|2026-11-20T02:00:00Z|home": {
    "market": "spread",
@@ -190,11 +190,11 @@
      null
     ]
    ],
-   "result": "L",
-   "units": -1.0,
-   "final_grade": "B",
-   "final_line": -1.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "prop|Notre Dame Fighting Irish|Auburn Tigers|2026-11-19T22:00:00Z|over|Braeden Smith|Assists": {
    "market": "prop",
@@ -2469,11 +2469,11 @@
      null
     ]
    ],
-   "result": "W",
-   "units": 0.9091,
-   "final_grade": "B",
-   "final_line": 1.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "spread|Middle Tennessee Blue Raiders|Temple Owls|2026-11-20T17:30:00Z|home": {
    "market": "spread",
@@ -2537,11 +2537,11 @@
      null
     ]
    ],
-   "result": "W",
-   "units": 0.9091,
-   "final_grade": "B",
-   "final_line": 6.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "spread|Liberty Flames|Rhode Island Rams|2026-11-20T21:30:00Z|home": {
    "market": "spread",
@@ -2974,11 +2974,11 @@
      null
     ]
    ],
-   "result": "L",
-   "units": -1.0,
-   "final_grade": "B",
-   "final_line": -7.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "spread|Kennesaw St Owls|SE Louisiana Lions|2026-11-21T00:00:00Z|home": {
    "market": "spread",
@@ -3006,11 +3006,11 @@
      null
     ]
    ],
-   "result": "L",
-   "units": -1.0,
-   "final_grade": "B",
-   "final_line": -11.5,
-   "final_score": "0-0"
+   "result": null,
+   "units": null,
+   "final_grade": null,
+   "final_line": null,
+   "final_score": null
   },
   "prop|Santa Clara Broncos|VCU Rams|2026-11-20T03:30:00Z|over|Lazar Djokovic|Assists": {
    "market": "prop",

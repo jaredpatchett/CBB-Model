@@ -256,7 +256,8 @@ def finish_features(df: pd.DataFrame) -> pd.DataFrame:
         + 3.0 * d["home_court"]
     if "homePoints" in d.columns:
         hp, ap = pd.to_numeric(d["homePoints"], errors="coerce"), pd.to_numeric(d["awayPoints"], errors="coerce")
-        d["margin"], d["total"] = hp - ap, hp + ap
+        played = (hp + ap) > 0                       # CBBD gives unplayed games a 0-0 score
+        d["margin"], d["total"] = (hp - ap).where(played), (hp + ap).where(played)
     return d
 
 

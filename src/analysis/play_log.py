@@ -96,6 +96,10 @@ def grade_results(log, games: pd.DataFrame, players: pd.DataFrame = None):
     if games is None or games.empty:
         return 0
     g = games.dropna(subset=["homePoints", "awayPoints"]).copy()
+    # CBBD lists games not played yet with a 0-0 score (not blank): only grade finished games
+    g = g[(pd.to_numeric(g["homePoints"], errors="coerce") + pd.to_numeric(g["awayPoints"], errors="coerce")) > 0]
+    if "status" in g.columns:
+        g = g[~g["status"].astype(str).str.lower().isin(["scheduled", "in_progress", "inprogress", "live", "postponed", "canceled", "cancelled"])]
     g["_start"] = pd.to_datetime(g["startDate"], utc=True, errors="coerce")
     n = 0
     for p in log.get("plays", {}).values():
