@@ -2819,6 +2819,15 @@
      "B",
      0,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     -1.5,
+     -2.9,
+     1.4,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -2858,6 +2867,15 @@
     ],
     [
      "2026-11-20T14:58:10.210591+00:00",
+     -16.5,
+     -14.1,
+     2.4,
+     "C",
+     0,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      -16.5,
      -14.1,
      2.4,
@@ -2909,6 +2927,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     154.5,
+     148.6,
+     5.9,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -2954,6 +2981,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     -4.5,
+     -10.6,
+     6.1,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -2993,6 +3029,15 @@
     ],
     [
      "2026-11-20T14:58:10.210591+00:00",
+     8.5,
+     5.1,
+     3.4,
+     "B",
+     0,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      8.5,
      5.1,
      3.4,
@@ -3044,6 +3089,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     166.5,
+     158.0,
+     8.5,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -3086,6 +3140,15 @@
      157.5,
      148.9,
      8.6,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     156.5,
+     148.9,
+     7.6,
      "B",
      1,
      null
@@ -3132,6 +3195,15 @@
      -4.9,
      2.4,
      "B",
+     0,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     -1.5,
+     -4.9,
+     3.4,
+     "C",
      0,
      null
     ]
@@ -3269,6 +3341,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     -8.5,
+     -17.0,
+     8.5,
+     "B",
+     0,
+     null
     ]
    ],
    "result": null,
@@ -3309,6 +3390,15 @@
      7.8,
      "B",
      1,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     -10.5,
+     -20.3,
+     9.8,
+     "C",
+     0,
      null
     ]
    ],
@@ -3582,6 +3672,15 @@
      "B",
      1,
      -139
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     2.5,
+     33.8,
+     "B",
+     1,
+     -132
     ]
    ]
   },
@@ -3618,6 +3717,15 @@
      "B",
      1,
      -128
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     11.5,
+     9.2,
+     18.8,
+     "B",
+     1,
+     -133
     ]
    ]
   },
@@ -3654,6 +3762,15 @@
      "A",
      1,
      -118
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     8.5,
+     7.6,
+     19.3,
+     "B",
+     1,
+     -125
     ]
    ]
   },
@@ -3690,6 +3807,15 @@
      "B",
      1,
      -105
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     6.5,
+     6.0,
+     11.3,
+     "B",
+     1,
+     -110
     ]
    ]
   },
@@ -3718,7 +3844,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 156.5,
+   "final_score": "63-87"
   },
   "total|Wisconsin Badgers|Murray St Racers|2026-11-21T00:00:00Z|under": {
    "market": "total",
@@ -3741,6 +3872,15 @@
      161.5,
      155.4,
      6.1,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     160.5,
+     155.4,
+     5.1,
      "B",
      1,
      null
@@ -3771,6 +3911,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     169.5,
+     163.9,
+     5.6,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -3792,6 +3941,15 @@
    "h": [
     [
      "2026-11-20T14:58:10.210591+00:00",
+     165.5,
+     159.9,
+     5.6,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      165.5,
      159.9,
      5.6,
@@ -3825,6 +3983,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     157.5,
+     151.9,
+     5.6,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -3851,6 +4018,15 @@
      7.4,
      "B",
      1,
+     null
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     -4.9,
+     8.4,
+     "C",
+     0,
      null
     ]
    ]
@@ -3880,7 +4056,13 @@
      1,
      -135
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.7407,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "70-85"
   },
   "prop|Minnesota Golden Gophers|Oklahoma St Cowboys|2026-11-20T17:30:00Z|over|Jaylen Crocker-Johnson|Assists": {
    "market": "prop",
@@ -3907,7 +4089,13 @@
      1,
      130
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.3,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "70-85"
   },
   "prop|Minnesota Golden Gophers|Oklahoma St Cowboys|2026-11-20T17:30:00Z|under|Isaac Asuma|Points": {
    "market": "prop",
@@ -3934,7 +4122,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 17.0,
+   "result": "W",
+   "units": 0.6494,
+   "final_grade": "A",
+   "final_line": 19.5,
+   "final_score": "70-85"
   },
   "prop|Minnesota Golden Gophers|Oklahoma St Cowboys|2026-11-20T17:30:00Z|under|Isaac Asuma|Rebounds": {
    "market": "prop",
@@ -3961,7 +4155,13 @@
      1,
      143
     ]
-   ]
+   ],
+   "actual": 8.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "70-85"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|over|Angelo Ciaravino|Assists": {
    "market": "prop",
@@ -3988,7 +4188,13 @@
      1,
      141
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.41,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "70-87"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|over|LA Pratt|Assists": {
    "market": "prop",
@@ -4015,7 +4221,13 @@
      1,
      -123
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.813,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "70-87"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|under|Jake West|Points": {
    "market": "prop",
@@ -4042,7 +4254,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 19.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 17.5,
+   "final_score": "70-87"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|under|Angelo Ciaravino|Rebounds": {
    "market": "prop",
@@ -4069,7 +4287,13 @@
      1,
      -149
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.6711,
+   "final_grade": "A",
+   "final_line": 7.5,
+   "final_score": "70-87"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|under|LA Pratt|Rebounds": {
    "market": "prop",
@@ -4096,7 +4320,13 @@
      1,
      104
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 1.04,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "70-87"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|over|Jake West|Threes": {
    "market": "prop",
@@ -4123,7 +4353,13 @@
      1,
      106
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 1.06,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "70-87"
   },
   "prop|Virginia Tech Hokies|Northwestern Wildcats|2026-11-20T20:00:00Z|over|LA Pratt|Threes": {
    "market": "prop",
@@ -4150,7 +4386,13 @@
      1,
      146
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 1.46,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "70-87"
   },
   "prop|Tennessee Volunteers|Coastal Carolina Chanticleers|2026-11-21T00:00:00Z|under|DeWayne Brown II|Points": {
    "market": "prop",
@@ -4176,6 +4418,15 @@
      "B",
      1,
      -110
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     9.5,
+     8.4,
+     9.5,
+     "B",
+     0,
+     -114
     ]
    ]
   },
@@ -4203,6 +4454,15 @@
      "C",
      1,
      -132
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.0,
+     16.3,
+     "C",
+     1,
+     -130
     ]
    ]
   },
@@ -4230,6 +4490,15 @@
      "B",
      1,
      -130
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     3.1,
+     11.6,
+     "B",
+     1,
+     -147
     ]
    ]
   },
@@ -4257,6 +4526,15 @@
      "B",
      1,
      -110
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     16.5,
+     15.6,
+     3.4,
+     "C",
+     0,
+     -122
     ]
    ]
   },
@@ -4284,6 +4562,15 @@
      "C",
      1,
      -152
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     14.5,
+     12.1,
+     20.5,
+     "B",
+     1,
+     -132
     ]
    ]
   },
@@ -4311,6 +4598,15 @@
      "C",
      1,
      -123
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     18.5,
+     16.6,
+     19.1,
+     "C",
+     1,
+     -119
     ]
    ]
   },
@@ -4338,6 +4634,15 @@
      "C",
      1,
      -106
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     5.5,
+     4.9,
+     19.0,
+     "C",
+     1,
+     -104
     ]
    ]
   },
@@ -4365,6 +4670,15 @@
      "B",
      1,
      -152
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     1.7,
+     28.9,
+     "B",
+     1,
+     -154
     ]
    ]
   },
@@ -4392,6 +4706,15 @@
      "B",
      1,
      -103
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.2,
+     17.4,
+     "C",
+     1,
+     -111
     ]
    ]
   },
@@ -4419,6 +4742,15 @@
      "A",
      1,
      112
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.2,
+     18.9,
+     "B",
+     1,
+     107
     ]
    ]
   },
@@ -4446,6 +4778,15 @@
      "B",
      1,
      -106
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.2,
+     14.6,
+     "B",
+     1,
+     -104
     ]
    ]
   },
@@ -4473,6 +4814,15 @@
      "B",
      1,
      -200
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     4.5,
+     3.6,
+     12.8,
+     "B",
+     1,
+     -192
     ]
    ]
   },
@@ -4500,6 +4850,15 @@
      "C",
      1,
      -175
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     2.3,
+     13.1,
+     "C",
+     1,
+     -185
     ]
    ]
   },
@@ -4527,6 +4886,15 @@
      "B",
      1,
      107
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     4.5,
+     3.2,
+     8.2,
+     "B",
+     0,
+     -200
     ]
    ]
   },
@@ -4554,6 +4922,15 @@
      "C",
      1,
      -118
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     6.5,
+     7.1,
+     14.9,
+     "C",
+     1,
+     -112
     ]
    ]
   },
@@ -4581,6 +4958,15 @@
      "A",
      1,
      -118
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     5.5,
+     4.5,
+     15.0,
+     "B",
+     1,
+     -143
     ]
    ]
   },
@@ -4608,6 +4994,15 @@
      "A",
      1,
      -161
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     1.5,
+     40.5,
+     "A",
+     0,
+     -154
     ]
    ]
   },
@@ -4635,6 +5030,15 @@
      "C",
      1,
      -141
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     0.5,
+     1.0,
+     13.1,
+     "C",
+     1,
+     -152
     ]
    ]
   },
@@ -4656,6 +5060,15 @@
    "h": [
     [
      "2026-11-20T14:58:10.210591+00:00",
+     0.5,
+     1.3,
+     18.0,
+     "C",
+     1,
+     -192
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      0.5,
      1.3,
      18.0,
@@ -4689,6 +5102,15 @@
      "B",
      1,
      132
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.7,
+     23.9,
+     "B",
+     1,
+     115
     ]
    ]
   },
@@ -4716,6 +5138,15 @@
      "B",
      1,
      -127
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     9.5,
+     11.1,
+     13.8,
+     "B",
+     1,
+     -123
     ]
    ]
   },
@@ -4743,6 +5174,15 @@
      "B",
      1,
      -118
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.0,
+     30.0,
+     "B",
+     1,
+     -115
     ]
    ]
   },
@@ -4770,6 +5210,15 @@
      "B",
      1,
      -133
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.0,
+     18.5,
+     "B",
+     1,
+     -139
     ]
    ]
   },
@@ -4791,6 +5240,15 @@
    "h": [
     [
      "2026-11-20T14:58:10.210591+00:00",
+     4.5,
+     3.8,
+     19.7,
+     "B",
+     1,
+     -143
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      4.5,
      3.8,
      19.7,
@@ -4824,6 +5282,15 @@
      "B",
      1,
      134
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.7,
+     34.0,
+     "B",
+     1,
+     134
     ]
    ]
   },
@@ -4851,6 +5318,15 @@
      "B",
      1,
      128
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.5,
+     13.8,
+     "B",
+     1,
+     124
     ]
    ]
   },
@@ -4872,6 +5348,15 @@
    "h": [
     [
      "2026-11-20T14:58:10.210591+00:00",
+     19.5,
+     16.4,
+     32.1,
+     "B",
+     1,
+     -125
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      19.5,
      16.4,
      32.1,
@@ -4905,6 +5390,15 @@
      "B",
      1,
      -128
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     17.5,
+     15.7,
+     11.9,
+     "B",
+     1,
+     -133
     ]
    ]
   },
@@ -4926,6 +5420,15 @@
    "h": [
     [
      "2026-11-20T14:58:10.210591+00:00",
+     7.5,
+     6.0,
+     22.4,
+     "B",
+     1,
+     -154
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
      7.5,
      6.0,
      22.4,
@@ -4959,9 +5462,1287 @@
      "B",
      1,
      -115
+    ],
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.2,
+     17.0,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "spread|Morgan St Bears|Cornell Big Red|2026-11-21T19:00:00Z|home": {
+   "market": "spread",
+   "home": "Morgan St Bears",
+   "away": "Cornell Big Red",
+   "kickoff": "2026-11-21T19:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Morgan State",
+   "away_cbbd": "Cornell",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 6.0
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     6.0,
+     -4.5,
+     10.5,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Portland Pilots|Fordham Rams|2026-11-21T19:00:00Z|home": {
+   "market": "spread",
+   "home": "Portland Pilots",
+   "away": "Fordham Rams",
+   "kickoff": "2026-11-21T19:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Portland",
+   "away_cbbd": "Fordham",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     6.5,
+     -5.0,
+     11.5,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|La Salle Explorers|Pennsylvania Quakers|2026-11-21T21:00:00Z|under": {
+   "market": "total",
+   "home": "La Salle Explorers",
+   "away": "Pennsylvania Quakers",
+   "kickoff": "2026-11-21T21:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "La Salle",
+   "away_cbbd": "Pennsylvania",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 161.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     161.5,
+     151.0,
+     10.5,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|UTSA Roadrunners|Air Force Falcons|2026-11-21T22:00:00Z|under": {
+   "market": "total",
+   "home": "UTSA Roadrunners",
+   "away": "Air Force Falcons",
+   "kickoff": "2026-11-21T22:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "UTSA",
+   "away_cbbd": "Air Force",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 170.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     170.5,
+     159.7,
+     10.8,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Cal Poly Mustangs|Northern Arizona Lumberjacks|2026-11-22T00:00:00Z|under": {
+   "market": "total",
+   "home": "Cal Poly Mustangs",
+   "away": "Northern Arizona Lumberjacks",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Cal Poly",
+   "away_cbbd": "Northern Arizona",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 157.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     157.5,
+     151.5,
+     6.0,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "prop|Pittsburgh Panthers|Central Michigan Chippewas|2026-11-21T00:00:00Z|under|Baye Ndongo|Rebounds": {
+   "market": "prop",
+   "home": "Pittsburgh Panthers",
+   "away": "Central Michigan Chippewas",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "under",
+   "player": "Baye Ndongo",
+   "prop_market": "Rebounds",
+   "athleteId": 8233,
+   "home_cbbd": "Pittsburgh",
+   "away_cbbd": "Central Michigan",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     10.5,
+     9.6,
+     17.0,
+     "B",
+     1,
+     -127
+    ]
+   ]
+  },
+  "prop|Wisconsin Badgers|Murray St Racers|2026-11-21T00:00:00Z|over|Nolan Winter|Assists": {
+   "market": "prop",
+   "home": "Wisconsin Badgers",
+   "away": "Murray St Racers",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "over",
+   "player": "Nolan Winter",
+   "prop_market": "Assists",
+   "athleteId": 5416,
+   "home_cbbd": "Wisconsin",
+   "away_cbbd": "Murray State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     2.0,
+     19.1,
+     "C",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Wisconsin Badgers|Murray St Racers|2026-11-21T00:00:00Z|under|Owen Foxwell|Assists": {
+   "market": "prop",
+   "home": "Wisconsin Badgers",
+   "away": "Murray St Racers",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "under",
+   "player": "Owen Foxwell",
+   "prop_market": "Assists",
+   "athleteId": 233751,
+   "home_cbbd": "Wisconsin",
+   "away_cbbd": "Murray State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     5.5,
+     4.7,
+     37.6,
+     "A",
+     1,
+     -112
+    ]
+   ]
+  },
+  "prop|Wisconsin Badgers|Murray St Racers|2026-11-21T00:00:00Z|under|Nolan Winter|Points": {
+   "market": "prop",
+   "home": "Wisconsin Badgers",
+   "away": "Murray St Racers",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "under",
+   "player": "Nolan Winter",
+   "prop_market": "Points",
+   "athleteId": 5416,
+   "home_cbbd": "Wisconsin",
+   "away_cbbd": "Murray State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     11.5,
+     9.6,
+     27.5,
+     "A",
+     1,
+     -102
+    ]
+   ]
+  },
+  "prop|Wisconsin Badgers|Murray St Racers|2026-11-21T00:00:00Z|under|Owen Foxwell|Points": {
+   "market": "prop",
+   "home": "Wisconsin Badgers",
+   "away": "Murray St Racers",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "under",
+   "player": "Owen Foxwell",
+   "prop_market": "Points",
+   "athleteId": 233751,
+   "home_cbbd": "Wisconsin",
+   "away_cbbd": "Murray State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 19.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     19.5,
+     15.4,
+     32.7,
+     "A",
+     1,
+     -149
+    ]
+   ]
+  },
+  "prop|Wisconsin Badgers|Murray St Racers|2026-11-21T00:00:00Z|over|Owen Foxwell|Rebounds": {
+   "market": "prop",
+   "home": "Wisconsin Badgers",
+   "away": "Murray St Racers",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "over",
+   "player": "Owen Foxwell",
+   "prop_market": "Rebounds",
+   "athleteId": 233751,
+   "home_cbbd": "Wisconsin",
+   "away_cbbd": "Murray State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     3.8,
+     11.2,
+     "C",
+     1,
+     100
+    ]
+   ]
+  },
+  "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|Antione West Jr|Assists": {
+   "market": "prop",
+   "home": "Purdue Boilermakers",
+   "away": "Oakland Golden Grizzlies",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "under",
+   "player": "Antione West Jr",
+   "prop_market": "Assists",
+   "athleteId": 201573,
+   "home_cbbd": "Purdue",
+   "away_cbbd": "Oakland",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     2.7,
+     31.4,
+     "B",
+     1,
+     -119
+    ]
+   ]
+  },
+  "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|C.J. Cox|Rebounds": {
+   "market": "prop",
+   "home": "Purdue Boilermakers",
+   "away": "Oakland Golden Grizzlies",
+   "kickoff": "2026-11-21T00:00:00Z",
+   "side": "under",
+   "player": "C.J. Cox",
+   "prop_market": "Rebounds",
+   "athleteId": 375,
+   "home_cbbd": "Purdue",
+   "away_cbbd": "Oakland",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     5.5,
+     4.4,
+     12.6,
+     "C",
+     1,
+     -154
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Tulsa Golden Hurricane|2026-11-21T00:30:00Z|under|Josh Hubbard|Points": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Tulsa Golden Hurricane",
+   "kickoff": "2026-11-21T00:30:00Z",
+   "side": "under",
+   "player": "Josh Hubbard",
+   "prop_market": "Points",
+   "athleteId": 4158,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Tulsa",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 16.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     16.5,
+     14.4,
+     24.3,
+     "A",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Tulsa Golden Hurricane|2026-11-21T00:30:00Z|under|Kimani Hamilton|Rebounds": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Tulsa Golden Hurricane",
+   "kickoff": "2026-11-21T00:30:00Z",
+   "side": "under",
+   "player": "Kimani Hamilton",
+   "prop_market": "Rebounds",
+   "athleteId": 8117,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Tulsa",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     6.5,
+     4.7,
+     26.0,
+     "A",
+     1,
+     -169
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Tulsa Golden Hurricane|2026-11-21T00:30:00Z|under|Josh Hubbard|Threes": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Tulsa Golden Hurricane",
+   "kickoff": "2026-11-21T00:30:00Z",
+   "side": "under",
+   "player": "Josh Hubbard",
+   "prop_market": "Threes",
+   "athleteId": 4158,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Tulsa",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.3,
+     19.6,
+     "B",
+     1,
+     104
+    ]
+   ]
+  },
+  "prop|Georgia Tech Yellow Jackets|Georgia Bulldogs|2026-11-21T01:00:00Z|under|Marcus Millender|Points": {
+   "market": "prop",
+   "home": "Georgia Tech Yellow Jackets",
+   "away": "Georgia Bulldogs",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Marcus Millender",
+   "prop_market": "Points",
+   "athleteId": 5229,
+   "home_cbbd": "Georgia Tech",
+   "away_cbbd": "Georgia",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 14.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     14.5,
+     13.5,
+     12.9,
+     "B",
+     1,
+     -104
+    ]
+   ]
+  },
+  "prop|Georgia Tech Yellow Jackets|Georgia Bulldogs|2026-11-21T01:00:00Z|under|Kareem Stagg|Rebounds": {
+   "market": "prop",
+   "home": "Georgia Tech Yellow Jackets",
+   "away": "Georgia Bulldogs",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Kareem Stagg",
+   "prop_market": "Rebounds",
+   "athleteId": 199386,
+   "home_cbbd": "Georgia Tech",
+   "away_cbbd": "Georgia",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     3.0,
+     13.1,
+     "B",
+     1,
+     -109
+    ]
+   ]
+  },
+  "prop|Georgia Tech Yellow Jackets|Georgia Bulldogs|2026-11-21T01:00:00Z|under|James Scott|Rebounds": {
+   "market": "prop",
+   "home": "Georgia Tech Yellow Jackets",
+   "away": "Georgia Bulldogs",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "James Scott",
+   "prop_market": "Rebounds",
+   "athleteId": 3414,
+   "home_cbbd": "Georgia Tech",
+   "away_cbbd": "Georgia",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     7.5,
+     6.2,
+     31.4,
+     "B",
+     1,
+     -118
+    ]
+   ]
+  },
+  "prop|Georgia Tech Yellow Jackets|Georgia Bulldogs|2026-11-21T01:00:00Z|over|Kareem Stagg|Threes": {
+   "market": "prop",
+   "home": "Georgia Tech Yellow Jackets",
+   "away": "Georgia Bulldogs",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "over",
+   "player": "Kareem Stagg",
+   "prop_market": "Threes",
+   "athleteId": 199386,
+   "home_cbbd": "Georgia Tech",
+   "away_cbbd": "Georgia",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.6,
+     21.0,
+     "B",
+     1,
+     124
+    ]
+   ]
+  },
+  "prop|Indiana Hoosiers|Kentucky Wildcats|2026-11-21T01:00:00Z|under|Milan Momcilovic|Points": {
+   "market": "prop",
+   "home": "Indiana Hoosiers",
+   "away": "Kentucky Wildcats",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Milan Momcilovic",
+   "prop_market": "Points",
+   "athleteId": 149,
+   "home_cbbd": "Indiana",
+   "away_cbbd": "Kentucky",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 13.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     13.5,
+     11.5,
+     30.6,
+     "A",
+     1,
+     100
+    ]
+   ]
+  },
+  "prop|Indiana Hoosiers|Kentucky Wildcats|2026-11-21T01:00:00Z|under|Malachi Moreno|Rebounds": {
+   "market": "prop",
+   "home": "Indiana Hoosiers",
+   "away": "Kentucky Wildcats",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Malachi Moreno",
+   "prop_market": "Rebounds",
+   "athleteId": 199963,
+   "home_cbbd": "Indiana",
+   "away_cbbd": "Kentucky",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 9.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     9.5,
+     8.0,
+     30.9,
+     "A",
+     1,
+     -135
+    ]
+   ]
+  },
+  "prop|Indiana Hoosiers|Kentucky Wildcats|2026-11-21T01:00:00Z|under|Samet Yigitoglu|Rebounds": {
+   "market": "prop",
+   "home": "Indiana Hoosiers",
+   "away": "Kentucky Wildcats",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Samet Yigitoglu",
+   "prop_market": "Rebounds",
+   "athleteId": 6159,
+   "home_cbbd": "Indiana",
+   "away_cbbd": "Kentucky",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 8.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     8.5,
+     7.1,
+     21.6,
+     "B",
+     1,
+     -155
+    ]
+   ]
+  },
+  "prop|Indiana Hoosiers|Kentucky Wildcats|2026-11-21T01:00:00Z|under|Darren Harris|Assists": {
+   "market": "prop",
+   "home": "Indiana Hoosiers",
+   "away": "Kentucky Wildcats",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Darren Harris",
+   "prop_market": "Assists",
+   "athleteId": 212,
+   "home_cbbd": "Indiana",
+   "away_cbbd": "Kentucky",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     1.7,
+     12.6,
+     "B",
+     1,
+     -179
+    ]
+   ]
+  },
+  "prop|Indiana Hoosiers|Kentucky Wildcats|2026-11-21T01:00:00Z|under|Milan Momcilovic|Rebounds": {
+   "market": "prop",
+   "home": "Indiana Hoosiers",
+   "away": "Kentucky Wildcats",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Milan Momcilovic",
+   "prop_market": "Rebounds",
+   "athleteId": 149,
+   "home_cbbd": "Indiana",
+   "away_cbbd": "Kentucky",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     4.5,
+     3.5,
+     18.6,
+     "B",
+     1,
+     -130
+    ]
+   ]
+  },
+  "prop|Vanderbilt Commodores|UCF Knights|2026-11-21T01:00:00Z|under|Riley Kugel|Assists": {
+   "market": "prop",
+   "home": "Vanderbilt Commodores",
+   "away": "UCF Knights",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Riley Kugel",
+   "prop_market": "Assists",
+   "athleteId": 4166,
+   "home_cbbd": "Vanderbilt",
+   "away_cbbd": "UCF",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     2.5,
+     2.3,
+     17.4,
+     "B",
+     1,
+     115
+    ]
+   ]
+  },
+  "prop|Vanderbilt Commodores|UCF Knights|2026-11-21T01:00:00Z|under|Riley Kugel|Points": {
+   "market": "prop",
+   "home": "Vanderbilt Commodores",
+   "away": "UCF Knights",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Riley Kugel",
+   "prop_market": "Points",
+   "athleteId": 4166,
+   "home_cbbd": "Vanderbilt",
+   "away_cbbd": "UCF",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     10.5,
+     7.8,
+     33.1,
+     "A",
+     1,
+     -112
+    ]
+   ]
+  },
+  "prop|Vanderbilt Commodores|UCF Knights|2026-11-21T01:00:00Z|under|Isaiah Malone|Rebounds": {
+   "market": "prop",
+   "home": "Vanderbilt Commodores",
+   "away": "UCF Knights",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Isaiah Malone",
+   "prop_market": "Rebounds",
+   "athleteId": 199227,
+   "home_cbbd": "Vanderbilt",
+   "away_cbbd": "UCF",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     5.5,
+     4.7,
+     15.5,
+     "B",
+     1,
+     -125
+    ]
+   ]
+  },
+  "prop|Vanderbilt Commodores|UCF Knights|2026-11-21T01:00:00Z|under|Riley Kugel|Rebounds": {
+   "market": "prop",
+   "home": "Vanderbilt Commodores",
+   "away": "UCF Knights",
+   "kickoff": "2026-11-21T01:00:00Z",
+   "side": "under",
+   "player": "Riley Kugel",
+   "prop_market": "Rebounds",
+   "athleteId": 4166,
+   "home_cbbd": "Vanderbilt",
+   "away_cbbd": "UCF",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     3.1,
+     19.3,
+     "B",
+     1,
+     108
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|under|Terrence Brown|Assists": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "under",
+   "player": "Terrence Brown",
+   "prop_market": "Assists",
+   "athleteId": 3062,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     2.1,
+     34.3,
+     "A",
+     1,
+     -169
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|under|Terrence Brown|Points": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "under",
+   "player": "Terrence Brown",
+   "prop_market": "Points",
+   "athleteId": 3062,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 18.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     18.5,
+     16.9,
+     11.6,
+     "B",
+     1,
+     -128
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|under|Jarin Stevenson|Points": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "under",
+   "player": "Jarin Stevenson",
+   "prop_market": "Points",
+   "athleteId": 83,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     10.5,
+     7.7,
+     24.6,
+     "A",
+     1,
+     -133
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|under|Matt Able|Points": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "under",
+   "player": "Matt Able",
+   "prop_market": "Points",
+   "athleteId": 200773,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 12.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     12.5,
+     10.6,
+     19.0,
+     "B",
+     1,
+     -120
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|under|Jarin Stevenson|Rebounds": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "under",
+   "player": "Jarin Stevenson",
+   "prop_market": "Rebounds",
+   "athleteId": 83,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     5.5,
+     4.3,
+     19.0,
+     "B",
+     1,
+     -143
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|over|Matt Able|Threes": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "over",
+   "player": "Matt Able",
+   "prop_market": "Threes",
+   "athleteId": 200773,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     2.1,
+     13.7,
+     "C",
+     1,
+     -167
+    ]
+   ]
+  },
+  "prop|North Carolina Tar Heels|Marshall Thundering Herd|2026-11-21T02:00:00Z|over|Terrence Brown|Threes": {
+   "market": "prop",
+   "home": "North Carolina Tar Heels",
+   "away": "Marshall Thundering Herd",
+   "kickoff": "2026-11-21T02:00:00Z",
+   "side": "over",
+   "player": "Terrence Brown",
+   "prop_market": "Threes",
+   "athleteId": 3062,
+   "home_cbbd": "North Carolina",
+   "away_cbbd": "Marshall",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 0.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     0.5,
+     1.3,
+     14.1,
+     "C",
+     1,
+     -222
+    ]
+   ]
+  },
+  "prop|Seton Hall Pirates|NC State Wolfpack|2026-11-21T02:30:00Z|under|Paul McNeil Jr.|Points": {
+   "market": "prop",
+   "home": "Seton Hall Pirates",
+   "away": "NC State Wolfpack",
+   "kickoff": "2026-11-21T02:30:00Z",
+   "side": "under",
+   "player": "Paul McNeil Jr.",
+   "prop_market": "Points",
+   "athleteId": 2862,
+   "home_cbbd": "Seton Hall",
+   "away_cbbd": "NC State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     15.5,
+     14.6,
+     10.0,
+     "B",
+     1,
+     -109
+    ]
+   ]
+  },
+  "prop|Seton Hall Pirates|NC State Wolfpack|2026-11-21T02:30:00Z|under|Ven-Allen Lubin|Rebounds": {
+   "market": "prop",
+   "home": "Seton Hall Pirates",
+   "away": "NC State Wolfpack",
+   "kickoff": "2026-11-21T02:30:00Z",
+   "side": "under",
+   "player": "Ven-Allen Lubin",
+   "prop_market": "Rebounds",
+   "athleteId": 240,
+   "home_cbbd": "Seton Hall",
+   "away_cbbd": "NC State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     7.5,
+     7.1,
+     18.6,
+     "B",
+     1,
+     105
+    ]
+   ]
+  },
+  "prop|Seton Hall Pirates|NC State Wolfpack|2026-11-21T02:30:00Z|under|Paul McNeil Jr.|Threes": {
+   "market": "prop",
+   "home": "Seton Hall Pirates",
+   "away": "NC State Wolfpack",
+   "kickoff": "2026-11-21T02:30:00Z",
+   "side": "under",
+   "player": "Paul McNeil Jr.",
+   "prop_market": "Threes",
+   "athleteId": 2862,
+   "home_cbbd": "Seton Hall",
+   "away_cbbd": "NC State",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     3.5,
+     2.9,
+     19.6,
+     "B",
+     1,
+     -152
+    ]
+   ]
+  },
+  "prop|Saint Mary's Gaels|Saint Louis Billikens|2026-11-21T04:00:00Z|under|Kellen Thames|Assists": {
+   "market": "prop",
+   "home": "Saint Mary's Gaels",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-21T04:00:00Z",
+   "side": "under",
+   "player": "Kellen Thames",
+   "prop_market": "Assists",
+   "athleteId": 809,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.4,
+     24.0,
+     "B",
+     1,
+     128
+    ]
+   ]
+  },
+  "prop|Saint Mary's Gaels|Saint Louis Billikens|2026-11-21T04:00:00Z|under|Kellen Thames|Points": {
+   "market": "prop",
+   "home": "Saint Mary's Gaels",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-21T04:00:00Z",
+   "side": "under",
+   "player": "Kellen Thames",
+   "prop_market": "Points",
+   "athleteId": 809,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 12.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     12.5,
+     11.3,
+     11.6,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Saint Mary's Gaels|Saint Louis Billikens|2026-11-21T04:00:00Z|over|Quentin Jones|Threes": {
+   "market": "prop",
+   "home": "Saint Mary's Gaels",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-21T04:00:00Z",
+   "side": "over",
+   "player": "Quentin Jones",
+   "prop_market": "Threes",
+   "athleteId": 2583,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     1.5,
+     1.6,
+     23.1,
+     "B",
+     1,
+     124
+    ]
+   ]
+  },
+  "prop|Villanova Wildcats|Michigan Wolverines|2026-11-22T00:00:00Z|under|Trey McKenney|Points": {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "player": "Trey McKenney",
+   "prop_market": "Points",
+   "athleteId": 200517,
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 16.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     16.5,
+     14.8,
+     19.0,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Villanova Wildcats|Michigan Wolverines|2026-11-22T00:00:00Z|over|Jake Fiegen|Points": {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "player": "Jake Fiegen",
+   "prop_market": "Points",
+   "athleteId": 2370,
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 9.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     9.5,
+     12.3,
+     30.0,
+     "B",
+     1,
+     -120
+    ]
+   ]
+  },
+  "prop|Villanova Wildcats|Michigan Wolverines|2026-11-22T00:00:00Z|under|Devin Royal|Points": {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "player": "Devin Royal",
+   "prop_market": "Points",
+   "athleteId": 422,
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     15.5,
+     14.4,
+     12.8,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|Villanova Wildcats|Michigan Wolverines|2026-11-22T00:00:00Z|under|Trey McKenney|Rebounds": {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "player": "Trey McKenney",
+   "prop_market": "Rebounds",
+   "athleteId": 200517,
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     4.5,
+     4.0,
+     25.3,
+     "A",
+     1,
+     115
+    ]
+   ]
+  },
+  "prop|Villanova Wildcats|Michigan Wolverines|2026-11-22T00:00:00Z|under|Moustapha Thiam|Rebounds": {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "player": "Moustapha Thiam",
+   "prop_market": "Rebounds",
+   "athleteId": 333,
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "first": {
+    "at": "2026-11-20T22:38:33.569131+00:00",
+    "line": 8.5
+   },
+   "h": [
+    [
+     "2026-11-20T22:38:33.569131+00:00",
+     8.5,
+     7.2,
+     35.6,
+     "A",
+     1,
+     -115
     ]
    ]
   }
  },
- "updated": "2026-11-20T14:58:10.210591+00:00"
+ "updated": "2026-11-20T22:38:33.569131+00:00"
 }
