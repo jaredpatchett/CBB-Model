@@ -1,68 +1,68 @@
 {
  "margin": {
   "n": 23534,
-  "holdout_mae": 9.52,
-  "sd": 12.15,
+  "holdout_mae": 9.38,
+  "sd": 11.96,
   "top": {
-   "elo_diff": 0.3745,
-   "away_games_prior": 0.2577,
-   "net_diff": 0.2036,
-   "prior_net_diff": 0.0602,
-   "away_efg_matchup": 0.0232,
-   "home_games_prior": 0.0209,
-   "home_court": 0.0152,
-   "r_tempo_diff": 0.0095
+   "elo_diff": 0.3025,
+   "xnet_diff": 0.245,
+   "away_games_prior": 0.2362,
+   "roster_talent_diff": 0.0332,
+   "net_diff": 0.0312,
+   "home_games_prior": 0.0245,
+   "roster_ret_diff": 0.0206,
+   "prior_net_diff": 0.0178
   }
  },
  "total": {
   "n": 23534,
-  "holdout_mae": 13.45,
-  "sd": 17.04,
+  "holdout_mae": 13.4,
+  "sd": 16.99,
   "top": {
-   "exp_total": 0.6266,
-   "exp_poss": 0.0974,
-   "home_games_prior": 0.0332,
-   "away_games_prior": 0.0222,
-   "home_r_tempo": 0.0216,
-   "away_r_adj_off": 0.0176,
-   "away_r_tempo": 0.0165,
-   "away_r_three_rate_o": 0.0149
+   "exp_total_x": 0.3287,
+   "exp_total": 0.3201,
+   "exp_poss": 0.0674,
+   "home_games_prior": 0.034,
+   "home_r_tempo": 0.0193,
+   "away_games_prior": 0.0184,
+   "away_r_three_rate_o": 0.0129,
+   "away_r_tempo": 0.0127
   }
  },
  "props_points": {
   "n": 417103,
   "holdout_mae": 3.83,
-  "sd": 5.04,
+  "sd": 5.03,
   "top": {
-   "p_points": 0.8656,
-   "p_minutes": 0.0838,
-   "p_usage": 0.0239,
-   "opp_adj_def": 0.0082,
-   "p_starter": 0.0079
+   "p_points": 0.8626,
+   "p_minutes": 0.0845,
+   "p_usage": 0.0232,
+   "opp_adj_def": 0.0081,
+   "p_starter": 0.0077
   }
  },
  "props_rebounds": {
   "n": 417103,
   "holdout_mae": 1.71,
-  "sd": 2.26,
+  "sd": 2.25,
   "top": {
-   "p_rebounds": 0.9375,
-   "p_minutes": 0.022,
-   "p_starter": 0.0129,
-   "opp_adj_def": 0.0084,
-   "p_rebounds_per40": 0.0058
+   "p_rebounds": 0.925,
+   "p_minutes": 0.0235,
+   "p_prev_rebounds_per40": 0.0145,
+   "p_starter": 0.0133,
+   "opp_adj_def": 0.0085
   }
  },
  "props_assists": {
   "n": 417103,
-  "holdout_mae": 0.98,
-  "sd": 1.36,
+  "holdout_mae": 0.97,
+  "sd": 1.35,
   "top": {
-   "p_assists": 0.9227,
-   "p_minutes": 0.0403,
-   "opp_adj_def": 0.0133,
-   "is_home": 0.0105,
-   "opp_tempo": 0.0048
+   "p_assists": 0.9008,
+   "p_minutes": 0.0438,
+   "p_prev_assists_per40": 0.0199,
+   "opp_adj_def": 0.0127,
+   "is_home": 0.0102
   }
  },
  "props_threes": {
@@ -70,11 +70,11 @@
   "holdout_mae": 0.66,
   "sd": 0.99,
   "top": {
-   "p_threes_att": 0.9137,
-   "p_threes": 0.0659,
-   "opp_adj_def": 0.0058,
-   "p_minutes": 0.0043,
-   "opp_tempo": 0.0029
+   "p_threes_att": 0.9072,
+   "p_threes": 0.0633,
+   "p_prev_threes_per40": 0.0089,
+   "opp_adj_def": 0.0061,
+   "p_minutes": 0.0051
   }
  }
 }

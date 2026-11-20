@@ -164,45 +164,45 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Cam Miles,199256,Threes,2.5,106,-137.0,betonlineag,2.2,0.364,under,10.0,4,tough D,1,B,3.0,L
 2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Dontrez Williams,6055,Threes,0.5,136,-179.0,betonlineag,0.1,0.333,under,3.9,4,tough D,0,B,1.0,L
 2026-11-19T03:04:05.037115+00:00,2026-11-19T03:20:00Z,Auburn Tigers,UNLV Rebels,Auburn,UNLV,Sebastian Mack,537,Threes,1.5,115,-149.0,betonlineag,1.5,0.514,over,10.4,4,tough D,1,C,0.0,L
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Assists,4.5,-140,105.0,fanduel,5.6,0.783,over,34.2,6,tough D,1,B,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Assists,4.5,-140,105.0,fanduel,5.6,0.783,over,34.2,6,tough D,1,B,4.0,L
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Tahaad Pettiford,9,Assists,4.5,125,-170.0,fanduel,3.0,0.139,under,36.7,5,average D,1,B,4.0,W
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Points,10.5,-120,-108.0,fanduel,11.8,0.601,over,10.2,6,tough D,1,C,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Points,15.5,-102,-128.0,fanduel,15.5,0.5,over,-1.0,6,tough D,0,C,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Ethan Roberts,2424,Points,13.5,-120,-108.0,fanduel,15.3,0.642,over,17.8,6,tough D,1,C,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Points,13.5,100,-130.0,fanduel,13.0,0.46,under,-4.5,6,tough D,0,B,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Points,10.5,-120,-108.0,fanduel,11.8,0.601,over,10.2,6,tough D,1,C,23.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Points,15.5,-102,-128.0,fanduel,15.5,0.5,over,-1.0,6,tough D,0,C,15.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Ethan Roberts,2424,Points,13.5,-120,-108.0,fanduel,15.3,0.642,over,17.8,6,tough D,1,C,0.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Points,13.5,100,-130.0,fanduel,13.0,0.46,under,-4.5,6,tough D,0,B,18.0,L
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Tahaad Pettiford,9,Points,21.5,-114,-114.0,fanduel,16.6,0.166,under,56.5,5,average D,0,B,22.0,L
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Rebounds,7.5,110,-150.0,fanduel,6.1,0.265,under,22.6,6,tough D,1,A,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Points,12.5,-125,-105.0,betmgm,13.0,0.539,over,-2.9,6,tough D,0,C,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Rebounds,7.5,110,-150.0,fanduel,6.1,0.265,under,22.6,6,tough D,1,A,8.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Points,12.5,-125,-105.0,betmgm,13.0,0.539,over,-2.9,6,tough D,0,C,18.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Tahaad Pettiford,9,Threes,1.5,-190,,williamhill_us,1.8,0.622,under,,5,average D,0,B,2.0,L
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Threes,2.5,-157,,williamhill_us,2.5,0.5,under,,6,tough D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Threes,1.5,-170,,williamhill_us,1.6,0.53,under,,6,tough D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Ethan Roberts,2424,Threes,2.5,108,-156.0,betonlineag,2.2,0.365,under,4.2,6,tough D,0,B,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Threes,2.5,-157,,williamhill_us,2.5,0.5,under,,6,tough D,0,B,2.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Threes,1.5,-170,,williamhill_us,1.6,0.53,under,,6,tough D,0,B,3.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Ethan Roberts,2424,Threes,2.5,108,-156.0,betonlineag,2.2,0.365,under,4.2,6,tough D,0,B,0.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Thomas Dowd,2532,Assists,1.5,-115,-112.0,betonlineag,1.6,0.541,over,1.1,5,average D,0,B,2.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Caleb Williams,223265,Assists,1.5,136,-179.0,betonlineag,1.4,0.466,over,10.0,5,average D,1,B,2.0,W
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Assists,1.5,106,-137.0,betonlineag,2.4,0.757,over,56.0,6,tough D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Assists,1.5,-130,100.0,betonlineag,2.5,0.779,over,37.7,6,tough D,1,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Logan Duncomb,1405,Points,9.5,-108,-120.0,betonlineag,9.5,0.502,over,-3.3,6,tough D,0,C,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Assists,1.5,106,-137.0,betonlineag,2.4,0.757,over,56.0,6,tough D,0,B,1.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Assists,1.5,-130,100.0,betonlineag,2.5,0.779,over,37.7,6,tough D,1,B,2.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Logan Duncomb,1405,Points,9.5,-108,-120.0,betonlineag,9.5,0.502,over,-3.3,6,tough D,0,C,10.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Adam Olsen,202041,Points,9.5,-114,-114.0,betonlineag,9.0,0.459,under,1.5,5,average D,0,B,15.0,L
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Points,14.5,-112,-115.0,betonlineag,15.5,0.579,over,9.5,6,tough D,0,C,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Points,14.5,-112,-115.0,betonlineag,15.5,0.579,over,9.5,6,tough D,0,C,15.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Caleb Williams,223265,Points,5.5,-114,-114.0,betonlineag,7.0,0.62,over,16.4,5,average D,0,B,6.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Thomas Dowd,2532,Points,5.5,-114,-114.0,betonlineag,6.7,0.592,over,11.2,5,average D,0,B,2.0,L
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Tahaad Pettiford,9,Rebounds,3.5,136,-179.0,betonlineag,2.6,0.353,under,0.9,5,average D,0,B,3.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Caleb Williams,223265,Rebounds,2.5,130,-169.0,betonlineag,2.2,0.454,over,4.5,5,average D,0,B,2.0,L
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Logan Duncomb,1405,Rebounds,6.5,-105,-123.0,betonlineag,4.3,0.164,under,51.6,6,tough D,0,A,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Rebounds,3.5,-135,104.0,betonlineag,3.7,0.534,under,-5.0,6,tough D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Rebounds,3.5,-123,-104.0,betonlineag,3.6,0.512,under,-4.3,6,tough D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Ethan Roberts,2424,Rebounds,3.5,-130,100.0,betonlineag,3.5,0.497,under,0.6,6,tough D,0,B,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Logan Duncomb,1405,Rebounds,6.5,-105,-123.0,betonlineag,4.3,0.164,under,51.6,6,tough D,0,A,2.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Rebounds,3.5,-135,104.0,betonlineag,3.7,0.534,under,-5.0,6,tough D,0,B,2.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Rebounds,3.5,-123,-104.0,betonlineag,3.6,0.512,under,-4.3,6,tough D,0,B,8.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Ethan Roberts,2424,Rebounds,3.5,-130,100.0,betonlineag,3.5,0.497,under,0.6,6,tough D,0,B,0.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Adam Olsen,202041,Rebounds,2.5,-147,113.0,betonlineag,2.3,0.472,under,12.4,5,average D,0,B,0.0,W
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Thomas Dowd,2532,Rebounds,7.5,-114,-114.0,betonlineag,7.4,0.486,under,-3.6,5,average D,0,B,11.0,L
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Adam Olsen,202041,Threes,2.5,112,-145.0,betonlineag,2.0,0.3,under,18.3,5,average D,1,B,5.0,L
 2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Tahaad Pettiford,9,Threes,2.5,128,-167.0,betonlineag,1.8,0.242,under,21.1,5,average D,1,B,2.0,W
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Threes,0.5,-120,-108.0,betonlineag,0.6,0.526,over,-3.5,6,tough D,0,C,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Threes,2.5,141,-185.0,betonlineag,1.6,0.175,under,27.1,6,tough D,1,A,,
-2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Threes,3.5,152,-200.0,betonlineag,2.5,0.157,under,26.5,6,tough D,1,A,,
-2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Assists,1.5,-118,-110.0,betonlineag,1.7,0.567,over,4.8,5,average D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Points,13.5,-118,-110.0,betonlineag,13.0,0.458,under,3.5,5,average D,0,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Rebounds,5.5,-127,-102.0,betonlineag,4.7,0.369,under,24.9,5,average D,1,B,,
-2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Threes,0.5,-208,157.0,betonlineag,0.9,0.672,over,-0.5,5,average D,0,B,,
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Smith,187,Threes,0.5,-120,-108.0,betonlineag,0.6,0.526,over,-3.5,6,tough D,0,C,1.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Brady Koehler,201202,Threes,2.5,141,-185.0,betonlineag,1.6,0.175,under,27.1,6,tough D,1,A,3.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-19T22:00:00Z,Notre Dame Fighting Irish,Auburn Tigers,Notre Dame,Auburn,Braeden Shrewsberry,8158,Threes,3.5,152,-200.0,betonlineag,2.5,0.157,under,26.5,6,tough D,1,A,2.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Assists,1.5,-118,-110.0,betonlineag,1.7,0.567,over,4.8,5,average D,0,B,2.0,W
+2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Points,13.5,-118,-110.0,betonlineag,13.0,0.458,under,3.5,5,average D,0,B,14.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Rebounds,5.5,-127,-102.0,betonlineag,4.7,0.369,under,24.9,5,average D,1,B,10.0,L
+2026-11-19T20:00:38.074002+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Threes,0.5,-208,157.0,betonlineag,0.9,0.672,over,-0.5,5,average D,0,B,0.0,L
 2026-11-19T20:00:38.074002+00:00,2026-11-20T01:00:00Z,TCU Horned Frogs,Texas A&M Aggies,TCU,Texas A&M,Brock Harding,5482,Assists,7.5,110,-145.0,fanduel,6.0,0.128,under,47.3,4,tough D,0,A,,
 2026-11-19T20:00:38.074002+00:00,2026-11-20T01:00:00Z,TCU Horned Frogs,Texas A&M Aggies,TCU,Texas A&M,Mackenzie Mgbako,7837,Points,10.5,-125,-104.0,fanduel,10.0,0.463,under,5.4,5,tough D,0,B,,
 2026-11-19T20:00:38.074002+00:00,2026-11-20T01:00:00Z,TCU Horned Frogs,Texas A&M Aggies,TCU,Texas A&M,Brock Harding,5482,Points,11.5,-104,-125.0,fanduel,12.9,0.611,over,19.8,4,tough D,1,C,,
@@ -337,10 +337,10 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-19T20:00:38.074002+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Alijah Arenas,202954,Threes,1.5,106,-137.0,betonlineag,1.4,0.473,over,-2.5,4,tough D,0,C,,
 2026-11-19T20:00:38.074002+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Rodney Rice,3300,Threes,1.5,-169,130.0,betonlineag,2.0,0.679,over,8.1,4,tough D,0,C,,
 2026-11-19T20:00:38.074002+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Jacob Cofie,8194,Threes,0.5,152,-200.0,betonlineag,0.3,0.429,over,8.1,4,tough D,0,C,,
-2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Assists,1.5,-118,-110.0,betonlineag,1.7,0.567,over,4.8,5,average D,0,B,,
-2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Points,13.5,-114,-114.0,betonlineag,13.0,0.458,under,1.8,5,average D,0,B,,
-2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Rebounds,5.5,-127,-102.0,betonlineag,4.7,0.369,under,24.9,5,average D,1,B,,
-2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Threes,0.5,-208,157.0,betonlineag,0.9,0.672,over,-0.5,5,average D,0,B,,
+2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Assists,1.5,-118,-110.0,betonlineag,1.7,0.567,over,4.8,5,average D,0,B,2.0,W
+2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Points,13.5,-114,-114.0,betonlineag,13.0,0.458,under,1.8,5,average D,0,B,14.0,L
+2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Rebounds,5.5,-127,-102.0,betonlineag,4.7,0.369,under,24.9,5,average D,1,B,10.0,L
+2026-11-19T23:12:56.568210+00:00,2026-11-20T00:00:00Z,Ohio State Buckeyes,UMBC Retrievers,Ohio State,UMBC,Amare Bynum,201240,Threes,0.5,-208,157.0,betonlineag,0.9,0.672,over,-0.5,5,average D,0,B,0.0,L
 2026-11-19T23:12:56.568210+00:00,2026-11-20T01:00:00Z,TCU Horned Frogs,Texas A&M Aggies,TCU,Texas A&M,Brock Harding,5482,Assists,7.5,110,-145.0,fanduel,6.0,0.128,under,47.3,4,tough D,0,A,,
 2026-11-19T23:12:56.568210+00:00,2026-11-20T01:00:00Z,TCU Horned Frogs,Texas A&M Aggies,TCU,Texas A&M,Mackenzie Mgbako,7837,Points,11.5,-125,-104.0,fanduel,10.0,0.385,under,20.6,5,tough D,1,A,,
 2026-11-19T23:12:56.568210+00:00,2026-11-20T01:00:00Z,TCU Horned Frogs,Texas A&M Aggies,TCU,Texas A&M,Brock Harding,5482,Points,11.5,-104,-125.0,fanduel,12.9,0.611,over,19.8,4,tough D,1,C,,
@@ -473,3 +473,66 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-19T23:12:56.568210+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Alijah Arenas,202954,Threes,1.5,110,-143.0,betonlineag,1.4,0.473,over,-0.6,4,tough D,0,C,,
 2026-11-19T23:12:56.568210+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Rodney Rice,3300,Threes,1.5,-172,132.0,betonlineag,2.0,0.679,over,7.4,4,tough D,0,C,,
 2026-11-19T23:12:56.568210+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Jacob Cofie,8194,Threes,0.5,149,-196.0,betonlineag,0.3,0.429,over,6.8,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Brandon Jennings,3485,Assists,1.5,-164,125.0,betonlineag,1.6,0.516,under,8.9,3,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Lazar Djokovic,728,Assists,1.5,141,-185.0,betonlineag,1.7,0.549,over,32.3,3,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Michael Belle,3486,Points,5.5,-135,105.0,betonlineag,5.1,0.472,under,8.3,3,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Brandon Jennings,3485,Points,7.5,-111,-116.0,betonlineag,6.1,0.394,under,12.8,3,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Lazar Djokovic,728,Points,14.5,-135,104.0,betonlineag,13.4,0.414,under,19.6,3,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Nyk Lewis,203149,Points,12.5,110,-143.0,betonlineag,12.5,0.504,over,5.8,3,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Michael Belle,3486,Rebounds,4.5,-145,112.0,betonlineag,4.6,0.512,under,3.5,3,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Lazar Djokovic,728,Rebounds,5.5,-122,-106.0,betonlineag,4.9,0.392,under,18.2,3,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Brandon Jennings,3485,Rebounds,3.5,-103,-125.0,betonlineag,2.8,0.376,under,12.3,3,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Nyk Lewis,203149,Rebounds,4.5,-114,-114.0,betonlineag,4.1,0.429,under,7.2,3,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Lazar Djokovic,728,Threes,0.5,-147,114.0,betonlineag,0.7,0.562,over,-5.6,3,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Brandon Jennings,3485,Threes,0.5,-135,105.0,betonlineag,0.5,0.51,under,0.4,3,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T03:30:00Z,Santa Clara Broncos,VCU Rams,Santa Clara,VCU,Nyk Lewis,203149,Threes,1.5,-145,112.0,betonlineag,1.7,0.574,over,-3.0,3,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Dedan Thomas Jr.,7355,Assists,4.5,-140,105.0,fanduel,4.7,0.566,over,-3.0,5,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Tre White,5642,Points,17.5,100,-130.0,fanduel,16.4,0.417,under,3.2,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Leroy Blyden Jr.,202599,Points,12.5,-108,-120.0,fanduel,11.8,0.448,under,1.1,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Mercy Miller,120,Points,9.5,-125,-104.0,fanduel,11.3,0.638,over,14.8,5,tough D,1,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Dedan Thomas Jr.,7355,Points,17.5,-110,-118.0,fanduel,17.8,0.526,over,0.4,5,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Joseph Tugler,112,Points,9.5,-114,-114.0,fanduel,9.2,0.477,under,-1.9,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Joseph Tugler,112,Rebounds,6.5,-135,100.0,fanduel,6.1,0.437,under,12.7,5,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Joseph Tugler,112,Rebounds,7.5,109,-145.0,williamhill_us,6.1,0.273,under,22.8,5,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Joseph Tugler,112,Assists,1.5,106,-137.0,betonlineag,1.4,0.458,over,-5.6,5,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Mercy Miller,120,Assists,2.5,115,-149.0,betonlineag,2.1,0.387,under,2.5,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Tre White,5642,Assists,1.5,120,-156.0,betonlineag,1.6,0.523,over,15.0,5,tough D,1,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Trey Kaufman-Renn,366,Assists,2.5,-167,128.0,betonlineag,2.8,0.599,over,-4.3,5,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Delrecco Gillespie,4839,Points,9.5,-122,-106.0,betonlineag,10.0,0.543,over,-1.1,5,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Chase McCarty,123,Points,9.5,-141,108.0,betonlineag,8.9,0.452,under,13.9,5,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Tre White,5642,Points,18.5,-114,-114.0,betonlineag,16.4,0.341,under,23.6,5,tough D,1,A,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Trey Kaufman-Renn,366,Points,12.5,-115,-112.0,betonlineag,11.6,0.433,under,7.4,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Chase McCarty,123,Rebounds,5.5,100,-130.0,betonlineag,4.7,0.36,under,13.2,5,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Mercy Miller,120,Rebounds,3.5,-110,-118.0,betonlineag,3.1,0.421,under,7.0,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Dedan Thomas Jr.,7355,Rebounds,2.5,104,-135.0,betonlineag,2.1,0.423,under,0.4,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Delrecco Gillespie,4839,Rebounds,8.5,100,-130.0,betonlineag,6.2,0.153,under,49.9,5,tough D,0,A,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Tre White,5642,Rebounds,6.5,141,-185.0,betonlineag,4.8,0.219,under,20.2,5,tough D,1,A,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Trey Kaufman-Renn,366,Rebounds,5.5,-115,-112.0,betonlineag,5.3,0.473,under,-0.2,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Chase McCarty,123,Threes,2.5,139,-182.0,betonlineag,1.5,0.164,under,29.6,5,tough D,1,A,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Tre White,5642,Threes,1.5,-154,118.0,betonlineag,1.6,0.53,under,2.5,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Mercy Miller,120,Threes,0.5,-200,151.0,betonlineag,0.7,0.57,under,7.8,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,Kansas Jayhawks,Houston Cougars,Kansas,Houston,Dedan Thomas Jr.,7355,Threes,0.5,-200,151.0,betonlineag,0.7,0.58,under,5.4,5,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Rodney Rice,3300,Assists,4.5,-143,110.0,betonlineag,5.0,0.655,over,11.3,4,tough D,1,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Alijah Arenas,202954,Assists,2.5,-109,-119.0,betonlineag,2.8,0.583,over,11.8,4,tough D,1,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Adonis Ratliff,233259,Assists,2.5,126,-164.0,betonlineag,2.2,0.411,under,-5.1,4,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Jacob Cofie,8194,Assists,1.5,-185,140.0,betonlineag,2.2,0.699,over,7.7,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Rodney Rice,3300,Points,18.5,-112,-115.0,betonlineag,18.2,0.478,under,-2.4,4,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Jacob Cofie,8194,Points,7.5,-123,-104.0,betonlineag,7.3,0.487,under,0.6,4,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Adonis Ratliff,233259,Points,11.5,-103,-125.0,betonlineag,11.3,0.484,over,-4.7,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Alijah Arenas,202954,Points,17.5,-114,-114.0,betonlineag,18.2,0.556,over,4.3,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Jacob Cofie,8194,Rebounds,6.5,-106,-122.0,betonlineag,5.8,0.379,under,13.1,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Adonis Ratliff,233259,Rebounds,6.5,-108,-120.0,betonlineag,5.9,0.388,under,12.1,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Rodney Rice,3300,Rebounds,3.5,110,-143.0,betonlineag,4.0,0.581,over,21.9,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Alijah Arenas,202954,Rebounds,3.5,-108,-120.0,betonlineag,4.4,0.648,over,24.7,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Alijah Arenas,202954,Threes,1.5,106,-137.0,betonlineag,1.4,0.467,over,-3.9,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Rodney Rice,3300,Threes,1.5,-172,132.0,betonlineag,2.2,0.773,over,22.3,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-20T04:00:00Z,USC Trojans,Tarleton State Texans,USC,Tarleton State,Jacob Cofie,8194,Threes,0.5,149,-196.0,betonlineag,0.3,0.43,over,7.1,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,Juke Harris,5773,Assists,1.5,-139,107.0,betonlineag,2.5,0.761,over,30.9,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,DeWayne Brown II,202447,Assists,2.5,134,-175.0,betonlineag,1.9,0.335,under,4.5,4,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,DeWayne Brown II,202447,Points,9.5,-110,-118.0,betonlineag,8.4,0.417,under,7.8,4,tough D,0,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,Miles Rubin,6077,Points,8.5,-108,-120.0,betonlineag,9.2,0.553,over,6.6,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,Juke Harris,5773,Points,10.5,-120,-108.0,betonlineag,9.2,0.396,under,16.3,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,DeWayne Brown II,202447,Rebounds,8.5,-112,-115.0,betonlineag,7.6,0.337,under,23.9,4,tough D,1,A,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,Miles Rubin,6077,Rebounds,6.5,-120,-108.0,betonlineag,6.0,0.417,under,12.3,4,tough D,1,B,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,Juke Harris,5773,Rebounds,4.5,-135,105.0,betonlineag,5.0,0.589,over,2.6,4,tough D,0,C,,
+2026-11-20T02:45:15.680606+00:00,2026-11-21T00:00:00Z,Tennessee Volunteers,Coastal Carolina Chanticleers,Tennessee,Coastal Carolina,Juke Harris,5773,Threes,1.5,-149,115.0,betonlineag,1.7,0.573,over,-4.2,4,tough D,0,C,,
