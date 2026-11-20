@@ -15,7 +15,7 @@ Props backtest by grade, the CBB version of the CFB A/B/C prop results.
    adjustment.
 4. Graded from the box score at the sportsbook price. Results by grade,
    official vs not, edge tier, side and stat go to docs/data/prop_backtest.json
-   and docs/data/prop_backtest_detail.csv.
+   and logs/prop_backtest_detail.csv.
 
 Cost: 10 credits per market per region per game that has props (4 markets,
 region us = up to 40 a game) + 1 per day for the event list. `--max-credits`
@@ -45,7 +45,7 @@ from src.models.gbm import GBMModel
 
 CACHE_DIR = f"{config.DATA_RAW_DIR}/prop_history"
 OUT_JSON = f"{config.DOCS_DATA_DIR}/prop_backtest.json"
-OUT_CSV = f"{config.DOCS_DATA_DIR}/prop_backtest_detail.csv"
+OUT_CSV = "logs/prop_backtest_detail.csv"   # raw odds: kept off the public site
 EDGE_TIERS = [(0, 10), (10, 20), (20, 30), (30, 40), (40, 999)]
 
 

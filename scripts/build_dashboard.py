@@ -80,9 +80,10 @@ input.f{background:var(--chip);border:1px solid var(--rule2);color:var(--text);b
 .mnav button{flex:1;min-width:70px;background:none;border:0;color:var(--muted);font-size:11px;font-weight:700;padding:12px 4px 18px}.mnav button.on{color:var(--neon)}
 .row{grid-template-columns:auto 1fr auto}.row .hide-m{display:none}.drv{grid-template-columns:110px 1fr 44px}.keyrow{grid-template-columns:1fr 60px 56px}.keyrow .kbar{display:none}.keyrow .dots{grid-column:1/-1}
 .hide-m{display:none}td,th{padding:8px 6px}}
+.foot{max-width:1100px;margin:24px auto 90px;padding:0 16px;font-size:11px;color:var(--muted,#8a94a6);text-align:center;line-height:1.5}
 </style></head><body>
 <div class="top"><div class="brand"><i></i>CBB <b>EDGE</b></div><div class="nav" id="nav"></div><div class="asof" id="asof"></div></div>
-<div class="wrap" id="app"></div><div class="mnav" id="mnav"></div>
+<div class="wrap" id="app"></div><div class="foot">For entertainment and information only. Not betting advice. Past results don&rsquo;t guarantee future results. 21+. Gambling problem? Call 1-800-GAMBLER.</div><div class="mnav" id="mnav"></div>
 <script>
 window.MODEL_DATA = __DATA__;
 (function(){

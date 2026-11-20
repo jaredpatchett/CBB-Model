@@ -222,7 +222,8 @@ def main():
                           "ml_home": gm.get("ml_home"), "ml_away": gm.get("ml_away"),
                           "model_spread": gm.get("model_spread"), "model_total": gm.get("model_total")} for gm in games_out])
     if len(arch):
-        lp = f"{config.DOCS_DATA_DIR}/line_archive.csv"
+        lp = "logs/line_archive.csv"   # raw odds: kept off the public site
+        os.makedirs("logs", exist_ok=True)
         arch.to_csv(lp, mode="a", header=not os.path.exists(lp), index=False)
     rec = play_log.record(log)
     # every scored prop line, graded later from the box score (props backtest builds itself)

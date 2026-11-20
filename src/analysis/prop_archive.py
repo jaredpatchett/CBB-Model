@@ -6,7 +6,7 @@ Why: there is no free history of college prop lines, so props can't be
 backtested for ROI the way spreads and totals are. This file builds that
 history from today on (same idea as the CFB model's live prop grading).
 
-docs/data/prop_archive.csv has one row per prop per run:
+logs/prop_archive.csv has one row per prop per run:
   run_at, kickoff, home, away, player, athleteId, prop_market, line,
   over_price, under_price, book, model, p_over, side, edge, games, matchup,
   official, grade, actual, result
@@ -22,7 +22,7 @@ import os
 
 import pandas as pd
 
-ARCHIVE_PATH = "docs/data/prop_archive.csv"
+ARCHIVE_PATH = "logs/prop_archive.csv"   # raw odds: kept off the public site
 LAB_PATH = "docs/data/prop_lab.json"
 STAT_COL = {"Points": "points", "Rebounds": "rebounds", "Assists": "assists", "Threes": "threes"}
 COLS = ["run_at", "kickoff", "home", "away", "home_cbbd", "away_cbbd", "player", "athleteId", "prop_market", "line",
