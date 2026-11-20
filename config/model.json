@@ -1,1 +1,5 @@
-{"features": "base", "anchored": false, "_note": "Which model the lab and the live run use. Change only after the --compare backtest shows it is better."}
+{
+  "features": "v2",
+  "anchored": false,
+  "_note": "Which model the lab and the live run use. Change only after run_backtest.py --compare shows it is better vs BOTH opening and closing lines. 11/19/2026: v2 (3-point luck, roster/transfers, availability, schedule; props carry last season) beat base on every headline number (feature_test.json). The anchored variant matched the market almost exactly (good win% calibration, but no betting edge), so it stays off."
+}
