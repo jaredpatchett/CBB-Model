@@ -99,11 +99,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "90-79"
   },
   "spread|Eastern Michigan Eagles|Detroit Mercy Titans|2026-11-18T23:30:00Z|home": {
    "market": "spread",
@@ -140,11 +140,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -10.5,
+   "final_score": "62-99"
   },
   "total|Eastern Michigan Eagles|Detroit Mercy Titans|2026-11-18T23:30:00Z|over": {
    "market": "total",
@@ -222,11 +222,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 7.5,
+   "final_score": "74-64"
   },
   "spread|UNC Asheville Bulldogs|Tennessee Tech Golden Eagles|2026-11-18T23:30:00Z|home": {
    "market": "spread",
@@ -386,11 +386,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 1.5,
+   "final_score": "79-77"
   },
   "total|Charleston Southern Buccaneers|Wofford Terriers|2026-11-19T00:00:00Z|under": {
    "market": "total",
@@ -427,11 +427,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 163.5,
+   "final_score": "79-77"
   },
   "spread|La Salle Explorers|Coppin St Eagles|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -468,11 +468,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -15.5,
+   "final_score": "61-88"
   },
   "spread|Duquesne Dukes|Howard Bison|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -550,11 +550,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 139.5,
+   "final_score": "68-74"
   },
   "spread|South Carolina Gamecocks|Elon Phoenix|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -632,11 +632,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -4.5,
+   "final_score": "66-78"
   },
   "spread|Florida Atlantic Owls|Florida Gulf Coast Eagles|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -673,11 +673,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -6.5,
+   "final_score": "76-86"
   },
   "spread|Towson Tigers|James Madison Dukes|2026-11-19T00:00:00Z|home": {
    "market": "spread",
@@ -714,11 +714,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -3.5,
+   "final_score": "70-52"
   },
   "spread|Longwood Lancers|VMI Keydets|2026-11-19T00:00:00Z|home": {
    "market": "spread",
@@ -755,11 +755,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -7.5,
+   "final_score": "76-82"
   },
   "spread|Presbyterian Blue Hose|Mercer Bears|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -796,11 +796,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -1.5,
+   "final_score": "84-88"
   },
   "spread|Ohio Bobcats|Morehead St Eagles|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -837,11 +837,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -15.5,
+   "final_score": "77-91"
   },
   "total|St. John's Red Storm|Siena Saints|2026-11-19T00:00:00Z|under": {
    "market": "total",
@@ -878,11 +878,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 171.5,
+   "final_score": "72-119"
   },
   "total|Yale Bulldogs|Vermont Catamounts|2026-11-19T00:00:00Z|over": {
    "market": "total",
@@ -919,11 +919,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "C",
+   "final_line": 137.5,
+   "final_score": "74-76"
   },
   "spread|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|home": {
    "market": "spread",
@@ -959,7 +959,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 7.5,
+   "final_score": "86-82"
   },
   "total|Marquette Golden Eagles|Northern Illinois Huskies|2026-11-19T00:30:00Z|under": {
    "market": "total",
@@ -996,11 +1001,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 146.5,
+   "final_score": "65-79"
   },
   "spread|Syracuse Orange|Cornell Big Red|2026-11-19T01:00:00Z|away": {
    "market": "spread",
@@ -1037,11 +1042,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -18.5,
+   "final_score": "82-91"
   },
   "spread|Gardner-Webb Bulldogs|UNC Greensboro Spartans|2026-11-19T01:00:00Z|away": {
    "market": "spread",
@@ -1069,11 +1074,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "78-72"
   },
   "spread|Texas State Bobcats|Incarnate Word Cardinals|2026-11-19T01:00:00Z|home": {
    "market": "spread",
@@ -1101,11 +1106,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -17.5,
+   "final_score": "51-84"
   },
   "total|Texas State Bobcats|Incarnate Word Cardinals|2026-11-19T01:00:00Z|over": {
    "market": "total",
@@ -1142,11 +1147,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 139.5,
+   "final_score": "51-84"
   },
   "total|Stonehill Skyhawks|New Hampshire Wildcats|2026-11-19T01:00:00Z|over": {
    "market": "total",
@@ -1183,11 +1188,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 130.5,
+   "final_score": "90-70"
   },
   "spread|Colorado Buffaloes|Portland Pilots|2026-11-19T02:00:00Z|away": {
    "market": "spread",
@@ -1224,11 +1229,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -14.5,
+   "final_score": "77-74"
   },
   "spread|Colorado St Rams|North Dakota St Bison|2026-11-19T02:00:00Z|away": {
    "market": "spread",
@@ -1265,11 +1270,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -12.5,
+   "final_score": "64-71"
   },
   "total|Colorado St Rams|North Dakota St Bison|2026-11-19T02:00:00Z|over": {
    "market": "total",
@@ -1347,11 +1352,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -6.5,
+   "final_score": "86-92"
   },
   "total|Utah State Aggies|Weber State Wildcats|2026-11-19T02:00:00Z|under": {
    "market": "total",
@@ -1388,11 +1393,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 171.5,
+   "final_score": "71-101"
   },
   "total|San Diego Toreros|UC Riverside Highlanders|2026-11-19T02:30:00Z|over": {
    "market": "total",
@@ -1614,11 +1619,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": -18.5,
+   "final_score": "74-91"
   },
   "spread|San Francisco Dons|Louisiana Ragin' Cajuns|2026-11-19T03:00:00Z|home": {
    "market": "spread",
@@ -2496,7 +2501,13 @@
      1,
      -115
     ]
-   ]
+   ],
+   "actual": 15.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 14.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Colben Landrew|Points": {
    "market": "prop",
@@ -2541,7 +2552,13 @@
      1,
      -140
     ]
-   ]
+   ],
+   "actual": 12.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 11.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Jayden Ross|Rebounds": {
    "market": "prop",
@@ -2577,7 +2594,13 @@
      1,
      105
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.05,
+   "final_grade": "A",
+   "final_line": 3.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Colben Landrew|Rebounds": {
    "market": "prop",
@@ -2613,7 +2636,13 @@
      1,
      104
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "79-85"
   },
   "total|Winthrop Eagles|Chattanooga Mocs|2026-11-18T23:30:00Z|under": {
    "market": "total",
@@ -2641,11 +2670,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 165.5,
+   "final_score": "90-79"
   },
   "total|Georgetown Hoyas|Navy Midshipmen|2026-11-18T23:30:00Z|over": {
    "market": "total",
@@ -2673,11 +2702,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 137.5,
+   "final_score": "53-84"
   },
   "total|Longwood Lancers|VMI Keydets|2026-11-19T00:00:00Z|under": {
    "market": "total",
@@ -2705,11 +2734,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 154.5,
+   "final_score": "76-82"
   },
   "spread|North Carolina A&T Aggies|Morgan St Bears|2026-11-19T00:00:00Z|away": {
    "market": "spread",
@@ -2737,11 +2766,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -8.5,
+   "final_score": "70-82"
   },
   "total|Cincinnati Bearcats|Youngstown St Penguins|2026-11-19T00:30:00Z|under": {
    "market": "total",
@@ -2801,11 +2830,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "74-69"
   },
   "spread|UTSA Roadrunners|Florida A&M Rattlers|2026-11-19T01:00:00Z|away": {
    "market": "spread",
@@ -2833,11 +2862,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -17.5,
+   "final_score": "78-98"
   },
   "spread|Texas State Bobcats|Incarnate Word Cardinals|2026-11-19T01:00:00Z|away": {
    "market": "spread",
@@ -2865,11 +2894,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -18.5,
+   "final_score": "51-84"
   },
   "spread|Stonehill Skyhawks|New Hampshire Wildcats|2026-11-19T01:00:00Z|home": {
    "market": "spread",
@@ -2897,11 +2926,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 1.5,
+   "final_score": "90-70"
   },
   "spread|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|home": {
    "market": "spread",
@@ -2929,11 +2958,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -3.5,
+   "final_score": "79-85"
   },
   "spread|Murray St Racers|NC State Wolfpack|2026-11-19T23:00:00Z|home": {
    "market": "spread",
@@ -2970,11 +2999,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "93-83"
   },
   "total|Murray St Racers|NC State Wolfpack|2026-11-19T23:00:00Z|under": {
    "market": "total",
@@ -3011,11 +3040,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 160.5,
+   "final_score": "93-83"
   },
   "total|St. Bonaventure Bonnies|Buffalo Bulls|2026-11-20T00:00:00Z|over": {
    "market": "total",
@@ -3052,11 +3081,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "C",
+   "final_line": 146.5,
+   "final_score": "69-78"
   },
   "total|Butler Bulldogs|Northeastern Huskies|2026-11-20T00:00:00Z|under": {
    "market": "total",
@@ -3093,11 +3122,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 164.5,
+   "final_score": "77-84"
   },
   "spread|Drake Bulldogs|Charleston Cougars|2026-11-20T00:30:00Z|home": {
    "market": "spread",
@@ -3133,7 +3162,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -1.5,
+   "final_score": "70-86"
   },
   "spread|Louisiana Tech Bulldogs|Tulane Green Wave|2026-11-20T00:30:00Z|home": {
    "market": "spread",
@@ -3169,7 +3203,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "67-74"
   },
   "total|Louisiana Tech Bulldogs|Tulane Green Wave|2026-11-20T00:30:00Z|under": {
    "market": "total",
@@ -3205,7 +3244,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 143.5,
+   "final_score": "67-74"
   },
   "spread|TCU Horned Frogs|Texas A&M Aggies|2026-11-20T01:00:00Z|home": {
    "market": "spread",
@@ -3241,7 +3285,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -1.5,
+   "final_score": "97-92"
   },
   "spread|Seton Hall Pirates|Wisconsin Badgers|2026-11-20T01:30:00Z|home": {
    "market": "spread",
@@ -3277,7 +3326,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "69-74"
   },
   "spread|New Mexico St Aggies|UTEP Miners|2026-11-20T02:00:00Z|home": {
    "market": "spread",
@@ -3313,7 +3367,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -1.5,
+   "final_score": "84-69"
   },
   "spread|Oregon Ducks|Oregon St Beavers|2026-11-20T02:00:00Z|home": {
    "market": "spread",
@@ -3349,7 +3408,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -3.5,
+   "final_score": "82-71"
   },
   "total|Oregon Ducks|Oregon St Beavers|2026-11-20T02:00:00Z|under": {
    "market": "total",
@@ -3421,7 +3485,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 3.5,
+   "final_score": "88-80"
   },
   "spread|Washington Huskies|Utah Tech Trailblazers|2026-11-20T02:00:00Z|away": {
    "market": "spread",
@@ -3457,7 +3526,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -18.5,
+   "final_score": "69-82"
   },
   "total|Washington Huskies|Utah Tech Trailblazers|2026-11-20T02:00:00Z|under": {
    "market": "total",
@@ -3529,7 +3603,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -1.5,
+   "final_score": "83-77"
   },
   "prop|South Carolina Gamecocks|Elon Phoenix|2026-11-19T00:00:00Z|over|Jakub Necas|Points": {
    "market": "prop",
@@ -3862,7 +3941,13 @@
      1,
      100
     ]
-   ]
+   ],
+   "actual": 23.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 11.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Tre White|Points": {
    "market": "prop",
@@ -3934,7 +4019,13 @@
      1,
      -149
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.6711,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Tre White|Assists": {
    "market": "prop",
@@ -3961,7 +4052,13 @@
      1,
      -156
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.641,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Trey Kaufman-Renn|Assists": {
    "market": "prop",
@@ -3988,7 +4085,13 @@
      1,
      -179
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|over|Mouhamed Sylla|Points": {
    "market": "prop",
@@ -4015,7 +4118,13 @@
      1,
      106
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 7.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Taylen Kinney|Points": {
    "market": "prop",
@@ -4042,7 +4151,13 @@
      1,
      -143
     ]
-   ]
+   ],
+   "actual": 11.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 9.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Tyran Stokes|Rebounds": {
    "market": "prop",
@@ -4069,7 +4184,13 @@
      1,
      -149
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 7.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|over|Brenen Lorient|Threes": {
    "market": "prop",
@@ -4096,7 +4217,13 @@
      1,
      -179
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.5587,
+   "final_grade": "C",
+   "final_line": 0.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Leroy Blyden Jr.|Threes": {
    "market": "prop",
@@ -4123,7 +4250,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 1.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|over|Finley Bizjack|Threes": {
    "market": "prop",
@@ -4150,7 +4283,13 @@
      1,
      -120
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.8333,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Tyran Stokes|Threes": {
    "market": "prop",
@@ -4177,7 +4316,13 @@
      1,
      -143
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.6993,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Seydou Traore|Threes": {
    "market": "prop",
@@ -4204,7 +4349,13 @@
      1,
      136
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "W",
+   "units": 1.36,
+   "final_grade": "B",
+   "final_line": 0.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|over|Miles Sadler|Threes": {
    "market": "prop",
@@ -4231,7 +4382,13 @@
      1,
      -141
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.7092,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "86-82"
   },
   "prop|West Virginia Mountaineers|Kansas Jayhawks|2026-11-19T00:30:00Z|under|Tre White|Threes": {
    "market": "prop",
@@ -4258,7 +4415,13 @@
      1,
      -213
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.4695,
+   "final_grade": "A",
+   "final_line": 2.5,
+   "final_score": "86-82"
   },
   "prop|Oklahoma Sooners|Campbell Fighting Camels|2026-11-19T01:00:00Z|under|Xzayvier Brown|Points": {
    "market": "prop",
@@ -4285,7 +4448,13 @@
      1,
      -118
     ]
-   ]
+   ],
+   "actual": 27.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "78-87"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Braylon Mullins|Points": {
    "market": "prop",
@@ -4321,7 +4490,13 @@
      1,
      -125
     ]
-   ]
+   ],
+   "actual": 29.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 19.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Motiejus Krivas|Rebounds": {
    "market": "prop",
@@ -4357,7 +4532,13 @@
      1,
      -141
     ]
-   ]
+   ],
+   "actual": 12.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 9.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Caleb Holt|Points": {
    "market": "prop",
@@ -4393,7 +4574,13 @@
      1,
      -127
     ]
-   ]
+   ],
+   "actual": 19.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 18.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Ivan Kharchenkov|Points": {
    "market": "prop",
@@ -4420,7 +4607,13 @@
      1,
      -120
     ]
-   ]
+   ],
+   "actual": 20.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 19.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|over|Braylon Mullins|Assists": {
    "market": "prop",
@@ -4447,7 +4640,13 @@
      1,
      -135
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|over|Caleb Holt|Assists": {
    "market": "prop",
@@ -4474,7 +4673,13 @@
      1,
      120
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|over|Ivan Kharchenkov|Assists": {
    "market": "prop",
@@ -4501,7 +4706,13 @@
      1,
      106
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 1.06,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Braylon Mullins|Rebounds": {
    "market": "prop",
@@ -4528,7 +4739,13 @@
      1,
      -114
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 3.5,
+   "final_score": "79-85"
   },
   "prop|Arizona Wildcats|UConn Huskies|2026-11-19T02:00:00Z|under|Silas Demary Jr.|Threes": {
    "market": "prop",
@@ -4555,7 +4772,13 @@
      1,
      -159
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "W",
+   "units": 0.6289,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "79-85"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|under|Tahaad Pettiford|Assists": {
    "market": "prop",
@@ -4582,7 +4805,13 @@
      1,
      -170
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.5882,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|under|Kevin Overton|Points": {
    "market": "prop",
@@ -4609,7 +4838,13 @@
      1,
      -132
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.7576,
+   "final_grade": "B",
+   "final_line": 10.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|under|Tyrin Jones|Rebounds": {
    "market": "prop",
@@ -4636,7 +4871,13 @@
      1,
      105
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 5.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|over|Sebastian Mack|Assists": {
    "market": "prop",
@@ -4663,7 +4904,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.6494,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|under|Thomas Dowd|Rebounds": {
    "market": "prop",
@@ -4690,7 +4937,13 @@
      1,
      -143
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 0.6993,
+   "final_grade": "B",
+   "final_line": 8.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|under|Jeremy Foumena|Rebounds": {
    "market": "prop",
@@ -4717,7 +4970,13 @@
      1,
      -112
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.8929,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:00:00Z|over|Sebastian Mack|Threes": {
    "market": "prop",
@@ -4744,7 +5003,13 @@
      1,
      115
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "71-86"
   },
   "spread|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|away": {
    "market": "spread",
@@ -4771,7 +5036,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": -9.5,
+   "final_score": "71-86"
   },
   "total|Ohio State Buckeyes|UMBC Retrievers|2026-11-20T00:00:00Z|under": {
    "market": "total",
@@ -4799,11 +5069,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 159.5,
+   "final_score": "62-101"
   },
   "spread|Toledo Rockets|Robert Morris Colonials|2026-11-20T00:00:00Z|away": {
    "market": "spread",
@@ -4831,11 +5101,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": -7.5,
+   "final_score": "76-83"
   },
   "total|Houston Christian Huskies|Georgia Southern Eagles|2026-11-20T01:00:00Z|over": {
    "market": "total",
@@ -4862,7 +5132,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 149.0,
+   "final_score": "86-79"
   },
   "total|California Golden Bears|East Texas A&M Lions|2026-11-20T03:00:00Z|over": {
    "market": "total",
@@ -4889,7 +5164,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 145.5,
+   "final_score": "54-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|under|Tahaad Pettiford|Assists": {
    "market": "prop",
@@ -4916,7 +5196,13 @@
      1,
      -176
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.5682,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|under|Kevin Overton|Points": {
    "market": "prop",
@@ -4943,7 +5229,13 @@
      1,
      -106
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.9434,
+   "final_grade": "B",
+   "final_line": 10.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|under|Tyrin Jones|Rebounds": {
    "market": "prop",
@@ -4979,7 +5271,13 @@
      1,
      110
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 5.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|over|Sebastian Mack|Assists": {
    "market": "prop",
@@ -5006,7 +5304,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.6494,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|under|Tyrin Jones|Points": {
    "market": "prop",
@@ -5033,7 +5337,13 @@
      1,
      -128
     ]
-   ]
+   ],
+   "actual": 16.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|over|Dontrez Williams|Points": {
    "market": "prop",
@@ -5060,7 +5370,13 @@
      1,
      -101
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "W",
+   "units": 0.9901,
+   "final_grade": "C",
+   "final_line": 8.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|over|Thomas Dowd|Points": {
    "market": "prop",
@@ -5087,7 +5403,13 @@
      1,
      -103
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 0.9709,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|under|Jeremy Foumena|Rebounds": {
    "market": "prop",
@@ -5114,7 +5436,13 @@
      1,
      -118
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.8475,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|under|Cam Miles|Threes": {
    "market": "prop",
@@ -5141,7 +5469,13 @@
      1,
      -137
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "71-86"
   },
   "prop|Auburn Tigers|UNLV Rebels|2026-11-19T03:20:00Z|over|Sebastian Mack|Threes": {
    "market": "prop",
@@ -5168,7 +5502,13 @@
      1,
      115
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "71-86"
   }
  },
  "updated": "2026-11-19T03:04:05.037115+00:00"
