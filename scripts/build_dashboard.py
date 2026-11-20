@@ -218,7 +218,7 @@ function pageAs(){
   var by={};all.forEach(function(h){var k=h.market;by[k]=by[k]||{w:0,l:0,u:0};if(h.result==='W')by[k].w++;else if(h.result==='L')by[k].l++;by[k].u+=+(h.units||0);});
   var names={spread:'Spreads',total:'Totals',prop:'Props'};
   return '<div class="panel"><h3>&#128293; Every A play since launch</h3><div class="pn">All A grades the model has flagged, graded at the last line before tip, 1 unit each. '+
-    'Plays marked <b>pre-launch</b> came before the official rules were set on 11/19 (then a 7+ pt spread edge was an A; now it is a B) and are not in the official record.</div>'+
+    'Plays marked <b>pre-launch</b> came before the official rules were set on 11/19 (then a 7+ pt spread edge was an A; now a spread needs a 10+ pt edge) and are not in the official record.</div>'+
     '<table><tr><th>Market</th><th class="num">W-L</th><th class="num">Units</th></tr>'+Object.keys(by).map(function(k){var b=by[k];return '<tr><td>'+(names[k]||k)+'</td><td class="num">'+b.w+'-'+b.l+'</td><td class="num '+(b.u>=0?'pos':'neg')+'">'+(b.u>=0?'+':'')+b.u.toFixed(1)+'u</td></tr>';}).join('')+'</table>'+
     '<table style="margin-top:10px">'+all.slice(0,80).map(function(h){var what=h.market==='prop'?esc(h.player||'')+' '+esc(h.prop_market||'')+' '+esc(h.side||'')+' '+h.final_line:
       esc(h.away||'')+' @ '+esc(h.home||'')+' &middot; '+(h.market==='total'?esc(h.side||'')+' '+h.final_line:esc(h.side==='home'?h.home:h.away)+' '+(h.side==='home'?(h.final_line>0?'+':'')+h.final_line:((-h.final_line)>0?'+':'')+(-h.final_line)));
@@ -228,7 +228,7 @@ function render(){
   document.getElementById('mnav').innerHTML=PAGES.map(function(p){return '<button class="'+(S.page===p[0]?'on':'')+'" onclick="window.__go(&quot;'+p[0]+'&quot;)">'+p[1].replace('Model ','').replace('Player ','')+'</button>';}).join('');
   document.getElementById('asof').textContent='Updated '+kick(D.meta.generated_at);
   var banner=D.meta.demo?'<div class="demo">&#9888; DEMO DATA: every number on this page is made up to preview the layout. Real numbers appear after the first run with API keys. Official rules are provisional until the backtest sets them.</div>':
-    '<div class="demo" style="border-color:rgba(94,200,255,.4);color:var(--blue);background:rgba(94,200,255,.08)">Rules set 11/19 from the backtest: unders 10+ = &#128293; A, unders 5-10 and spreads 7+ = &#127922; B. The edge is vs opening lines, so bet early.</div>';
+    '<div class="demo" style="border-color:rgba(94,200,255,.4);color:var(--blue);background:rgba(94,200,255,.08)">Rules (from the backtest): unders 10+ and spreads 10+ = &#128293; A, unders 5-10 = &#127922; B. The edge is vs opening lines, so bet early.</div>';
   var body={edge:pageEdge,totals:pageTotals,props:pageProps,tracker:pageTracker,perf:pagePerf}[S.page]||pageEdge;
   document.getElementById('app').innerHTML=banner+body();}
 render();
