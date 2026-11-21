@@ -2726,11 +2726,11 @@
      null
     ]
    ],
-   "result": null,
-   "units": null,
-   "final_grade": null,
-   "final_line": null,
-   "final_score": null
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "71-86"
   },
   "spread|Liberty Flames|Rhode Island Rams|2026-11-20T21:30:00Z|home": {
    "market": "spread",
@@ -3203,6 +3203,15 @@
      -1.5,
      -4.9,
      3.4,
+     "C",
+     0,
+     null
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     -1.5,
+     -5.0,
+     3.5,
      "C",
      0,
      null
@@ -3682,7 +3691,13 @@
      1,
      -132
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.7576,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "51-78"
   },
   "prop|Tennessee Volunteers|Coastal Carolina Chanticleers|2026-11-21T00:00:00Z|under|Juke Harris|Points": {
    "market": "prop",
@@ -3727,7 +3742,13 @@
      1,
      -133
     ]
-   ]
+   ],
+   "actual": 17.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 11.5,
+   "final_score": "51-78"
   },
   "prop|Tennessee Volunteers|Coastal Carolina Chanticleers|2026-11-21T00:00:00Z|under|DeWayne Brown II|Rebounds": {
    "market": "prop",
@@ -3772,7 +3793,13 @@
      1,
      -125
     ]
-   ]
+   ],
+   "actual": 11.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 8.5,
+   "final_score": "51-78"
   },
   "prop|Tennessee Volunteers|Coastal Carolina Chanticleers|2026-11-21T00:00:00Z|under|Miles Rubin|Rebounds": {
    "market": "prop",
@@ -3817,7 +3844,13 @@
      1,
      -110
     ]
-   ]
+   ],
+   "actual": 9.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "51-78"
   },
   "total|Florida St Seminoles|Green Bay Phoenix|2026-11-20T17:00:00Z|under": {
    "market": "total",
@@ -4464,7 +4497,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 2.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|over|Daniel Jacobsen|Assists": {
    "market": "prop",
@@ -4500,7 +4539,13 @@
      1,
      -147
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|Antione West Jr|Points": {
    "market": "prop",
@@ -4572,7 +4617,13 @@
      1,
      -132
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.7576,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|Daniel Jacobsen|Points": {
    "market": "prop",
@@ -4608,7 +4659,13 @@
      1,
      -119
     ]
-   ]
+   ],
+   "actual": 16.0,
+   "result": "W",
+   "units": 0.8403,
+   "final_grade": "C",
+   "final_line": 18.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|Jack Benter|Rebounds": {
    "market": "prop",
@@ -4644,7 +4701,13 @@
      1,
      -104
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.9615,
+   "final_grade": "C",
+   "final_line": 5.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|Jack Benter|Threes": {
    "market": "prop",
@@ -4680,7 +4743,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|Antione West Jr|Threes": {
    "market": "prop",
@@ -4716,7 +4785,13 @@
      1,
      -111
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.9009,
+   "final_grade": "C",
+   "final_line": 2.5,
+   "final_score": "49-95"
   },
   "prop|Xavier Musketeers|Iowa Hawkeyes|2026-11-21T00:30:00Z|under|Kael Combs|Assists": {
    "market": "prop",
@@ -5498,6 +5573,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     5.5,
+     -4.5,
+     10.0,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -5525,6 +5609,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     5.5,
+     -6.1,
+     11.6,
+     "A",
+     1,
+     null
     ]
    ]
   },
@@ -5546,6 +5639,15 @@
    "h": [
     [
      "2026-11-20T22:38:33.569131+00:00",
+     161.5,
+     151.0,
+     10.5,
+     "A",
+     1,
+     null
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
      161.5,
      151.0,
      10.5,
@@ -5579,6 +5681,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     174.5,
+     159.7,
+     14.8,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -5603,6 +5714,15 @@
      157.5,
      151.5,
      6.0,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     158.5,
+     151.1,
+     7.4,
      "B",
      1,
      null
@@ -5796,7 +5916,13 @@
      1,
      -119
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.8403,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "49-95"
   },
   "prop|Purdue Boilermakers|Oakland Golden Grizzlies|2026-11-21T00:00:00Z|under|C.J. Cox|Rebounds": {
    "market": "prop",
@@ -5823,7 +5949,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.6494,
+   "final_grade": "C",
+   "final_line": 5.5,
+   "final_score": "49-95"
   },
   "prop|Mississippi St Bulldogs|Tulsa Golden Hurricane|2026-11-21T00:30:00Z|under|Josh Hubbard|Points": {
    "market": "prop",
@@ -6551,6 +6683,15 @@
      "B",
      1,
      128
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     1.5,
+     1.4,
+     25.1,
+     "B",
+     1,
+     130
     ]
    ]
   },
@@ -6578,6 +6719,15 @@
      "B",
      1,
      -114
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     12.5,
+     11.3,
+     16.7,
+     "B",
+     1,
+     -104
     ]
    ]
   },
@@ -6605,6 +6755,15 @@
      "B",
      1,
      124
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     1.5,
+     1.6,
+     18.1,
+     "B",
+     1,
+     115
     ]
    ]
   },
@@ -6626,6 +6785,15 @@
    "h": [
     [
      "2026-11-20T22:38:33.569131+00:00",
+     16.5,
+     14.8,
+     19.0,
+     "B",
+     1,
+     -114
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
      16.5,
      14.8,
      19.0,
@@ -6659,6 +6827,15 @@
      "B",
      1,
      -120
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     9.5,
+     12.3,
+     31.0,
+     "B",
+     1,
+     -118
     ]
    ]
   },
@@ -6680,6 +6857,15 @@
    "h": [
     [
      "2026-11-20T22:38:33.569131+00:00",
+     15.5,
+     14.4,
+     12.8,
+     "B",
+     1,
+     -108
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
      15.5,
      14.4,
      12.8,
@@ -6713,6 +6899,15 @@
      "A",
      1,
      115
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     4.5,
+     4.0,
+     23.6,
+     "A",
+     1,
+     112
     ]
    ]
   },
@@ -6740,9 +6935,243 @@
      "A",
      1,
      -115
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     8.5,
+     7.2,
+     37.9,
+     "A",
+     1,
+     -111
+    ]
+   ]
+  },
+  "total|LSU Tigers|Queens University Royals|2026-11-21T18:00:00Z|under": {
+   "market": "total",
+   "home": "LSU Tigers",
+   "away": "Queens University Royals",
+   "kickoff": "2026-11-21T18:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "LSU",
+   "away_cbbd": "Queens University",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": 171.5
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     171.5,
+     161.2,
+     10.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Stonehill Skyhawks|Northeastern Huskies|2026-11-21T22:00:00Z|under": {
+   "market": "total",
+   "home": "Stonehill Skyhawks",
+   "away": "Northeastern Huskies",
+   "kickoff": "2026-11-21T22:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Stonehill",
+   "away_cbbd": "Northeastern",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": 151.0
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     151.0,
+     146.0,
+     5.0,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Vermont Catamounts|Brown Bears|2026-11-22T00:00:00Z|home": {
+   "market": "spread",
+   "home": "Vermont Catamounts",
+   "away": "Brown Bears",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Vermont",
+   "away_cbbd": "Brown",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": -4.5
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     -4.5,
+     -15.6,
+     11.1,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|VMI Keydets|Gardner-Webb Bulldogs|2026-11-22T00:00:00Z|under": {
+   "market": "total",
+   "home": "VMI Keydets",
+   "away": "Gardner-Webb Bulldogs",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "VMI",
+   "away_cbbd": "Gardner-Webb",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": 150.5
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     150.5,
+     142.8,
+     7.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Texas Southern Tigers|LSU Tigers|2026-11-22T01:30:00Z|away": {
+   "market": "spread",
+   "home": "Texas Southern Tigers",
+   "away": "LSU Tigers",
+   "kickoff": "2026-11-22T01:30:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Texas Southern",
+   "away_cbbd": "LSU",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": -1.0
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     -1.0,
+     11.0,
+     12.0,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "prop|Saint Mary's Gaels|Saint Louis Billikens|2026-11-21T04:00:00Z|over|Trey Green|Points": {
+   "market": "prop",
+   "home": "Saint Mary's Gaels",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-21T04:00:00Z",
+   "side": "over",
+   "player": "Trey Green",
+   "prop_market": "Points",
+   "athleteId": 4071,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     10.5,
+     12.2,
+     13.7,
+     "B",
+     1,
+     -125
+    ]
+   ]
+  },
+  "prop|Saint Mary's Gaels|Saint Louis Billikens|2026-11-21T04:00:00Z|over|Amari McCottry|Points": {
+   "market": "prop",
+   "home": "Saint Mary's Gaels",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-21T04:00:00Z",
+   "side": "over",
+   "player": "Amari McCottry",
+   "prop_market": "Points",
+   "athleteId": 818,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     11.5,
+     12.5,
+     14.1,
+     "B",
+     1,
+     -104
+    ],
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     12.5,
+     12.5,
+     -2.2,
+     "B",
+     0,
+     -106
+    ]
+   ]
+  },
+  "prop|Saint Mary's Gaels|Saint Louis Billikens|2026-11-21T04:00:00Z|over|Kellen Thames|Rebounds": {
+   "market": "prop",
+   "home": "Saint Mary's Gaels",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-21T04:00:00Z",
+   "side": "over",
+   "player": "Kellen Thames",
+   "prop_market": "Rebounds",
+   "athleteId": 809,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-21T02:37:49.302823+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-21T02:37:49.302823+00:00",
+     5.5,
+     6.1,
+     15.5,
+     "B",
+     1,
+     -108
     ]
    ]
   }
  },
- "updated": "2026-11-20T22:38:33.569131+00:00"
+ "updated": "2026-11-21T02:37:49.302823+00:00"
 }
