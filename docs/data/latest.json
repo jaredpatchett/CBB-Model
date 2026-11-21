@@ -1,6 +1,6 @@
 {
  "meta": {
-  "generated_at": "2026-11-21T02:37:49.302823+00:00",
+  "generated_at": "2026-11-21T21:18:28.249313+00:00",
   "season": 2027,
   "demo": false,
   "rules": {
@@ -66,2847 +66,17 @@
    "moneyline_official": false
   },
   "unmatched": [
-   "Columbia Lions at Boston Univ. Terriers",
-   "Arkansas-Little Rock Trojans at North Florida Ospreys",
-   "St. Thomas (MN) Tommies at Milwaukee Panthers",
-   "Albany Great Danes at Canisius Golden Griffins",
-   "Cal Baptist Lancers at Loyola Marymount Lions"
+   "Cal Baptist Lancers at Loyola Marymount Lions",
+   "Western Kentucky Hilltoppers at GW Revolutionaries",
+   "CSU Fullerton Titans at Portland St Vikings",
+   "Cal Baptist Lancers at Portland Pilots",
+   "Tenn-Martin Skyhawks at Utah Valley Wolverines",
+   "Seattle Redhawks at UC San Diego Tritons",
+   "San Jos\u00e9 St Spartans at Loyola (Chi) Ramblers"
   ],
   "spread_sd": 11.96
  },
  "games": [
-  {
-   "home": "Fresno St Bulldogs",
-   "away": "Alabama St Hornets",
-   "home_school": "Fresno State",
-   "away_school": "Alabama State",
-   "kickoff": "2026-11-21T03:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -10.5,
-   "market_total": 146.5,
-   "ml_home": -535.0,
-   "ml_away": 400.0,
-   "enough_games": true,
-   "model_margin": 14.8,
-   "model_spread": -14.8,
-   "model_total": 151.7,
-   "home_win_prob": 0.892,
-   "drivers_spread": [
-    [
-     "Elo",
-     1.2
-    ],
-    [
-     "Last season",
-     1.1
-    ],
-    [
-     "Four factors",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     2.7
-    ],
-    [
-     "Tempo",
-     1.3
-    ],
-    [
-     "Last season",
-     -1.2
-    ],
-    [
-     "Four factors",
-     -0.8
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 111.2,
-    "r_adj_def": 118.1,
-    "r_tempo": 72.9,
-    "r_efg_o": 54.665,
-    "r_efg_d": 54.332,
-    "r_tov_o": 16.721,
-    "r_tov_d": 14.082,
-    "r_orb_o": 29.143,
-    "r_orb_d": 30.282,
-    "r_ftr_o": 46.424,
-    "r_ftr_d": 29.64,
-    "r_three_rate_o": 0.348,
-    "prior_net": 3.2,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.0,
-   "away_stats": {
-    "r_adj_off": 103.9,
-    "r_adj_def": 108.9,
-    "r_tempo": 68.3,
-    "r_efg_o": 48.641,
-    "r_efg_d": 54.115,
-    "r_tov_o": 18.507,
-    "r_tov_d": 19.864,
-    "r_orb_o": 34.447,
-    "r_orb_d": 29.052,
-    "r_ftr_o": 31.826,
-    "r_ftr_d": 56.273,
-    "r_three_rate_o": 0.427,
-    "prior_net": -16.1,
-    "games_prior": 5.0
-   },
-   "away_rest": 3.0,
-   "spread_play": {
-    "side": "home",
-    "edge": 4.3,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 4.3 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 5.2,
-    "tier": "5-10",
-    "tier_pts": 1,
-    "official": false,
-    "why_not": "overs never official (backtest)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_school": "Saint Mary's",
-   "away_school": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -1.5,
-   "market_total": 162.5,
-   "ml_home": -125.0,
-   "ml_away": 105.0,
-   "enough_games": true,
-   "model_margin": 5.0,
-   "model_spread": -5.0,
-   "model_total": 160.5,
-   "home_win_prob": 0.662,
-   "drivers_spread": [
-    [
-     "Four factors",
-     0.7
-    ],
-    [
-     "Rest",
-     0.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     5.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     4.4
-    ],
-    [
-     "Last season",
-     2.9
-    ],
-    [
-     "Four factors",
-     1.9
-    ],
-    [
-     "Rest",
-     -0.4
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 135.3,
-    "r_adj_def": 104.1,
-    "r_tempo": 69.2,
-    "r_efg_o": 62.231,
-    "r_efg_d": 52.367,
-    "r_tov_o": 15.3,
-    "r_tov_d": 18.769,
-    "r_orb_o": 30.299,
-    "r_orb_d": 29.641,
-    "r_ftr_o": 25.227,
-    "r_ftr_d": 40.105,
-    "r_three_rate_o": 0.41,
-    "prior_net": 24.3,
-    "games_prior": 5.0
-   },
-   "home_rest": 4.0,
-   "away_stats": {
-    "r_adj_off": 121.0,
-    "r_adj_def": 92.0,
-    "r_tempo": 73.6,
-    "r_efg_o": 61.211,
-    "r_efg_d": 41.288,
-    "r_tov_o": 16.283,
-    "r_tov_d": 18.97,
-    "r_orb_o": 22.635,
-    "r_orb_d": 39.929,
-    "r_ftr_o": 29.848,
-    "r_ftr_d": 37.062,
-    "r_three_rate_o": 0.463,
-    "prior_net": 22.6,
-    "games_prior": 4.0
-   },
-   "away_rest": 5.3,
-   "spread_play": {
-    "side": "home",
-    "edge": 3.5,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.5 (needs 10+)",
-    "grade": "C",
-    "move": -1
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 2.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.0 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Bucknell Bison",
-   "away": "Siena Saints",
-   "home_school": "Bucknell",
-   "away_school": "Siena",
-   "kickoff": "2026-11-21T16:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 6.5,
-   "market_total": 153.5,
-   "ml_home": 185.0,
-   "ml_away": -225.0,
-   "enough_games": true,
-   "model_margin": -1.2,
-   "model_spread": 1.2,
-   "model_total": 153.5,
-   "home_win_prob": 0.459,
-   "drivers_spread": [
-    [
-     "Elo",
-     -2.2
-    ],
-    [
-     "Last season",
-     -0.9
-    ],
-    [
-     "Four factors",
-     -0.7
-    ],
-    [
-     "Tempo",
-     0.4
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     1.9
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     1.8
-    ],
-    [
-     "Four factors",
-     0.4
-    ],
-    [
-     "Last season",
-     0.3
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 92.8,
-    "r_adj_def": 110.6,
-    "r_tempo": 65.9,
-    "r_efg_o": 45.33,
-    "r_efg_d": 53.039,
-    "r_tov_o": 19.683,
-    "r_tov_d": 21.138,
-    "r_orb_o": 33.564,
-    "r_orb_d": 38.243,
-    "r_ftr_o": 27.451,
-    "r_ftr_d": 27.612,
-    "r_three_rate_o": 0.507,
-    "prior_net": -18.2,
-    "games_prior": 5.0
-   },
-   "home_rest": 3.7,
-   "away_stats": {
-    "r_adj_off": 109.2,
-    "r_adj_def": 115.7,
-    "r_tempo": 77.3,
-    "r_efg_o": 47.452,
-    "r_efg_d": 52.744,
-    "r_tov_o": 16.975,
-    "r_tov_d": 14.955,
-    "r_orb_o": 33.14,
-    "r_orb_d": 34.461,
-    "r_ftr_o": 39.655,
-    "r_ftr_d": 21.723,
-    "r_three_rate_o": 0.424,
-    "prior_net": -0.7,
-    "games_prior": 5.0
-   },
-   "away_rest": 2.7,
-   "spread_play": {
-    "side": "home",
-    "edge": 5.3,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 5.3 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 0.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.0 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "UNC Greensboro Spartans",
-   "away": "South Carolina Upstate Spartans",
-   "home_school": "UNC Greensboro",
-   "away_school": "South Carolina Upstate",
-   "kickoff": "2026-11-21T16:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -7.5,
-   "market_total": 146.5,
-   "ml_home": -310.0,
-   "ml_away": 250.0,
-   "enough_games": true,
-   "model_margin": 6.9,
-   "model_spread": -6.9,
-   "model_total": 146.9,
-   "home_win_prob": 0.718,
-   "drivers_spread": [
-    [
-     "Elo",
-     3.4
-    ],
-    [
-     "Four factors",
-     -0.6
-    ],
-    [
-     "Last season",
-     -0.5
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Last season",
-     -1.0
-    ],
-    [
-     "Four factors",
-     -0.5
-    ],
-    [
-     "Tempo",
-     0.3
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 112.1,
-    "r_adj_def": 109.5,
-    "r_tempo": 69.0,
-    "r_efg_o": 51.561,
-    "r_efg_d": 48.385,
-    "r_tov_o": 15.507,
-    "r_tov_d": 16.312,
-    "r_orb_o": 32.867,
-    "r_orb_d": 35.522,
-    "r_ftr_o": 35.931,
-    "r_ftr_d": 36.266,
-    "r_three_rate_o": 0.428,
-    "prior_net": -13.0,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.6,
-   "away_stats": {
-    "r_adj_off": 105.1,
-    "r_adj_def": 111.4,
-    "r_tempo": 68.1,
-    "r_efg_o": 48.864,
-    "r_efg_d": 53.282,
-    "r_tov_o": 18.487,
-    "r_tov_d": 14.892,
-    "r_orb_o": 32.829,
-    "r_orb_d": 26.44,
-    "r_ftr_o": 41.371,
-    "r_ftr_d": 31.812,
-    "r_three_rate_o": 0.397,
-    "prior_net": -11.7,
-    "games_prior": 6.0
-   },
-   "away_rest": 2.6,
-   "spread_play": {
-    "side": "away",
-    "edge": 0.6,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.6 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 0.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.4 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Michigan St Spartans",
-   "away": "Detroit Mercy Titans",
-   "home_school": "Michigan State",
-   "away_school": "Detroit Mercy",
-   "kickoff": "2026-11-21T17:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -41.5,
-   "market_total": 149.5,
-   "ml_home": null,
-   "ml_away": null,
-   "enough_games": true,
-   "model_margin": 44.5,
-   "model_spread": -44.5,
-   "model_total": 151.0,
-   "home_win_prob": 1.0,
-   "drivers_spread": [
-    [
-     "Elo",
-     21.3
-    ],
-    [
-     "Four factors",
-     3.3
-    ],
-    [
-     "Last season",
-     2.0
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     1.7
-    ],
-    [
-     "Tempo",
-     1.5
-    ],
-    [
-     "Four factors",
-     -1.5
-    ],
-    [
-     "Last season",
-     1.1
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 124.7,
-    "r_adj_def": 86.8,
-    "r_tempo": 69.7,
-    "r_efg_o": 49.953,
-    "r_efg_d": 44.591,
-    "r_tov_o": 16.52,
-    "r_tov_d": 19.661,
-    "r_orb_o": 32.879,
-    "r_orb_d": 35.791,
-    "r_ftr_o": 59.669,
-    "r_ftr_d": 44.368,
-    "r_three_rate_o": 0.439,
-    "prior_net": 29.5,
-    "games_prior": 5.0
-   },
-   "home_rest": 3.6,
-   "away_stats": {
-    "r_adj_off": 83.3,
-    "r_adj_def": 133.4,
-    "r_tempo": 70.7,
-    "r_efg_o": 36.713,
-    "r_efg_d": 61.203,
-    "r_tov_o": 23.571,
-    "r_tov_d": 9.697,
-    "r_orb_o": 38.008,
-    "r_orb_d": 28.753,
-    "r_ftr_o": 43.767,
-    "r_ftr_d": 31.313,
-    "r_three_rate_o": 0.42,
-    "prior_net": -5.4,
-    "games_prior": 4.0
-   },
-   "away_rest": 2.7,
-   "spread_play": {
-    "side": "home",
-    "edge": 3.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.0 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 1.5,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.5 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Cleveland St Vikings",
-   "away": "Kent State Golden Flashes",
-   "home_school": "Cleveland State",
-   "away_school": "Kent State",
-   "kickoff": "2026-11-21T18:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 3.5,
-   "market_total": 148.5,
-   "ml_home": 145.0,
-   "ml_away": -175.0,
-   "enough_games": true,
-   "model_margin": -0.9,
-   "model_spread": 0.9,
-   "model_total": 149.7,
-   "home_win_prob": 0.469,
-   "drivers_spread": [
-    [
-     "Elo",
-     -2.4
-    ],
-    [
-     "Last season",
-     -1.2
-    ],
-    [
-     "Four factors",
-     -1.1
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Last season",
-     1.7
-    ],
-    [
-     "Four factors",
-     0.7
-    ],
-    [
-     "Tempo",
-     -0.3
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 107.9,
-    "r_adj_def": 118.5,
-    "r_tempo": 66.4,
-    "r_efg_o": 53.506,
-    "r_efg_d": 56.825,
-    "r_tov_o": 19.729,
-    "r_tov_d": 13.118,
-    "r_orb_o": 30.75,
-    "r_orb_d": 28.276,
-    "r_ftr_o": 31.176,
-    "r_ftr_d": 26.701,
-    "r_three_rate_o": 0.344,
-    "prior_net": -16.1,
-    "games_prior": 6.0
-   },
-   "home_rest": 3.8,
-   "away_stats": {
-    "r_adj_off": 101.4,
-    "r_adj_def": 106.5,
-    "r_tempo": 69.8,
-    "r_efg_o": 44.704,
-    "r_efg_d": 49.256,
-    "r_tov_o": 17.078,
-    "r_tov_d": 17.883,
-    "r_orb_o": 40.467,
-    "r_orb_d": 27.547,
-    "r_ftr_o": 30.74,
-    "r_ftr_d": 41.99,
-    "r_three_rate_o": 0.391,
-    "prior_net": 0.4,
-    "games_prior": 4.0
-   },
-   "away_rest": 4.8,
-   "spread_play": {
-    "side": "home",
-    "edge": 2.6,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.6 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 1.2,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.2 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Eastern Michigan Eagles",
-   "away": "Denver Pioneers",
-   "home_school": "Eastern Michigan",
-   "away_school": "Denver",
-   "kickoff": "2026-11-21T18:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -7.5,
-   "market_total": 138.5,
-   "ml_home": -325.0,
-   "ml_away": 260.0,
-   "enough_games": true,
-   "model_margin": 10.2,
-   "model_spread": -10.2,
-   "model_total": 141.2,
-   "home_win_prob": 0.804,
-   "drivers_spread": [
-    [
-     "Elo",
-     2.5
-    ],
-    [
-     "Last season",
-     -1.2
-    ],
-    [
-     "Four factors",
-     0.7
-    ],
-    [
-     "Rest",
-     0.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     -2.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -1.8
-    ],
-    [
-     "Four factors",
-     -0.6
-    ],
-    [
-     "Last season",
-     0.6
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 124.1,
-    "r_adj_def": 92.2,
-    "r_tempo": 68.0,
-    "r_efg_o": 54.767,
-    "r_efg_d": 42.409,
-    "r_tov_o": 16.908,
-    "r_tov_d": 20.07,
-    "r_orb_o": 34.533,
-    "r_orb_d": 38.016,
-    "r_ftr_o": 44.822,
-    "r_ftr_d": 51.783,
-    "r_three_rate_o": 0.365,
-    "prior_net": -6.2,
-    "games_prior": 4.0
-   },
-   "home_rest": 2.8,
-   "away_stats": {
-    "r_adj_off": 110.1,
-    "r_adj_def": 101.2,
-    "r_tempo": 66.3,
-    "r_efg_o": 51.525,
-    "r_efg_d": 48.343,
-    "r_tov_o": 16.504,
-    "r_tov_d": 16.463,
-    "r_orb_o": 25.531,
-    "r_orb_d": 34.249,
-    "r_ftr_o": 33.394,
-    "r_ftr_d": 31.659,
-    "r_three_rate_o": 0.394,
-    "prior_net": -6.6,
-    "games_prior": 4.0
-   },
-   "away_rest": 4.6,
-   "spread_play": {
-    "side": "home",
-    "edge": 2.7,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.7 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 2.7,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.7 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "LSU Tigers",
-   "away": "Queens University Royals",
-   "home_school": "LSU",
-   "away_school": "Queens University",
-   "kickoff": "2026-11-21T18:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -27.5,
-   "market_total": 171.5,
-   "ml_home": null,
-   "ml_away": null,
-   "enough_games": true,
-   "model_margin": 23.7,
-   "model_spread": -23.7,
-   "model_total": 161.2,
-   "home_win_prob": 0.976,
-   "drivers_spread": [
-    [
-     "Elo",
-     8.9
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -1.2
-    ],
-    [
-     "Four factors",
-     0.5
-    ],
-    [
-     "Rest",
-     0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     8.9
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     4.9
-    ],
-    [
-     "Last season",
-     2.6
-    ],
-    [
-     "Four factors",
-     -1.0
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 117.1,
-    "r_adj_def": 87.2,
-    "r_tempo": 73.7,
-    "r_efg_o": 55.313,
-    "r_efg_d": 38.432,
-    "r_tov_o": 18.62,
-    "r_tov_d": 20.112,
-    "r_orb_o": 31.048,
-    "r_orb_d": 38.68,
-    "r_ftr_o": 38.926,
-    "r_ftr_d": 34.486,
-    "r_three_rate_o": 0.407,
-    "prior_net": 13.1,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.7,
-   "away_stats": {
-    "r_adj_off": 121.0,
-    "r_adj_def": 129.1,
-    "r_tempo": 74.4,
-    "r_efg_o": 55.978,
-    "r_efg_d": 65.794,
-    "r_tov_o": 14.764,
-    "r_tov_d": 17.052,
-    "r_orb_o": 34.714,
-    "r_orb_d": 32.015,
-    "r_ftr_o": 38.488,
-    "r_ftr_d": 26.337,
-    "r_three_rate_o": 0.399,
-    "prior_net": -2.6,
-    "games_prior": 5.0
-   },
-   "away_rest": 7.0,
-   "spread_play": {
-    "side": "away",
-    "edge": 3.8,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.8 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 10.3,
-    "tier": "10+",
-    "tier_pts": 2,
-    "official": true,
-    "why_not": "",
-    "grade": "A",
-    "move": 0
-   }
-  },
-  {
-   "home": "New Haven Chargers",
-   "away": "New Hampshire Wildcats",
-   "home_school": "New Haven",
-   "away_school": "New Hampshire",
-   "kickoff": "2026-11-21T18:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 1.5,
-   "market_total": 125.5,
-   "ml_home": 110.0,
-   "ml_away": -130.0,
-   "enough_games": true,
-   "model_margin": -0.8,
-   "model_spread": 0.8,
-   "model_total": 138.8,
-   "home_win_prob": 0.473,
-   "drivers_spread": [
-    [
-     "Elo",
-     -4.5
-    ],
-    [
-     "Four factors",
-     0.4
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -4.3
-    ],
-    [
-     "Last season",
-     -2.6
-    ],
-    [
-     "Tempo",
-     0.2
-    ],
-    [
-     "Four factors",
-     -0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 95.3,
-    "r_adj_def": 100.1,
-    "r_tempo": 68.4,
-    "r_efg_o": 48.114,
-    "r_efg_d": 45.73,
-    "r_tov_o": 19.244,
-    "r_tov_d": 17.691,
-    "r_orb_o": 29.147,
-    "r_orb_d": 34.595,
-    "r_ftr_o": 21.431,
-    "r_ftr_d": 31.492,
-    "r_three_rate_o": 0.407,
-    "prior_net": -16.5,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.8,
-   "away_stats": {
-    "r_adj_off": 108.5,
-    "r_adj_def": 100.8,
-    "r_tempo": 69.1,
-    "r_efg_o": 52.644,
-    "r_efg_d": 39.646,
-    "r_tov_o": 18.9,
-    "r_tov_d": 19.148,
-    "r_orb_o": 26.005,
-    "r_orb_d": 40.69,
-    "r_ftr_o": 45.626,
-    "r_ftr_d": 30.501,
-    "r_three_rate_o": 0.411,
-    "prior_net": -20.9,
-    "games_prior": 6.0
-   },
-   "away_rest": 2.7,
-   "spread_play": {
-    "side": "home",
-    "edge": 0.7,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.7 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 13.3,
-    "tier": "10+",
-    "tier_pts": 2,
-    "official": false,
-    "why_not": "overs never official (backtest)",
-    "grade": "A",
-    "move": 0
-   }
-  },
-  {
-   "home": "Western Illinois Leathernecks",
-   "away": "Mercyhurst Lakers",
-   "home_school": "Western Illinois",
-   "away_school": "Mercyhurst",
-   "kickoff": "2026-11-21T18:30:00Z",
-   "book": "draftkings",
-   "neutral": true,
-   "market_spread": 6.5,
-   "market_total": 134.5,
-   "ml_home": 210.0,
-   "ml_away": -258.0,
-   "enough_games": true,
-   "model_margin": -3.4,
-   "model_spread": 3.4,
-   "model_total": 134.5,
-   "home_win_prob": 0.387,
-   "drivers_spread": [
-    [
-     "Home court",
-     -2.0
-    ],
-    [
-     "Last season",
-     -0.8
-    ],
-    [
-     "Elo",
-     -0.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ],
-    [
-     "Four factors",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -3.7
-    ],
-    [
-     "Tempo",
-     -1.9
-    ],
-    [
-     "Last season",
-     -1.8
-    ],
-    [
-     "Four factors",
-     -1.3
-    ],
-    [
-     "Home court",
-     -1.2
-    ],
-    [
-     "Rest",
-     -0.4
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 99.5,
-    "r_adj_def": 115.5,
-    "r_tempo": 68.5,
-    "r_efg_o": 45.623,
-    "r_efg_d": 55.196,
-    "r_tov_o": 19.919,
-    "r_tov_d": 17.271,
-    "r_orb_o": 34.807,
-    "r_orb_d": 29.675,
-    "r_ftr_o": 37.37,
-    "r_ftr_d": 40.941,
-    "r_three_rate_o": 0.301,
-    "prior_net": -30.2,
-    "games_prior": 6.0
-   },
-   "home_rest": 0.9,
-   "away_stats": {
-    "r_adj_off": 91.9,
-    "r_adj_def": 108.7,
-    "r_tempo": 66.6,
-    "r_efg_o": 44.761,
-    "r_efg_d": 50.23,
-    "r_tov_o": 17.747,
-    "r_tov_d": 17.707,
-    "r_orb_o": 28.55,
-    "r_orb_d": 25.875,
-    "r_ftr_o": 21.227,
-    "r_ftr_d": 40.48,
-    "r_three_rate_o": 0.407,
-    "prior_net": -10.7,
-    "games_prior": 6.0
-   },
-   "away_rest": 0.8,
-   "spread_play": {
-    "side": "home",
-    "edge": 3.1,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.1 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 0.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.0 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Bowling Green Falcons",
-   "away": "Northern Illinois Huskies",
-   "home_school": "Bowling Green",
-   "away_school": "Northern Illinois",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -5.5,
-   "market_total": 148.5,
-   "ml_home": -225.0,
-   "ml_away": 185.0,
-   "enough_games": true,
-   "model_margin": -2.4,
-   "model_spread": 2.4,
-   "model_total": 144.4,
-   "home_win_prob": 0.422,
-   "drivers_spread": [
-    [
-     "Elo",
-     -2.3
-    ],
-    [
-     "Four factors",
-     -1.4
-    ],
-    [
-     "Last season",
-     1.4
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.2
-    ],
-    [
-     "Tempo",
-     -0.2
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     -3.5
-    ],
-    [
-     "Last season",
-     -1.3
-    ],
-    [
-     "Four factors",
-     1.1
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 114.3,
-    "r_adj_def": 115.6,
-    "r_tempo": 69.0,
-    "r_efg_o": 60.32,
-    "r_efg_d": 56.249,
-    "r_tov_o": 19.977,
-    "r_tov_d": 18.122,
-    "r_orb_o": 32.095,
-    "r_orb_d": 27.882,
-    "r_ftr_o": 35.016,
-    "r_ftr_d": 38.25,
-    "r_three_rate_o": 0.454,
-    "prior_net": 2.5,
-    "games_prior": 4.0
-   },
-   "home_rest": 3.8,
-   "away_stats": {
-    "r_adj_off": 113.9,
-    "r_adj_def": 106.3,
-    "r_tempo": 65.5,
-    "r_efg_o": 50.613,
-    "r_efg_d": 50.026,
-    "r_tov_o": 18.316,
-    "r_tov_d": 16.231,
-    "r_orb_o": 38.289,
-    "r_orb_d": 29.523,
-    "r_ftr_o": 30.915,
-    "r_ftr_d": 45.533,
-    "r_three_rate_o": 0.544,
-    "prior_net": -18.3,
-    "games_prior": 6.0
-   },
-   "away_rest": 2.8,
-   "spread_play": {
-    "side": "away",
-    "edge": 7.9,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 7.9 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 4.1,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 4.1 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Morgan St Bears",
-   "away": "Cornell Big Red",
-   "home_school": "Morgan State",
-   "away_school": "Cornell",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 5.5,
-   "market_total": 160.5,
-   "ml_home": 215.0,
-   "ml_away": -265.0,
-   "enough_games": true,
-   "model_margin": 4.5,
-   "model_spread": -4.5,
-   "model_total": 158.2,
-   "home_win_prob": 0.645,
-   "drivers_spread": [
-    [
-     "Last season",
-     -1.8
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.8
-    ],
-    [
-     "Four factors",
-     0.4
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     4.3
-    ],
-    [
-     "Last season",
-     3.2
-    ],
-    [
-     "Four factors",
-     2.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     0.4
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 96.4,
-    "r_adj_def": 97.9,
-    "r_tempo": 73.2,
-    "r_efg_o": 44.762,
-    "r_efg_d": 45.251,
-    "r_tov_o": 18.145,
-    "r_tov_d": 20.739,
-    "r_orb_o": 33.217,
-    "r_orb_d": 28.874,
-    "r_ftr_o": 39.458,
-    "r_ftr_d": 40.402,
-    "r_three_rate_o": 0.313,
-    "prior_net": -24.1,
-    "games_prior": 6.0
-   },
-   "home_rest": 2.8,
-   "away_stats": {
-    "r_adj_off": 106.4,
-    "r_adj_def": 108.3,
-    "r_tempo": 73.3,
-    "r_efg_o": 53.5,
-    "r_efg_d": 49.357,
-    "r_tov_o": 18.907,
-    "r_tov_d": 14.774,
-    "r_orb_o": 31.662,
-    "r_orb_d": 30.918,
-    "r_ftr_o": 27.479,
-    "r_ftr_d": 40.798,
-    "r_three_rate_o": 0.561,
-    "prior_net": 1.4,
-    "games_prior": 5.0
-   },
-   "away_rest": 2.8,
-   "spread_play": {
-    "side": "home",
-    "edge": 10.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 10.0 (needs 10+)",
-    "grade": "B",
-    "move": 1
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 2.3,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.3 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Portland Pilots",
-   "away": "Fordham Rams",
-   "home_school": "Portland",
-   "away_school": "Fordham",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 5.5,
-   "market_total": 151.5,
-   "ml_home": 205.0,
-   "ml_away": -250.0,
-   "enough_games": true,
-   "model_margin": 6.1,
-   "model_spread": -6.1,
-   "model_total": 156.3,
-   "home_win_prob": 0.696,
-   "drivers_spread": [
-    [
-     "Elo",
-     1.1
-    ],
-    [
-     "Last season",
-     -1.1
-    ],
-    [
-     "Four factors",
-     1.0
-    ],
-    [
-     "Tempo",
-     -0.9
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     5.0
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     4.0
-    ],
-    [
-     "Four factors",
-     -1.7
-    ],
-    [
-     "Last season",
-     -1.3
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 119.4,
-    "r_adj_def": 99.3,
-    "r_tempo": 75.9,
-    "r_efg_o": 60.319,
-    "r_efg_d": 47.055,
-    "r_tov_o": 19.446,
-    "r_tov_d": 15.446,
-    "r_orb_o": 21.209,
-    "r_orb_d": 34.893,
-    "r_ftr_o": 49.899,
-    "r_ftr_d": 27.5,
-    "r_three_rate_o": 0.354,
-    "prior_net": -4.5,
-    "games_prior": 6.0
-   },
-   "home_rest": 2.7,
-   "away_stats": {
-    "r_adj_off": 110.5,
-    "r_adj_def": 101.4,
-    "r_tempo": 70.0,
-    "r_efg_o": 55.186,
-    "r_efg_d": 46.672,
-    "r_tov_o": 23.231,
-    "r_tov_d": 21.221,
-    "r_orb_o": 32.428,
-    "r_orb_d": 35.844,
-    "r_ftr_o": 34.711,
-    "r_ftr_d": 37.887,
-    "r_three_rate_o": 0.384,
-    "prior_net": 0.2,
-    "games_prior": 5.0
-   },
-   "away_rest": 3.8,
-   "spread_play": {
-    "side": "home",
-    "edge": 11.6,
-    "tier": "10+",
-    "tier_pts": 2,
-    "official": true,
-    "why_not": "",
-    "grade": "A",
-    "move": 1
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 4.8,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 4.8 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Syracuse Orange",
-   "away": "Lafayette Leopards",
-   "home_school": "Syracuse",
-   "away_school": "Lafayette",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -24.5,
-   "market_total": 144.5,
-   "ml_home": -100000.0,
-   "ml_away": 5000.0,
-   "enough_games": true,
-   "model_margin": 18.6,
-   "model_spread": -18.6,
-   "model_total": 147.4,
-   "home_win_prob": 0.94,
-   "drivers_spread": [
-    [
-     "Last season",
-     2.9
-    ],
-    [
-     "Four factors",
-     -0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Four factors",
-     -0.9
-    ],
-    [
-     "Tempo",
-     0.8
-    ],
-    [
-     "Last season",
-     -0.3
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 117.2,
-    "r_adj_def": 96.7,
-    "r_tempo": 70.7,
-    "r_efg_o": 56.139,
-    "r_efg_d": 49.032,
-    "r_tov_o": 15.986,
-    "r_tov_d": 18.8,
-    "r_orb_o": 24.861,
-    "r_orb_d": 29.179,
-    "r_ftr_o": 37.287,
-    "r_ftr_d": 29.398,
-    "r_three_rate_o": 0.351,
-    "prior_net": 10.8,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.8,
-   "away_stats": {
-    "r_adj_off": 98.7,
-    "r_adj_def": 105.8,
-    "r_tempo": 69.4,
-    "r_efg_o": 49.711,
-    "r_efg_d": 51.536,
-    "r_tov_o": 19.32,
-    "r_tov_d": 21.69,
-    "r_orb_o": 32.128,
-    "r_orb_d": 29.982,
-    "r_ftr_o": 27.872,
-    "r_ftr_d": 34.255,
-    "r_three_rate_o": 0.474,
-    "prior_net": -15.8,
-    "games_prior": 5.0
-   },
-   "away_rest": 2.8,
-   "spread_play": {
-    "side": "away",
-    "edge": 5.9,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 5.9 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 2.9,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.9 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Rider Broncs",
-   "away": "Navy Midshipmen",
-   "home_school": "Rider",
-   "away_school": "Navy",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 4.5,
-   "market_total": 138.5,
-   "ml_home": 185.0,
-   "ml_away": -225.0,
-   "enough_games": true,
-   "model_margin": -8.1,
-   "model_spread": 8.1,
-   "model_total": 139.4,
-   "home_win_prob": 0.25,
-   "drivers_spread": [
-    [
-     "Elo",
-     -4.1
-    ],
-    [
-     "Last season",
-     -2.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.8
-    ],
-    [
-     "Four factors",
-     -0.6
-    ],
-    [
-     "Tempo",
-     -0.2
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -5.2
-    ],
-    [
-     "Four factors",
-     -1.0
-    ],
-    [
-     "Last season",
-     -1.0
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 90.1,
-    "r_adj_def": 115.6,
-    "r_tempo": 69.3,
-    "r_efg_o": 39.15,
-    "r_efg_d": 52.373,
-    "r_tov_o": 18.407,
-    "r_tov_d": 16.511,
-    "r_orb_o": 38.391,
-    "r_orb_d": 31.881,
-    "r_ftr_o": 29.045,
-    "r_ftr_d": 41.547,
-    "r_three_rate_o": 0.317,
-    "prior_net": -25.4,
-    "games_prior": 6.0
-   },
-   "home_rest": 3.8,
-   "away_stats": {
-    "r_adj_off": 98.8,
-    "r_adj_def": 104.0,
-    "r_tempo": 67.7,
-    "r_efg_o": 46.02,
-    "r_efg_d": 51.47,
-    "r_tov_o": 20.282,
-    "r_tov_d": 20.244,
-    "r_orb_o": 30.353,
-    "r_orb_d": 27.63,
-    "r_ftr_o": 39.427,
-    "r_ftr_d": 29.423,
-    "r_three_rate_o": 0.442,
-    "prior_net": 1.3,
-    "games_prior": 6.0
-   },
-   "away_rest": 2.8,
-   "spread_play": {
-    "side": "away",
-    "edge": 3.6,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.6 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 0.9,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.9 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Wichita St Shockers",
-   "away": "New Mexico Lobos",
-   "home_school": "Wichita State",
-   "away_school": "New Mexico",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 1.5,
-   "market_total": 159.5,
-   "ml_home": 100.0,
-   "ml_away": -120.0,
-   "enough_games": true,
-   "model_margin": 3.8,
-   "model_spread": -3.8,
-   "model_total": 155.8,
-   "home_win_prob": 0.626,
-   "drivers_spread": [
-    [
-     "Last season",
-     -2.1
-    ],
-    [
-     "Four factors",
-     1.1
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ],
-    [
-     "Rest",
-     0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     3.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     3.0
-    ],
-    [
-     "Last season",
-     1.8
-    ],
-    [
-     "Four factors",
-     -1.2
-    ],
-    [
-     "Rest",
-     -0.4
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 121.3,
-    "r_adj_def": 99.1,
-    "r_tempo": 71.6,
-    "r_efg_o": 60.161,
-    "r_efg_d": 44.566,
-    "r_tov_o": 20.18,
-    "r_tov_d": 12.603,
-    "r_orb_o": 28.705,
-    "r_orb_d": 29.551,
-    "r_ftr_o": 43.619,
-    "r_ftr_d": 43.246,
-    "r_three_rate_o": 0.381,
-    "prior_net": 12.4,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.8,
-   "away_stats": {
-    "r_adj_off": 127.2,
-    "r_adj_def": 100.8,
-    "r_tempo": 71.2,
-    "r_efg_o": 56.612,
-    "r_efg_d": 50.828,
-    "r_tov_o": 10.066,
-    "r_tov_d": 20.572,
-    "r_orb_o": 33.564,
-    "r_orb_d": 25.785,
-    "r_ftr_o": 44.228,
-    "r_ftr_d": 38.753,
-    "r_three_rate_o": 0.469,
-    "prior_net": 18.3,
-    "games_prior": 4.0
-   },
-   "away_rest": 6.7,
-   "spread_play": {
-    "side": "home",
-    "edge": 5.3,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 5.3 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 3.7,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.7 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Saint Peter's Peacocks",
-   "away": "Stony Brook Seawolves",
-   "home_school": "Saint Peter's",
-   "away_school": "Stony Brook",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 4.5,
-   "market_total": 125.5,
-   "ml_home": 154.0,
-   "ml_away": -185.0,
-   "enough_games": true,
-   "model_margin": -10.9,
-   "model_spread": 10.9,
-   "model_total": 125.0,
-   "home_win_prob": 0.182,
-   "drivers_spread": [
-    [
-     "Elo",
-     -9.9
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     0.3
-    ],
-    [
-     "Tempo",
-     -0.3
-    ],
-    [
-     "Four factors",
-     0.2
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -10.0
-    ],
-    [
-     "Tempo",
-     -6.6
-    ],
-    [
-     "Four factors",
-     -1.1
-    ],
-    [
-     "Last season",
-     1.1
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 76.6,
-    "r_adj_def": 111.4,
-    "r_tempo": 61.0,
-    "r_efg_o": 36.42,
-    "r_efg_d": 51.511,
-    "r_tov_o": 22.632,
-    "r_tov_d": 20.159,
-    "r_orb_o": 34.652,
-    "r_orb_d": 25.706,
-    "r_ftr_o": 25.624,
-    "r_ftr_d": 61.299,
-    "r_three_rate_o": 0.444,
-    "prior_net": -7.6,
-    "games_prior": 5.0
-   },
-   "home_rest": 3.8,
-   "away_stats": {
-    "r_adj_off": 120.0,
-    "r_adj_def": 90.1,
-    "r_tempo": 67.4,
-    "r_efg_o": 53.436,
-    "r_efg_d": 47.539,
-    "r_tov_o": 12.293,
-    "r_tov_d": 22.241,
-    "r_orb_o": 33.285,
-    "r_orb_d": 24.764,
-    "r_ftr_o": 30.794,
-    "r_ftr_d": 20.467,
-    "r_three_rate_o": 0.421,
-    "prior_net": -6.5,
-    "games_prior": 4.0
-   },
-   "away_rest": 3.8,
-   "spread_play": {
-    "side": "away",
-    "edge": 6.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 6.4 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 0.5,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.5 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Wake Forest Demon Deacons",
-   "away": "Western Carolina Catamounts",
-   "home_school": "Wake Forest",
-   "away_school": "Western Carolina",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -15.5,
-   "market_total": 147.5,
-   "ml_home": -1650.0,
-   "ml_away": 950.0,
-   "enough_games": true,
-   "model_margin": 15.5,
-   "model_spread": -15.5,
-   "model_total": 148.7,
-   "home_win_prob": 0.903,
-   "drivers_spread": [
-    [
-     "Elo",
-     3.4
-    ],
-    [
-     "Last season",
-     1.6
-    ],
-    [
-     "Four factors",
-     -0.4
-    ],
-    [
-     "Tempo",
-     0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Four factors",
-     -1.1
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     0.8
-    ],
-    [
-     "Last season",
-     -0.1
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 116.2,
-    "r_adj_def": 99.2,
-    "r_tempo": 67.3,
-    "r_efg_o": 51.051,
-    "r_efg_d": 47.764,
-    "r_tov_o": 15.862,
-    "r_tov_d": 20.291,
-    "r_orb_o": 35.564,
-    "r_orb_d": 36.212,
-    "r_ftr_o": 41.401,
-    "r_ftr_d": 35.023,
-    "r_three_rate_o": 0.348,
-    "prior_net": 13.2,
-    "games_prior": 5.0
-   },
-   "home_rest": 3.8,
-   "away_stats": {
-    "r_adj_off": 117.7,
-    "r_adj_def": 108.0,
-    "r_tempo": 71.1,
-    "r_efg_o": 48.271,
-    "r_efg_d": 50.783,
-    "r_tov_o": 13.249,
-    "r_tov_d": 16.081,
-    "r_orb_o": 36.677,
-    "r_orb_d": 26.183,
-    "r_ftr_o": 37.939,
-    "r_ftr_d": 42.874,
-    "r_three_rate_o": 0.478,
-    "prior_net": -5.6,
-    "games_prior": 5.0
-   },
-   "away_rest": 3.8,
-   "spread_play": {
-    "side": "home",
-    "edge": 0.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.0 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 1.2,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.2 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Austin Peay Governors",
-   "away": "UT Rio Grande Valley Vaqueros",
-   "home_school": "Austin Peay",
-   "away_school": "UT Rio Grande Valley",
-   "kickoff": "2026-11-21T20:00:00Z",
-   "book": "betonlineag",
-   "neutral": false,
-   "market_spread": -8.0,
-   "market_total": 146.5,
-   "ml_home": null,
-   "ml_away": null,
-   "enough_games": true,
-   "model_margin": -0.5,
-   "model_spread": 0.5,
-   "model_total": 147.5,
-   "home_win_prob": 0.485,
-   "drivers_spread": [
-    [
-     "Last season",
-     -2.0
-    ],
-    [
-     "Elo",
-     -1.6
-    ],
-    [
-     "Four factors",
-     -1.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.2
-    ],
-    [
-     "Tempo",
-     -0.2
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -3.7
-    ],
-    [
-     "Tempo",
-     2.2
-    ],
-    [
-     "Four factors",
-     -0.5
-    ],
-    [
-     "Last season",
-     0.3
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 103.3,
-    "r_adj_def": 89.8,
-    "r_tempo": 73.5,
-    "r_efg_o": 43.789,
-    "r_efg_d": 48.144,
-    "r_tov_o": 13.447,
-    "r_tov_d": 23.955,
-    "r_orb_o": 27.754,
-    "r_orb_d": 25.624,
-    "r_ftr_o": 35.892,
-    "r_ftr_d": 26.248,
-    "r_three_rate_o": 0.368,
-    "prior_net": 0.0,
-    "games_prior": 4.0
-   },
-   "home_rest": 3.8,
-   "away_stats": {
-    "r_adj_off": 111.7,
-    "r_adj_def": 93.7,
-    "r_tempo": 71.0,
-    "r_efg_o": 47.743,
-    "r_efg_d": 44.125,
-    "r_tov_o": 15.732,
-    "r_tov_d": 24.646,
-    "r_orb_o": 41.18,
-    "r_orb_d": 27.927,
-    "r_ftr_o": 47.3,
-    "r_ftr_d": 40.387,
-    "r_three_rate_o": 0.338,
-    "prior_net": 4.3,
-    "games_prior": 5.0
-   },
-   "away_rest": 2.8,
-   "spread_play": {
-    "side": "away",
-    "edge": 8.5,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 8.5 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 1.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.0 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Missouri St Bears",
-   "away": "Drake Bulldogs",
-   "home_school": "Missouri State",
-   "away_school": "Drake",
-   "kickoff": "2026-11-21T20:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 3.5,
-   "market_total": 145.5,
-   "ml_home": 140.0,
-   "ml_away": -166.0,
-   "enough_games": true,
-   "model_margin": -0.8,
-   "model_spread": 0.8,
-   "model_total": 148.9,
-   "home_win_prob": 0.473,
-   "drivers_spread": [
-    [
-     "Elo",
-     -1.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.5
-    ],
-    [
-     "Four factors",
-     0.3
-    ],
-    [
-     "Rest",
-     0.2
-    ],
-    [
-     "Last season",
-     -0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Four factors",
-     -2.0
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -1.0
-    ],
-    [
-     "Last season",
-     0.9
-    ],
-    [
-     "Tempo",
-     0.6
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 116.5,
-    "r_adj_def": 91.4,
-    "r_tempo": 70.2,
-    "r_efg_o": 58.31,
-    "r_efg_d": 35.98,
-    "r_tov_o": 17.259,
-    "r_tov_d": 18.74,
-    "r_orb_o": 26.131,
-    "r_orb_d": 39.91,
-    "r_ftr_o": 37.801,
-    "r_ftr_d": 40.187,
-    "r_three_rate_o": 0.394,
-    "prior_net": -2.1,
-    "games_prior": 4.0
-   },
-   "home_rest": 4.8,
-   "away_stats": {
-    "r_adj_off": 116.5,
-    "r_adj_def": 101.9,
-    "r_tempo": 70.5,
-    "r_efg_o": 53.085,
-    "r_efg_d": 54.477,
-    "r_tov_o": 17.463,
-    "r_tov_d": 24.067,
-    "r_orb_o": 37.143,
-    "r_orb_d": 26.689,
-    "r_ftr_o": 51.269,
-    "r_ftr_d": 46.951,
-    "r_three_rate_o": 0.408,
-    "prior_net": -1.6,
-    "games_prior": 5.0
-   },
-   "away_rest": 1.8,
-   "spread_play": {
-    "side": "home",
-    "edge": 2.7,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.7 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 3.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 3.4 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Indiana St Sycamores",
-   "away": "Middle Tennessee Blue Raiders",
-   "home_school": "Indiana State",
-   "away_school": "Middle Tennessee",
-   "kickoff": "2026-11-21T20:00:00Z",
-   "book": "betonlineag",
-   "neutral": false,
-   "market_spread": 2.5,
-   "market_total": 150.5,
-   "ml_home": 120.0,
-   "ml_away": -140.0,
-   "enough_games": true,
-   "model_margin": 4.7,
-   "model_spread": -4.7,
-   "model_total": 151.9,
-   "home_win_prob": 0.652,
-   "drivers_spread": [
-    [
-     "Last season",
-     -1.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.9
-    ],
-    [
-     "Rest",
-     -0.3
-    ],
-    [
-     "Tempo",
-     -0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     2.2
-    ],
-    [
-     "Tempo",
-     1.5
-    ],
-    [
-     "Last season",
-     0.6
-    ],
-    [
-     "Rest",
-     -0.3
-    ],
-    [
-     "Four factors",
-     -0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 111.5,
-    "r_adj_def": 97.8,
-    "r_tempo": 71.8,
-    "r_efg_o": 52.701,
-    "r_efg_d": 48.941,
-    "r_tov_o": 14.816,
-    "r_tov_d": 22.053,
-    "r_orb_o": 26.815,
-    "r_orb_d": 28.052,
-    "r_ftr_o": 45.459,
-    "r_ftr_d": 47.515,
-    "r_three_rate_o": 0.383,
-    "prior_net": -1.5,
-    "games_prior": 5.0
-   },
-   "home_rest": 1.0,
-   "away_stats": {
-    "r_adj_off": 113.8,
-    "r_adj_def": 113.2,
-    "r_tempo": 69.8,
-    "r_efg_o": 54.054,
-    "r_efg_d": 54.237,
-    "r_tov_o": 15.717,
-    "r_tov_d": 17.149,
-    "r_orb_o": 30.374,
-    "r_orb_d": 31.599,
-    "r_ftr_o": 38.357,
-    "r_ftr_d": 32.238,
-    "r_three_rate_o": 0.401,
-    "prior_net": 0.7,
-    "games_prior": 6.0
-   },
-   "away_rest": 1.1,
-   "spread_play": {
-    "side": "home",
-    "edge": 7.2,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 7.2 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 1.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.4 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Binghamton Bearcats",
-   "away": "Army Knights",
-   "home_school": "Binghamton",
-   "away_school": "Army",
-   "kickoff": "2026-11-21T20:30:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": 1.5,
-   "market_total": 139.5,
-   "ml_home": 110.0,
-   "ml_away": -130.0,
-   "enough_games": true,
-   "model_margin": -2.8,
-   "model_spread": 2.8,
-   "model_total": 137.1,
-   "home_win_prob": 0.407,
-   "drivers_spread": [
-    [
-     "Elo",
-     -2.1
-    ],
-    [
-     "Last season",
-     -0.8
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     0.2
-    ],
-    [
-     "Four factors",
-     0.2
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -3.5
-    ],
-    [
-     "Tempo",
-     -2.6
-    ],
-    [
-     "Four factors",
-     1.2
-    ],
-    [
-     "Last season",
-     1.0
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 101.3,
-    "r_adj_def": 111.9,
-    "r_tempo": 64.7,
-    "r_efg_o": 52.173,
-    "r_efg_d": 50.633,
-    "r_tov_o": 19.435,
-    "r_tov_d": 15.477,
-    "r_orb_o": 28.586,
-    "r_orb_d": 31.825,
-    "r_ftr_o": 36.176,
-    "r_ftr_d": 41.966,
-    "r_three_rate_o": 0.325,
-    "prior_net": -26.8,
-    "games_prior": 6.0
-   },
-   "home_rest": 2.9,
-   "away_stats": {
-    "r_adj_off": 118.3,
-    "r_adj_def": 106.6,
-    "r_tempo": 65.2,
-    "r_efg_o": 56.152,
-    "r_efg_d": 52.693,
-    "r_tov_o": 15.411,
-    "r_tov_d": 15.721,
-    "r_orb_o": 28.717,
-    "r_orb_d": 23.185,
-    "r_ftr_o": 21.78,
-    "r_ftr_d": 38.347,
-    "r_three_rate_o": 0.488,
-    "prior_net": -19.7,
-    "games_prior": 5.0
-   },
-   "away_rest": 3.9,
-   "spread_play": {
-    "side": "away",
-    "edge": 1.3,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.3 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 2.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.4 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Jacksonville Dolphins",
-   "away": "Central Arkansas Bears",
-   "home_school": "Jacksonville",
-   "away_school": "Central Arkansas",
-   "kickoff": "2026-11-21T21:00:00Z",
-   "book": "betonlineag",
-   "neutral": false,
-   "market_spread": 2.5,
-   "market_total": 145.0,
-   "ml_home": null,
-   "ml_away": null,
-   "enough_games": true,
-   "model_margin": -4.9,
-   "model_spread": 4.9,
-   "model_total": 152.3,
-   "home_win_prob": 0.341,
-   "drivers_spread": [
-    [
-     "Elo",
-     -4.6
-    ],
-    [
-     "Last season",
-     -1.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.8
-    ],
-    [
-     "Tempo",
-     0.1
-    ],
-    [
-     "Rest",
-     0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     2.2
-    ],
-    [
-     "Four factors",
-     1.7
-    ],
-    [
-     "Tempo",
-     1.3
-    ],
-    [
-     "Last season",
-     0.3
-    ],
-    [
-     "Rest",
-     -0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 109.8,
-    "r_adj_def": 118.4,
-    "r_tempo": 67.4,
-    "r_efg_o": 48.619,
-    "r_efg_d": 48.524,
-    "r_tov_o": 13.861,
-    "r_tov_d": 14.416,
-    "r_orb_o": 31.744,
-    "r_orb_d": 30.245,
-    "r_ftr_o": 36.388,
-    "r_ftr_d": 52.303,
-    "r_three_rate_o": 0.416,
-    "prior_net": -12.2,
-    "games_prior": 5.0
-   },
-   "home_rest": 1.9,
-   "away_stats": {
-    "r_adj_off": 110.9,
-    "r_adj_def": 101.3,
-    "r_tempo": 72.9,
-    "r_efg_o": 54.526,
-    "r_efg_d": 55.068,
-    "r_tov_o": 21.042,
-    "r_tov_d": 18.421,
-    "r_orb_o": 29.269,
-    "r_orb_d": 25.07,
-    "r_ftr_o": 32.313,
-    "r_ftr_d": 24.892,
-    "r_three_rate_o": 0.533,
-    "prior_net": 0.7,
-    "games_prior": 5.0
-   },
-   "away_rest": 4.8,
-   "spread_play": {
-    "side": "away",
-    "edge": 2.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.4 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 7.3,
-    "tier": "5-10",
-    "tier_pts": 1,
-    "official": false,
-    "why_not": "overs never official (backtest)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "East Tennessee St Buccaneers",
-   "away": "Longwood Lancers",
-   "home_school": "East Tennessee State",
-   "away_school": "Longwood",
-   "kickoff": "2026-11-21T21:00:00Z",
-   "book": "betonlineag",
-   "neutral": false,
-   "market_spread": -6.0,
-   "market_total": 142.0,
-   "ml_home": null,
-   "ml_away": null,
-   "enough_games": true,
-   "model_margin": -2.6,
-   "model_spread": 2.6,
-   "model_total": 141.6,
-   "home_win_prob": 0.415,
-   "drivers_spread": [
-    [
-     "Elo",
-     -8.4
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.5
-    ],
-    [
-     "Tempo",
-     0.4
-    ],
-    [
-     "Four factors",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Efficiency (per 100 poss)",
-     -3.1
-    ],
-    [
-     "Last season",
-     0.8
-    ],
-    [
-     "Tempo",
-     -0.4
-    ],
-    [
-     "Four factors",
-     0.3
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 99.9,
-    "r_adj_def": 100.7,
-    "r_tempo": 63.0,
-    "r_efg_o": 51.138,
-    "r_efg_d": 47.943,
-    "r_tov_o": 21.222,
-    "r_tov_d": 17.366,
-    "r_orb_o": 30.361,
-    "r_orb_d": 33.905,
-    "r_ftr_o": 22.493,
-    "r_ftr_d": 24.814,
-    "r_three_rate_o": 0.437,
-    "prior_net": 2.0,
-    "games_prior": 4.0
-   },
-   "home_rest": 3.9,
-   "away_stats": {
-    "r_adj_off": 108.0,
-    "r_adj_def": 99.1,
-    "r_tempo": 75.1,
-    "r_efg_o": 53.909,
-    "r_efg_d": 45.155,
-    "r_tov_o": 18.11,
-    "r_tov_d": 19.376,
-    "r_orb_o": 30.552,
-    "r_orb_d": 27.46,
-    "r_ftr_o": 39.835,
-    "r_ftr_d": 39.288,
-    "r_three_rate_o": 0.486,
-    "prior_net": -9.1,
-    "games_prior": 6.0
-   },
-   "away_rest": 2.9,
-   "spread_play": {
-    "side": "away",
-    "edge": 8.6,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 8.6 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 0.4,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.4 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "George Mason Patriots",
-   "away": "South Florida Bulls",
-   "home_school": "George Mason",
-   "away_school": "South Florida",
-   "kickoff": "2026-11-21T21:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -2.5,
-   "market_total": 146.5,
-   "ml_home": -148.0,
-   "ml_away": 124.0,
-   "enough_games": true,
-   "model_margin": -0.4,
-   "model_spread": 0.4,
-   "model_total": 147.4,
-   "home_win_prob": 0.487,
-   "drivers_spread": [
-    [
-     "Last season",
-     -1.0
-    ],
-    [
-     "Elo",
-     -0.9
-    ],
-    [
-     "Four factors",
-     -0.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.5
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Four factors",
-     -1.2
-    ],
-    [
-     "Last season",
-     0.9
-    ],
-    [
-     "Tempo",
-     0.5
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.4
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 105.6,
-    "r_adj_def": 99.1,
-    "r_tempo": 65.7,
-    "r_efg_o": 51.13,
-    "r_efg_d": 46.043,
-    "r_tov_o": 17.352,
-    "r_tov_d": 22.521,
-    "r_orb_o": 32.107,
-    "r_orb_d": 22.687,
-    "r_ftr_o": 46.584,
-    "r_ftr_d": 29.231,
-    "r_three_rate_o": 0.314,
-    "prior_net": 7.9,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.9,
-   "away_stats": {
-    "r_adj_off": 116.6,
-    "r_adj_def": 106.5,
-    "r_tempo": 72.8,
-    "r_efg_o": 51.353,
-    "r_efg_d": 46.249,
-    "r_tov_o": 16.425,
-    "r_tov_d": 15.578,
-    "r_orb_o": 33.307,
-    "r_orb_d": 34.553,
-    "r_ftr_o": 40.35,
-    "r_ftr_d": 33.245,
-    "r_three_rate_o": 0.381,
-    "prior_net": 18.4,
-    "games_prior": 5.0
-   },
-   "away_rest": 3.9,
-   "spread_play": {
-    "side": "away",
-    "edge": 2.9,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 2.9 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 0.9,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 0.9 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "La Salle Explorers",
-   "away": "Pennsylvania Quakers",
-   "home_school": "La Salle",
-   "away_school": "Pennsylvania",
-   "kickoff": "2026-11-21T21:00:00Z",
-   "book": "draftkings",
-   "neutral": false,
-   "market_spread": -1.5,
-   "market_total": 161.5,
-   "ml_home": -130.0,
-   "ml_away": 110.0,
-   "enough_games": true,
-   "model_margin": -3.8,
-   "model_spread": 3.8,
-   "model_total": 151.0,
-   "home_win_prob": 0.374,
-   "drivers_spread": [
-    [
-     "Elo",
-     -2.2
-    ],
-    [
-     "Last season",
-     -1.0
-    ],
-    [
-     "Four factors",
-     -0.6
-    ],
-    [
-     "Rest",
-     0.6
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.3
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     2.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     1.6
-    ],
-    [
-     "Four factors",
-     -0.3
-    ],
-    [
-     "Last season",
-     -0.2
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 105.2,
-    "r_adj_def": 111.0,
-    "r_tempo": 70.7,
-    "r_efg_o": 46.655,
-    "r_efg_d": 51.538,
-    "r_tov_o": 20.373,
-    "r_tov_d": 17.231,
-    "r_orb_o": 40.439,
-    "r_orb_d": 31.947,
-    "r_ftr_o": 31.475,
-    "r_ftr_d": 43.552,
-    "r_three_rate_o": 0.49,
-    "prior_net": -6.3,
-    "games_prior": 5.0
-   },
-   "home_rest": 2.9,
-   "away_stats": {
-    "r_adj_off": 105.6,
-    "r_adj_def": 98.5,
-    "r_tempo": 74.8,
-    "r_efg_o": 48.353,
-    "r_efg_d": 51.58,
-    "r_tov_o": 15.524,
-    "r_tov_d": 22.681,
-    "r_orb_o": 34.349,
-    "r_orb_d": 28.88,
-    "r_ftr_o": 37.981,
-    "r_ftr_d": 27.82,
-    "r_three_rate_o": 0.436,
-    "prior_net": 0.5,
-    "games_prior": 5.0
-   },
-   "away_rest": 4.9,
-   "spread_play": {
-    "side": "away",
-    "edge": 5.3,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 5.3 (needs 10+)",
-    "grade": "B",
-    "move": 0
-   },
-   "total_play": {
-    "side": "under",
-    "edge": 10.5,
-    "tier": "10+",
-    "tier_pts": 2,
-    "official": true,
-    "why_not": "",
-    "grade": "A",
-    "move": 0
-   }
-  },
   {
    "home": "San Diego Toreros",
    "away": "UC Irvine Anteaters",
@@ -2916,9 +86,9 @@
    "book": "draftkings",
    "neutral": true,
    "market_spread": 4.5,
-   "market_total": 141.5,
-   "ml_home": 154.0,
-   "ml_away": -185.0,
+   "market_total": 134.5,
+   "ml_home": 164.0,
+   "ml_away": -198.0,
    "enough_games": true,
    "model_margin": -3.7,
    "model_spread": 3.7,
@@ -3009,12 +179,12 @@
     "move": 0
    },
    "total_play": {
-    "side": "under",
-    "edge": 1.5,
-    "tier": null,
-    "tier_pts": 0,
+    "side": "over",
+    "edge": 5.5,
+    "tier": "5-10",
+    "tier_pts": 1,
     "official": false,
-    "why_not": "edge 1.5 (needs 5+)",
+    "why_not": "overs never official (backtest)",
     "grade": "B",
     "move": 0
    }
@@ -3027,10 +197,10 @@
    "kickoff": "2026-11-21T22:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -6.5,
-   "market_total": 174.5,
-   "ml_home": -285.0,
-   "ml_away": 230.0,
+   "market_spread": -5.5,
+   "market_total": 173.5,
+   "ml_home": -238.0,
+   "ml_away": 195.0,
    "enough_games": true,
    "model_margin": 6.1,
    "model_spread": -6.1,
@@ -3111,18 +281,18 @@
    },
    "away_rest": 6.0,
    "spread_play": {
-    "side": "away",
-    "edge": 0.4,
+    "side": "home",
+    "edge": 0.6,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 0.4 (needs 10+)",
+    "why_not": "edge 0.6 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "under",
-    "edge": 14.8,
+    "edge": 13.8,
     "tier": "10+",
     "tier_pts": 2,
     "official": true,
@@ -3137,12 +307,12 @@
    "home_school": "Southern Miss",
    "away_school": "Nicholls",
    "kickoff": "2026-11-21T22:00:00Z",
-   "book": "betonlineag",
+   "book": "draftkings",
    "neutral": false,
-   "market_spread": -2.0,
-   "market_total": 143.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": -2.5,
+   "market_total": 141.5,
+   "ml_home": -148.0,
+   "ml_away": 124.0,
    "enough_games": true,
    "model_margin": 7.1,
    "model_spread": -7.1,
@@ -3212,21 +382,21 @@
    "away_rest": 3.9,
    "spread_play": {
     "side": "home",
-    "edge": 5.1,
+    "edge": 4.6,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 5.1 (needs 10+)",
+    "why_not": "edge 4.6 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "over",
-    "edge": 3.4,
-    "tier": null,
-    "tier_pts": 0,
+    "edge": 5.4,
+    "tier": "5-10",
+    "tier_pts": 1,
     "official": false,
-    "why_not": "edge 3.4 (needs 5+)",
+    "why_not": "overs never official (backtest)",
     "grade": "B",
     "move": 0
    }
@@ -3237,12 +407,12 @@
    "home_school": "Stonehill",
    "away_school": "Northeastern",
    "kickoff": "2026-11-21T22:00:00Z",
-   "book": "betonlineag",
+   "book": "draftkings",
    "neutral": false,
-   "market_spread": 7.0,
-   "market_total": 151.0,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": 9.5,
+   "market_total": 146.5,
+   "ml_home": 320.0,
+   "ml_away": -410.0,
    "enough_games": true,
    "model_margin": -4.7,
    "model_spread": 4.7,
@@ -3320,23 +490,23 @@
    "away_rest": 1.9,
    "spread_play": {
     "side": "home",
-    "edge": 2.3,
+    "edge": 4.8,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 2.3 (needs 10+)",
+    "why_not": "edge 4.8 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "under",
-    "edge": 5.0,
-    "tier": "5-10",
-    "tier_pts": 1,
-    "official": true,
-    "why_not": "",
+    "edge": 0.5,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 0.5 (needs 5+)",
     "grade": "B",
-    "move": 0
+    "move": 1
    }
   },
   {
@@ -3345,12 +515,12 @@
    "home_school": "Wofford",
    "away_school": "Winthrop",
    "kickoff": "2026-11-21T22:00:00Z",
-   "book": "betonlineag",
+   "book": "draftkings",
    "neutral": false,
-   "market_spread": -4.0,
-   "market_total": 165.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": -6.5,
+   "market_total": 161.5,
+   "ml_home": -270.0,
+   "ml_away": 220.0,
    "enough_games": true,
    "model_margin": 11.1,
    "model_spread": -11.1,
@@ -3432,21 +602,129 @@
    "away_rest": 2.9,
    "spread_play": {
     "side": "home",
-    "edge": 7.1,
+    "edge": 4.6,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 7.1 (needs 10+)",
+    "why_not": "edge 4.6 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "over",
-    "edge": 0.2,
+    "edge": 4.2,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 0.2 (needs 5+)",
+    "why_not": "edge 4.2 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "East Carolina Pirates",
+   "away": "Southern Illinois Salukis",
+   "home_school": "East Carolina",
+   "away_school": "Southern Illinois",
+   "kickoff": "2026-11-21T22:30:00Z",
+   "book": "draftkings",
+   "neutral": false,
+   "market_spread": 1.5,
+   "market_total": 153.5,
+   "ml_home": 100.0,
+   "ml_away": -120.0,
+   "enough_games": true,
+   "model_margin": 2.8,
+   "model_spread": -2.8,
+   "model_total": 149.3,
+   "home_win_prob": 0.592,
+   "drivers_spread": [
+    [
+     "Last season",
+     -2.6
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.3
+    ],
+    [
+     "Four factors",
+     0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Efficiency (per 100 poss)",
+     2.3
+    ],
+    [
+     "Last season",
+     -2.2
+    ],
+    [
+     "Four factors",
+     0.9
+    ],
+    [
+     "Tempo",
+     0.7
+    ],
+    [
+     "Rest",
+     -0.3
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 107.3,
+    "r_adj_def": 106.1,
+    "r_tempo": 70.7,
+    "r_efg_o": 51.311,
+    "r_efg_d": 46.201,
+    "r_tov_o": 17.19,
+    "r_tov_d": 24.141,
+    "r_orb_o": 30.053,
+    "r_orb_d": 35.199,
+    "r_ftr_o": 44.172,
+    "r_ftr_d": 50.207,
+    "r_three_rate_o": 0.497,
+    "prior_net": -8.6,
+    "games_prior": 5.0
+   },
+   "home_rest": 0.9,
+   "away_stats": {
+    "r_adj_off": 113.1,
+    "r_adj_def": 110.4,
+    "r_tempo": 70.3,
+    "r_efg_o": 52.529,
+    "r_efg_d": 51.313,
+    "r_tov_o": 15.078,
+    "r_tov_d": 15.869,
+    "r_orb_o": 27.197,
+    "r_orb_d": 32.471,
+    "r_ftr_o": 38.322,
+    "r_ftr_d": 39.645,
+    "r_three_rate_o": 0.499,
+    "prior_net": 5.2,
+    "games_prior": 5.0
+   },
+   "away_rest": 1.0,
+   "spread_play": {
+    "side": "home",
+    "edge": 4.3,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 4.3 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 4.2,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 4.2 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -3457,10 +735,10 @@
    "home_school": "Georgetown",
    "away_school": "Coppin State",
    "kickoff": "2026-11-21T23:00:00Z",
-   "book": "betonlineag",
+   "book": "draftkings",
    "neutral": false,
-   "market_spread": -32.0,
-   "market_total": 143.0,
+   "market_spread": -31.5,
+   "market_total": 143.5,
    "ml_home": null,
    "ml_away": null,
    "enough_games": true,
@@ -3544,21 +822,21 @@
    "away_rest": 3.0,
    "spread_play": {
     "side": "away",
-    "edge": 1.8,
+    "edge": 1.3,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.8 (needs 10+)",
+    "why_not": "edge 1.3 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "over",
-    "edge": 0.6,
+    "edge": 0.1,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 0.6 (needs 5+)",
+    "why_not": "edge 0.1 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -3572,9 +850,9 @@
    "book": "draftkings",
    "neutral": false,
    "market_spread": -12.5,
-   "market_total": 137.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_total": 138.5,
+   "ml_home": -800.0,
+   "ml_away": 550.0,
    "enough_games": true,
    "model_margin": 11.5,
    "model_spread": -11.5,
@@ -3658,11 +936,11 @@
    },
    "total_play": {
     "side": "under",
-    "edge": 1.2,
+    "edge": 2.2,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.2 (needs 5+)",
+    "why_not": "edge 2.2 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -3675,10 +953,10 @@
    "kickoff": "2026-11-21T23:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": 14.5,
-   "market_total": 150.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": 11.5,
+   "market_total": 149.5,
+   "ml_home": 600.0,
+   "ml_away": -900.0,
    "enough_games": true,
    "model_margin": -13.2,
    "model_spread": 13.2,
@@ -3755,22 +1033,22 @@
    },
    "away_rest": 3.0,
    "spread_play": {
-    "side": "home",
-    "edge": 1.3,
+    "side": "away",
+    "edge": 1.7,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.3 (needs 10+)",
+    "why_not": "edge 1.7 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "over",
-    "edge": 0.7,
+    "edge": 1.7,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 0.7 (needs 5+)",
+    "why_not": "edge 1.7 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -3784,9 +1062,9 @@
    "book": "draftkings",
    "neutral": false,
    "market_spread": -4.5,
-   "market_total": 134.5,
-   "ml_home": -180.0,
-   "ml_away": 150.0,
+   "market_total": 133.5,
+   "ml_home": -192.0,
+   "ml_away": 160.0,
    "enough_games": true,
    "model_margin": 15.6,
    "model_spread": -15.6,
@@ -3870,7 +1148,7 @@
    },
    "total_play": {
     "side": "over",
-    "edge": 5.8,
+    "edge": 6.8,
     "tier": "5-10",
     "tier_pts": 1,
     "official": false,
@@ -3887,10 +1165,10 @@
    "kickoff": "2026-11-22T00:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -7.5,
-   "market_total": 158.5,
-   "ml_home": -325.0,
-   "ml_away": 260.0,
+   "market_spread": -8.5,
+   "market_total": 154.5,
+   "ml_home": -375.0,
+   "ml_away": 295.0,
    "enough_games": true,
    "model_margin": 4.6,
    "model_spread": -4.6,
@@ -3976,23 +1254,23 @@
    "away_rest": 4.0,
    "spread_play": {
     "side": "away",
-    "edge": 2.9,
+    "edge": 3.9,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 2.9 (needs 10+)",
+    "why_not": "edge 3.9 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "under",
-    "edge": 7.4,
-    "tier": "5-10",
-    "tier_pts": 1,
-    "official": true,
-    "why_not": "",
+    "edge": 3.4,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 3.4 (needs 5+)",
     "grade": "B",
-    "move": -1
+    "move": 1
    }
   },
   {
@@ -4003,10 +1281,10 @@
    "kickoff": "2026-11-22T00:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -9.5,
-   "market_total": 158.5,
-   "ml_home": -410.0,
-   "ml_away": 320.0,
+   "market_spread": -8.5,
+   "market_total": 162.5,
+   "ml_home": -425.0,
+   "ml_away": 330.0,
    "enough_games": true,
    "model_margin": 8.5,
    "model_spread": -8.5,
@@ -4075,22 +1353,22 @@
    },
    "away_rest": 3.0,
    "spread_play": {
-    "side": "away",
-    "edge": 1.0,
+    "side": "home",
+    "edge": 0.0,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.0 (needs 10+)",
+    "why_not": "edge 0.0 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "under",
-    "edge": 1.0,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.0 (needs 5+)",
+    "edge": 5.0,
+    "tier": "5-10",
+    "tier_pts": 1,
+    "official": true,
+    "why_not": "",
     "grade": "B",
     "move": 0
    }
@@ -4101,12 +1379,12 @@
    "home_school": "Chattanooga",
    "away_school": "Radford",
    "kickoff": "2026-11-22T00:00:00Z",
-   "book": "betonlineag",
+   "book": "draftkings",
    "neutral": false,
-   "market_spread": -8.0,
-   "market_total": 156.0,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": -7.5,
+   "market_total": 150.5,
+   "ml_home": -355.0,
+   "ml_away": 280.0,
    "enough_games": true,
    "model_margin": 1.2,
    "model_spread": -1.2,
@@ -4176,21 +1454,21 @@
    "away_rest": 3.0,
    "spread_play": {
     "side": "away",
-    "edge": 6.8,
+    "edge": 6.3,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 6.8 (needs 10+)",
+    "why_not": "edge 6.3 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
-    "side": "under",
-    "edge": 3.9,
+    "side": "over",
+    "edge": 1.6,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 3.9 (needs 5+)",
+    "why_not": "edge 1.6 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -4203,14 +1481,14 @@
    "kickoff": "2026-11-22T00:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -12.5,
-   "market_total": 141.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": -11.5,
+   "market_total": 144.5,
+   "ml_home": -900.0,
+   "ml_away": 600.0,
    "enough_games": true,
    "model_margin": 7.9,
    "model_spread": -7.9,
-   "model_total": 148.4,
+   "model_total": 148.6,
    "home_win_prob": 0.746,
    "drivers_spread": [
     [
@@ -4229,7 +1507,7 @@
     ],
     [
      "Last season",
-     0.9
+     1.0
     ],
     [
      "Efficiency (per 100 poss)",
@@ -4276,21 +1554,21 @@
    "away_rest": 3.0,
    "spread_play": {
     "side": "away",
-    "edge": 4.6,
+    "edge": 3.6,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 4.6 (needs 10+)",
+    "why_not": "edge 3.6 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "over",
-    "edge": 6.9,
-    "tier": "5-10",
-    "tier_pts": 1,
+    "edge": 4.1,
+    "tier": null,
+    "tier_pts": 0,
     "official": false,
-    "why_not": "overs never official (backtest)",
+    "why_not": "edge 4.1 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -4303,10 +1581,10 @@
    "kickoff": "2026-11-22T00:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -8.5,
-   "market_total": 150.5,
-   "ml_home": -410.0,
-   "ml_away": 320.0,
+   "market_spread": -7.5,
+   "market_total": 146.5,
+   "ml_home": -355.0,
+   "ml_away": 280.0,
    "enough_games": true,
    "model_margin": 7.1,
    "model_spread": -7.1,
@@ -4388,23 +1666,23 @@
    "away_rest": 3.0,
    "spread_play": {
     "side": "away",
-    "edge": 1.4,
+    "edge": 0.4,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.4 (needs 10+)",
+    "why_not": "edge 0.4 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "under",
-    "edge": 7.7,
-    "tier": "5-10",
-    "tier_pts": 1,
-    "official": true,
-    "why_not": "",
+    "edge": 3.7,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 3.7 (needs 5+)",
     "grade": "B",
-    "move": 0
+    "move": 1
    }
   },
   {
@@ -4417,8 +1695,8 @@
    "neutral": false,
    "market_spread": 3.5,
    "market_total": 160.5,
-   "ml_home": 140.0,
-   "ml_away": -166.0,
+   "ml_home": 145.0,
+   "ml_away": -175.0,
    "enough_games": true,
    "model_margin": -3.4,
    "model_spread": 3.4,
@@ -4527,10 +1805,10 @@
    "kickoff": "2026-11-22T00:30:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -5.5,
-   "market_total": 164.5,
-   "ml_home": -225.0,
-   "ml_away": 185.0,
+   "market_spread": -7.5,
+   "market_total": 163.5,
+   "ml_home": -345.0,
+   "ml_away": 275.0,
    "enough_games": true,
    "model_margin": -0.5,
    "model_spread": 0.5,
@@ -4608,21 +1886,21 @@
    "away_rest": 3.0,
    "spread_play": {
     "side": "away",
-    "edge": 6.0,
+    "edge": 8.0,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 6.0 (needs 10+)",
+    "why_not": "edge 8.0 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "under",
-    "edge": 1.8,
+    "edge": 0.8,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.8 (needs 5+)",
+    "why_not": "edge 0.8 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -4637,8 +1915,8 @@
    "neutral": false,
    "market_spread": -3.5,
    "market_total": 141.5,
-   "ml_home": -166.0,
-   "ml_away": 140.0,
+   "ml_home": -155.0,
+   "ml_away": 130.0,
    "enough_games": true,
    "model_margin": -3.9,
    "model_spread": 3.9,
@@ -4740,9 +2018,9 @@
    "book": "draftkings",
    "neutral": false,
    "market_spread": 4.5,
-   "market_total": 138.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_total": 136.5,
+   "ml_home": 160.0,
+   "ml_away": -192.0,
    "enough_games": true,
    "model_margin": 2.1,
    "model_spread": -2.1,
@@ -4818,119 +2096,11 @@
    },
    "total_play": {
     "side": "over",
-    "edge": 1.8,
+    "edge": 3.8,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.8 (needs 5+)",
-    "grade": "B",
-    "move": 0
-   }
-  },
-  {
-   "home": "Texas Southern Tigers",
-   "away": "LSU Tigers",
-   "home_school": "Texas Southern",
-   "away_school": "LSU",
-   "kickoff": "2026-11-22T01:30:00Z",
-   "book": "betonlineag",
-   "neutral": false,
-   "market_spread": -1.0,
-   "market_total": 160.0,
-   "ml_home": null,
-   "ml_away": null,
-   "enough_games": true,
-   "model_margin": -11.0,
-   "model_spread": 11.0,
-   "model_total": 161.8,
-   "home_win_prob": 0.179,
-   "drivers_spread": [
-    [
-     "Last season",
-     -3.5
-    ],
-    [
-     "Tempo",
-     -0.3
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     -0.2
-    ],
-    [
-     "Four factors",
-     -0.1
-    ]
-   ],
-   "drivers_total": [
-    [
-     "Tempo",
-     7.0
-    ],
-    [
-     "Last season",
-     3.2
-    ],
-    [
-     "Efficiency (per 100 poss)",
-     2.7
-    ],
-    [
-     "Four factors",
-     -1.4
-    ]
-   ],
-   "home_stats": {
-    "r_adj_off": 100.4,
-    "r_adj_def": 119.7,
-    "r_tempo": 77.3,
-    "r_efg_o": 45.931,
-    "r_efg_d": 55.259,
-    "r_tov_o": 19.567,
-    "r_tov_d": 15.876,
-    "r_orb_o": 30.382,
-    "r_orb_d": 38.492,
-    "r_ftr_o": 40.028,
-    "r_ftr_d": 42.608,
-    "r_three_rate_o": 0.319,
-    "prior_net": -16.6,
-    "games_prior": 6.0
-   },
-   "home_rest": 2.9,
-   "away_stats": {
-    "r_adj_off": 117.1,
-    "r_adj_def": 87.2,
-    "r_tempo": 73.7,
-    "r_efg_o": 55.313,
-    "r_efg_d": 38.432,
-    "r_tov_o": 18.62,
-    "r_tov_d": 20.112,
-    "r_orb_o": 31.048,
-    "r_orb_d": 38.68,
-    "r_ftr_o": 38.926,
-    "r_ftr_d": 34.486,
-    "r_three_rate_o": 0.407,
-    "prior_net": 13.1,
-    "games_prior": 5.0
-   },
-   "away_rest": 3.0,
-   "spread_play": {
-    "side": "away",
-    "edge": 12.0,
-    "tier": "10+",
-    "tier_pts": 2,
-    "official": true,
-    "why_not": "",
-    "grade": "A",
-    "move": 0
-   },
-   "total_play": {
-    "side": "over",
-    "edge": 1.8,
-    "tier": null,
-    "tier_pts": 0,
-    "official": false,
-    "why_not": "edge 1.8 (needs 5+)",
+    "why_not": "edge 3.8 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -4944,9 +2114,9 @@
    "book": "draftkings",
    "neutral": false,
    "market_spread": -1.5,
-   "market_total": 160.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_total": 154.5,
+   "ml_home": -120.0,
+   "ml_away": 100.0,
    "enough_games": true,
    "model_margin": -5.0,
    "model_spread": 5.0,
@@ -5037,12 +2207,12 @@
     "move": 0
    },
    "total_play": {
-    "side": "under",
-    "edge": 1.2,
+    "side": "over",
+    "edge": 4.8,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 1.2 (needs 5+)",
+    "why_not": "edge 4.8 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -5055,10 +2225,10 @@
    "kickoff": "2026-11-22T03:00:00Z",
    "book": "draftkings",
    "neutral": false,
-   "market_spread": -9.5,
-   "market_total": 125.5,
-   "ml_home": null,
-   "ml_away": null,
+   "market_spread": -8.5,
+   "market_total": 130.5,
+   "ml_home": -395.0,
+   "ml_away": 310.0,
    "enough_games": true,
    "model_margin": 17.5,
    "model_spread": -17.5,
@@ -5144,21 +2314,21 @@
    "away_rest": 3.1,
    "spread_play": {
     "side": "home",
-    "edge": 8.0,
+    "edge": 9.0,
     "tier": null,
     "tier_pts": 0,
     "official": false,
-    "why_not": "edge 8.0 (needs 10+)",
+    "why_not": "edge 9.0 (needs 10+)",
     "grade": "B",
     "move": 0
    },
    "total_play": {
     "side": "over",
-    "edge": 6.4,
-    "tier": "5-10",
-    "tier_pts": 1,
+    "edge": 1.4,
+    "tier": null,
+    "tier_pts": 0,
     "official": false,
-    "why_not": "overs never official (backtest)",
+    "why_not": "edge 1.4 (needs 5+)",
     "grade": "B",
     "move": 0
    }
@@ -5172,9 +2342,9 @@
    "book": "draftkings",
    "neutral": false,
    "market_spread": -25.5,
-   "market_total": 150.5,
-   "ml_home": -50000.0,
-   "ml_away": 4000.0,
+   "market_total": 149.5,
+   "ml_home": -8000.0,
+   "ml_away": 2200.0,
    "enough_games": true,
    "model_margin": 20.5,
    "model_spread": -20.5,
@@ -5262,7 +2432,7 @@
    },
    "total_play": {
     "side": "over",
-    "edge": 6.0,
+    "edge": 7.0,
     "tier": "5-10",
     "tier_pts": 1,
     "official": false,
@@ -5270,49 +2440,2077 @@
     "grade": "B",
     "move": 0
    }
+  },
+  {
+   "home": "Nebraska Cornhuskers",
+   "away": "Butler Bulldogs",
+   "home_school": "Nebraska",
+   "away_school": "Butler",
+   "kickoff": "2026-11-22T17:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -11.5,
+   "market_total": 153.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 17.7,
+   "model_spread": -17.7,
+   "model_total": 155.8,
+   "home_win_prob": 0.931,
+   "drivers_spread": [
+    [
+     "Last season",
+     2.1
+    ],
+    [
+     "Four factors",
+     0.8
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Last season",
+     2.8
+    ],
+    [
+     "Four factors",
+     2.7
+    ],
+    [
+     "Tempo",
+     2.1
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     0.8
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 122.1,
+    "r_adj_def": 84.7,
+    "r_tempo": 70.5,
+    "r_efg_o": 62.219,
+    "r_efg_d": 41.963,
+    "r_tov_o": 19.73,
+    "r_tov_d": 23.0,
+    "r_orb_o": 23.676,
+    "r_orb_d": 34.366,
+    "r_ftr_o": 44.119,
+    "r_ftr_d": 24.203,
+    "r_three_rate_o": 0.481,
+    "prior_net": 28.1,
+    "games_prior": 5.0
+   },
+   "home_rest": 3.6,
+   "away_stats": {
+    "r_adj_off": 113.8,
+    "r_adj_def": 102.7,
+    "r_tempo": 72.2,
+    "r_efg_o": 53.211,
+    "r_efg_d": 47.102,
+    "r_tov_o": 18.927,
+    "r_tov_d": 17.57,
+    "r_orb_o": 33.091,
+    "r_orb_d": 35.02,
+    "r_ftr_o": 33.688,
+    "r_ftr_d": 27.071,
+    "r_three_rate_o": 0.573,
+    "prior_net": 10.9,
+    "games_prior": 6.0
+   },
+   "away_rest": 2.7,
+   "spread_play": {
+    "side": "home",
+    "edge": 6.2,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 6.2 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 2.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 2.8 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "UIC Flames",
+   "away": "Miami (OH) RedHawks",
+   "home_school": "UIC",
+   "away_school": "Miami (OH)",
+   "kickoff": "2026-11-22T17:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -1.0,
+   "market_total": 147.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 8.3,
+   "model_spread": -8.3,
+   "model_total": 144.2,
+   "home_win_prob": 0.757,
+   "drivers_spread": [
+    [
+     "Last season",
+     -1.8
+    ],
+    [
+     "Four factors",
+     0.9
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Tempo",
+     -3.3
+    ],
+    [
+     "Last season",
+     1.3
+    ],
+    [
+     "Four factors",
+     -0.8
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 114.1,
+    "r_adj_def": 99.9,
+    "r_tempo": 63.1,
+    "r_efg_o": 49.341,
+    "r_efg_d": 48.877,
+    "r_tov_o": 14.88,
+    "r_tov_d": 25.173,
+    "r_orb_o": 37.697,
+    "r_orb_d": 38.523,
+    "r_ftr_o": 44.435,
+    "r_ftr_d": 22.576,
+    "r_three_rate_o": 0.391,
+    "prior_net": 4.8,
+    "games_prior": 5.0
+   },
+   "home_rest": 3.7,
+   "away_stats": {
+    "r_adj_off": 113.5,
+    "r_adj_def": 103.4,
+    "r_tempo": 72.1,
+    "r_efg_o": 59.43,
+    "r_efg_d": 48.612,
+    "r_tov_o": 18.864,
+    "r_tov_d": 14.762,
+    "r_orb_o": 24.364,
+    "r_orb_d": 33.78,
+    "r_ftr_o": 36.97,
+    "r_ftr_d": 24.692,
+    "r_three_rate_o": 0.511,
+    "prior_net": 10.0,
+    "games_prior": 4.0
+   },
+   "away_rest": 3.7,
+   "spread_play": {
+    "side": "home",
+    "edge": 7.3,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 7.3 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 2.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 2.8 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Canisius Golden Griffins",
+   "away": "Western Illinois Leathernecks",
+   "home_school": "Canisius",
+   "away_school": "Western Illinois",
+   "kickoff": "2026-11-22T18:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -4.0,
+   "market_total": 138.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 11.7,
+   "model_spread": -11.7,
+   "model_total": 137.3,
+   "home_win_prob": 0.837,
+   "drivers_spread": [
+    [
+     "Four factors",
+     -0.6
+    ],
+    [
+     "Rest",
+     0.6
+    ],
+    [
+     "Tempo",
+     -0.2
+    ],
+    [
+     "Last season",
+     -0.1
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Four factors",
+     -2.5
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -2.3
+    ],
+    [
+     "Last season",
+     -2.3
+    ],
+    [
+     "Tempo",
+     -1.6
+    ],
+    [
+     "Rest",
+     -0.9
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 100.6,
+    "r_adj_def": 111.5,
+    "r_tempo": 68.4,
+    "r_efg_o": 51.558,
+    "r_efg_d": 51.34,
+    "r_tov_o": 17.384,
+    "r_tov_d": 16.792,
+    "r_orb_o": 25.729,
+    "r_orb_d": 31.318,
+    "r_ftr_o": 36.652,
+    "r_ftr_d": 30.374,
+    "r_three_rate_o": 0.42,
+    "prior_net": -21.1,
+    "games_prior": 6.0
+   },
+   "home_rest": 1.8,
+   "away_stats": {
+    "r_adj_off": 98.1,
+    "r_adj_def": 113.8,
+    "r_tempo": 67.1,
+    "r_efg_o": 45.868,
+    "r_efg_d": 52.925,
+    "r_tov_o": 21.207,
+    "r_tov_d": 16.047,
+    "r_orb_o": 32.888,
+    "r_orb_d": 29.451,
+    "r_ftr_o": 43.775,
+    "r_ftr_d": 38.556,
+    "r_three_rate_o": 0.309,
+    "prior_net": -30.2,
+    "games_prior": 7.0
+   },
+   "away_rest": 1.0,
+   "spread_play": {
+    "side": "home",
+    "edge": 7.7,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 7.7 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 1.2,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 1.2 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Northwestern Wildcats",
+   "away": "Dayton Flyers",
+   "home_school": "Northwestern",
+   "away_school": "Dayton",
+   "kickoff": "2026-11-22T18:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 3.0,
+   "market_total": 136.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 7.5,
+   "model_spread": -7.5,
+   "model_total": 139.6,
+   "home_win_prob": 0.735,
+   "drivers_spread": [
+    [
+     "Four factors",
+     0.9
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Tempo",
+     -2.9
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -2.8
+    ],
+    [
+     "Four factors",
+     -0.3
+    ],
+    [
+     "Last season",
+     0.3
+    ],
+    [
+     "Rest",
+     -0.1
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 101.9,
+    "r_adj_def": 109.7,
+    "r_tempo": 63.9,
+    "r_efg_o": 48.997,
+    "r_efg_d": 49.879,
+    "r_tov_o": 15.444,
+    "r_tov_d": 18.63,
+    "r_orb_o": 29.757,
+    "r_orb_d": 33.038,
+    "r_ftr_o": 28.236,
+    "r_ftr_d": 35.405,
+    "r_three_rate_o": 0.424,
+    "prior_net": 13.7,
+    "games_prior": 6.0
+   },
+   "home_rest": 1.9,
+   "away_stats": {
+    "r_adj_off": 111.5,
+    "r_adj_def": 104.0,
+    "r_tempo": 68.9,
+    "r_efg_o": 57.31,
+    "r_efg_d": 46.809,
+    "r_tov_o": 21.015,
+    "r_tov_d": 18.427,
+    "r_orb_o": 23.663,
+    "r_orb_d": 36.778,
+    "r_ftr_o": 43.424,
+    "r_ftr_d": 37.443,
+    "r_three_rate_o": 0.411,
+    "prior_net": 12.3,
+    "games_prior": 6.0
+   },
+   "away_rest": 1.8,
+   "spread_play": {
+    "side": "home",
+    "edge": 10.5,
+    "tier": "10+",
+    "tier_pts": 2,
+    "official": true,
+    "why_not": "",
+    "grade": "A",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 3.1,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 3.1 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Wyoming Cowboys",
+   "away": "Duquesne Dukes",
+   "home_school": "Wyoming",
+   "away_school": "Duquesne",
+   "kickoff": "2026-11-22T19:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -4.0,
+   "market_total": 140.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 11.4,
+   "model_spread": -11.4,
+   "model_total": 134.7,
+   "home_win_prob": 0.829,
+   "drivers_spread": [
+    [
+     "Tempo",
+     -0.6
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.2
+    ],
+    [
+     "Last season",
+     -0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Efficiency (per 100 poss)",
+     -5.4
+    ],
+    [
+     "Tempo",
+     -3.1
+    ],
+    [
+     "Four factors",
+     -1.7
+    ],
+    [
+     "Last season",
+     1.2
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 117.0,
+    "r_adj_def": 90.8,
+    "r_tempo": 67.6,
+    "r_efg_o": 50.678,
+    "r_efg_d": 47.643,
+    "r_tov_o": 16.883,
+    "r_tov_d": 18.227,
+    "r_orb_o": 37.676,
+    "r_orb_d": 30.78,
+    "r_ftr_o": 32.562,
+    "r_ftr_d": 35.015,
+    "r_three_rate_o": 0.386,
+    "prior_net": 8.3,
+    "games_prior": 5.0
+   },
+   "home_rest": 4.7,
+   "away_stats": {
+    "r_adj_off": 108.2,
+    "r_adj_def": 104.0,
+    "r_tempo": 64.7,
+    "r_efg_o": 54.066,
+    "r_efg_d": 50.955,
+    "r_tov_o": 17.89,
+    "r_tov_d": 20.952,
+    "r_orb_o": 30.049,
+    "r_orb_d": 28.815,
+    "r_ftr_o": 61.614,
+    "r_ftr_d": 28.101,
+    "r_three_rate_o": 0.356,
+    "prior_net": 3.6,
+    "games_prior": 5.0
+   },
+   "away_rest": 3.8,
+   "spread_play": {
+    "side": "home",
+    "edge": 7.4,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 7.4 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 5.8,
+    "tier": "5-10",
+    "tier_pts": 1,
+    "official": true,
+    "why_not": "",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Memphis Tigers",
+   "away": "Evansville Purple Aces",
+   "home_school": "Memphis",
+   "away_school": "Evansville",
+   "kickoff": "2026-11-22T19:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -21.0,
+   "market_total": 159.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 17.2,
+   "model_spread": -17.2,
+   "model_total": 153.0,
+   "home_win_prob": 0.924,
+   "drivers_spread": [
+    [
+     "Last season",
+     1.6
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.8
+    ],
+    [
+     "Tempo",
+     -0.3
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Efficiency (per 100 poss)",
+     3.3
+    ],
+    [
+     "Tempo",
+     1.1
+    ],
+    [
+     "Four factors",
+     -0.8
+    ],
+    [
+     "Last season",
+     -0.4
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 138.9,
+    "r_adj_def": 100.1,
+    "r_tempo": 71.0,
+    "r_efg_o": 59.206,
+    "r_efg_d": 52.094,
+    "r_tov_o": 14.393,
+    "r_tov_d": 16.437,
+    "r_orb_o": 26.02,
+    "r_orb_d": 37.416,
+    "r_ftr_o": 56.748,
+    "r_ftr_d": 45.716,
+    "r_three_rate_o": 0.369,
+    "prior_net": 3.9,
+    "games_prior": 3.0
+   },
+   "home_rest": 7.0,
+   "away_stats": {
+    "r_adj_off": 107.9,
+    "r_adj_def": 107.7,
+    "r_tempo": 68.6,
+    "r_efg_o": 50.327,
+    "r_efg_d": 56.96,
+    "r_tov_o": 14.533,
+    "r_tov_d": 20.049,
+    "r_orb_o": 33.296,
+    "r_orb_d": 20.672,
+    "r_ftr_o": 28.501,
+    "r_ftr_d": 39.091,
+    "r_three_rate_o": 0.487,
+    "prior_net": -13.0,
+    "games_prior": 5.0
+   },
+   "away_rest": 4.8,
+   "spread_play": {
+    "side": "away",
+    "edge": 3.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 3.8 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 6.5,
+    "tier": "5-10",
+    "tier_pts": 1,
+    "official": true,
+    "why_not": "",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Fordham Rams",
+   "away": "San Diego Toreros",
+   "home_school": "Fordham",
+   "away_school": "San Diego",
+   "kickoff": "2026-11-22T19:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -3.5,
+   "market_total": 145.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 3.8,
+   "model_spread": -3.8,
+   "model_total": 143.7,
+   "home_win_prob": 0.623,
+   "drivers_spread": [
+    [
+     "Tempo",
+     -0.3
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.2
+    ],
+    [
+     "Four factors",
+     0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Four factors",
+     -2.9
+    ],
+    [
+     "Last season",
+     -1.4
+    ],
+    [
+     "Tempo",
+     -0.9
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 110.5,
+    "r_adj_def": 101.4,
+    "r_tempo": 70.0,
+    "r_efg_o": 55.186,
+    "r_efg_d": 46.672,
+    "r_tov_o": 23.231,
+    "r_tov_d": 21.221,
+    "r_orb_o": 32.428,
+    "r_orb_d": 35.844,
+    "r_ftr_o": 34.711,
+    "r_ftr_d": 37.887,
+    "r_three_rate_o": 0.384,
+    "prior_net": 0.2,
+    "games_prior": 5.0
+   },
+   "home_rest": 4.8,
+   "away_stats": {
+    "r_adj_off": 116.3,
+    "r_adj_def": 108.2,
+    "r_tempo": 66.7,
+    "r_efg_o": 54.064,
+    "r_efg_d": 52.734,
+    "r_tov_o": 16.702,
+    "r_tov_d": 22.52,
+    "r_orb_o": 32.68,
+    "r_orb_d": 34.822,
+    "r_ftr_o": 43.32,
+    "r_ftr_d": 48.936,
+    "r_three_rate_o": 0.358,
+    "prior_net": -5.5,
+    "games_prior": 5.0
+   },
+   "away_rest": 3.7,
+   "spread_play": {
+    "side": "home",
+    "edge": 0.3,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 0.3 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 1.3,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 1.3 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "South Dakota Coyotes",
+   "away": "Utah Tech Trailblazers",
+   "home_school": "South Dakota",
+   "away_school": "Utah Tech",
+   "kickoff": "2026-11-22T19:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 1.5,
+   "market_total": 157.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 2.1,
+   "model_spread": -2.1,
+   "model_total": 155.2,
+   "home_win_prob": 0.569,
+   "drivers_spread": [
+    [
+     "Last season",
+     -1.3
+    ],
+    [
+     "Four factors",
+     -0.7
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.3
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Efficiency (per 100 poss)",
+     3.1
+    ],
+    [
+     "Tempo",
+     1.7
+    ],
+    [
+     "Four factors",
+     -0.7
+    ],
+    [
+     "Last season",
+     0.2
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 108.2,
+    "r_adj_def": 107.3,
+    "r_tempo": 70.2,
+    "r_efg_o": 54.202,
+    "r_efg_d": 55.276,
+    "r_tov_o": 20.868,
+    "r_tov_d": 18.855,
+    "r_orb_o": 27.37,
+    "r_orb_d": 26.441,
+    "r_ftr_o": 46.299,
+    "r_ftr_d": 41.38,
+    "r_three_rate_o": 0.444,
+    "prior_net": -11.4,
+    "games_prior": 7.0
+   },
+   "home_rest": 3.7,
+   "away_stats": {
+    "r_adj_off": 116.7,
+    "r_adj_def": 113.8,
+    "r_tempo": 70.6,
+    "r_efg_o": 53.325,
+    "r_efg_d": 52.031,
+    "r_tov_o": 16.988,
+    "r_tov_d": 14.874,
+    "r_orb_o": 30.654,
+    "r_orb_d": 37.544,
+    "r_ftr_o": 25.754,
+    "r_ftr_d": 24.647,
+    "r_three_rate_o": 0.377,
+    "prior_net": -2.5,
+    "games_prior": 5.0
+   },
+   "away_rest": 2.7,
+   "spread_play": {
+    "side": "home",
+    "edge": 3.6,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 3.6 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 1.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 1.8 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Youngstown St Penguins",
+   "away": "William & Mary Tribe",
+   "home_school": "Youngstown State",
+   "away_school": "William & Mary",
+   "kickoff": "2026-11-22T19:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 2.0,
+   "market_total": 166.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": -0.2,
+   "model_spread": 0.2,
+   "model_total": 155.6,
+   "home_win_prob": 0.494,
+   "drivers_spread": [
+    [
+     "Last season",
+     -1.0
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     0.3
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Tempo",
+     5.4
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     2.5
+    ],
+    [
+     "Four factors",
+     -1.5
+    ],
+    [
+     "Last season",
+     0.5
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 98.0,
+    "r_adj_def": 111.8,
+    "r_tempo": 72.0,
+    "r_efg_o": 48.518,
+    "r_efg_d": 54.274,
+    "r_tov_o": 19.051,
+    "r_tov_d": 17.204,
+    "r_orb_o": 30.687,
+    "r_orb_d": 26.209,
+    "r_ftr_o": 43.354,
+    "r_ftr_d": 47.24,
+    "r_three_rate_o": 0.417,
+    "prior_net": -3.9,
+    "games_prior": 5.0
+   },
+   "home_rest": 3.8,
+   "away_stats": {
+    "r_adj_off": 118.0,
+    "r_adj_def": 96.8,
+    "r_tempo": 75.4,
+    "r_efg_o": 55.391,
+    "r_efg_d": 47.168,
+    "r_tov_o": 17.872,
+    "r_tov_d": 20.396,
+    "r_orb_o": 28.737,
+    "r_orb_d": 33.463,
+    "r_ftr_o": 44.981,
+    "r_ftr_d": 28.311,
+    "r_three_rate_o": 0.407,
+    "prior_net": 2.7,
+    "games_prior": 6.0
+   },
+   "away_rest": 2.1,
+   "spread_play": {
+    "side": "home",
+    "edge": 1.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 1.8 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 10.9,
+    "tier": "10+",
+    "tier_pts": 2,
+    "official": true,
+    "why_not": "",
+    "grade": "A",
+    "move": 0
+   }
+  },
+  {
+   "home": "New Mexico St Aggies",
+   "away": "Robert Morris Colonials",
+   "home_school": "New Mexico State",
+   "away_school": "Robert Morris",
+   "kickoff": "2026-11-22T19:30:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -2.5,
+   "market_total": 137.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 0.6,
+   "model_spread": -0.6,
+   "model_total": 139.9,
+   "home_win_prob": 0.52,
+   "drivers_spread": [
+    [
+     "Last season",
+     -0.8
+    ],
+    [
+     "Four factors",
+     -0.6
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.3
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Four factors",
+     -2.8
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -2.7
+    ],
+    [
+     "Tempo",
+     -2.7
+    ],
+    [
+     "Last season",
+     0.5
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 104.5,
+    "r_adj_def": 118.5,
+    "r_tempo": 66.1,
+    "r_efg_o": 47.08,
+    "r_efg_d": 51.093,
+    "r_tov_o": 26.514,
+    "r_tov_d": 13.799,
+    "r_orb_o": 30.775,
+    "r_orb_d": 36.939,
+    "r_ftr_o": 50.691,
+    "r_ftr_d": 47.251,
+    "r_three_rate_o": 0.453,
+    "prior_net": -0.9,
+    "games_prior": 5.0
+   },
+   "home_rest": 2.7,
+   "away_stats": {
+    "r_adj_off": 103.2,
+    "r_adj_def": 101.3,
+    "r_tempo": 67.6,
+    "r_efg_o": 49.343,
+    "r_efg_d": 48.082,
+    "r_tov_o": 19.634,
+    "r_tov_d": 15.083,
+    "r_orb_o": 28.723,
+    "r_orb_d": 34.101,
+    "r_ftr_o": 28.708,
+    "r_ftr_d": 33.772,
+    "r_three_rate_o": 0.432,
+    "prior_net": 1.6,
+    "games_prior": 5.0
+   },
+   "away_rest": 2.8,
+   "spread_play": {
+    "side": "away",
+    "edge": 1.9,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 1.9 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 2.4,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 2.4 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Texas Longhorns",
+   "away": "Southern Indiana Screaming Eagles",
+   "home_school": "Texas",
+   "away_school": "Southern Indiana",
+   "kickoff": "2026-11-22T20:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -39.5,
+   "market_total": 148.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 23.3,
+   "model_spread": -23.3,
+   "model_total": 147.3,
+   "home_win_prob": 0.974,
+   "drivers_spread": [
+    [
+     "Last season",
+     4.1
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     0.4
+    ],
+    [
+     "Four factors",
+     0.3
+    ],
+    [
+     "Tempo",
+     0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Four factors",
+     -1.6
+    ],
+    [
+     "Tempo",
+     0.3
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.2
+    ],
+    [
+     "Last season",
+     -0.1
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 125.4,
+    "r_adj_def": 93.5,
+    "r_tempo": 70.9,
+    "r_efg_o": 60.757,
+    "r_efg_d": 45.042,
+    "r_tov_o": 14.896,
+    "r_tov_d": 22.408,
+    "r_orb_o": 29.76,
+    "r_orb_d": 38.002,
+    "r_ftr_o": 52.721,
+    "r_ftr_d": 30.557,
+    "r_three_rate_o": 0.292,
+    "prior_net": 19.8,
+    "games_prior": 5.0
+   },
+   "home_rest": 2.8,
+   "away_stats": {
+    "r_adj_off": 103.0,
+    "r_adj_def": 104.4,
+    "r_tempo": 70.0,
+    "r_efg_o": 48.943,
+    "r_efg_d": 51.058,
+    "r_tov_o": 15.815,
+    "r_tov_d": 17.978,
+    "r_orb_o": 32.901,
+    "r_orb_d": 29.08,
+    "r_ftr_o": 33.421,
+    "r_ftr_d": 28.769,
+    "r_three_rate_o": 0.358,
+    "prior_net": -18.5,
+    "games_prior": 6.0
+   },
+   "away_rest": 3.8,
+   "spread_play": {
+    "side": "away",
+    "edge": 16.2,
+    "tier": "10+",
+    "tier_pts": 2,
+    "official": false,
+    "why_not": "spread 39.5+ (faded)",
+    "grade": "A",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 1.2,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 1.2 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Oklahoma St Cowboys",
+   "away": "Virginia Tech Hokies",
+   "home_school": "Oklahoma State",
+   "away_school": "Virginia Tech",
+   "kickoff": "2026-11-22T20:30:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 1.0,
+   "market_total": 158.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": -0.8,
+   "model_spread": 0.8,
+   "model_total": 155.0,
+   "home_win_prob": 0.475,
+   "drivers_spread": [
+    [
+     "Last season",
+     -1.1
+    ],
+    [
+     "Four factors",
+     -0.4
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.2
+    ],
+    [
+     "Tempo",
+     -0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Last season",
+     3.7
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     2.4
+    ],
+    [
+     "Tempo",
+     2.2
+    ],
+    [
+     "Four factors",
+     -0.6
+    ],
+    [
+     "Rest",
+     -0.3
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 122.3,
+    "r_adj_def": 100.9,
+    "r_tempo": 71.9,
+    "r_efg_o": 54.152,
+    "r_efg_d": 52.884,
+    "r_tov_o": 17.881,
+    "r_tov_d": 24.364,
+    "r_orb_o": 41.054,
+    "r_orb_d": 29.833,
+    "r_ftr_o": 37.056,
+    "r_ftr_d": 39.61,
+    "r_three_rate_o": 0.442,
+    "prior_net": 11.0,
+    "games_prior": 5.0
+   },
+   "home_rest": 2.1,
+   "away_stats": {
+    "r_adj_off": 123.5,
+    "r_adj_def": 94.7,
+    "r_tempo": 70.0,
+    "r_efg_o": 56.183,
+    "r_efg_d": 50.164,
+    "r_tov_o": 13.66,
+    "r_tov_d": 25.053,
+    "r_orb_o": 37.68,
+    "r_orb_d": 26.304,
+    "r_ftr_o": 36.929,
+    "r_ftr_d": 38.169,
+    "r_three_rate_o": 0.419,
+    "prior_net": 14.9,
+    "games_prior": 5.0
+   },
+   "away_rest": 2.0,
+   "spread_play": {
+    "side": "home",
+    "edge": 0.2,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 0.2 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 3.0,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 3.0 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Richmond Spiders",
+   "away": "Liberty Flames",
+   "home_school": "Richmond",
+   "away_school": "Liberty",
+   "kickoff": "2026-11-22T21:30:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 0.0,
+   "market_total": 143.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 2.9,
+   "model_spread": -2.9,
+   "model_total": 148.0,
+   "home_win_prob": 0.595,
+   "drivers_spread": [
+    [
+     "Last season",
+     -2.1
+    ],
+    [
+     "Tempo",
+     -1.5
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Last season",
+     0.9
+    ],
+    [
+     "Four factors",
+     -0.8
+    ],
+    [
+     "Tempo",
+     -0.4
+    ],
+    [
+     "Rest",
+     -0.2
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 112.9,
+    "r_adj_def": 101.1,
+    "r_tempo": 71.1,
+    "r_efg_o": 56.297,
+    "r_efg_d": 51.254,
+    "r_tov_o": 19.446,
+    "r_tov_d": 21.68,
+    "r_orb_o": 27.692,
+    "r_orb_d": 28.531,
+    "r_ftr_o": 24.966,
+    "r_ftr_d": 34.042,
+    "r_three_rate_o": 0.339,
+    "prior_net": 2.1,
+    "games_prior": 6.0
+   },
+   "home_rest": 1.9,
+   "away_stats": {
+    "r_adj_off": 122.6,
+    "r_adj_def": 105.8,
+    "r_tempo": 66.1,
+    "r_efg_o": 55.675,
+    "r_efg_d": 49.686,
+    "r_tov_o": 11.79,
+    "r_tov_d": 17.721,
+    "r_orb_o": 29.047,
+    "r_orb_d": 29.895,
+    "r_ftr_o": 30.408,
+    "r_ftr_d": 30.168,
+    "r_three_rate_o": 0.382,
+    "prior_net": 5.6,
+    "games_prior": 5.0
+   },
+   "away_rest": 2.0,
+   "spread_play": {
+    "side": "home",
+    "edge": 2.9,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 2.9 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 4.5,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 4.5 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Loyola Marymount Lions",
+   "away": "UC Irvine Anteaters",
+   "home_school": "Loyola Marymount",
+   "away_school": "UC Irvine",
+   "kickoff": "2026-11-22T21:30:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 4.0,
+   "market_total": 139.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 2.1,
+   "model_spread": -2.1,
+   "model_total": 140.2,
+   "home_win_prob": 0.569,
+   "drivers_spread": [
+    [
+     "Last season",
+     -1.4
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.2
+    ],
+    [
+     "Four factors",
+     -0.1
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Last season",
+     -2.3
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -2.2
+    ],
+    [
+     "Four factors",
+     -0.7
+    ],
+    [
+     "Tempo",
+     -0.3
+    ],
+    [
+     "Rest",
+     0.2
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 119.5,
+    "r_adj_def": 103.2,
+    "r_tempo": 66.5,
+    "r_efg_o": 55.934,
+    "r_efg_d": 47.122,
+    "r_tov_o": 14.072,
+    "r_tov_d": 16.493,
+    "r_orb_o": 34.077,
+    "r_orb_d": 28.201,
+    "r_ftr_o": 21.604,
+    "r_ftr_d": 35.81,
+    "r_three_rate_o": 0.503,
+    "prior_net": -0.1,
+    "games_prior": 5.0
+   },
+   "home_rest": 7.0,
+   "away_stats": {
+    "r_adj_off": 114.4,
+    "r_adj_def": 84.5,
+    "r_tempo": 70.8,
+    "r_efg_o": 49.52,
+    "r_efg_d": 42.051,
+    "r_tov_o": 17.439,
+    "r_tov_d": 15.932,
+    "r_orb_o": 36.137,
+    "r_orb_d": 27.393,
+    "r_ftr_o": 33.492,
+    "r_ftr_d": 23.673,
+    "r_three_rate_o": 0.272,
+    "prior_net": 4.9,
+    "games_prior": 4.0
+   },
+   "away_rest": 4.8,
+   "spread_play": {
+    "side": "home",
+    "edge": 6.1,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 6.1 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 0.7,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 0.7 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Stephen F. Austin Lumberjacks",
+   "away": "Temple Owls",
+   "home_school": "Stephen F. Austin",
+   "away_school": "Temple",
+   "kickoff": "2026-11-22T22:30:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 1.5,
+   "market_total": 146.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 4.3,
+   "model_spread": -4.3,
+   "model_total": 148.3,
+   "home_win_prob": 0.642,
+   "drivers_spread": [
+    [
+     "Tempo",
+     -0.7
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.6
+    ],
+    [
+     "Four factors",
+     0.2
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Tempo",
+     0.6
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     0.3
+    ],
+    [
+     "Four factors",
+     -0.3
+    ],
+    [
+     "Last season",
+     0.2
+    ],
+    [
+     "Rest",
+     -0.2
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 119.9,
+    "r_adj_def": 94.6,
+    "r_tempo": 70.8,
+    "r_efg_o": 55.302,
+    "r_efg_d": 45.154,
+    "r_tov_o": 16.024,
+    "r_tov_d": 20.612,
+    "r_orb_o": 31.426,
+    "r_orb_d": 26.858,
+    "r_ftr_o": 42.515,
+    "r_ftr_d": 48.814,
+    "r_three_rate_o": 0.385,
+    "prior_net": 8.9,
+    "games_prior": 5.0
+   },
+   "home_rest": 2.1,
+   "away_stats": {
+    "r_adj_off": 111.1,
+    "r_adj_def": 112.3,
+    "r_tempo": 67.8,
+    "r_efg_o": 52.421,
+    "r_efg_d": 54.372,
+    "r_tov_o": 13.963,
+    "r_tov_d": 18.936,
+    "r_orb_o": 32.822,
+    "r_orb_d": 28.341,
+    "r_ftr_o": 29.732,
+    "r_ftr_d": 35.664,
+    "r_three_rate_o": 0.447,
+    "prior_net": 0.3,
+    "games_prior": 5.0
+   },
+   "away_rest": 2.2,
+   "spread_play": {
+    "side": "home",
+    "edge": 5.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 5.8 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 2.3,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 2.3 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Minnesota Golden Gophers",
+   "away": "Utah Utes",
+   "home_school": "Minnesota",
+   "away_school": "Utah",
+   "kickoff": "2026-11-22T23:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -10.5,
+   "market_total": 131.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 9.7,
+   "model_spread": -9.7,
+   "model_total": 135.1,
+   "home_win_prob": 0.79,
+   "drivers_spread": [
+    [
+     "Efficiency (per 100 poss)",
+     -0.3
+    ],
+    [
+     "Four factors",
+     -0.1
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Efficiency (per 100 poss)",
+     -6.2
+    ],
+    [
+     "Tempo",
+     -5.3
+    ],
+    [
+     "Last season",
+     0.6
+    ],
+    [
+     "Rest",
+     -0.2
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 126.7,
+    "r_adj_def": 96.6,
+    "r_tempo": 65.6,
+    "r_efg_o": 63.301,
+    "r_efg_d": 43.966,
+    "r_tov_o": 18.787,
+    "r_tov_d": 16.963,
+    "r_orb_o": 26.23,
+    "r_orb_d": 34.452,
+    "r_ftr_o": 29.004,
+    "r_ftr_d": 31.613,
+    "r_three_rate_o": 0.478,
+    "prior_net": 11.2,
+    "games_prior": 6.0
+   },
+   "home_rest": 2.2,
+   "away_stats": {
+    "r_adj_off": 99.4,
+    "r_adj_def": 96.6,
+    "r_tempo": 66.0,
+    "r_efg_o": 47.473,
+    "r_efg_d": 49.942,
+    "r_tov_o": 20.359,
+    "r_tov_d": 20.476,
+    "r_orb_o": 30.898,
+    "r_orb_d": 26.041,
+    "r_ftr_o": 41.255,
+    "r_ftr_d": 32.792,
+    "r_three_rate_o": 0.47,
+    "prior_net": 4.6,
+    "games_prior": 5.0
+   },
+   "away_rest": 2.0,
+   "spread_play": {
+    "side": "away",
+    "edge": 0.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 0.8 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 4.1,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 4.1 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Southern Miss Golden Eagles",
+   "away": "Valparaiso Beacons",
+   "home_school": "Southern Miss",
+   "away_school": "Valparaiso",
+   "kickoff": "2026-11-22T23:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": 8.0,
+   "market_total": 145.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": -4.0,
+   "model_spread": 4.0,
+   "model_total": 145.8,
+   "home_win_prob": 0.369,
+   "drivers_spread": [
+    [
+     "Four factors",
+     -1.0
+    ],
+    [
+     "Last season",
+     -1.0
+    ],
+    [
+     "Tempo",
+     -0.7
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Four factors",
+     -2.2
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.8
+    ],
+    [
+     "Tempo",
+     0.3
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 101.2,
+    "r_adj_def": 108.9,
+    "r_tempo": 73.1,
+    "r_efg_o": 47.877,
+    "r_efg_d": 51.228,
+    "r_tov_o": 21.071,
+    "r_tov_d": 21.549,
+    "r_orb_o": 31.869,
+    "r_orb_d": 31.792,
+    "r_ftr_o": 61.317,
+    "r_ftr_d": 51.034,
+    "r_three_rate_o": 0.329,
+    "prior_net": -5.3,
+    "games_prior": 6.0
+   },
+   "home_rest": 2.9,
+   "away_stats": {
+    "r_adj_off": 117.2,
+    "r_adj_def": 85.2,
+    "r_tempo": 68.5,
+    "r_efg_o": 50.801,
+    "r_efg_d": 40.236,
+    "r_tov_o": 12.053,
+    "r_tov_d": 18.923,
+    "r_orb_o": 30.474,
+    "r_orb_d": 27.011,
+    "r_ftr_o": 57.615,
+    "r_ftr_d": 36.691,
+    "r_three_rate_o": 0.352,
+    "prior_net": 0.4,
+    "games_prior": 4.0
+   },
+   "away_rest": 5.9,
+   "spread_play": {
+    "side": "home",
+    "edge": 4.0,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 4.0 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 0.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 0.8 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "UCLA Bruins",
+   "away": "Delaware Blue Hens",
+   "home_school": "UCLA",
+   "away_school": "Delaware",
+   "kickoff": "2026-11-23T00:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -29.0,
+   "market_total": 146.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 21.2,
+   "model_spread": -21.2,
+   "model_total": 151.7,
+   "home_win_prob": 0.962,
+   "drivers_spread": [
+    [
+     "Last season",
+     4.6
+    ],
+    [
+     "Four factors",
+     0.9
+    ],
+    [
+     "Tempo",
+     -0.5
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Tempo",
+     1.6
+    ],
+    [
+     "Last season",
+     1.0
+    ],
+    [
+     "Four factors",
+     -0.7
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 131.1,
+    "r_adj_def": 87.8,
+    "r_tempo": 71.8,
+    "r_efg_o": 56.985,
+    "r_efg_d": 44.812,
+    "r_tov_o": 11.872,
+    "r_tov_d": 25.373,
+    "r_orb_o": 34.381,
+    "r_orb_d": 32.382,
+    "r_ftr_o": 37.983,
+    "r_ftr_d": 29.556,
+    "r_three_rate_o": 0.372,
+    "prior_net": 21.7,
+    "games_prior": 5.0
+   },
+   "home_rest": 3.9,
+   "away_stats": {
+    "r_adj_off": 113.4,
+    "r_adj_def": 90.9,
+    "r_tempo": 68.9,
+    "r_efg_o": 52.767,
+    "r_efg_d": 40.888,
+    "r_tov_o": 14.639,
+    "r_tov_d": 15.007,
+    "r_orb_o": 27.81,
+    "r_orb_d": 35.813,
+    "r_ftr_o": 28.756,
+    "r_ftr_d": 33.856,
+    "r_three_rate_o": 0.387,
+    "prior_net": -12.0,
+    "games_prior": 6.0
+   },
+   "away_rest": 2.0,
+   "spread_play": {
+    "side": "away",
+    "edge": 7.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 7.8 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "over",
+    "edge": 5.7,
+    "tier": "5-10",
+    "tier_pts": 1,
+    "official": false,
+    "why_not": "overs never official (backtest)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "Rhode Island Rams",
+   "away": "UAB Blazers",
+   "home_school": "Rhode Island",
+   "away_school": "UAB",
+   "kickoff": "2026-11-23T00:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -2.0,
+   "market_total": 149.5,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 9.1,
+   "model_spread": -9.1,
+   "model_total": 147.5,
+   "home_win_prob": 0.776,
+   "drivers_spread": [
+    [
+     "Last season",
+     -1.1
+    ],
+    [
+     "Four factors",
+     0.3
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Last season",
+     -1.0
+    ],
+    [
+     "Four factors",
+     -0.7
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.3
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 111.9,
+    "r_adj_def": 102.4,
+    "r_tempo": 66.5,
+    "r_efg_o": 50.273,
+    "r_efg_d": 46.259,
+    "r_tov_o": 15.788,
+    "r_tov_d": 17.451,
+    "r_orb_o": 32.981,
+    "r_orb_d": 28.463,
+    "r_ftr_o": 47.391,
+    "r_ftr_d": 39.854,
+    "r_three_rate_o": 0.446,
+    "prior_net": 2.9,
+    "games_prior": 6.0
+   },
+   "home_rest": 2.1,
+   "away_stats": {
+    "r_adj_off": 115.7,
+    "r_adj_def": 108.4,
+    "r_tempo": 70.6,
+    "r_efg_o": 51.395,
+    "r_efg_d": 48.98,
+    "r_tov_o": 14.198,
+    "r_tov_d": 15.932,
+    "r_orb_o": 31.236,
+    "r_orb_d": 38.248,
+    "r_ftr_o": 37.697,
+    "r_ftr_d": 27.702,
+    "r_three_rate_o": 0.328,
+    "prior_net": 5.2,
+    "games_prior": 6.0
+   },
+   "away_rest": 2.2,
+   "spread_play": {
+    "side": "home",
+    "edge": 7.1,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 7.1 (needs 10+)",
+    "grade": "B",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 2.0,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 2.0 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
+  },
+  {
+   "home": "USC Trojans",
+   "away": "Louisiana Ragin' Cajuns",
+   "home_school": "USC",
+   "away_school": "Louisiana",
+   "kickoff": "2026-11-23T01:00:00Z",
+   "book": "betonlineag",
+   "neutral": false,
+   "market_spread": -32.0,
+   "market_total": 146.0,
+   "ml_home": null,
+   "ml_away": null,
+   "enough_games": true,
+   "model_margin": 15.2,
+   "model_spread": -15.2,
+   "model_total": 141.2,
+   "home_win_prob": 0.899,
+   "drivers_spread": [
+    [
+     "Last season",
+     2.2
+    ],
+    [
+     "Tempo",
+     -1.2
+    ],
+    [
+     "Efficiency (per 100 poss)",
+     -0.8
+    ]
+   ],
+   "drivers_total": [
+    [
+     "Efficiency (per 100 poss)",
+     -2.6
+    ],
+    [
+     "Four factors",
+     -1.9
+    ],
+    [
+     "Tempo",
+     0.9
+    ],
+    [
+     "Last season",
+     0.3
+    ]
+   ],
+   "home_stats": {
+    "r_adj_off": 133.1,
+    "r_adj_def": 84.2,
+    "r_tempo": 72.9,
+    "r_efg_o": 60.544,
+    "r_efg_d": 38.742,
+    "r_tov_o": 15.873,
+    "r_tov_d": 21.424,
+    "r_orb_o": 27.093,
+    "r_orb_d": 33.559,
+    "r_ftr_o": 51.175,
+    "r_ftr_d": 40.671,
+    "r_three_rate_o": 0.372,
+    "prior_net": 10.8,
+    "games_prior": 5.0
+   },
+   "home_rest": 2.9,
+   "away_stats": {
+    "r_adj_off": 87.9,
+    "r_adj_def": 94.0,
+    "r_tempo": 67.3,
+    "r_efg_o": 37.444,
+    "r_efg_d": 51.189,
+    "r_tov_o": 20.07,
+    "r_tov_d": 26.746,
+    "r_orb_o": 33.235,
+    "r_orb_d": 20.02,
+    "r_ftr_o": 43.354,
+    "r_ftr_d": 69.591,
+    "r_three_rate_o": 0.464,
+    "prior_net": -15.1,
+    "games_prior": 4.0
+   },
+   "away_rest": 3.9,
+   "spread_play": {
+    "side": "away",
+    "edge": 16.8,
+    "tier": "10+",
+    "tier_pts": 2,
+    "official": false,
+    "why_not": "spread 32+ (faded)",
+    "grade": "A",
+    "move": 0
+   },
+   "total_play": {
+    "side": "under",
+    "edge": 4.8,
+    "tier": null,
+    "tier_pts": 0,
+    "official": false,
+    "why_not": "edge 4.8 (needs 5+)",
+    "grade": "B",
+    "move": 0
+   }
   }
  ],
  "spreads": [
-  {
-   "market": "spread",
-   "home": "Texas Southern Tigers",
-   "away": "LSU Tigers",
-   "home_cbbd": "Texas Southern",
-   "away_cbbd": "LSU",
-   "kickoff": "2026-11-22T01:30:00Z",
-   "side": "away",
-   "line": -1.0,
-   "model": 11.0,
-   "edge": 12.0,
-   "tier": "10+",
-   "tier_pts": 2,
-   "official": true,
-   "why_not": "",
-   "grade": "A",
-   "move": 0,
-   "cover_prob": 0.842,
-   "new": true
-  },
-  {
-   "market": "spread",
-   "home": "Portland Pilots",
-   "away": "Fordham Rams",
-   "home_cbbd": "Portland",
-   "away_cbbd": "Fordham",
-   "kickoff": "2026-11-21T19:00:00Z",
-   "side": "home",
-   "line": 5.5,
-   "model": -6.1,
-   "edge": 11.6,
-   "tier": "10+",
-   "tier_pts": 2,
-   "official": true,
-   "why_not": "",
-   "grade": "A",
-   "move": 1,
-   "cover_prob": 0.834,
-   "new": false
-  },
   {
    "market": "spread",
    "home": "Vermont Catamounts",
@@ -5331,20 +4529,18 @@
    "grade": "A",
    "move": 0,
    "cover_prob": 0.823,
-   "new": true
-  }
- ],
- "totals": [
+   "new": false
+  },
   {
-   "market": "total",
-   "home": "La Salle Explorers",
-   "away": "Pennsylvania Quakers",
-   "home_cbbd": "La Salle",
-   "away_cbbd": "Pennsylvania",
-   "kickoff": "2026-11-21T21:00:00Z",
-   "side": "under",
-   "line": 161.5,
-   "model": 151.0,
+   "market": "spread",
+   "home": "Northwestern Wildcats",
+   "away": "Dayton Flyers",
+   "home_cbbd": "Northwestern",
+   "away_cbbd": "Dayton",
+   "kickoff": "2026-11-22T18:00:00Z",
+   "side": "home",
+   "line": 3.0,
+   "model": -7.5,
    "edge": 10.5,
    "tier": "10+",
    "tier_pts": 2,
@@ -5352,19 +4548,22 @@
    "why_not": "",
    "grade": "A",
    "move": 0,
-   "new": false
-  },
+   "cover_prob": 0.81,
+   "new": true
+  }
+ ],
+ "totals": [
   {
    "market": "total",
-   "home": "LSU Tigers",
-   "away": "Queens University Royals",
-   "home_cbbd": "LSU",
-   "away_cbbd": "Queens University",
-   "kickoff": "2026-11-21T18:00:00Z",
+   "home": "Youngstown St Penguins",
+   "away": "William & Mary Tribe",
+   "home_cbbd": "Youngstown State",
+   "away_cbbd": "William & Mary",
+   "kickoff": "2026-11-22T19:00:00Z",
    "side": "under",
-   "line": 171.5,
-   "model": 161.2,
-   "edge": 10.3,
+   "line": 166.5,
+   "model": 155.6,
+   "edge": 10.9,
    "tier": "10+",
    "tier_pts": 2,
    "official": true,
@@ -5381,9 +4580,9 @@
    "away_cbbd": "Air Force",
    "kickoff": "2026-11-21T22:00:00Z",
    "side": "under",
-   "line": 174.5,
+   "line": 173.5,
    "model": 159.7,
-   "edge": 14.8,
+   "edge": 13.8,
    "tier": "10+",
    "tier_pts": 2,
    "official": true,
@@ -5394,15 +4593,15 @@
   },
   {
    "market": "total",
-   "home": "VMI Keydets",
-   "away": "Gardner-Webb Bulldogs",
-   "home_cbbd": "VMI",
-   "away_cbbd": "Gardner-Webb",
-   "kickoff": "2026-11-22T00:00:00Z",
+   "home": "Memphis Tigers",
+   "away": "Evansville Purple Aces",
+   "home_cbbd": "Memphis",
+   "away_cbbd": "Evansville",
+   "kickoff": "2026-11-22T19:00:00Z",
    "side": "under",
-   "line": 150.5,
-   "model": 142.8,
-   "edge": 7.7,
+   "line": 159.5,
+   "model": 153.0,
+   "edge": 6.5,
    "tier": "5-10",
    "tier_pts": 1,
    "official": true,
@@ -5413,33 +4612,33 @@
   },
   {
    "market": "total",
-   "home": "Cal Poly Mustangs",
-   "away": "Northern Arizona Lumberjacks",
-   "home_cbbd": "Cal Poly",
-   "away_cbbd": "Northern Arizona",
-   "kickoff": "2026-11-22T00:00:00Z",
+   "home": "Wyoming Cowboys",
+   "away": "Duquesne Dukes",
+   "home_cbbd": "Wyoming",
+   "away_cbbd": "Duquesne",
+   "kickoff": "2026-11-22T19:00:00Z",
    "side": "under",
-   "line": 158.5,
-   "model": 151.1,
-   "edge": 7.4,
+   "line": 140.5,
+   "model": 134.7,
+   "edge": 5.8,
    "tier": "5-10",
    "tier_pts": 1,
    "official": true,
    "why_not": "",
    "grade": "B",
-   "move": -1,
-   "new": false
+   "move": 0,
+   "new": true
   },
   {
    "market": "total",
-   "home": "Stonehill Skyhawks",
-   "away": "Northeastern Huskies",
-   "home_cbbd": "Stonehill",
-   "away_cbbd": "Northeastern",
-   "kickoff": "2026-11-21T22:00:00Z",
+   "home": "Mercer Bears",
+   "away": "Charleston Southern Buccaneers",
+   "home_cbbd": "Mercer",
+   "away_cbbd": "Charleston Southern",
+   "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
-   "line": 151.0,
-   "model": 146.0,
+   "line": 162.5,
+   "model": 157.5,
    "edge": 5.0,
    "tier": "5-10",
    "tier_pts": 1,
@@ -5459,13 +4658,45 @@
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
+   "line": 9.5,
+   "player": "J.P. Estrella",
+   "prop_market": "Rebounds",
+   "athleteId": 307,
+   "model": 7.7,
+   "price": -135,
+   "edge": 37.5,
+   "tier": "30+",
+   "tier_pts": 1,
+   "official": true,
+   "why_not": "",
+   "grade": "A",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.79,
+   "minutes": 26.1,
+   "avg": 8.7,
+   "games": 4,
+   "book": "fanduel",
+   "new": true
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
    "line": 8.5,
    "player": "Moustapha Thiam",
    "prop_market": "Rebounds",
    "athleteId": 333,
    "model": 7.2,
-   "price": -111,
-   "edge": 37.9,
+   "price": -120,
+   "edge": 33.0,
    "tier": "30+",
    "tier_pts": 1,
    "official": true,
@@ -5480,7 +4711,7 @@
    "minutes": 22.5,
    "avg": 8.1,
    "games": 3,
-   "book": "betonlineag",
+   "book": "fanduel",
    "new": false
   },
   {
@@ -5491,13 +4722,45 @@
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
-   "line": 4.5,
-   "player": "Trey McKenney",
+   "line": 3.5,
+   "player": "Jake Fiegen",
+   "prop_market": "Threes",
+   "athleteId": 2370,
+   "model": 2.6,
+   "price": -192,
+   "edge": 22.8,
+   "tier": "20-30",
+   "tier_pts": 1,
+   "official": true,
+   "why_not": "",
+   "grade": "A",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.807,
+   "minutes": 29.5,
+   "avg": 3.4,
+   "games": 5,
+   "book": "betonlineag",
+   "new": true
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 8.5,
+   "player": "J.P. Estrella",
    "prop_market": "Rebounds",
-   "athleteId": 200517,
-   "model": 4.0,
-   "price": 112,
-   "edge": 23.6,
+   "athleteId": 307,
+   "model": 7.7,
+   "price": -111,
+   "edge": 22.0,
    "tier": "20-30",
    "tier_pts": 1,
    "official": true,
@@ -5508,11 +4771,11 @@
    "mu_pts": 1,
    "team": "Michigan",
    "opponent": "Villanova",
-   "hit_prob": 0.583,
-   "minutes": 32.3,
-   "avg": 4.4,
+   "hit_prob": 0.642,
+   "minutes": 26.1,
+   "avg": 8.7,
    "games": 4,
-   "book": "betonlineag",
+   "book": "betmgm",
    "new": false
   },
   {
@@ -5522,61 +4785,29 @@
    "home_cbbd": "Villanova",
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
-   "side": "over",
-   "line": 9.5,
-   "player": "Jake Fiegen",
+   "side": "under",
+   "line": 16.5,
+   "player": "Devin Royal",
    "prop_market": "Points",
-   "athleteId": 2370,
-   "model": 12.3,
-   "price": -118,
-   "edge": 31.0,
-   "tier": "30+",
-   "tier_pts": 1,
+   "athleteId": 422,
+   "model": 14.4,
+   "price": -125,
+   "edge": 18.9,
+   "tier": "10-20",
+   "tier_pts": 0,
    "official": true,
    "why_not": "",
    "grade": "B",
-   "move": 0,
+   "move": -1,
    "matchup": "tough D",
-   "mu_pts": -1,
+   "mu_pts": 1,
    "team": "Villanova",
    "opponent": "Michigan",
-   "hit_prob": 0.709,
-   "minutes": 29.5,
-   "avg": 12.3,
+   "hit_prob": 0.661,
+   "minutes": 31.7,
+   "avg": 15.1,
    "games": 5,
-   "book": "betonlineag",
-   "new": false
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "under",
-   "line": 1.5,
-   "player": "Kellen Thames",
-   "prop_market": "Assists",
-   "athleteId": 809,
-   "model": 1.4,
-   "price": 130,
-   "edge": 25.1,
-   "tier": "20-30",
-   "tier_pts": 1,
-   "official": true,
-   "why_not": "",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.544,
-   "minutes": 20.5,
-   "avg": 1.2,
-   "games": 4,
-   "book": "betonlineag",
+   "book": "betmgm",
    "new": false
   },
   {
@@ -5592,8 +4823,8 @@
    "prop_market": "Points",
    "athleteId": 200517,
    "model": 14.8,
-   "price": -114,
-   "edge": 19.0,
+   "price": -115,
+   "edge": 18.5,
    "tier": "10-20",
    "tier_pts": 0,
    "official": true,
@@ -5608,165 +4839,69 @@
    "minutes": 32.3,
    "avg": 16.6,
    "games": 4,
-   "book": "betonlineag",
+   "book": "hardrockbet",
    "new": false
   },
   {
    "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 1.5,
-   "player": "Quentin Jones",
-   "prop_market": "Threes",
-   "athleteId": 2583,
-   "model": 1.6,
-   "price": 115,
-   "edge": 18.1,
-   "tier": "10-20",
-   "tier_pts": 0,
-   "official": true,
-   "why_not": "",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.549,
-   "minutes": 29.9,
-   "avg": 2.3,
-   "games": 4,
-   "book": "betonlineag",
-   "new": false
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
-   "line": 12.5,
-   "player": "Kellen Thames",
-   "prop_market": "Points",
-   "athleteId": 809,
-   "model": 11.3,
-   "price": -104,
-   "edge": 16.7,
+   "line": 2.5,
+   "player": "Roddy Gayle Jr.",
+   "prop_market": "Assists",
+   "athleteId": 5609,
+   "model": 2.1,
+   "price": -118,
+   "edge": 16.1,
    "tier": "10-20",
    "tier_pts": 0,
    "official": true,
    "why_not": "",
    "grade": "B",
    "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.595,
-   "minutes": 20.5,
-   "avg": 13.6,
-   "games": 4,
-   "book": "fanduel",
-   "new": false
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 5.5,
-   "player": "Kellen Thames",
-   "prop_market": "Rebounds",
-   "athleteId": 809,
-   "model": 6.1,
-   "price": -108,
-   "edge": 15.5,
-   "tier": "10-20",
-   "tier_pts": 0,
-   "official": true,
-   "why_not": "",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.6,
-   "minutes": 20.5,
-   "avg": 7.1,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.628,
+   "minutes": 23.8,
+   "avg": 2.4,
    "games": 4,
    "book": "betonlineag",
    "new": true
   },
   {
    "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 11.5,
-   "player": "Amari McCottry",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 15.5,
+   "player": "J.P. Estrella",
    "prop_market": "Points",
-   "athleteId": 818,
-   "model": 12.5,
-   "price": -104,
-   "edge": 14.1,
+   "athleteId": 307,
+   "model": 14.1,
+   "price": -114,
+   "edge": 14.0,
    "tier": "10-20",
    "tier_pts": 0,
    "official": true,
    "why_not": "",
    "grade": "B",
    "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.582,
-   "minutes": 26.7,
-   "avg": 13.7,
-   "games": 4,
-   "book": "fanduel",
-   "new": true
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 10.5,
-   "player": "Trey Green",
-   "prop_market": "Points",
-   "athleteId": 4071,
-   "model": 12.2,
-   "price": -125,
-   "edge": 13.7,
-   "tier": "10-20",
-   "tier_pts": 0,
-   "official": true,
-   "why_not": "",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.632,
-   "minutes": 27.1,
-   "avg": 13.3,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.607,
+   "minutes": 26.1,
+   "avg": 16.7,
    "games": 4,
    "book": "fanduel",
    "new": true
@@ -5784,8 +4919,8 @@
    "prop_market": "Points",
    "athleteId": 422,
    "model": 14.4,
-   "price": -108,
-   "edge": 12.8,
+   "price": -106,
+   "edge": 13.8,
    "tier": "10-20",
    "tier_pts": 0,
    "official": true,
@@ -5800,8 +4935,168 @@
    "minutes": 31.7,
    "avg": 15.1,
    "games": 5,
-   "book": "betonlineag",
+   "book": "fanduel",
    "new": false
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 4.5,
+   "player": "Trey McKenney",
+   "prop_market": "Rebounds",
+   "athleteId": 200517,
+   "model": 4.0,
+   "price": -105,
+   "edge": 13.8,
+   "tier": "10-20",
+   "tier_pts": 0,
+   "official": true,
+   "why_not": "",
+   "grade": "B",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.583,
+   "minutes": 32.3,
+   "avg": 4.4,
+   "games": 4,
+   "book": "fanduel",
+   "new": false
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 6.5,
+   "player": "Luigi Suigo",
+   "prop_market": "Rebounds",
+   "athleteId": 227977,
+   "model": 7.7,
+   "price": -145,
+   "edge": 19.6,
+   "tier": "10-20",
+   "tier_pts": 0,
+   "official": true,
+   "why_not": "",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.708,
+   "minutes": 25.7,
+   "avg": 9.1,
+   "games": 4,
+   "book": "fanduel",
+   "new": true
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 10.5,
+   "player": "Roddy Gayle Jr.",
+   "prop_market": "Points",
+   "athleteId": 5609,
+   "model": 12.1,
+   "price": -115,
+   "edge": 16.3,
+   "tier": "10-20",
+   "tier_pts": 0,
+   "official": true,
+   "why_not": "",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.622,
+   "minutes": 23.8,
+   "avg": 13.3,
+   "games": 4,
+   "book": "betmgm",
+   "new": true
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 10.5,
+   "player": "Jake Fiegen",
+   "prop_market": "Points",
+   "athleteId": 2370,
+   "model": 12.3,
+   "price": -122,
+   "edge": 16.1,
+   "tier": "10-20",
+   "tier_pts": 0,
+   "official": true,
+   "why_not": "",
+   "grade": "C",
+   "move": 1,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.638,
+   "minutes": 29.5,
+   "avg": 12.3,
+   "games": 5,
+   "book": "fanduel",
+   "new": false
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 0.5,
+   "player": "Roddy Gayle Jr.",
+   "prop_market": "Threes",
+   "athleteId": 5609,
+   "model": 0.7,
+   "price": -112,
+   "edge": 13.1,
+   "tier": "10-20",
+   "tier_pts": 0,
+   "official": true,
+   "why_not": "",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.598,
+   "minutes": 23.8,
+   "avg": 0.6,
+   "games": 4,
+   "book": "betonlineag",
+   "new": true
   },
   {
    "market": "prop",
@@ -5816,8 +5111,8 @@
    "prop_market": "Assists",
    "athleteId": 237,
    "model": 6.1,
-   "price": -105,
-   "edge": 87.7,
+   "price": -140,
+   "edge": 64.8,
    "tier": "30+",
    "tier_pts": 1,
    "official": false,
@@ -5832,7 +5127,7 @@
    "minutes": 30.1,
    "avg": 8.0,
    "games": 4,
-   "book": "betonlineag"
+   "book": "fanduel"
   },
   {
    "market": "prop",
@@ -5847,8 +5142,8 @@
    "prop_market": "Assists",
    "athleteId": 422,
    "model": 2.3,
-   "price": 113,
-   "edge": 55.2,
+   "price": 120,
+   "edge": 60.3,
    "tier": "30+",
    "tier_pts": 1,
    "official": false,
@@ -5878,8 +5173,8 @@
    "prop_market": "Assists",
    "athleteId": 5355,
    "model": 2.6,
-   "price": -109,
-   "edge": 51.0,
+   "price": -106,
+   "edge": 53.1,
    "tier": "30+",
    "tier_pts": 1,
    "official": false,
@@ -5909,8 +5204,8 @@
    "prop_market": "Assists",
    "athleteId": 227977,
    "model": 2.8,
-   "price": -130,
-   "edge": 46.7,
+   "price": -123,
+   "edge": 50.3,
    "tier": "30+",
    "tier_pts": 1,
    "official": false,
@@ -5929,34 +5224,128 @@
   },
   {
    "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
-   "line": 3.5,
-   "player": "Amari McCottry",
-   "prop_market": "Assists",
-   "athleteId": 818,
-   "model": 3.1,
-   "price": -130,
-   "edge": 9.7,
+   "line": 4.5,
+   "player": "Roddy Gayle Jr.",
+   "prop_market": "Rebounds",
+   "athleteId": 5609,
+   "model": 4.3,
+   "price": 104,
+   "edge": 8.9,
    "tier": null,
    "tier_pts": 0,
    "official": false,
    "why_not": "edge too small",
    "grade": "B",
    "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.62,
-   "minutes": 26.7,
-   "avg": 3.3,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.534,
+   "minutes": 23.8,
+   "avg": 4.4,
    "games": 4,
    "book": "betonlineag"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 1.5,
+   "player": "J.P. Estrella",
+   "prop_market": "Assists",
+   "athleteId": 307,
+   "model": 1.5,
+   "price": 115,
+   "edge": 8.5,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "B",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.505,
+   "minutes": 26.1,
+   "avg": 1.7,
+   "games": 4,
+   "book": "betonlineag"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 12.5,
+   "player": "Elliot Cadeau",
+   "prop_market": "Points",
+   "athleteId": 237,
+   "model": 11.2,
+   "price": -129,
+   "edge": 6.6,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "B",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.6,
+   "minutes": 30.1,
+   "avg": 11.2,
+   "games": 4,
+   "book": "williamhill_us"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 15.5,
+   "player": "Trey McKenney",
+   "prop_market": "Points",
+   "athleteId": 200517,
+   "model": 14.8,
+   "price": -114,
+   "edge": 4.6,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "B",
+   "move": 1,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.557,
+   "minutes": 32.3,
+   "avg": 16.6,
+   "games": 4,
+   "book": "fanduel",
+   "new": false
   },
   {
    "market": "prop",
@@ -5971,8 +5360,8 @@
    "prop_market": "Threes",
    "athleteId": 5355,
    "model": 2.3,
-   "price": -114,
-   "edge": 8.3,
+   "price": -123,
+   "edge": 4.6,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -5991,206 +5380,19 @@
   },
   {
    "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "under",
-   "line": 3.5,
-   "player": "Quentin Jones",
-   "prop_market": "Rebounds",
-   "athleteId": 2583,
-   "model": 3.2,
-   "price": -114,
-   "edge": 5.1,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.56,
-   "minutes": 29.9,
-   "avg": 2.8,
-   "games": 4,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 3.5,
-   "player": "Quentin Jones",
-   "prop_market": "Assists",
-   "athleteId": 2583,
-   "model": 3.9,
-   "price": -145,
-   "edge": 4.7,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.62,
-   "minutes": 29.9,
-   "avg": 4.7,
-   "games": 4,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 0.5,
-   "player": "Amari McCottry",
-   "prop_market": "Threes",
-   "athleteId": 818,
-   "model": 0.7,
-   "price": -135,
-   "edge": 3.8,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.596,
-   "minutes": 26.7,
-   "avg": 1.0,
-   "games": 4,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 5.5,
-   "player": "Amari McCottry",
-   "prop_market": "Rebounds",
-   "athleteId": 818,
-   "model": 5.7,
-   "price": -115,
-   "edge": -0.7,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.531,
-   "minutes": 26.7,
-   "avg": 6.2,
-   "games": 4,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 12.5,
-   "player": "Amari McCottry",
-   "prop_market": "Points",
-   "athleteId": 818,
-   "model": 12.5,
-   "price": -106,
-   "edge": -2.2,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.503,
-   "minutes": 26.7,
-   "avg": 13.7,
-   "games": 4,
-   "book": "betonlineag",
-   "new": false
-  },
-  {
-   "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "under",
-   "line": 2.5,
-   "player": "Trey Green",
-   "prop_market": "Assists",
-   "athleteId": 4071,
-   "model": 1.9,
-   "price": -227,
-   "edge": -2.7,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "B",
-   "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.676,
-   "minutes": 27.1,
-   "avg": 2.1,
-   "games": 4,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
    "home": "Villanova Wildcats",
    "away": "Michigan Wolverines",
    "home_cbbd": "Villanova",
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
-   "line": 6.5,
-   "player": "Devin Royal",
-   "prop_market": "Rebounds",
-   "athleteId": 422,
-   "model": 6.6,
-   "price": 100,
-   "edge": -3.8,
+   "line": 11.5,
+   "player": "Elliot Cadeau",
+   "prop_market": "Points",
+   "athleteId": 237,
+   "model": 11.2,
+   "price": -104,
+   "edge": 2.4,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6199,29 +5401,29 @@
    "move": 0,
    "matchup": "tough D",
    "mu_pts": 1,
-   "team": "Villanova",
-   "opponent": "Michigan",
-   "hit_prob": 0.481,
-   "minutes": 31.7,
-   "avg": 7.3,
-   "games": 5,
-   "book": "betonlineag"
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.522,
+   "minutes": 30.1,
+   "avg": 11.2,
+   "games": 4,
+   "book": "fanduel"
   },
   {
    "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
+   "home": "UTSA Roadrunners",
+   "away": "Air Force Falcons",
+   "home_cbbd": "UTSA",
+   "away_cbbd": "Air Force",
+   "kickoff": "2026-11-21T22:00:00Z",
    "side": "over",
-   "line": 1.5,
-   "player": "Ishan Sharma",
-   "prop_market": "Assists",
-   "athleteId": 8195,
-   "model": 1.7,
-   "price": -141,
-   "edge": -3.9,
+   "line": 12.5,
+   "player": "Caleb Walker",
+   "prop_market": "Points",
+   "athleteId": 6821,
+   "model": 13.1,
+   "price": -114,
+   "edge": 2.3,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6230,12 +5432,43 @@
    "move": 0,
    "matchup": "average D",
    "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.563,
-   "minutes": 28.8,
-   "avg": 1.9,
+   "team": "Air Force",
+   "opponent": "UTSA",
+   "hit_prob": 0.545,
+   "minutes": 28.1,
+   "avg": 12.2,
    "games": 4,
+   "book": "betonlineag"
+  },
+  {
+   "market": "prop",
+   "home": "UTSA Roadrunners",
+   "away": "Air Force Falcons",
+   "home_cbbd": "UTSA",
+   "away_cbbd": "Air Force",
+   "kickoff": "2026-11-21T22:00:00Z",
+   "side": "over",
+   "line": 16.5,
+   "player": "Kam Sanders",
+   "prop_market": "Points",
+   "athleteId": 197862,
+   "model": 17.3,
+   "price": -123,
+   "edge": 1.8,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "B",
+   "move": 0,
+   "matchup": "average D",
+   "mu_pts": 0,
+   "team": "Air Force",
+   "opponent": "UTSA",
+   "hit_prob": 0.562,
+   "minutes": 29.5,
+   "avg": 19.4,
+   "games": 5,
    "book": "betonlineag"
   },
   {
@@ -6251,8 +5484,8 @@
    "prop_market": "Rebounds",
    "athleteId": 237,
    "model": 3.5,
-   "price": -108,
-   "edge": -4.0,
+   "price": 103,
+   "edge": 1.2,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6271,19 +5504,50 @@
   },
   {
    "market": "prop",
+   "home": "UTSA Roadrunners",
+   "away": "Air Force Falcons",
+   "home_cbbd": "UTSA",
+   "away_cbbd": "Air Force",
+   "kickoff": "2026-11-21T22:00:00Z",
+   "side": "over",
+   "line": 14.5,
+   "player": "Lucas Hobin",
+   "prop_market": "Points",
+   "athleteId": 197856,
+   "model": 14.9,
+   "price": -114,
+   "edge": 0.5,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "B",
+   "move": 0,
+   "matchup": "average D",
+   "mu_pts": 0,
+   "team": "Air Force",
+   "opponent": "UTSA",
+   "hit_prob": 0.535,
+   "minutes": 25.6,
+   "avg": 16.8,
+   "games": 5,
+   "book": "betonlineag"
+  },
+  {
+   "market": "prop",
    "home": "Villanova Wildcats",
    "away": "Michigan Wolverines",
    "home_cbbd": "Villanova",
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "under",
-   "line": 1.5,
-   "player": "Elliot Cadeau",
-   "prop_market": "Threes",
-   "athleteId": 237,
-   "model": 1.6,
-   "price": 105,
-   "edge": -4.8,
+   "line": 10.5,
+   "player": "Moustapha Thiam",
+   "prop_market": "Points",
+   "athleteId": 333,
+   "model": 9.8,
+   "price": -125,
+   "edge": 0.2,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6294,40 +5558,40 @@
    "mu_pts": 1,
    "team": "Michigan",
    "opponent": "Villanova",
-   "hit_prob": 0.464,
-   "minutes": 30.1,
-   "avg": 1.4,
-   "games": 4,
-   "book": "betonlineag"
+   "hit_prob": 0.556,
+   "minutes": 22.5,
+   "avg": 9.8,
+   "games": 3,
+   "book": "betmgm"
   },
   {
    "market": "prop",
-   "home": "Saint Mary's Gaels",
-   "away": "Saint Louis Billikens",
-   "home_cbbd": "Saint Mary's",
-   "away_cbbd": "Saint Louis",
-   "kickoff": "2026-11-21T04:00:00Z",
-   "side": "over",
-   "line": 12.5,
-   "player": "Quentin Jones",
-   "prop_market": "Points",
-   "athleteId": 2583,
-   "model": 12.2,
-   "price": -103,
-   "edge": -5.9,
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "under",
+   "line": 2.5,
+   "player": "Trey McKenney",
+   "prop_market": "Assists",
+   "athleteId": 200517,
+   "model": 2.5,
+   "price": -114,
+   "edge": -6.0,
    "tier": null,
    "tier_pts": 0,
    "official": false,
    "why_not": "edge too small",
    "grade": "B",
    "move": 0,
-   "matchup": "average D",
-   "mu_pts": 0,
-   "team": "Saint Louis",
-   "opponent": "Saint Mary's",
-   "hit_prob": 0.477,
-   "minutes": 29.9,
-   "avg": 12.8,
+   "matchup": "tough D",
+   "mu_pts": 1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.501,
+   "minutes": 32.3,
+   "avg": 3.3,
    "games": 4,
    "book": "betonlineag"
   },
@@ -6344,8 +5608,8 @@
    "prop_market": "Rebounds",
    "athleteId": 2370,
    "model": 3.2,
-   "price": -111,
-   "edge": 16.7,
+   "price": -123,
+   "edge": 11.3,
    "tier": "10-20",
    "tier_pts": 0,
    "official": false,
@@ -6375,8 +5639,8 @@
    "prop_market": "Points",
    "athleteId": 227977,
    "model": 11.6,
-   "price": -123,
-   "edge": 6.1,
+   "price": -114,
+   "edge": 9.8,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6391,7 +5655,7 @@
    "minutes": 25.7,
    "avg": 11.9,
    "games": 4,
-   "book": "betonlineag"
+   "book": "fanduel"
   },
   {
    "market": "prop",
@@ -6401,90 +5665,29 @@
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "over",
-   "line": 2.5,
+   "line": 11.5,
    "player": "Jake Fiegen",
-   "prop_market": "Threes",
+   "prop_market": "Points",
    "athleteId": 2370,
-   "model": 2.6,
-   "price": -110,
-   "edge": 6.1,
+   "model": 12.3,
+   "price": -105,
+   "edge": 9.6,
    "tier": null,
    "tier_pts": 0,
    "official": false,
    "why_not": "edge too small",
    "grade": "C",
-   "move": 0,
+   "move": 1,
    "matchup": "tough D",
    "mu_pts": -1,
    "team": "Villanova",
    "opponent": "Michigan",
-   "hit_prob": 0.556,
+   "hit_prob": 0.561,
    "minutes": 29.5,
-   "avg": 3.4,
+   "avg": 12.3,
    "games": 5,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
-   "home": "Villanova Wildcats",
-   "away": "Michigan Wolverines",
-   "home_cbbd": "Villanova",
-   "away_cbbd": "Michigan",
-   "kickoff": "2026-11-22T00:00:00Z",
-   "side": "over",
-   "line": 7.5,
-   "player": "Luigi Suigo",
-   "prop_market": "Rebounds",
-   "athleteId": 227977,
-   "model": 7.7,
-   "price": -109,
-   "edge": 3.7,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "C",
-   "move": 0,
-   "matchup": "tough D",
-   "mu_pts": -1,
-   "team": "Villanova",
-   "opponent": "Michigan",
-   "hit_prob": 0.541,
-   "minutes": 25.7,
-   "avg": 9.1,
-   "games": 4,
-   "book": "betonlineag"
-  },
-  {
-   "market": "prop",
-   "home": "Villanova Wildcats",
-   "away": "Michigan Wolverines",
-   "home_cbbd": "Villanova",
-   "away_cbbd": "Michigan",
-   "kickoff": "2026-11-22T00:00:00Z",
-   "side": "over",
-   "line": 4.5,
-   "player": "Tyler Perkins",
-   "prop_market": "Rebounds",
-   "athleteId": 5355,
-   "model": 5.0,
-   "price": -135,
-   "edge": 2.7,
-   "tier": null,
-   "tier_pts": 0,
-   "official": false,
-   "why_not": "edge too small",
-   "grade": "C",
-   "move": 0,
-   "matchup": "tough D",
-   "mu_pts": -1,
-   "team": "Villanova",
-   "opponent": "Michigan",
-   "hit_prob": 0.59,
-   "minutes": 31.7,
-   "avg": 5.0,
-   "games": 5,
-   "book": "betonlineag"
+   "book": "betmgm",
+   "new": false
   },
   {
    "market": "prop",
@@ -6499,8 +5702,8 @@
    "prop_market": "Threes",
    "athleteId": 422,
    "model": 1.0,
-   "price": -217,
-   "edge": 2.6,
+   "price": -182,
+   "edge": 8.8,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6525,13 +5728,13 @@
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "over",
-   "line": 10.5,
-   "player": "Elliot Cadeau",
+   "line": 11.5,
+   "player": "Roddy Gayle Jr.",
    "prop_market": "Points",
-   "athleteId": 237,
-   "model": 11.2,
-   "price": -120,
-   "edge": 2.1,
+   "athleteId": 5609,
+   "model": 12.1,
+   "price": -106,
+   "edge": 5.9,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6542,11 +5745,74 @@
    "mu_pts": -1,
    "team": "Michigan",
    "opponent": "Villanova",
-   "hit_prob": 0.557,
-   "minutes": 30.1,
-   "avg": 11.2,
+   "hit_prob": 0.545,
+   "minutes": 23.8,
+   "avg": 13.3,
    "games": 4,
-   "book": "betonlineag"
+   "book": "fanduel"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 7.5,
+   "player": "Luigi Suigo",
+   "prop_market": "Rebounds",
+   "athleteId": 227977,
+   "model": 7.7,
+   "price": -105,
+   "edge": 5.6,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.541,
+   "minutes": 25.7,
+   "avg": 9.1,
+   "games": 4,
+   "book": "betmgm",
+   "new": false
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 4.5,
+   "player": "Tyler Perkins",
+   "prop_market": "Rebounds",
+   "athleteId": 5355,
+   "model": 5.0,
+   "price": -130,
+   "edge": 4.4,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.59,
+   "minutes": 31.7,
+   "avg": 5.0,
+   "games": 5,
+   "book": "hardrockbet"
   },
   {
    "market": "prop",
@@ -6561,8 +5827,8 @@
    "prop_market": "Points",
    "athleteId": 5355,
    "model": 14.2,
-   "price": -120,
-   "edge": 2.0,
+   "price": -118,
+   "edge": 2.7,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6577,7 +5843,100 @@
    "minutes": 31.7,
    "avg": 12.8,
    "games": 5,
-   "book": "betonlineag"
+   "book": "fanduel"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 14.5,
+   "player": "Tyler Perkins",
+   "prop_market": "Points",
+   "athleteId": 5355,
+   "model": 14.2,
+   "price": 110,
+   "edge": 0.2,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.477,
+   "minutes": 31.7,
+   "avg": 12.8,
+   "games": 5,
+   "book": "hardrockbet"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 6.5,
+   "player": "Devin Royal",
+   "prop_market": "Rebounds",
+   "athleteId": 422,
+   "model": 6.6,
+   "price": -115,
+   "edge": -3.0,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.519,
+   "minutes": 31.7,
+   "avg": 7.3,
+   "games": 5,
+   "book": "fanduel"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 11.5,
+   "player": "Luigi Suigo",
+   "prop_market": "Points",
+   "athleteId": 227977,
+   "model": 11.6,
+   "price": -110,
+   "edge": -3.3,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.507,
+   "minutes": 25.7,
+   "avg": 11.9,
+   "games": 4,
+   "book": "hardrockbet"
   },
   {
    "market": "prop",
@@ -6592,8 +5951,8 @@
    "prop_market": "Threes",
    "athleteId": 200517,
    "model": 2.6,
-   "price": -123,
-   "edge": -0.6,
+   "price": -132,
+   "edge": -3.6,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6618,13 +5977,13 @@
    "away_cbbd": "Michigan",
    "kickoff": "2026-11-22T00:00:00Z",
    "side": "over",
-   "line": 2.5,
-   "player": "Trey McKenney",
-   "prop_market": "Assists",
-   "athleteId": 200517,
-   "model": 2.5,
-   "price": -112,
-   "edge": -5.5,
+   "line": 9.5,
+   "player": "Moustapha Thiam",
+   "prop_market": "Points",
+   "athleteId": 333,
+   "model": 9.8,
+   "price": -120,
+   "edge": -4.2,
    "tier": null,
    "tier_pts": 0,
    "official": false,
@@ -6635,20 +5994,113 @@
    "mu_pts": -1,
    "team": "Michigan",
    "opponent": "Villanova",
-   "hit_prob": 0.499,
-   "minutes": 32.3,
-   "avg": 3.3,
+   "hit_prob": 0.523,
+   "minutes": 22.5,
+   "avg": 9.8,
+   "games": 3,
+   "book": "fanduel"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 5.5,
+   "player": "Tyler Perkins",
+   "prop_market": "Rebounds",
+   "athleteId": 5355,
+   "model": 5.0,
+   "price": 130,
+   "edge": -4.6,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.415,
+   "minutes": 31.7,
+   "avg": 5.0,
+   "games": 5,
+   "book": "betonlineag"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 1.5,
+   "player": "Elliot Cadeau",
+   "prop_market": "Threes",
+   "athleteId": 237,
+   "model": 1.6,
+   "price": -132,
+   "edge": -5.9,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Michigan",
+   "opponent": "Villanova",
+   "hit_prob": 0.536,
+   "minutes": 30.1,
+   "avg": 1.4,
    "games": 4,
    "book": "betonlineag"
+  },
+  {
+   "market": "prop",
+   "home": "Villanova Wildcats",
+   "away": "Michigan Wolverines",
+   "home_cbbd": "Villanova",
+   "away_cbbd": "Michigan",
+   "kickoff": "2026-11-22T00:00:00Z",
+   "side": "over",
+   "line": 2.5,
+   "player": "Jake Fiegen",
+   "prop_market": "Threes",
+   "athleteId": 2370,
+   "model": 2.6,
+   "price": -157,
+   "edge": -9.0,
+   "tier": null,
+   "tier_pts": 0,
+   "official": false,
+   "why_not": "edge too small",
+   "grade": "C",
+   "move": 0,
+   "matchup": "tough D",
+   "mu_pts": -1,
+   "team": "Villanova",
+   "opponent": "Michigan",
+   "hit_prob": 0.556,
+   "minutes": 29.5,
+   "avg": 3.4,
+   "games": 5,
+   "book": "hardrockbet"
   }
  ],
  "record": {
   "all": {
-   "w": 45,
-   "l": 28,
+   "w": 71,
+   "l": 54,
    "p": 0,
-   "units": 12.66,
-   "roi": 17.3
+   "units": 8.53,
+   "roi": 6.8
   },
   "markets": {
    "spread": {
@@ -6685,26 +6137,26 @@
    },
    "total": {
     "all": {
-     "w": 3,
-     "l": 1,
+     "w": 6,
+     "l": 5,
      "p": 0,
-     "units": 1.73,
-     "roi": 43.2
+     "units": 0.45,
+     "roi": 4.1
     },
     "grades": {
      "A": {
       "w": 0,
-      "l": 0,
-      "p": 0,
-      "units": 0,
-      "roi": null
-     },
-     "B": {
-      "w": 3,
       "l": 1,
       "p": 0,
-      "units": 1.73,
-      "roi": 43.2
+      "units": -1.0,
+      "roi": -100.0
+     },
+     "B": {
+      "w": 6,
+      "l": 4,
+      "p": 0,
+      "units": 1.45,
+      "roi": 14.5
      },
      "C": {
       "w": 0,
@@ -6717,39 +6169,804 @@
    },
    "prop": {
     "all": {
-     "w": 40,
-     "l": 25,
+     "w": 63,
+     "l": 47,
      "p": 0,
-     "units": 11.12,
-     "roi": 17.1
+     "units": 8.26,
+     "roi": 7.5
     },
     "grades": {
      "A": {
-      "w": 8,
-      "l": 3,
+      "w": 10,
+      "l": 6,
       "p": 0,
-      "units": 2.92,
-      "roi": 26.5
+      "units": 1.55,
+      "roi": 9.7
      },
      "B": {
-      "w": 16,
-      "l": 20,
+      "w": 33,
+      "l": 37,
       "p": 0,
-      "units": -5.93,
-      "roi": -16.5
+      "units": -7.98,
+      "roi": -11.4
      },
      "C": {
-      "w": 16,
-      "l": 2,
+      "w": 20,
+      "l": 4,
       "p": 0,
-      "units": 14.13,
-      "roi": 78.5
+      "units": 14.68,
+      "roi": 61.2
      }
     }
    }
   },
   "since": "2026-11-19T20:00:38.074002+00:00",
   "history": [
+   {
+    "market": "total",
+    "home": "LSU Tigers",
+    "away": "Queens University Royals",
+    "kickoff": "2026-11-21T18:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 171.5,
+    "final_grade": "A",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "75-106",
+    "actual": null
+   },
+   {
+    "market": "prop",
+    "home": "Saint Mary's Gaels",
+    "away": "Saint Louis Billikens",
+    "kickoff": "2026-11-21T04:00:00Z",
+    "side": "under",
+    "player": "Kellen Thames",
+    "prop_market": "Assists",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 1.3,
+    "final_score": "78-95",
+    "actual": 0.0
+   },
+   {
+    "market": "prop",
+    "home": "Saint Mary's Gaels",
+    "away": "Saint Louis Billikens",
+    "kickoff": "2026-11-21T04:00:00Z",
+    "side": "under",
+    "player": "Kellen Thames",
+    "prop_market": "Points",
+    "final_line": 12.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "78-95",
+    "actual": 19.0
+   },
+   {
+    "market": "prop",
+    "home": "Saint Mary's Gaels",
+    "away": "Saint Louis Billikens",
+    "kickoff": "2026-11-21T04:00:00Z",
+    "side": "over",
+    "player": "Quentin Jones",
+    "prop_market": "Threes",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "78-95",
+    "actual": 0.0
+   },
+   {
+    "market": "prop",
+    "home": "Saint Mary's Gaels",
+    "away": "Saint Louis Billikens",
+    "kickoff": "2026-11-21T04:00:00Z",
+    "side": "over",
+    "player": "Trey Green",
+    "prop_market": "Points",
+    "final_line": 10.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.8,
+    "final_score": "78-95",
+    "actual": 15.0
+   },
+   {
+    "market": "prop",
+    "home": "Saint Mary's Gaels",
+    "away": "Saint Louis Billikens",
+    "kickoff": "2026-11-21T04:00:00Z",
+    "side": "over",
+    "player": "Kellen Thames",
+    "prop_market": "Rebounds",
+    "final_line": 5.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.9259,
+    "final_score": "78-95",
+    "actual": 8.0
+   },
+   {
+    "market": "total",
+    "home": "Boise State Broncos",
+    "away": "Sam Houston St Bearkats",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 169.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.9091,
+    "final_score": "83-69",
+    "actual": null
+   },
+   {
+    "market": "total",
+    "home": "Illinois Fighting Illini",
+    "away": "Eastern Illinois Panthers",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 165.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "52-114",
+    "actual": null
+   },
+   {
+    "market": "total",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 157.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": null
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": "Terrence Brown",
+    "prop_market": "Assists",
+    "final_line": 3.5,
+    "final_grade": "A",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": 5.0
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": "Terrence Brown",
+    "prop_market": "Points",
+    "final_line": 18.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": 20.0
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": "Jarin Stevenson",
+    "prop_market": "Points",
+    "final_line": 10.5,
+    "final_grade": "A",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": 13.0
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": "Matt Able",
+    "prop_market": "Points",
+    "final_line": 12.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": 23.0
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "under",
+    "player": "Jarin Stevenson",
+    "prop_market": "Rebounds",
+    "final_line": 5.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": 6.0
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "over",
+    "player": "Matt Able",
+    "prop_market": "Threes",
+    "final_line": 1.5,
+    "final_grade": "C",
+    "result": "W",
+    "units": 0.5988,
+    "final_score": "72-88",
+    "actual": 5.0
+   },
+   {
+    "market": "prop",
+    "home": "North Carolina Tar Heels",
+    "away": "Marshall Thundering Herd",
+    "kickoff": "2026-11-21T02:00:00Z",
+    "side": "over",
+    "player": "Terrence Brown",
+    "prop_market": "Threes",
+    "final_line": 0.5,
+    "final_grade": "C",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "72-88",
+    "actual": 0.0
+   },
+   {
+    "market": "total",
+    "home": "Kansas St Wildcats",
+    "away": "Campbell Fighting Camels",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 154.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.9091,
+    "final_score": "80-70",
+    "actual": null
+   },
+   {
+    "market": "total",
+    "home": "Georgia Tech Yellow Jackets",
+    "away": "Georgia Bulldogs",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 166.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "88-82",
+    "actual": null
+   },
+   {
+    "market": "total",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": null,
+    "prop_market": null,
+    "final_line": 156.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.9091,
+    "final_score": "74-82",
+    "actual": null
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "over",
+    "player": "Jaeden Mustaf",
+    "prop_market": "Points",
+    "final_line": 9.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "76-90",
+    "actual": 2.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Markus Burton",
+    "prop_market": "Threes",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "76-90",
+    "actual": 2.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Darren Harris",
+    "prop_market": "Threes",
+    "final_line": 2.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.7194,
+    "final_score": "76-90",
+    "actual": 2.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Tyler Tanner",
+    "prop_market": "Assists",
+    "final_line": 4.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.6993,
+    "final_score": "74-82",
+    "actual": 4.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "over",
+    "player": "Chandler Bing",
+    "prop_market": "Assists",
+    "final_line": 2.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "74-82",
+    "actual": 2.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "over",
+    "player": "Ace Glass",
+    "prop_market": "Assists",
+    "final_line": 2.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 1.24,
+    "final_score": "74-82",
+    "actual": 4.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Tyler Tanner",
+    "prop_market": "Points",
+    "final_line": 19.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "74-82",
+    "actual": 23.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Ace Glass",
+    "prop_market": "Points",
+    "final_line": 17.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.7519,
+    "final_score": "74-82",
+    "actual": 10.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Berke Buyuktuncel",
+    "prop_market": "Rebounds",
+    "final_line": 7.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "74-82",
+    "actual": 13.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Tyler Tanner",
+    "prop_market": "Threes",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.8772,
+    "final_score": "74-82",
+    "actual": 0.0
+   },
+   {
+    "market": "prop",
+    "home": "Georgia Tech Yellow Jackets",
+    "away": "Georgia Bulldogs",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Marcus Millender",
+    "prop_market": "Points",
+    "final_line": 14.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "88-82",
+    "actual": 15.0
+   },
+   {
+    "market": "prop",
+    "home": "Georgia Tech Yellow Jackets",
+    "away": "Georgia Bulldogs",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Kareem Stagg",
+    "prop_market": "Rebounds",
+    "final_line": 3.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "88-82",
+    "actual": 4.0
+   },
+   {
+    "market": "prop",
+    "home": "Georgia Tech Yellow Jackets",
+    "away": "Georgia Bulldogs",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "James Scott",
+    "prop_market": "Rebounds",
+    "final_line": 7.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "88-82",
+    "actual": 8.0
+   },
+   {
+    "market": "prop",
+    "home": "Georgia Tech Yellow Jackets",
+    "away": "Georgia Bulldogs",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "over",
+    "player": "Kareem Stagg",
+    "prop_market": "Threes",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "88-82",
+    "actual": 1.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Milan Momcilovic",
+    "prop_market": "Points",
+    "final_line": 13.5,
+    "final_grade": "A",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "76-90",
+    "actual": 28.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Malachi Moreno",
+    "prop_market": "Rebounds",
+    "final_line": 9.5,
+    "final_grade": "A",
+    "result": "W",
+    "units": 0.7407,
+    "final_score": "76-90",
+    "actual": 7.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Samet Yigitoglu",
+    "prop_market": "Rebounds",
+    "final_line": 8.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.6452,
+    "final_score": "76-90",
+    "actual": 5.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Darren Harris",
+    "prop_market": "Assists",
+    "final_line": 2.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.5587,
+    "final_score": "76-90",
+    "actual": 0.0
+   },
+   {
+    "market": "prop",
+    "home": "Indiana Hoosiers",
+    "away": "Kentucky Wildcats",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Milan Momcilovic",
+    "prop_market": "Rebounds",
+    "final_line": 4.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.7692,
+    "final_score": "76-90",
+    "actual": 4.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Riley Kugel",
+    "prop_market": "Assists",
+    "final_line": 2.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 1.15,
+    "final_score": "74-82",
+    "actual": 0.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Riley Kugel",
+    "prop_market": "Points",
+    "final_line": 10.5,
+    "final_grade": "A",
+    "result": "W",
+    "units": 0.8929,
+    "final_score": "74-82",
+    "actual": 1.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Isaiah Malone",
+    "prop_market": "Rebounds",
+    "final_line": 5.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.8,
+    "final_score": "74-82",
+    "actual": 2.0
+   },
+   {
+    "market": "prop",
+    "home": "Vanderbilt Commodores",
+    "away": "UCF Knights",
+    "kickoff": "2026-11-21T01:00:00Z",
+    "side": "under",
+    "player": "Riley Kugel",
+    "prop_market": "Rebounds",
+    "final_line": 3.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 1.08,
+    "final_score": "74-82",
+    "actual": 1.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "under",
+    "player": "Kael Combs",
+    "prop_market": "Assists",
+    "final_line": 2.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "83-65",
+    "actual": 7.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "under",
+    "player": "Isaia Howard",
+    "prop_market": "Assists",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "83-65",
+    "actual": 5.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "under",
+    "player": "Filip Borovicanin",
+    "prop_market": "Assists",
+    "final_line": 4.5,
+    "final_grade": "B",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "83-65",
+    "actual": 5.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "over",
+    "player": "Tru Washington",
+    "prop_market": "Assists",
+    "final_line": 1.5,
+    "final_grade": "C",
+    "result": "W",
+    "units": 0.5405,
+    "final_score": "83-65",
+    "actual": 5.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "over",
+    "player": "Isaia Howard",
+    "prop_market": "Rebounds",
+    "final_line": 6.5,
+    "final_grade": "C",
+    "result": "W",
+    "units": 0.8929,
+    "final_score": "83-65",
+    "actual": 8.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "under",
+    "player": "Filip Borovicanin",
+    "prop_market": "Rebounds",
+    "final_line": 5.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.6993,
+    "final_score": "83-65",
+    "actual": 3.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "over",
+    "player": "Filip Borovicanin",
+    "prop_market": "Threes",
+    "final_line": 0.5,
+    "final_grade": "C",
+    "result": "L",
+    "units": -1.0,
+    "final_score": "83-65",
+    "actual": 0.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "over",
+    "player": "Tru Washington",
+    "prop_market": "Threes",
+    "final_line": 0.5,
+    "final_grade": "C",
+    "result": "W",
+    "units": 0.5208,
+    "final_score": "83-65",
+    "actual": 2.0
+   },
+   {
+    "market": "prop",
+    "home": "Xavier Musketeers",
+    "away": "Iowa Hawkeyes",
+    "kickoff": "2026-11-21T00:30:00Z",
+    "side": "over",
+    "player": "Jovan Milicevic",
+    "prop_market": "Threes",
+    "final_line": 1.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 1.15,
+    "final_score": "83-65",
+    "actual": 3.0
+   },
    {
     "market": "prop",
     "home": "Tennessee Volunteers",
@@ -6914,6 +7131,21 @@
     "units": 0.9009,
     "final_score": "49-95",
     "actual": 1.0
+   },
+   {
+    "market": "prop",
+    "home": "Pittsburgh Panthers",
+    "away": "Central Michigan Chippewas",
+    "kickoff": "2026-11-21T00:00:00Z",
+    "side": "under",
+    "player": "Baye Ndongo",
+    "prop_market": "Rebounds",
+    "final_line": 10.5,
+    "final_grade": "B",
+    "result": "W",
+    "units": 0.7874,
+    "final_score": "82-104",
+    "actual": 9.0
    },
    {
     "market": "prop",
@@ -11030,314 +11262,314 @@
   }
  },
  "prop_lab": {
-  "generated_at": "2026-11-21T02:39:20.370711+00:00",
-  "rows": 877,
-  "props_seen": 539,
+  "generated_at": "2026-11-21T21:19:28.752776+00:00",
+  "rows": 923,
+  "props_seen": 550,
   "at_tip": {
    "all": {
-    "n": 368,
-    "w": 210,
-    "l": 158,
-    "hit": 0.571,
-    "units": 21.7,
-    "roi": 5.9
+    "n": 516,
+    "w": 282,
+    "l": 234,
+    "hit": 0.547,
+    "units": 6.6,
+    "roi": 1.3
    },
    "official": {
-    "n": 142,
-    "w": 86,
-    "l": 56,
-    "hit": 0.606,
-    "units": 18.4,
-    "roi": 13.0
+    "n": 193,
+    "w": 113,
+    "l": 80,
+    "hit": 0.585,
+    "units": 16.9,
+    "roi": 8.8
    },
    "by_edge": [
     {
      "label": "0-5%",
-     "n": 62,
-     "w": 34,
-     "l": 28,
-     "hit": 0.548,
-     "units": -1.1,
-     "roi": -1.7
+     "n": 97,
+     "w": 51,
+     "l": 46,
+     "hit": 0.526,
+     "units": -5.6,
+     "roi": -5.8
     },
     {
      "label": "5-10%",
-     "n": 50,
-     "w": 30,
-     "l": 20,
-     "hit": 0.6,
-     "units": 7.2,
-     "roi": 14.4
+     "n": 69,
+     "w": 41,
+     "l": 28,
+     "hit": 0.594,
+     "units": 8.4,
+     "roi": 12.2
     },
     {
      "label": "10-20%",
-     "n": 82,
-     "w": 48,
-     "l": 34,
-     "hit": 0.585,
-     "units": 9.3,
-     "roi": 11.3
+     "n": 117,
+     "w": 70,
+     "l": 47,
+     "hit": 0.598,
+     "units": 14.1,
+     "roi": 12.0
     },
     {
      "label": "20-30%",
-     "n": 42,
-     "w": 25,
-     "l": 17,
-     "hit": 0.595,
-     "units": 2.1,
-     "roi": 4.9
+     "n": 50,
+     "w": 28,
+     "l": 22,
+     "hit": 0.56,
+     "units": 0.2,
+     "roi": 0.3
     },
     {
      "label": "30-40%",
-     "n": 23,
-     "w": 17,
-     "l": 6,
-     "hit": 0.739,
-     "units": 9.6,
-     "roi": 41.9
+     "n": 31,
+     "w": 19,
+     "l": 12,
+     "hit": 0.613,
+     "units": 5.3,
+     "roi": 17.0
     },
     {
      "label": "40%+",
-     "n": 28,
-     "w": 13,
-     "l": 15,
-     "hit": 0.464,
-     "units": -2.8,
-     "roi": -9.8
+     "n": 34,
+     "w": 16,
+     "l": 18,
+     "hit": 0.471,
+     "units": -2.5,
+     "roi": -7.4
     }
    ],
    "by_side": {
     "over": {
-     "n": 132,
-     "w": 86,
-     "l": 46,
-     "hit": 0.652,
-     "units": 33.9,
-     "roi": 25.7
+     "n": 194,
+     "w": 119,
+     "l": 75,
+     "hit": 0.613,
+     "units": 33.8,
+     "roi": 17.4
     },
     "under": {
-     "n": 236,
-     "w": 124,
-     "l": 112,
-     "hit": 0.525,
-     "units": -12.1,
-     "roi": -5.1
+     "n": 322,
+     "w": 163,
+     "l": 159,
+     "hit": 0.506,
+     "units": -27.2,
+     "roi": -8.4
     }
    },
    "by_stat": {
     "Assists": {
-     "n": 83,
-     "w": 46,
-     "l": 37,
-     "hit": 0.554,
-     "units": 2.0,
-     "roi": 2.4
+     "n": 117,
+     "w": 63,
+     "l": 54,
+     "hit": 0.538,
+     "units": -1.2,
+     "roi": -1.0
     },
     "Points": {
-     "n": 110,
-     "w": 59,
-     "l": 51,
-     "hit": 0.536,
-     "units": 1.0,
-     "roi": 0.9
+     "n": 154,
+     "w": 74,
+     "l": 80,
+     "hit": 0.481,
+     "units": -15.1,
+     "roi": -9.8
     },
     "Rebounds": {
-     "n": 102,
-     "w": 65,
-     "l": 37,
-     "hit": 0.637,
-     "units": 17.5,
-     "roi": 17.1
+     "n": 144,
+     "w": 87,
+     "l": 57,
+     "hit": 0.604,
+     "units": 16.1,
+     "roi": 11.1
     },
     "Threes": {
-     "n": 73,
-     "w": 40,
-     "l": 33,
-     "hit": 0.548,
-     "units": 1.2,
-     "roi": 1.7
+     "n": 101,
+     "w": 58,
+     "l": 43,
+     "hit": 0.574,
+     "units": 6.7,
+     "roi": 6.7
     }
    },
    "by_grade": {
     "A": {
-     "n": 26,
-     "w": 14,
-     "l": 12,
-     "hit": 0.538,
-     "units": -1.5,
-     "roi": -5.6
+     "n": 33,
+     "w": 16,
+     "l": 17,
+     "hit": 0.485,
+     "units": -4.8,
+     "roi": -14.6
     },
     "B": {
-     "n": 85,
-     "w": 49,
-     "l": 36,
-     "hit": 0.576,
-     "units": 6.0,
-     "roi": 7.0
+     "n": 123,
+     "w": 70,
+     "l": 53,
+     "hit": 0.569,
+     "units": 7.3,
+     "roi": 5.9
     },
     "C": {
-     "n": 31,
-     "w": 23,
-     "l": 8,
-     "hit": 0.742,
-     "units": 13.9,
-     "roi": 44.8
+     "n": 37,
+     "w": 27,
+     "l": 10,
+     "hit": 0.73,
+     "units": 14.4,
+     "roi": 39.0
     }
    }
   },
   "first_seen": {
    "all": {
-    "n": 368,
-    "w": 206,
-    "l": 162,
-    "hit": 0.56,
-    "units": 17.1,
-    "roi": 4.6
+    "n": 516,
+    "w": 280,
+    "l": 236,
+    "hit": 0.543,
+    "units": 7.7,
+    "roi": 1.5
    },
    "official": {
-    "n": 144,
-    "w": 85,
-    "l": 59,
-    "hit": 0.59,
-    "units": 13.9,
-    "roi": 9.6
+    "n": 195,
+    "w": 110,
+    "l": 85,
+    "hit": 0.564,
+    "units": 9.1,
+    "roi": 4.7
    },
    "by_edge": [
     {
      "label": "0-5%",
-     "n": 62,
-     "w": 37,
-     "l": 25,
-     "hit": 0.597,
-     "units": 3.7,
-     "roi": 6.0
+     "n": 97,
+     "w": 55,
+     "l": 42,
+     "hit": 0.567,
+     "units": 1.6,
+     "roi": 1.7
     },
     {
      "label": "5-10%",
-     "n": 48,
-     "w": 27,
-     "l": 21,
-     "hit": 0.562,
-     "units": 4.3,
-     "roi": 9.0
+     "n": 70,
+     "w": 39,
+     "l": 31,
+     "hit": 0.557,
+     "units": 4.9,
+     "roi": 7.0
     },
     {
      "label": "10-20%",
-     "n": 81,
-     "w": 46,
-     "l": 35,
-     "hit": 0.568,
-     "units": 6.6,
-     "roi": 8.2
+     "n": 112,
+     "w": 64,
+     "l": 48,
+     "hit": 0.571,
+     "units": 9.0,
+     "roi": 8.0
     },
     {
      "label": "20-30%",
-     "n": 43,
-     "w": 28,
-     "l": 15,
-     "hit": 0.651,
-     "units": 6.6,
-     "roi": 15.4
+     "n": 55,
+     "w": 32,
+     "l": 23,
+     "hit": 0.582,
+     "units": 2.2,
+     "roi": 3.9
     },
     {
      "label": "30-40%",
-     "n": 25,
-     "w": 15,
-     "l": 10,
-     "hit": 0.6,
-     "units": 3.1,
-     "roi": 12.6
+     "n": 34,
+     "w": 19,
+     "l": 15,
+     "hit": 0.559,
+     "units": 1.7,
+     "roi": 5.0
     },
     {
      "label": "40%+",
-     "n": 32,
-     "w": 16,
-     "l": 16,
-     "hit": 0.5,
-     "units": -0.2,
-     "roi": -0.7
+     "n": 37,
+     "w": 18,
+     "l": 19,
+     "hit": 0.486,
+     "units": -0.6,
+     "roi": -1.7
     }
    ],
    "by_side": {
     "over": {
-     "n": 125,
-     "w": 81,
-     "l": 44,
-     "hit": 0.648,
-     "units": 33.6,
-     "roi": 26.8
+     "n": 188,
+     "w": 116,
+     "l": 72,
+     "hit": 0.617,
+     "units": 36.5,
+     "roi": 19.4
     },
     "under": {
-     "n": 243,
-     "w": 125,
-     "l": 118,
-     "hit": 0.514,
-     "units": -16.5,
-     "roi": -6.8
+     "n": 328,
+     "w": 164,
+     "l": 164,
+     "hit": 0.5,
+     "units": -28.9,
+     "roi": -8.8
     }
    },
    "by_stat": {
     "Assists": {
-     "n": 83,
-     "w": 43,
-     "l": 40,
-     "hit": 0.518,
-     "units": -1.4,
-     "roi": -1.7
+     "n": 117,
+     "w": 61,
+     "l": 56,
+     "hit": 0.521,
+     "units": -1.8,
+     "roi": -1.6
     },
     "Points": {
-     "n": 110,
-     "w": 57,
-     "l": 53,
-     "hit": 0.518,
-     "units": -3.2,
-     "roi": -2.9
+     "n": 154,
+     "w": 73,
+     "l": 81,
+     "hit": 0.474,
+     "units": -17.2,
+     "roi": -11.2
     },
     "Rebounds": {
-     "n": 102,
-     "w": 64,
-     "l": 38,
-     "hit": 0.627,
-     "units": 16.1,
-     "roi": 15.8
+     "n": 144,
+     "w": 86,
+     "l": 58,
+     "hit": 0.597,
+     "units": 15.4,
+     "roi": 10.7
     },
     "Threes": {
-     "n": 73,
-     "w": 42,
-     "l": 31,
-     "hit": 0.575,
-     "units": 5.6,
-     "roi": 7.6
+     "n": 101,
+     "w": 60,
+     "l": 41,
+     "hit": 0.594,
+     "units": 11.3,
+     "roi": 11.2
     }
    },
    "by_grade": {
     "A": {
-     "n": 32,
-     "w": 15,
-     "l": 17,
-     "hit": 0.469,
-     "units": -5.7,
-     "roi": -17.9
+     "n": 42,
+     "w": 19,
+     "l": 23,
+     "hit": 0.452,
+     "units": -8.6,
+     "roi": -20.6
     },
     "B": {
-     "n": 83,
-     "w": 50,
-     "l": 33,
-     "hit": 0.602,
-     "units": 8.9,
-     "roi": 10.7
+     "n": 118,
+     "w": 67,
+     "l": 51,
+     "hit": 0.568,
+     "units": 6.5,
+     "roi": 5.5
     },
     "C": {
-     "n": 29,
-     "w": 20,
-     "l": 9,
-     "hit": 0.69,
-     "units": 10.7,
-     "roi": 36.9
+     "n": 35,
+     "w": 24,
+     "l": 11,
+     "hit": 0.686,
+     "units": 11.2,
+     "roi": 32.1
     }
    }
   },
-  "graded": 368
+  "graded": 516
  },
  "diagnostics": {
   "margin": {
