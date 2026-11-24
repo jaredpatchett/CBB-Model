@@ -40,6 +40,28 @@ GROUPS = {
 }
 
 
+def read_csv_safe(path):
+    """Missing or empty file (e.g. no games with props left tonight) -> empty frame, not a crash."""
+    if not os.path.exists(path) or os.path.getsize(path) == 0:
+        return pd.DataFrame()
+    try:
+        return pd.read_csv(path)
+    except pd.errors.EmptyDataError:
+        return pd.DataFrame()
+
+
+# Odds API names that a prefix match would send to the wrong CBBD school
+# ("Florida Int'l" -> Florida, "Texas A&M-CC" -> Texas). Checked before the prefix match.
+ODDS_ALIASES = {
+    "florida intl": "Florida International",
+    "fiu": "Florida International",
+    "texas aandmcc": "Texas A&M-Corpus Christi",
+    "texas aandm corpus christi": "Texas A&M-Corpus Christi",
+    "texas aandmcommerce": "East Texas A&M",
+    "appalachian state": "App State",
+}
+
+
 def norm_name(s):
     s = str(s).lower().replace("&", "and").replace(".", "").replace("'", "")
     s = re.sub(r"\bst\b", "state", s)
@@ -52,6 +74,9 @@ def matcher(cbbd_names):
 
     def match(odds_name):
         o = norm_name(odds_name)
+        for alias, school in ODDS_ALIASES.items():
+            if (o == alias or o.startswith(alias + " ")) and school in names:
+                return school
         for n, nn in normed:          # longest CBBD school name that starts the Odds API name
             if o == nn or o.startswith(nn + " "):
                 return n
@@ -110,7 +135,7 @@ def main():
     defs = sorted(v["r_adj_def"] for v in states.values() if v.get("r_adj_def") is not None)
     cut_lo, cut_hi = (np.percentile(defs, 33), np.percentile(defs, 67)) if defs else (None, None)
 
-    lines = pd.read_csv(f"{config.DATA_CURRENT_DIR}/game_lines.csv") if os.path.exists(f"{config.DATA_CURRENT_DIR}/game_lines.csv") else pd.DataFrame()
+    lines = read_csv_safe(f"{config.DATA_CURRENT_DIR}/game_lines.csv")
     games_out, plays, unmatched = [], [], []
     for _, g in lines.iterrows():
         k = pd.to_datetime(g["commence_time"], utc=True)
@@ -166,7 +191,7 @@ def main():
 
     # ---- Props
     props_out, archive_rows = [], []
-    props = pd.read_csv(f"{config.DATA_CURRENT_DIR}/props.csv") if os.path.exists(f"{config.DATA_CURRENT_DIR}/props.csv") else pd.DataFrame()
+    props = read_csv_safe(f"{config.DATA_CURRENT_DIR}/props.csv")
     for _, p in props.iterrows():
         stat = pf.STATS.get(p["market_name"])
         if stat not in pmodels:
