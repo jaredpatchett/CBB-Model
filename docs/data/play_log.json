@@ -7754,7 +7754,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 159.5,
+   "final_score": "62-82"
   },
   "total|Youngstown St Penguins|William & Mary Tribe|2026-11-22T19:00:00Z|under": {
    "market": "total",
@@ -7781,7 +7786,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 166.5,
+   "final_score": "75-63"
   },
   "prop|Villanova Wildcats|Michigan Wolverines|2026-11-22T00:00:00Z|under|J.P. Estrella|Points": {
    "market": "prop",
@@ -8051,7 +8061,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 137.5,
+   "final_score": "59-79"
   },
   "spread|Florida Int'l Golden Panthers|Long Beach St 49ers|2026-11-23T18:00:00Z|home": {
    "market": "spread",
@@ -8132,7 +8147,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 5.5,
+   "final_score": "82-62"
   },
   "total|Providence Friars|VCU Rams|2026-11-24T02:00:00Z|under": {
    "market": "total",
@@ -8185,6 +8205,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     158.5,
+     150.6,
+     7.9,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -8213,7 +8242,13 @@
      1,
      152
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Jaylen Crocker-Johnson|Assists": {
    "market": "prop",
@@ -8240,7 +8275,13 @@
      1,
      100
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|under|TJ Burch|Assists": {
    "market": "prop",
@@ -8267,7 +8308,13 @@
      1,
      -172
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.5814,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Jackson Holcombe|Points": {
    "market": "prop",
@@ -8294,7 +8341,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 9.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|under|TJ Burch|Points": {
    "market": "prop",
@@ -8321,7 +8374,13 @@
      1,
      -104
     ]
-   ]
+   ],
+   "actual": 13.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 7.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Alec Anigbata|Points": {
    "market": "prop",
@@ -8348,7 +8407,13 @@
      1,
      109
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 9.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Bobby Durkin|Points": {
    "market": "prop",
@@ -8375,7 +8440,13 @@
      1,
      -115
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "W",
+   "units": 0.8696,
+   "final_grade": "C",
+   "final_line": 8.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Trey Campbell|Points": {
    "market": "prop",
@@ -8402,7 +8473,13 @@
      1,
      -110
     ]
-   ]
+   ],
+   "actual": 9.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 12.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|under|Isaac Asuma|Points": {
    "market": "prop",
@@ -8429,7 +8506,13 @@
      1,
      -114
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 0.8772,
+   "final_grade": "B",
+   "final_line": 16.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Kyan Evans|Rebounds": {
    "market": "prop",
@@ -8456,7 +8539,13 @@
      1,
      115
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 1.15,
+   "final_grade": "C",
+   "final_line": 3.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Jackson Holcombe|Rebounds": {
    "market": "prop",
@@ -8483,7 +8572,13 @@
      1,
      -103
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|under|Jaylen Crocker-Johnson|Rebounds": {
    "market": "prop",
@@ -8510,7 +8605,13 @@
      1,
      -143
     ]
-   ]
+   ],
+   "actual": 8.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 7.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Malek Gomma|Rebounds": {
    "market": "prop",
@@ -8537,7 +8638,13 @@
      1,
      -110
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Alec Anigbata|Rebounds": {
    "market": "prop",
@@ -8564,7 +8671,13 @@
      1,
      -141
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 3.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Bobby Durkin|Threes": {
    "market": "prop",
@@ -8591,7 +8704,13 @@
      1,
      -102
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.9804,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Kyan Evans|Threes": {
    "market": "prop",
@@ -8618,7 +8737,13 @@
      1,
      -102
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "62-77"
   },
   "prop|Minnesota Golden Gophers|Utah Utes|2026-11-22T23:00:00Z|over|Jackson Holcombe|Threes": {
    "market": "prop",
@@ -8645,7 +8770,13 @@
      1,
      110
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 0.5,
+   "final_score": "62-77"
   },
   "prop|UCLA Bruins|Delaware Blue Hens|2026-11-23T00:00:00Z|under|Trent Perry|Assists": {
    "market": "prop",
@@ -8672,7 +8803,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.7692,
+   "final_grade": "A",
+   "final_line": 5.5,
+   "final_score": "48-85"
   },
   "prop|UCLA Bruins|Delaware Blue Hens|2026-11-23T00:00:00Z|under|Jaylen Petty|Assists": {
    "market": "prop",
@@ -8727,7 +8864,718 @@
      -135
     ]
    ]
+  },
+  "total|St. Bonaventure Bonnies|Wright St Raiders|2026-11-24T15:00:00Z|under": {
+   "market": "total",
+   "home": "St. Bonaventure Bonnies",
+   "away": "Wright St Raiders",
+   "kickoff": "2026-11-24T15:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "St. Bonaventure",
+   "away_cbbd": "Wright State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 148.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     148.5,
+     141.3,
+     7.2,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Ohio Bobcats|New Mexico St Aggies|2026-11-24T16:00:00Z|under": {
+   "market": "total",
+   "home": "Ohio Bobcats",
+   "away": "New Mexico St Aggies",
+   "kickoff": "2026-11-24T16:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Ohio",
+   "away_cbbd": "New Mexico State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 149.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     149.5,
+     144.4,
+     5.1,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Florida Int'l Golden Panthers|Southern Utah Thunderbirds|2026-11-24T18:00:00Z|home": {
+   "market": "spread",
+   "home": "Florida Int'l Golden Panthers",
+   "away": "Southern Utah Thunderbirds",
+   "kickoff": "2026-11-24T18:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Florida",
+   "away_cbbd": "Southern Utah",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": -8.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     -8.5,
+     -27.8,
+     19.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Florida Int'l Golden Panthers|Southern Utah Thunderbirds|2026-11-24T18:00:00Z|under": {
+   "market": "total",
+   "home": "Florida Int'l Golden Panthers",
+   "away": "Southern Utah Thunderbirds",
+   "kickoff": "2026-11-24T18:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Florida",
+   "away_cbbd": "Southern Utah",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 166.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     166.5,
+     156.8,
+     9.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|BYU Cougars|Ole Miss Rebels|2026-11-24T19:30:00Z|under": {
+   "market": "total",
+   "home": "BYU Cougars",
+   "away": "Ole Miss Rebels",
+   "kickoff": "2026-11-24T19:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "BYU",
+   "away_cbbd": "Ole Miss",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 159.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     159.5,
+     153.7,
+     5.8,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Long Beach St 49ers|Arkansas St Red Wolves|2026-11-24T20:30:24Z|home": {
+   "market": "spread",
+   "home": "Long Beach St 49ers",
+   "away": "Arkansas St Red Wolves",
+   "kickoff": "2026-11-24T20:30:24Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Long Beach State",
+   "away_cbbd": "Arkansas State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     5.5,
+     -5.8,
+     11.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Michigan Wolverines|Creighton Bluejays|2026-11-24T22:30:00Z|home": {
+   "market": "spread",
+   "home": "Michigan Wolverines",
+   "away": "Creighton Bluejays",
+   "kickoff": "2026-11-24T22:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Michigan",
+   "away_cbbd": "Creighton",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": -5.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     -5.5,
+     -16.2,
+     10.7,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Wofford Terriers|Queens University Royals|2026-11-24T23:00:00Z|under": {
+   "market": "total",
+   "home": "Wofford Terriers",
+   "away": "Queens University Royals",
+   "kickoff": "2026-11-24T23:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Wofford",
+   "away_cbbd": "Queens University",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 174.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     174.5,
+     161.8,
+     12.7,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Bowling Green Falcons|Gardner-Webb Bulldogs|2026-11-25T00:00:00Z|under": {
+   "market": "total",
+   "home": "Bowling Green Falcons",
+   "away": "Gardner-Webb Bulldogs",
+   "kickoff": "2026-11-25T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Bowling Green",
+   "away_cbbd": "Gardner-Webb",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 149.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     149.5,
+     139.2,
+     10.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|under": {
+   "market": "total",
+   "home": "Ohio State Buckeyes",
+   "away": "Vanderbilt Commodores",
+   "kickoff": "2026-11-25T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Ohio State",
+   "away_cbbd": "Vanderbilt",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 156.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     156.5,
+     150.8,
+     5.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Tennessee Tech Golden Eagles|West Georgia Wolves|2026-11-25T00:30:00Z|away": {
+   "market": "spread",
+   "home": "Tennessee Tech Golden Eagles",
+   "away": "West Georgia Wolves",
+   "kickoff": "2026-11-25T00:30:00Z",
+   "side": "away",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Tennessee Tech",
+   "away_cbbd": "West Georgia",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": -16.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     -16.5,
+     -5.4,
+     11.1,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Auburn Tigers|Lipscomb Bisons|2026-11-25T01:00:00Z|under": {
+   "market": "total",
+   "home": "Auburn Tigers",
+   "away": "Lipscomb Bisons",
+   "kickoff": "2026-11-25T01:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Auburn",
+   "away_cbbd": "Lipscomb",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 157.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     157.5,
+     152.1,
+     5.4,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Washington Huskies|Clemson Tigers|2026-11-25T01:00:00Z|under": {
+   "market": "total",
+   "home": "Washington Huskies",
+   "away": "Clemson Tigers",
+   "kickoff": "2026-11-25T01:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Washington",
+   "away_cbbd": "Clemson",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 154.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     154.5,
+     146.8,
+     7.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Louisville Cardinals|Texas Tech Red Raiders|2026-11-25T01:00:00Z|home": {
+   "market": "spread",
+   "home": "Louisville Cardinals",
+   "away": "Texas Tech Red Raiders",
+   "kickoff": "2026-11-25T01:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Louisville",
+   "away_cbbd": "Texas Tech",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     4.5,
+     -6.8,
+     11.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Alabama Crimson Tide|Baylor Bears|2026-11-25T03:00:00Z|under": {
+   "market": "total",
+   "home": "Alabama Crimson Tide",
+   "away": "Baylor Bears",
+   "kickoff": "2026-11-25T03:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Alabama",
+   "away_cbbd": "Baylor",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 173.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     173.5,
+     166.1,
+     7.4,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Kansas St Wildcats|Gonzaga Bulldogs|2026-11-25T05:30:00Z|home": {
+   "market": "spread",
+   "home": "Kansas St Wildcats",
+   "away": "Gonzaga Bulldogs",
+   "kickoff": "2026-11-25T05:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Kansas State",
+   "away_cbbd": "Gonzaga",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     15.5,
+     4.2,
+     11.3,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Kansas St Wildcats|Gonzaga Bulldogs|2026-11-25T05:30:00Z|under": {
+   "market": "total",
+   "home": "Kansas St Wildcats",
+   "away": "Gonzaga Bulldogs",
+   "kickoff": "2026-11-25T05:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Kansas State",
+   "away_cbbd": "Gonzaga",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 157.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     157.5,
+     149.5,
+     8.0,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|under|Josh Pascarelli|Points": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "under",
+   "player": "Josh Pascarelli",
+   "prop_market": "Points",
+   "athleteId": 1046,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 12.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     12.5,
+     10.8,
+     10.5,
+     "B",
+     1,
+     -132
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|under|Caleb Holt|Points": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "under",
+   "player": "Caleb Holt",
+   "prop_market": "Points",
+   "athleteId": 223164,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 18.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     18.5,
+     16.3,
+     25.6,
+     "A",
+     1,
+     -113
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|under|Ivan Kharchenkov|Points": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "under",
+   "player": "Ivan Kharchenkov",
+   "prop_market": "Points",
+   "athleteId": 197989,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 19.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     19.5,
+     18.4,
+     10.6,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|under|Motiejus Krivas|Rebounds": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "under",
+   "player": "Motiejus Krivas",
+   "prop_market": "Rebounds",
+   "athleteId": 274,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     10.5,
+     9.3,
+     18.6,
+     "B",
+     1,
+     -145
+    ],
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     9.5,
+     9.3,
+     -0.5,
+     "B",
+     0,
+     -116
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|over|Carey Booth|Rebounds": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "over",
+   "player": "Carey Booth",
+   "prop_market": "Rebounds",
+   "athleteId": 5646,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     6.5,
+     7.1,
+     13.3,
+     "C",
+     1,
+     -115
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|over|Motiejus Krivas|Assists": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "over",
+   "player": "Motiejus Krivas",
+   "prop_market": "Assists",
+   "athleteId": 274,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     1.5,
+     1.9,
+     35.1,
+     "B",
+     1,
+     120
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|under|Motiejus Krivas|Points": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "under",
+   "player": "Motiejus Krivas",
+   "prop_market": "Points",
+   "athleteId": 274,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 17.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     17.5,
+     15.8,
+     13.4,
+     "B",
+     1,
+     -127
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|under|Caleb Holt|Rebounds": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "under",
+   "player": "Caleb Holt",
+   "prop_market": "Rebounds",
+   "athleteId": 223164,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     7.5,
+     6.3,
+     18.4,
+     "B",
+     1,
+     -149
+    ]
+   ]
+  },
+  "prop|Arizona Wildcats|Colorado St Rams|2026-11-24T04:30:00Z|over|Carey Booth|Threes": {
+   "market": "prop",
+   "home": "Arizona Wildcats",
+   "away": "Colorado St Rams",
+   "kickoff": "2026-11-24T04:30:00Z",
+   "side": "over",
+   "player": "Carey Booth",
+   "prop_market": "Threes",
+   "athleteId": 5646,
+   "home_cbbd": "Arizona",
+   "away_cbbd": "Colorado State",
+   "first": {
+    "at": "2026-11-24T02:46:37.005536+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-24T02:46:37.005536+00:00",
+     1.5,
+     1.5,
+     31.8,
+     "B",
+     1,
+     164
+    ]
+   ]
   }
  },
- "updated": "2026-11-22T21:30:18.317541+00:00"
+ "updated": "2026-11-24T02:46:37.005536+00:00"
 }
