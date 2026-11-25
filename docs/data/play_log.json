@@ -9022,7 +9022,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "A",
+   "final_line": 172.5,
+   "final_score": "77-86"
   },
   "total|Bowling Green Falcons|Gardner-Webb Bulldogs|2026-11-25T00:00:00Z|under": {
    "market": "total",
@@ -9094,7 +9099,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 156.5,
+   "final_score": "72-66"
   },
   "spread|Tennessee Tech Golden Eagles|West Georgia Wolves|2026-11-25T00:30:00Z|away": {
    "market": "spread",
@@ -9184,7 +9194,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 158.5,
+   "final_score": "66-101"
   },
   "total|Washington Huskies|Clemson Tigers|2026-11-25T01:00:00Z|under": {
    "market": "total",
@@ -9211,7 +9226,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 154.5,
+   "final_score": "63-64"
   },
   "spread|Louisville Cardinals|Texas Tech Red Raiders|2026-11-25T01:00:00Z|home": {
    "market": "spread",
@@ -9345,6 +9365,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     15.5,
+     8.6,
+     6.9,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -9387,6 +9416,15 @@
      157.5,
      149.5,
      8.0,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     157.5,
+     149.9,
+     7.6,
      "B",
      1,
      null
@@ -9718,7 +9756,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 157.5,
+   "final_score": "66-84"
   },
   "total|Rutgers Scarlet Knights|Sacred Heart Pioneers|2026-11-24T23:00:00Z|under": {
    "market": "total",
@@ -9745,7 +9788,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 159.5,
+   "final_score": "73-106"
   },
   "spread|Siena Saints|Vermont Catamounts|2026-11-25T00:00:00Z|away": {
    "market": "spread",
@@ -9772,7 +9820,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -3.5,
+   "final_score": "88-98"
   },
   "total|Duquesne Dukes|High Point Panthers|2026-11-25T00:30:39Z|under": {
    "market": "total",
@@ -9808,7 +9861,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 141.5,
+   "final_score": "75-70"
   },
   "prop|BYU Cougars|Ole Miss Rebels|2026-11-24T19:30:00Z|under|Adam Clark|Assists": {
    "market": "prop",
@@ -10000,7 +10058,13 @@
      1,
      -106.0
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.9434,
+   "final_grade": "B",
+   "final_line": 18.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|under|Juke Harris|Points": {
    "market": "prop",
@@ -10036,7 +10100,13 @@
      1,
      -154.0
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.6494,
+   "final_grade": "A",
+   "final_line": 14.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|under|DeWayne Brown II|Rebounds": {
    "market": "prop",
@@ -10063,7 +10133,13 @@
      1,
      -137.0
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.7299,
+   "final_grade": "B",
+   "final_line": 8.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|under|Juke Harris|Threes": {
    "market": "prop",
@@ -10090,7 +10166,13 @@
      1,
      110.0
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 1.1,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|over|Juke Harris|Assists": {
    "market": "prop",
@@ -10117,7 +10199,13 @@
      1,
      161
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 2.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|under|Tyler Lundblade|Points": {
    "market": "prop",
@@ -10144,7 +10232,13 @@
      1,
      108.0
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 1.08,
+   "final_grade": "A",
+   "final_line": 9.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|over|Andre Mills|Rebounds": {
    "market": "prop",
@@ -10171,7 +10265,13 @@
      1,
      120
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 3.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|under|Miles Rubin|Rebounds": {
    "market": "prop",
@@ -10198,7 +10298,13 @@
      1,
      143.0
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 1.43,
+   "final_grade": "A",
+   "final_line": 6.5,
+   "final_score": "72-64"
   },
   "prop|Maryland Terrapins|Tennessee Volunteers|2026-11-24T20:00:00Z|under|Tyler Lundblade|Threes": {
    "market": "prop",
@@ -10225,7 +10331,13 @@
      1,
      -154.0
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.6494,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "72-64"
   },
   "prop|TCU Horned Frogs|Miami Hurricanes|2026-11-24T20:00:00Z|over|Micah Robinson|Assists": {
    "market": "prop",
@@ -10558,7 +10670,13 @@
      1,
      111.0
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 1.11,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|over|Miles Byrd|Assists": {
    "market": "prop",
@@ -10585,7 +10703,13 @@
      1,
      -120
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.8333,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|JJ Mandaquit|Assists": {
    "market": "prop",
@@ -10612,7 +10736,13 @@
      1,
      -156.0
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.641,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|Ryan Mela|Points": {
    "market": "prop",
@@ -10639,7 +10769,13 @@
      1,
      -110.0
     ]
-   ]
+   ],
+   "actual": 23.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|Ivan Kharchenkov|Points": {
    "market": "prop",
@@ -10666,7 +10802,13 @@
      1,
      -185.0
     ]
-   ]
+   ],
+   "actual": 24.0,
+   "result": "W",
+   "units": 0.5405,
+   "final_grade": "A",
+   "final_line": 24.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|Derek Dixon|Points": {
    "market": "prop",
@@ -10693,7 +10835,13 @@
      1,
      -145.0
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "W",
+   "units": 0.6897,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|Arrinten Page|Points": {
    "market": "prop",
@@ -10720,7 +10868,13 @@
      1,
      -185.0
     ]
-   ]
+   ],
+   "actual": 13.0,
+   "result": "W",
+   "units": 0.5405,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|over|Ryan Mela|Threes": {
    "market": "prop",
@@ -10747,7 +10901,13 @@
      1,
      174
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 1.74,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|JJ Mandaquit|Threes": {
    "market": "prop",
@@ -10774,7 +10934,13 @@
      1,
      -192.0
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 2.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|under|Malik Mack|Threes": {
    "market": "prop",
@@ -10801,7 +10967,13 @@
      1,
      -149.0
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.6711,
+   "final_grade": "A",
+   "final_line": 2.5,
+   "final_score": "66-84"
   },
   "prop|Arizona Wildcats|Providence Friars|2026-11-24T22:00:00Z|over|Derek Dixon|Threes": {
    "market": "prop",
@@ -10828,7 +11000,13 @@
      1,
      122
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 2.5,
+   "final_score": "66-84"
   },
   "prop|Michigan Wolverines|Creighton Bluejays|2026-11-24T22:30:00Z|over|Wes Enis|Assists": {
    "market": "prop",
@@ -11125,7 +11303,13 @@
      1,
      -137.0
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "68-81"
   },
   "prop|Iowa State Cyclones|San Diego St Aztecs|2026-11-24T22:30:00Z|over|Tre Singleton|Assists": {
    "market": "prop",
@@ -11152,7 +11336,13 @@
      1,
      110
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.1,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "68-81"
   },
   "prop|Iowa State Cyclones|San Diego St Aztecs|2026-11-24T22:30:00Z|under|Tamin Lipsey|Points": {
    "market": "prop",
@@ -11179,7 +11369,13 @@
      1,
      -105.0
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 0.9524,
+   "final_grade": "A",
+   "final_line": 11.5,
+   "final_score": "68-81"
   },
   "prop|Iowa State Cyclones|San Diego St Aztecs|2026-11-24T22:30:00Z|under|Latrell Davis|Threes": {
    "market": "prop",
@@ -11206,7 +11402,13 @@
      1,
      -141.0
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 2.5,
+   "final_score": "68-81"
   },
   "prop|Iowa State Cyclones|San Diego St Aztecs|2026-11-24T22:30:00Z|over|Jamarion Batemon|Threes": {
    "market": "prop",
@@ -11233,7 +11435,13 @@
      1,
      158
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "68-81"
   },
   "prop|Purdue Boilermakers|DePaul Blue Demons|2026-11-24T23:00:00Z|over|Daniel Jacobsen|Assists": {
    "market": "prop",
@@ -11395,7 +11603,13 @@
      1,
      130
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 1.3,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "73-106"
   },
   "prop|Rutgers Scarlet Knights|Sacred Heart Pioneers|2026-11-24T23:00:00Z|over|Lino Mark|Assists": {
    "market": "prop",
@@ -11422,7 +11636,13 @@
      1,
      -164
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 0.6098,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "73-106"
   },
   "prop|Rutgers Scarlet Knights|Sacred Heart Pioneers|2026-11-24T23:00:00Z|under|Darren Buchanan Jr.|Rebounds": {
    "market": "prop",
@@ -11449,7 +11669,13 @@
      1,
      104.0
     ]
-   ]
+   ],
+   "actual": 8.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "73-106"
   },
   "prop|Rutgers Scarlet Knights|Sacred Heart Pioneers|2026-11-24T23:00:00Z|under|Christian Gurdak|Rebounds": {
    "market": "prop",
@@ -11476,7 +11702,13 @@
      1,
      -137.0
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.7299,
+   "final_grade": "B",
+   "final_line": 8.5,
+   "final_score": "73-106"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|under|Denzel Aberdeen|Assists": {
    "market": "prop",
@@ -11503,7 +11735,13 @@
      1,
      -127.0
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.7874,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|over|Thomas Haugh|Points": {
    "market": "prop",
@@ -11530,7 +11768,13 @@
      1,
      -101
     ]
-   ]
+   ],
+   "actual": 16.0,
+   "result": "W",
+   "units": 0.9901,
+   "final_grade": "B",
+   "final_line": 15.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|under|Rueben Chinyelu|Points": {
    "market": "prop",
@@ -11557,7 +11801,13 @@
      1,
      -118.0
     ]
-   ]
+   ],
+   "actual": 25.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 10.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|under|Urban Klavzar|Points": {
    "market": "prop",
@@ -11584,7 +11834,13 @@
      1,
      -115.0
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 0.8696,
+   "final_grade": "B",
+   "final_line": 15.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|under|Thomas Haugh|Rebounds": {
    "market": "prop",
@@ -11611,7 +11867,13 @@
      1,
      -115.0
     ]
-   ]
+   ],
+   "actual": 8.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|under|Rueben Chinyelu|Rebounds": {
    "market": "prop",
@@ -11638,7 +11900,13 @@
      1,
      -169.0
     ]
-   ]
+   ],
+   "actual": 16.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 8.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|over|Thomas Haugh|Threes": {
    "market": "prop",
@@ -11665,7 +11933,13 @@
      1,
      -128
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.7812,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|over|Denzel Aberdeen|Threes": {
    "market": "prop",
@@ -11692,7 +11966,13 @@
      1,
      -137
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 0.7299,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "67-76"
   },
   "prop|Florida Gators|Milwaukee Panthers|2026-11-25T00:00:00Z|under|Urban Klavzar|Threes": {
    "market": "prop",
@@ -11719,7 +11999,13 @@
      1,
      -132.0
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.7576,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "67-76"
   },
   "prop|Indiana Hoosiers|Jacksonville Dolphins|2026-11-25T00:00:00Z|over|Markus Burton|Assists": {
    "market": "prop",
@@ -11746,7 +12032,13 @@
      1,
      -139
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 0.7194,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "64-82"
   },
   "prop|Indiana Hoosiers|Jacksonville Dolphins|2026-11-25T00:00:00Z|under|Markus Burton|Threes": {
    "market": "prop",
@@ -11773,7 +12065,13 @@
      1,
      -127.0
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "64-82"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|under|John Mobley Jr.|Points": {
    "market": "prop",
@@ -11800,7 +12098,13 @@
      1,
      -114.0
     ]
-   ]
+   ],
+   "actual": 21.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 16.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|under|Amare Bynum|Points": {
    "market": "prop",
@@ -11827,7 +12131,13 @@
      1,
      -122.0
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.8197,
+   "final_grade": "B",
+   "final_line": 13.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|under|Tyler Tanner|Points": {
    "market": "prop",
@@ -11854,7 +12164,13 @@
      1,
      -108.0
     ]
-   ]
+   ],
+   "actual": 20.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 18.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|under|Ace Glass|Points": {
    "market": "prop",
@@ -11890,7 +12206,13 @@
      1,
      -129.0
     ]
-   ]
+   ],
+   "actual": 11.0,
+   "result": "W",
+   "units": 0.7752,
+   "final_grade": "B",
+   "final_line": 16.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|over|John Mobley Jr.|Assists": {
    "market": "prop",
@@ -11917,7 +12239,13 @@
      1,
      118
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|over|Justin Pippen|Assists": {
    "market": "prop",
@@ -11944,7 +12272,13 @@
      1,
      -141
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.7092,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|over|Justin Pippen|Rebounds": {
    "market": "prop",
@@ -11971,7 +12305,13 @@
      1,
      126
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 1.26,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|over|Anthony Thompson|Rebounds": {
    "market": "prop",
@@ -11998,7 +12338,13 @@
      1,
      146
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 3.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|over|Amare Bynum|Threes": {
    "market": "prop",
@@ -12025,7 +12371,13 @@
      1,
      -128
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 0.5,
+   "final_score": "72-66"
   },
   "prop|Ohio State Buckeyes|Vanderbilt Commodores|2026-11-25T00:00:00Z|over|Anthony Thompson|Threes": {
    "market": "prop",
@@ -12052,7 +12404,13 @@
      1,
      -175
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.5714,
+   "final_grade": "B",
+   "final_line": 0.5,
+   "final_score": "72-66"
   },
   "prop|Air Force Falcons|Army Knights|2026-11-25T01:00:00Z|over|Kam Sanders|Assists": {
    "market": "prop",
@@ -12268,7 +12626,13 @@
      1,
      -135
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "66-101"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Shrewsberry|Assists": {
    "market": "prop",
@@ -12304,7 +12668,13 @@
      1,
      -156
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.641,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Logan Duncomb|Assists": {
    "market": "prop",
@@ -12340,7 +12710,13 @@
      1,
      112
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.12,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Smith|Assists": {
    "market": "prop",
@@ -12376,7 +12752,13 @@
      1,
      110
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 5.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Shrewsberry|Points": {
    "market": "prop",
@@ -12412,7 +12794,13 @@
      1,
      -115
     ]
-   ]
+   ],
+   "actual": 29.0,
+   "result": "W",
+   "units": 0.8696,
+   "final_grade": "B",
+   "final_line": 12.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Smith|Points": {
    "market": "prop",
@@ -12448,7 +12836,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 15.0,
+   "result": "W",
+   "units": 0.7692,
+   "final_grade": "B",
+   "final_line": 11.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Smith|Rebounds": {
    "market": "prop",
@@ -12484,7 +12878,13 @@
      1,
      104
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 1.04,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Shrewsberry|Threes": {
    "market": "prop",
@@ -12520,7 +12920,13 @@
      1,
      -132
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 0.7576,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Brady Koehler|Threes": {
    "market": "prop",
@@ -12556,7 +12962,13 @@
      1,
      103
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.03,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "70-88"
   },
   "prop|Notre Dame Fighting Irish|Central Michigan Chippewas|2026-11-25T01:00:00Z|over|Braeden Smith|Threes": {
    "market": "prop",
@@ -14139,6 +14551,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     3.5,
+     -5.8,
+     9.3,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -14160,6 +14581,15 @@
    "h": [
     [
      "2026-11-25T00:27:35.220269+00:00",
+     153.5,
+     148.1,
+     5.4,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
      153.5,
      148.1,
      5.4,
@@ -14193,6 +14623,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     168.5,
+     159.0,
+     9.5,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -14217,6 +14656,15 @@
      165.5,
      157.9,
      7.6,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     163.5,
+     158.3,
+     5.2,
      "B",
      1,
      null
@@ -14247,6 +14695,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     154.5,
+     148.7,
+     5.8,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -14271,6 +14728,15 @@
      158.5,
      149.4,
      9.1,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     157.5,
+     149.4,
+     8.1,
      "B",
      1,
      null
@@ -14446,7 +14912,13 @@
      1,
      -160
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "63-64"
   },
   "prop|Washington Huskies|Clemson Tigers|2026-11-25T01:00:18Z|under|Ace Buckner|Points": {
    "market": "prop",
@@ -14473,7 +14945,13 @@
      1,
      -111
     ]
-   ]
+   ],
+   "actual": 20.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 16.5,
+   "final_score": "63-64"
   },
   "prop|Alabama Crimson Tide|Baylor Bears|2026-11-25T03:00:00Z|under|Isaac Williams IV|Points": {
    "market": "prop",
@@ -14960,7 +15438,115 @@
      -101
     ]
    ]
+  },
+  "total|Belmont Bruins|St. Bonaventure Bonnies|2026-11-25T15:00:00Z|under": {
+   "market": "total",
+   "home": "Belmont Bruins",
+   "away": "St. Bonaventure Bonnies",
+   "kickoff": "2026-11-25T15:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Belmont",
+   "away_cbbd": "St. Bonaventure",
+   "first": {
+    "at": "2026-11-25T04:36:52.857413+00:00",
+    "line": 138.5
+   },
+   "h": [
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     138.5,
+     131.6,
+     6.9,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Dartmouth Big Green|Holy Cross Crusaders|2026-11-25T22:00:00Z|home": {
+   "market": "spread",
+   "home": "Dartmouth Big Green",
+   "away": "Holy Cross Crusaders",
+   "kickoff": "2026-11-25T22:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Dartmouth",
+   "away_cbbd": "Holy Cross",
+   "first": {
+    "at": "2026-11-25T04:36:52.857413+00:00",
+    "line": -11.5
+   },
+   "h": [
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     -11.5,
+     -25.7,
+     14.2,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Michigan Wolverines|Miami Hurricanes|2026-11-26T20:30:00Z|home": {
+   "market": "spread",
+   "home": "Michigan Wolverines",
+   "away": "Miami Hurricanes",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Michigan",
+   "away_cbbd": "Miami",
+   "first": {
+    "at": "2026-11-25T04:36:52.857413+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     2.5,
+     -10.4,
+     12.9,
+     "A",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Ole Miss Rebels|Arizona Wildcats|2026-11-28T19:30:00Z|under": {
+   "market": "total",
+   "home": "Ole Miss Rebels",
+   "away": "Arizona Wildcats",
+   "kickoff": "2026-11-28T19:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Ole Miss",
+   "away_cbbd": "Arizona",
+   "first": {
+    "at": "2026-11-25T04:36:52.857413+00:00",
+    "line": 156.5
+   },
+   "h": [
+    [
+     "2026-11-25T04:36:52.857413+00:00",
+     156.5,
+     148.4,
+     8.1,
+     "B",
+     1,
+     null
+    ]
+   ]
   }
  },
- "updated": "2026-11-25T00:27:35.220269+00:00"
+ "updated": "2026-11-25T04:36:52.857413+00:00"
 }
