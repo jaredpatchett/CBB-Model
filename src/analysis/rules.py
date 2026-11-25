@@ -92,3 +92,21 @@ def evaluate_prop(market, line, ev_pct, side, games, R=None):
     why = "" if ok else ("edge too small" if ev_pct < R["min_ev"] else "edge 40%+ (usually a data problem)" if ev_pct >= R["max_ev"]
                          else "too few games" if games < R["min_games"] else "line too small")
     return {"side": side, "edge": round(ev_pct, 1), "tier": tier, "tier_pts": pts or 0, "official": ok, "why_not": why}
+
+
+def cap_prop_grade(g, market, price, R=None):
+    """Rod's 11/25 caps: no A on markets in `no_a_markets` (Points) or on a
+    price worse than `a_worst_price` (-150 or worse can't be A). Capped A -> B."""
+    R = R or load()["prop"]
+    if g != "A":
+        return g, ""
+    if market in R.get("no_a_markets", []):
+        return "B", f"{market} props capped at B"
+    worst = R.get("a_worst_price")
+    try:
+        p = float(price)
+    except (TypeError, ValueError):
+        p = None
+    if worst is not None and p is not None and p < 0 and p < worst:
+        return "B", f"price {p:+.0f} capped at B"
+    return g, ""

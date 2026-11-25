@@ -186,6 +186,7 @@ function pageTotals(){var arr=S.totShow==='a'?D.totals.filter(function(p){return
 function pageProps(){var mk=S.propMk,arr=D.props.filter(function(p){return (S.propShow==='official'?p.official:true)&&(mk==='ALL'||p.prop_market===mk);});
   var mks=['ALL','Points','Rebounds','Assists','Threes'];
   return '<div class="sh"><h2>Player Props</h2><span class="sub">points &middot; rebounds &middot; assists &middot; threes</span></div>'+
+   '<div class="pn" style="margin:0 0 10px">Since 11/25: Points props and props priced -150 or worse top out at &#127922; B (A&rsquo;s weren&rsquo;t beating the juice).</div>'+
   '<div class="tabs">'+['official','all'].map(function(v){return '<button class="tab'+(S.propShow===v?' on':'')+'" onclick="window.__set(&quot;propShow&quot;,&quot;'+v+'&quot;)">'+(v==='official'?'Official':'All lines')+'</button>';}).join('')+'<span style="width:10px"></span>'+
   mks.map(function(m){return '<button class="tab'+(mk===m?' on':'')+'" onclick="window.__set(&quot;propMk&quot;,&quot;'+m+'&quot;)">'+m+'</button>';}).join('')+'</div>'+
   '<div class="card"><div class="grp"><span class="pill pr">PROPS</span> '+(S.propShow==='official'?'official plays':'every line the model priced')+'<span style="margin-left:auto">'+arr.length+'</span></div>'+

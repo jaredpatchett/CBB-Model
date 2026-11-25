@@ -228,7 +228,9 @@ def main():
                 "prop_market": p["market_name"], "athleteId": st.get("athleteId"), "model": round(mu, 1),
                 "price": p["over_price"] if side == "over" else p["under_price"]}
         mv = rules.line_move(side, float(p["line"]), play_log.first_line(log, base))
-        ev.update({"grade": rules.grade(ev["tier_pts"], mv, extra=max(mu_grade, 0) - (1 if mu_grade < 0 else 0)), "move": mv,
+        g, cap = rules.cap_prop_grade(rules.grade(ev["tier_pts"], mv, extra=max(mu_grade, 0) - (1 if mu_grade < 0 else 0)),
+                                      p["market_name"], base["price"], R["prop"])
+        ev.update({"grade": g, "cap": cap, "move": mv,
                    "matchup": "soft D" if soft else ("tough D" if tough else "average D"), "mu_pts": mu_grade})
         row = {**base, **ev, "team": team, "opponent": opp, "hit_prob": round(p_over if side == "over" else 1 - p_over, 3),
                "minutes": r1(st.get("p_minutes")), "avg": r1(st.get(f"p_{stat}")), "games": int(st.get("p_games") or 0),

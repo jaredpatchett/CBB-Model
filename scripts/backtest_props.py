@@ -255,6 +255,7 @@ def main():
             -1 if ((side == "over" and tough) or (side == "under" and soft)) else 0)
         ev = rules.evaluate_prop(r["prop_market"], r["line"], evv, side, int(row.get("p_games") or 0), R["prop"])
         g = rules.grade(ev["tier_pts"], 0, extra=max(mu_grade, 0) - (1 if mu_grade < 0 else 0))
+        g, _ = rules.cap_prop_grade(g, r["prop_market"], r["over_price"] if side == "over" else r["under_price"], R["prop"])
         actual = float(row[stat])
         diff = (actual - float(r["line"])) * (1 if side == "over" else -1)
         res = "P" if diff == 0 else ("W" if diff > 0 else "L")
