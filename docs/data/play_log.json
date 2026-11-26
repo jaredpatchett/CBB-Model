@@ -14742,7 +14742,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 163.5,
+   "final_score": "83-70"
   },
   "total|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under": {
    "market": "total",
@@ -14787,7 +14792,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 154.5,
+   "final_score": "85-82"
   },
   "total|Wisconsin Badgers|Northeastern Huskies|2026-11-26T00:00:00Z|under": {
    "market": "total",
@@ -14832,7 +14842,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 155.5,
+   "final_score": "54-91"
   },
   "prop|Air Force Falcons|Army Knights|2026-11-25T01:00:00Z|under|Lucas Hobin|Points": {
    "market": "prop",
@@ -15680,7 +15695,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": -11.5,
+   "final_score": "67-65"
   },
   "spread|Michigan Wolverines|Miami Hurricanes|2026-11-26T20:30:00Z|home": {
    "market": "spread",
@@ -15723,6 +15743,15 @@
      12.8,
      "A",
      1,
+     null
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     2.5,
+     -0.8,
+     3.3,
+     "B",
+     0,
      null
     ]
    ]
@@ -15819,6 +15848,15 @@
      "B",
      0,
      null
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     169.5,
+     164.6,
+     4.9,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -15849,6 +15887,15 @@
     ],
     [
      "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     -5.6,
+     8.1,
+     "B",
+     0,
+     null
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      2.5,
      -5.6,
      8.1,
@@ -15891,6 +15938,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     158.5,
+     151.4,
+     7.1,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -15921,6 +15977,15 @@
     ],
     [
      "2026-11-26T00:11:15.051370+00:00",
+     9.5,
+     -5.5,
+     15.0,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      9.5,
      -5.5,
      15.0,
@@ -16009,7 +16074,13 @@
      1,
      100
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "47-74"
   },
   "prop|Davidson Wildcats|Tulane Green Wave|2026-11-25T18:30:00Z|under|Josh Scovens|Rebounds": {
    "market": "prop",
@@ -16036,7 +16107,13 @@
      1,
      -169
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 0.5917,
+   "final_grade": "B",
+   "final_line": 7.5,
+   "final_score": "47-74"
   },
   "prop|Davidson Wildcats|Tulane Green Wave|2026-11-25T18:30:00Z|under|Nick Janowski|Threes": {
    "market": "prop",
@@ -16063,7 +16140,13 @@
      1,
      -179
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "47-74"
   },
   "prop|Arizona St Sun Devils|LSU Tigers|2026-11-25T19:00:00Z|over|Joel Foxwell|Assists": {
    "market": "prop",
@@ -16432,7 +16515,13 @@
      1,
      -149
     ]
-   ]
+   ],
+   "actual": 12.0,
+   "result": "W",
+   "units": 0.6711,
+   "final_grade": "B",
+   "final_line": 17.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Ivan Kharchenkov|Points": {
    "market": "prop",
@@ -16492,7 +16581,13 @@
      1,
      -185
     ]
-   ]
+   ],
+   "actual": 17.0,
+   "result": "W",
+   "units": 0.5405,
+   "final_grade": "B",
+   "final_line": 17.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Motiejus Krivas|Rebounds": {
    "market": "prop",
@@ -16585,7 +16680,13 @@
      1,
      106
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Caleb Holt|Rebounds": {
    "market": "prop",
@@ -16678,7 +16779,13 @@
      1,
      -185
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.5405,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Corey Stephenson|Threes": {
    "market": "prop",
@@ -16705,7 +16812,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "W",
+   "units": 0.7692,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "73-84"
   },
   "prop|Xavier Musketeers|Texas A&M Aggies|2026-11-25T19:30:00Z|over|Jovan Milicevic|Assists": {
    "market": "prop",
@@ -17083,7 +17196,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.9259,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "83-70"
   },
   "prop|Penn State Nittany Lions|Memphis Tigers|2026-11-25T22:00:00Z|under|Thomas Allard|Assists": {
    "market": "prop",
@@ -17110,7 +17229,13 @@
      1,
      -112
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "W",
+   "units": 0.8929,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "83-70"
   },
   "prop|Penn State Nittany Lions|Memphis Tigers|2026-11-25T22:00:00Z|under|Josh Reed|Points": {
    "market": "prop",
@@ -17137,7 +17262,13 @@
      1,
      -125
     ]
-   ]
+   ],
+   "actual": 14.0,
+   "result": "W",
+   "units": 0.8,
+   "final_grade": "B",
+   "final_line": 16.5,
+   "final_score": "83-70"
   },
   "prop|Penn State Nittany Lions|Memphis Tigers|2026-11-25T22:00:00Z|under|Roko Prkacin|Points": {
    "market": "prop",
@@ -17164,7 +17295,13 @@
      1,
      100
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "W",
+   "units": 1.0,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "83-70"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Collin Chandler|Assists": {
    "market": "prop",
@@ -17191,7 +17328,13 @@
      1,
      -112
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 2.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Miles Byrd|Points": {
    "market": "prop",
@@ -17218,7 +17361,13 @@
      1,
      -123
     ]
-   ]
+   ],
+   "actual": 9.0,
+   "result": "W",
+   "units": 0.813,
+   "final_grade": "B",
+   "final_line": 12.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Tyler Betsey|Points": {
    "market": "prop",
@@ -17245,7 +17394,13 @@
      1,
      -118
     ]
-   ]
+   ],
+   "actual": 22.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 10.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Arrinten Page|Points": {
    "market": "prop",
@@ -17272,7 +17427,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 20.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 12.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Malik Mack|Points": {
    "market": "prop",
@@ -17299,7 +17460,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 17.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Jaxon Kohler|Points": {
    "market": "prop",
@@ -17326,7 +17493,13 @@
      1,
      -149
     ]
-   ]
+   ],
+   "actual": 9.0,
+   "result": "W",
+   "units": 0.6711,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Tyler Betsey|Rebounds": {
    "market": "prop",
@@ -17353,7 +17526,13 @@
      1,
      100
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Jake Wahlin|Rebounds": {
    "market": "prop",
@@ -17380,7 +17559,13 @@
      1,
      -137
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.7299,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Jaxon Kohler|Rebounds": {
    "market": "prop",
@@ -17407,7 +17592,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.9259,
+   "final_grade": "A",
+   "final_line": 7.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Bruce Branch III|Rebounds": {
    "market": "prop",
@@ -17434,7 +17625,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 5.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Arrinten Page|Rebounds": {
    "market": "prop",
@@ -17461,7 +17658,13 @@
      1,
      110
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 1.1,
+   "final_grade": "A",
+   "final_line": 4.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|under|Malik Mack|Threes": {
    "market": "prop",
@@ -17488,7 +17691,13 @@
      1,
      -233
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|over|Ryan Mela|Threes": {
    "market": "prop",
@@ -17515,7 +17724,13 @@
      1,
      -208
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.4808,
+   "final_grade": "B",
+   "final_line": 0.5,
+   "final_score": "85-82"
   },
   "prop|Providence Friars|BYU Cougars|2026-11-25T22:30:00Z|over|Tyler Betsey|Threes": {
    "market": "prop",
@@ -17542,7 +17757,13 @@
      1,
      -145
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 0.6897,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "85-82"
   },
   "prop|UConn Huskies|Duke Blue Devils|2026-11-26T00:00:00Z|under|Braylon Mullins|Points": {
    "market": "prop",
@@ -18648,6 +18869,15 @@
      "B",
      1,
      -137
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     4.5,
+     4.0,
+     10.2,
+     "B",
+     1,
+     -137
     ]
    ]
   },
@@ -18669,6 +18899,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     19.5,
+     16.0,
+     33.6,
+     "B",
+     1,
+     -130
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      19.5,
      16.0,
      33.6,
@@ -18702,6 +18941,15 @@
      "B",
      1,
      152
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     3.5,
+     3.4,
+     19.3,
+     "B",
+     1,
+     152
     ]
    ]
   },
@@ -18723,6 +18971,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     6.5,
+     7.0,
+     10.0,
+     "B",
+     1,
+     -115
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      6.5,
      7.0,
      10.0,
@@ -18756,6 +19013,15 @@
      "C",
      1,
      155
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     2.5,
+     2.3,
+     11.2,
+     "C",
+     1,
+     152
     ]
    ]
   },
@@ -18783,6 +19049,15 @@
      "B",
      1,
      110
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     3.5,
+     3.9,
+     33.2,
+     "B",
+     1,
+     115
     ]
    ]
   },
@@ -18804,6 +19079,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     2.4,
+     18.7,
+     "B",
+     1,
+     -204
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      3.5,
      2.4,
      18.7,
@@ -18837,6 +19121,15 @@
      "B",
      1,
      -123
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     11.5,
+     9.0,
+     21.7,
+     "B",
+     1,
+     -130
     ]
    ]
   },
@@ -18858,6 +19151,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     19.5,
+     17.1,
+     34.5,
+     "B",
+     1,
+     -104
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      19.5,
      17.1,
      34.5,
@@ -18891,6 +19193,15 @@
      "B",
      1,
      -156
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     8.5,
+     6.6,
+     28.3,
+     "B",
+     1,
+     -164
     ]
    ]
   },
@@ -18912,6 +19223,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.1,
+     21.8,
+     "A",
+     1,
+     -123
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      2.5,
      2.1,
      21.8,
@@ -18945,6 +19265,15 @@
      "B",
      1,
      110
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     4.5,
+     4.7,
+     8.7,
+     "B",
+     0,
+     102
     ]
    ]
   },
@@ -18966,6 +19295,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     5.5,
+     4.0,
+     32.7,
+     "B",
+     1,
+     -185
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      5.5,
      4.0,
      32.7,
@@ -18999,6 +19337,15 @@
      "C",
      1,
      -120
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     1.5,
+     2.0,
+     17.9,
+     "C",
+     1,
+     -120
     ]
    ]
   },
@@ -19020,6 +19367,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.4,
+     22.8,
+     "B",
+     1,
+     -156
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      1.5,
      2.4,
      22.8,
@@ -19053,6 +19409,15 @@
      "B",
      1,
      -108
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     9.5,
+     7.6,
+     24.7,
+     "B",
+     1,
+     -108
     ]
    ]
   },
@@ -19074,6 +19439,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     11.5,
+     9.8,
+     22.1,
+     "B",
+     1,
+     -108
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      11.5,
      9.8,
      22.1,
@@ -19107,6 +19481,15 @@
      "A",
      1,
      -123
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     7.5,
+     6.5,
+     22.3,
+     "A",
+     1,
+     -123
     ]
    ]
   },
@@ -19128,6 +19511,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     6.5,
+     5.5,
+     12.1,
+     "B",
+     1,
+     -149
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      6.5,
      5.5,
      12.1,
@@ -19161,6 +19553,15 @@
      "B",
      1,
      -200
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     2.5,
+     1.8,
+     15.7,
+     "B",
+     1,
+     -200
     ]
    ]
   },
@@ -19182,6 +19583,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.2,
+     13.2,
+     "C",
+     1,
+     -167
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      1.5,
      2.2,
      13.2,
@@ -19215,6 +19625,15 @@
      "A",
      1,
      102
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     4.5,
+     4.2,
+     14.4,
+     "B",
+     1,
+     -108
     ]
    ]
   },
@@ -19242,6 +19661,15 @@
      "B",
      1,
      -122
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     16.5,
+     14.7,
+     12.5,
+     "B",
+     1,
+     -133
     ]
    ]
   },
@@ -19263,6 +19691,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     14.5,
+     11.8,
+     21.5,
+     "B",
+     1,
+     -137
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      14.5,
      11.8,
      21.5,
@@ -19296,6 +19733,15 @@
      "B",
      1,
      -128
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     18.5,
+     16.6,
+     15.6,
+     "B",
+     1,
+     -128
     ]
    ]
   },
@@ -19323,6 +19769,15 @@
      "C",
      1,
      117
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     3.5,
+     3.6,
+     10.8,
+     "C",
+     1,
+     112
     ]
    ]
   },
@@ -19350,6 +19805,15 @@
      "C",
      1,
      -130
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     0.5,
+     0.8,
+     12.1,
+     "C",
+     1,
+     -127
     ]
    ]
   },
@@ -19371,6 +19835,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.5,
+     22.9,
+     "B",
+     1,
+     144
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      1.5,
      1.5,
      22.9,
@@ -19404,6 +19877,15 @@
      "B",
      1,
      -169
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     3.5,
+     2.7,
+     25.4,
+     "B",
+     1,
+     -172
     ]
    ]
   },
@@ -19431,6 +19913,15 @@
      "C",
      1,
      178
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     0.5,
+     1.2,
+     11.2,
+     "C",
+     1,
+     -227
     ]
    ]
   },
@@ -19452,6 +19943,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     3.4,
+     17.6,
+     "C",
+     1,
+     146
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      3.5,
      3.4,
      17.6,
@@ -19485,6 +19985,15 @@
      "B",
      1,
      -108
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     19.5,
+     17.1,
+     32.1,
+     "B",
+     1,
+     -108
     ]
    ]
   },
@@ -19512,6 +20021,15 @@
      "A",
      1,
      -118
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     3.5,
+     2.9,
+     33.7,
+     "A",
+     1,
+     -123
     ]
    ]
   },
@@ -19539,6 +20057,15 @@
      "B",
      1,
      -227
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     1.5,
+     1.7,
+     -6.1,
+     "B",
+     0,
+     125
     ]
    ]
   },
@@ -19560,6 +20087,15 @@
    "h": [
     [
      "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.6,
+     15.8,
+     "C",
+     1,
+     120
+    ],
+    [
+     "2026-11-26T03:55:08.413896+00:00",
      1.5,
      1.6,
      15.8,
@@ -19622,7 +20158,601 @@
      106
     ]
    ]
+  },
+  "total|USC Trojans|Utah State Aggies|2026-11-26T21:30:00Z|under": {
+   "market": "total",
+   "home": "USC Trojans",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T21:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "USC",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 165.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     165.5,
+     158.3,
+     7.2,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|LSU Tigers|SMU Mustangs|2026-11-27T00:00:00Z|under": {
+   "market": "total",
+   "home": "LSU Tigers",
+   "away": "SMU Mustangs",
+   "kickoff": "2026-11-27T00:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "LSU",
+   "away_cbbd": "SMU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 160.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     160.5,
+     154.5,
+     6.0,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Nick Townsend|Assists": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "over",
+   "player": "Nick Townsend",
+   "prop_market": "Assists",
+   "athleteId": 4819,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     3.5,
+     4.4,
+     24.9,
+     "B",
+     1,
+     -145
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Amari McCottry|Assists": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "over",
+   "player": "Amari McCottry",
+   "prop_market": "Assists",
+   "athleteId": 818,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     2.5,
+     3.2,
+     10.8,
+     "C",
+     1,
+     -169
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|under|Kellen Thames|Points": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "under",
+   "player": "Kellen Thames",
+   "prop_market": "Points",
+   "athleteId": 809,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     11.5,
+     10.3,
+     21.0,
+     "B",
+     1,
+     103
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Nick Townsend|Points": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "over",
+   "player": "Nick Townsend",
+   "prop_market": "Points",
+   "athleteId": 4819,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     11.5,
+     13.5,
+     15.0,
+     "C",
+     1,
+     -133
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Ishan Sharma|Threes": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "over",
+   "player": "Ishan Sharma",
+   "prop_market": "Threes",
+   "athleteId": 8195,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     1.5,
+     2.3,
+     31.1,
+     "B",
+     1,
+     -149
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Quentin Jones|Threes": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "over",
+   "player": "Quentin Jones",
+   "prop_market": "Threes",
+   "athleteId": 2583,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 0.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     0.5,
+     1.1,
+     11.9,
+     "C",
+     1,
+     -196
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|under|Trey Green|Threes": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "under",
+   "player": "Trey Green",
+   "prop_market": "Threes",
+   "athleteId": 4071,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     2.5,
+     2.2,
+     20.0,
+     "A",
+     1,
+     -112
+    ]
+   ]
+  },
+  "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Julius Price|Threes": {
+   "market": "prop",
+   "home": "Stanford Cardinal",
+   "away": "Saint Louis Billikens",
+   "kickoff": "2026-11-26T05:00:43Z",
+   "side": "over",
+   "player": "Julius Price",
+   "prop_market": "Threes",
+   "athleteId": 232578,
+   "home_cbbd": "Stanford",
+   "away_cbbd": "Saint Louis",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     1.5,
+     1.4,
+     19.4,
+     "C",
+     1,
+     171
+    ]
+   ]
+  },
+  "prop|Texas Longhorns|Georgetown Hoyas|2026-11-26T19:30:00Z|over|Kayvaun Mulready|Points": {
+   "market": "prop",
+   "home": "Texas Longhorns",
+   "away": "Georgetown Hoyas",
+   "kickoff": "2026-11-26T19:30:00Z",
+   "side": "over",
+   "player": "Kayvaun Mulready",
+   "prop_market": "Points",
+   "athleteId": 8180,
+   "home_cbbd": "Texas",
+   "away_cbbd": "Georgetown",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 8.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     8.5,
+     9.9,
+     14.6,
+     "C",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Michigan Wolverines|Miami Hurricanes|2026-11-26T20:30:00Z|under|Elliot Cadeau|Assists": {
+   "market": "prop",
+   "home": "Michigan Wolverines",
+   "away": "Miami Hurricanes",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Elliot Cadeau",
+   "prop_market": "Assists",
+   "athleteId": 237,
+   "home_cbbd": "Michigan",
+   "away_cbbd": "Miami",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     6.5,
+     5.6,
+     28.4,
+     "A",
+     1,
+     -144
+    ]
+   ]
+  },
+  "prop|Michigan Wolverines|Miami Hurricanes|2026-11-26T20:30:00Z|under|Acaden Lewis|Assists": {
+   "market": "prop",
+   "home": "Michigan Wolverines",
+   "away": "Miami Hurricanes",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Acaden Lewis",
+   "prop_market": "Assists",
+   "athleteId": 203179,
+   "home_cbbd": "Michigan",
+   "away_cbbd": "Miami",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     5.5,
+     4.9,
+     25.1,
+     "A",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Michigan Wolverines|Miami Hurricanes|2026-11-26T20:30:00Z|under|Trey McKenney|Points": {
+   "market": "prop",
+   "home": "Michigan Wolverines",
+   "away": "Miami Hurricanes",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Trey McKenney",
+   "prop_market": "Points",
+   "athleteId": 200517,
+   "home_cbbd": "Michigan",
+   "away_cbbd": "Miami",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 17.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     17.5,
+     14.8,
+     32.7,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Michigan Wolverines|Miami Hurricanes|2026-11-26T20:30:00Z|under|Shelton Henderson|Points": {
+   "market": "prop",
+   "home": "Michigan Wolverines",
+   "away": "Miami Hurricanes",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Shelton Henderson",
+   "prop_market": "Points",
+   "athleteId": 200477,
+   "home_cbbd": "Michigan",
+   "away_cbbd": "Miami",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     15.5,
+     14.0,
+     16.3,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Trent Perry|Assists": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "over",
+   "player": "Trent Perry",
+   "prop_market": "Assists",
+   "athleteId": 536,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     4.5,
+     4.8,
+     10.8,
+     "C",
+     1,
+     -119
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Xavier Edmonds|Assists": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "over",
+   "player": "Xavier Edmonds",
+   "prop_market": "Assists",
+   "athleteId": 202414,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     1.5,
+     2.1,
+     30.8,
+     "B",
+     1,
+     -105
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Brock Harding|Assists": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "over",
+   "player": "Brock Harding",
+   "prop_market": "Assists",
+   "athleteId": 5482,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     6.5,
+     7.5,
+     37.3,
+     "B",
+     1,
+     -130
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Micah Robinson|Points": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "over",
+   "player": "Micah Robinson",
+   "prop_market": "Points",
+   "athleteId": 5675,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     15.5,
+     16.4,
+     11.7,
+     "C",
+     1,
+     -105
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Xavier Edmonds|Points": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "under",
+   "player": "Xavier Edmonds",
+   "prop_market": "Points",
+   "athleteId": 202414,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 15.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     15.5,
+     13.9,
+     15.5,
+     "B",
+     1,
+     -118
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Micah Robinson|Rebounds": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "under",
+   "player": "Micah Robinson",
+   "prop_market": "Rebounds",
+   "athleteId": 5675,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     5.5,
+     4.5,
+     10.9,
+     "B",
+     1,
+     -156
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Brock Harding|Threes": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "over",
+   "player": "Brock Harding",
+   "prop_market": "Threes",
+   "athleteId": 5482,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T03:55:08.413896+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T03:55:08.413896+00:00",
+     1.5,
+     1.3,
+     23.9,
+     "B",
+     1,
+     186
+    ]
+   ]
   }
  },
- "updated": "2026-11-26T00:11:15.051370+00:00"
+ "updated": "2026-11-26T03:55:08.413896+00:00"
 }

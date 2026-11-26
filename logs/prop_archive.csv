@@ -1500,20 +1500,20 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-25T15:20:18.704087+00:00,2026-11-25T17:00:00Z,Marquette Golden Eagles,Virginia Cavaliers,Marquette,Virginia,Nigel James Jr.,200315,Points,11.5,-141,108.0,betonlineag,9.6,0.356,under,33.9,6,tough D,1,B,4.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T17:00:00Z,Marquette Golden Eagles,Virginia Cavaliers,Marquette,Virginia,Adrien Stevens,200328,Points,12.5,-105,-123.0,betonlineag,12.1,0.472,under,-4.2,6,tough D,0,B,5.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T17:00:00Z,Marquette Golden Eagles,Virginia Cavaliers,Marquette,Virginia,Sam Lewis,2519,Points,16.5,-114,-114.0,betonlineag,14.6,0.35,under,22.1,7,tough D,1,B,10.0,W
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Assists,3.5,100,-130.0,betonlineag,3.8,0.588,over,17.7,6,average D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Assists,1.5,-175,134.0,betonlineag,1.8,0.575,under,-0.7,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Ian Platteeuw,198854,Assists,3.5,-130,100.0,betonlineag,3.9,0.62,over,9.8,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Josh Scovens,4777,Assists,2.5,-120,-108.0,betonlineag,2.5,0.511,under,-5.9,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Points,12.5,-120,-108.0,betonlineag,12.7,0.515,over,-5.5,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Points,14.5,-115,-112.0,betonlineag,14.2,0.474,under,-0.5,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Ian Platteeuw,198854,Points,7.5,-115,-112.0,betonlineag,7.8,0.525,over,-1.8,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Josh Scovens,4777,Points,16.5,-105,-123.0,betonlineag,16.3,0.487,over,-4.8,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Rebounds,3.5,136,-179.0,betonlineag,2.8,0.384,under,-4.0,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Rebounds,4.5,-120,-108.0,betonlineag,4.9,0.565,over,3.5,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Josh Scovens,4777,Rebounds,7.5,130,-169.0,betonlineag,6.1,0.265,under,17.0,6,average D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Ian Platteeuw,198854,Rebounds,8.5,115,-149.0,betonlineag,7.6,0.343,under,9.8,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Threes,2.5,152,-200.0,betonlineag,2.1,0.345,under,-1.8,6,average D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Threes,2.5,136,-179.0,betonlineag,1.7,0.215,under,22.3,6,average D,1,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Assists,3.5,100,-130.0,betonlineag,3.8,0.588,over,17.7,6,average D,1,B,7.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Assists,1.5,-175,134.0,betonlineag,1.8,0.575,under,-0.7,6,average D,0,B,0.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Ian Platteeuw,198854,Assists,3.5,-130,100.0,betonlineag,3.9,0.62,over,9.8,6,average D,0,B,5.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Josh Scovens,4777,Assists,2.5,-120,-108.0,betonlineag,2.5,0.511,under,-5.9,6,average D,0,B,2.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Points,12.5,-120,-108.0,betonlineag,12.7,0.515,over,-5.5,6,average D,0,B,9.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Points,14.5,-115,-112.0,betonlineag,14.2,0.474,under,-0.5,6,average D,0,B,24.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Ian Platteeuw,198854,Points,7.5,-115,-112.0,betonlineag,7.8,0.525,over,-1.8,6,average D,0,B,7.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Josh Scovens,4777,Points,16.5,-105,-123.0,betonlineag,16.3,0.487,over,-4.8,6,average D,0,B,18.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Rebounds,3.5,136,-179.0,betonlineag,2.8,0.384,under,-4.0,6,average D,0,B,5.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Rebounds,4.5,-120,-108.0,betonlineag,4.9,0.565,over,3.5,6,average D,0,B,9.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Josh Scovens,4777,Rebounds,7.5,130,-169.0,betonlineag,6.1,0.265,under,17.0,6,average D,1,B,7.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Ian Platteeuw,198854,Rebounds,8.5,115,-149.0,betonlineag,7.6,0.343,under,9.8,6,average D,0,B,11.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Sam Brown,2426,Threes,2.5,152,-200.0,betonlineag,2.1,0.345,under,-1.8,6,average D,0,B,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T18:30:00Z,Davidson Wildcats,Tulane Green Wave,Davidson,Tulane,Nick Janowski,5591,Threes,2.5,136,-179.0,betonlineag,1.7,0.215,under,22.3,6,average D,1,B,6.0,L
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:00:00Z,Arizona St Sun Devils,LSU Tigers,Arizona State,LSU,Joel Foxwell,201472,Assists,5.5,-110,-118.0,betonlineag,6.0,0.637,over,21.7,5,tough D,1,B,7.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:00:00Z,Arizona St Sun Devils,LSU Tigers,Arizona State,LSU,Donovan Dent,6436,Assists,7.5,-123,-104.0,betonlineag,7.9,0.621,over,12.5,6,tough D,1,C,12.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:00:00Z,Arizona St Sun Devils,LSU Tigers,Arizona State,LSU,Abdi Bashir Jr.,2455,Points,11.5,100,-130.0,betonlineag,11.1,0.465,under,-5.4,6,tough D,0,B,12.0,L
@@ -1533,113 +1533,113 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:00:00Z,Arizona St Sun Devils,LSU Tigers,Arizona State,LSU,Joel Foxwell,201472,Threes,1.5,-154,118.0,betonlineag,2.4,0.82,over,35.2,5,tough D,1,B,6.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Motiejus Krivas,274,Assists,1.5,-141,108.0,betonlineag,2.3,0.731,over,25.0,7,tough D,1,B,3.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ivan Kharchenkov,197989,Assists,4.5,120,-156.0,betonlineag,5.0,0.643,over,41.4,7,tough D,0,B,8.0,W
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Assists,3.5,120,-156.0,betonlineag,3.2,0.411,under,-3.4,6,tough D,0,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Assists,3.5,120,-156.0,betonlineag,3.2,0.411,under,-3.4,6,tough D,0,B,2.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Derek Dixon,200978,Assists,2.5,152,-200.0,betonlineag,2.2,0.399,over,0.6,7,tough D,0,C,1.0,L
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Caleb Holt,223164,Assists,1.5,115,-149.0,betonlineag,1.8,0.593,over,27.4,7,tough D,1,B,1.0,L
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Adam Clark,9511,Assists,4.5,120,-156.0,betonlineag,4.2,0.401,under,-1.6,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Points,8.5,-110,-118.0,betonlineag,7.8,0.445,under,2.6,6,tough D,0,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Adam Clark,9511,Assists,4.5,120,-156.0,betonlineag,4.2,0.401,under,-1.6,6,tough D,0,B,2.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Points,8.5,-110,-118.0,betonlineag,7.8,0.445,under,2.6,6,tough D,0,B,12.0,L
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Caleb Holt,223164,Points,19.5,117,-152.0,betonlineag,16.4,0.271,under,20.9,7,tough D,1,B,21.0,L
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Corey Stephenson,7369,Points,17.5,115,-149.0,betonlineag,13.0,0.187,under,35.8,6,tough D,1,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Corey Stephenson,7369,Points,17.5,115,-149.0,betonlineag,13.0,0.187,under,35.8,6,tough D,1,B,12.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Motiejus Krivas,274,Points,14.5,-135,104.0,betonlineag,15.9,0.606,over,5.5,7,tough D,0,C,20.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ivan Kharchenkov,197989,Points,19.5,-135,104.0,betonlineag,17.6,0.356,under,31.3,7,tough D,1,B,15.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Derek Dixon,200978,Points,9.5,-185,141.0,betonlineag,12.0,0.689,over,6.2,7,tough D,0,C,12.0,W
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Adam Clark,9511,Points,17.5,141,-185.0,betonlineag,14.3,0.261,under,13.8,6,tough D,1,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Adam Clark,9511,Points,17.5,141,-185.0,betonlineag,14.3,0.261,under,13.8,6,tough D,1,B,17.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Motiejus Krivas,274,Rebounds,9.5,-108,-120.0,betonlineag,8.3,0.297,under,28.8,7,tough D,1,A,7.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Derek Dixon,200978,Rebounds,1.5,-154,118.0,betonlineag,2.3,0.636,over,4.9,7,tough D,0,C,1.0,L
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ivan Kharchenkov,197989,Rebounds,6.5,-120,-108.0,betonlineag,6.1,0.425,under,10.7,7,tough D,1,B,6.0,W
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Corey Stephenson,7369,Rebounds,4.5,-137,106.0,betonlineag,4.2,0.443,under,14.7,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Adam Clark,9511,Rebounds,2.5,-141,109.0,betonlineag,2.8,0.559,over,-4.4,6,tough D,0,C,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Corey Stephenson,7369,Rebounds,4.5,-137,106.0,betonlineag,4.2,0.443,under,14.7,6,tough D,1,B,5.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Adam Clark,9511,Rebounds,2.5,-141,109.0,betonlineag,2.8,0.559,over,-4.4,6,tough D,0,C,3.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Caleb Holt,223164,Rebounds,6.5,-200,151.0,betonlineag,6.4,0.487,under,28.7,7,tough D,1,A,6.0,W
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Rebounds,2.5,-208,157.0,betonlineag,3.1,0.601,under,2.6,6,tough D,0,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Rebounds,2.5,-208,157.0,betonlineag,3.1,0.601,under,2.6,6,tough D,0,B,4.0,L
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Derek Dixon,200978,Threes,2.5,130,-169.0,betonlineag,2.6,0.525,over,20.8,7,tough D,1,B,3.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ivan Kharchenkov,197989,Threes,0.5,-172,132.0,betonlineag,0.9,0.67,over,6.0,7,tough D,0,C,1.0,W
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Threes,1.5,141,-185.0,betonlineag,0.9,0.278,under,11.3,6,tough D,1,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Ilias Kamardine,201311,Threes,1.5,141,-185.0,betonlineag,0.9,0.278,under,11.3,6,tough D,1,B,1.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Caleb Holt,223164,Threes,1.5,-101,-128.0,betonlineag,1.4,0.462,under,-4.3,7,tough D,0,B,3.0,L
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Corey Stephenson,7369,Threes,1.5,100,-130.0,betonlineag,1.0,0.325,under,19.5,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Filip Borovicanin,6433,Assists,4.5,141,-185.0,betonlineag,4.1,0.394,over,-5.0,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Assists,1.5,-149,115.0,betonlineag,2.0,0.633,over,5.7,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Assists,3.5,126,-164.0,betonlineag,2.9,0.341,under,6.1,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jovan Milicevic,6438,Assists,1.5,120,-156.0,betonlineag,1.7,0.568,over,25.0,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Assists,3.5,152,-200.0,betonlineag,2.4,0.209,under,18.7,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Filip Borovicanin,6433,Points,8.5,-115,-112.0,betonlineag,7.4,0.415,under,10.8,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Points,12.5,-130,100.0,betonlineag,11.7,0.438,under,12.4,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jovan Milicevic,6438,Points,12.5,-110,-118.0,betonlineag,11.3,0.405,under,10.0,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Points,21.5,-120,-108.0,betonlineag,17.9,0.236,under,47.2,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Points,14.5,115,-149.0,betonlineag,11.9,0.302,under,16.6,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Rebounds,5.5,-123,-104.0,betonlineag,5.5,0.497,under,-1.4,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Filip Borovicanin,6433,Rebounds,5.5,100,-130.0,betonlineag,4.6,0.341,under,16.5,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jovan Milicevic,6438,Rebounds,4.5,136,-179.0,betonlineag,3.6,0.34,under,2.9,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Rebounds,4.5,110,-143.0,betonlineag,4.0,0.408,under,0.6,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Rebounds,1.5,-141,108.0,betonlineag,1.5,0.508,under,2.3,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Threes,1.5,-105,-123.0,betonlineag,1.8,0.622,over,21.5,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Threes,1.5,174,-233.0,betonlineag,0.9,0.274,under,3.7,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Threes,2.5,152,-200.0,betonlineag,1.8,0.244,under,13.4,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Aleksas Bieliauskas,203451,Points,9.5,100,-130.0,betonlineag,10.2,0.552,over,10.4,5,tough D,1,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Jakub Necas,5541,Points,7.5,-130,100.0,betonlineag,10.4,0.717,over,26.8,5,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Juan Fernandez,226956,Points,14.5,-105,-123.0,betonlineag,12.6,0.356,under,16.8,5,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Camden Heide,371,Points,7.5,115,-149.0,betonlineag,7.5,0.497,over,6.8,4,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Kory Mincy,5100,Points,9.5,-115,-112.0,betonlineag,8.7,0.436,under,6.7,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Marcus Johnson,226960,Points,13.5,-110,-118.0,betonlineag,11.9,0.376,under,15.3,4,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Roko Prkacin,231764,Assists,1.5,-164,125.0,betonlineag,1.8,0.599,over,-3.6,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Assists,1.5,118,-154.0,betonlineag,1.5,0.497,over,8.4,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Assists,4.5,-120,-108.0,betonlineag,4.1,0.396,under,16.3,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Assists,2.5,-115,-112.0,betonlineag,2.1,0.39,under,15.4,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Points,11.5,-105,-123.0,betonlineag,10.9,0.456,under,-1.4,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Points,16.5,-103,-125.0,betonlineag,13.5,0.276,under,30.4,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Roko Prkacin,231764,Points,14.5,-130,100.0,betonlineag,12.5,0.346,under,30.9,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Points,8.5,-105,-123.0,betonlineag,9.1,0.55,over,7.4,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Rebounds,3.5,146,-192.0,betonlineag,3.2,0.445,over,9.4,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Roko Prkacin,231764,Rebounds,6.5,106,-137.0,betonlineag,5.8,0.372,under,8.7,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Rebounds,4.5,-127,-102.0,betonlineag,4.3,0.464,under,6.2,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Rebounds,3.5,136,-179.0,betonlineag,2.9,0.397,under,-6.0,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Threes,2.5,155,-204.0,betonlineag,2.0,0.318,under,1.6,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Threes,0.5,-213,160.0,betonlineag,1.1,0.721,over,6.0,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Threes,0.5,-110,-118.0,betonlineag,0.6,0.527,over,0.7,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Assists,2.5,167,-222.0,betonlineag,2.0,0.344,under,-4.8,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Assists,2.5,-141,108.0,betonlineag,2.8,0.595,over,1.8,7,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Assists,2.5,-115,-112.0,betonlineag,1.9,0.34,under,24.9,7,tough D,1,A,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Assists,4.5,136,-179.0,betonlineag,4.2,0.409,over,-3.5,7,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Arrinten Page,470,Assists,1.5,-110,-118.0,betonlineag,1.4,0.471,under,-2.3,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Assists,4.5,115,-149.0,betonlineag,2.3,0.051,under,58.5,7,tough D,0,A,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Assists,1.5,130,-169.0,betonlineag,1.0,0.367,under,0.7,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Points,12.5,-105,-123.0,betonlineag,10.9,0.372,under,13.9,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Tyler Betsey,471,Points,10.5,-110,-118.0,betonlineag,8.3,0.329,under,24.0,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Points,21.5,-120,-108.0,betonlineag,16.4,0.154,under,62.9,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Arrinten Page,470,Points,12.5,-120,-108.0,betonlineag,10.1,0.318,under,31.4,5,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Points,14.5,100,-130.0,betonlineag,12.5,0.343,under,16.2,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Points,14.5,115,-149.0,betonlineag,11.1,0.253,under,24.9,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jake Wahlin,6584,Points,6.5,-115,-112.0,betonlineag,5.8,0.445,under,5.1,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Points,17.5,110,-143.0,betonlineag,12.0,0.136,under,46.9,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Points,17.5,141,-185.0,betonlineag,15.1,0.315,under,5.6,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Rebounds,5.5,-110,-118.0,betonlineag,5.0,0.419,under,7.3,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Tyler Betsey,471,Rebounds,4.5,-130,100.0,betonlineag,4.1,0.427,under,14.6,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Rebounds,5.5,141,-185.0,betonlineag,4.5,0.326,under,3.9,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Rebounds,4.5,120,-156.0,betonlineag,3.8,0.373,under,2.9,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jake Wahlin,6584,Rebounds,4.5,106,-137.0,betonlineag,3.6,0.348,under,12.7,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Rebounds,3.5,106,-137.0,betonlineag,3.3,0.464,over,-4.5,7,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Rebounds,7.5,-120,-108.0,betonlineag,6.5,0.331,under,28.8,7,tough D,1,A,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Rebounds,5.5,-120,-108.0,betonlineag,4.7,0.361,under,23.1,7,tough D,1,A,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Arrinten Page,470,Rebounds,4.5,-143,110.0,betonlineag,3.7,0.353,under,35.8,5,tough D,1,A,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Threes,2.5,174,-233.0,betonlineag,1.6,0.195,under,15.1,7,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Threes,0.5,-208,157.0,betonlineag,1.4,0.818,over,21.2,5,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Threes,2.5,136,-179.0,betonlineag,2.1,0.33,under,4.4,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Tyler Betsey,471,Threes,1.5,-145,111.0,betonlineag,2.0,0.706,over,19.2,7,tough D,1,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Threes,1.5,152,-200.0,betonlineag,1.3,0.423,over,6.6,7,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Threes,1.5,141,-185.0,betonlineag,1.1,0.339,under,1.8,7,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Threes,2.5,161,-213.0,betonlineag,2.3,0.417,over,8.9,7,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Silas Demary Jr.,22,Assists,5.5,-116,-120.0,fanduel,5.6,0.537,under,-15.1,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Joaquim Boumtje Boumtje,224079,Points,10.5,-120,-110.0,fanduel,10.9,0.528,over,-3.2,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Braylon Mullins,202778,Points,19.5,-125,-105.0,fanduel,18.4,0.415,under,14.3,5,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Patrick Ngongba II,216,Points,13.5,-110,-120.0,fanduel,13.2,0.476,under,-3.9,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Dame Sarr,198985,Points,10.5,-105,-125.0,fanduel,8.4,0.341,under,18.7,6,tough D,1,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Silas Demary Jr.,22,Points,14.5,-110,-120.0,fanduel,13.5,0.421,under,6.2,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Joaquim Boumtje Boumtje,224079,Rebounds,5.5,-140,100.0,fanduel,5.4,0.474,under,5.2,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Patrick Ngongba II,216,Rebounds,6.5,-122,-112.0,fanduel,6.7,0.532,over,-3.2,6,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Braylon Mullins,202778,Assists,1.5,-135,104.0,betonlineag,1.8,0.592,over,3.1,5,tough D,0,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Silas Demary Jr.,22,Assists,7.5,136,-179.0,betonlineag,5.6,0.083,under,42.9,5,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Jayden Ross,7802,Points,8.5,100,-130.0,betonlineag,9.4,0.567,over,13.5,5,tough D,1,C,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Joaquim Boumtje Boumtje,224079,Points,11.5,-120,-108.0,betonlineag,10.9,0.449,under,6.2,6,tough D,0,B,,
-2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Patrick Ngongba II,216,Points,17.5,136,-179.0,betonlineag,13.2,0.196,under,25.3,6,tough D,1,B,,
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Arizona Wildcats,Ole Miss Rebels,Arizona,Ole Miss,Corey Stephenson,7369,Threes,1.5,100,-130.0,betonlineag,1.0,0.325,under,19.5,6,tough D,1,B,0.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Filip Borovicanin,6433,Assists,4.5,141,-185.0,betonlineag,4.1,0.394,over,-5.0,6,tough D,0,C,5.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Assists,1.5,-149,115.0,betonlineag,2.0,0.633,over,5.7,6,tough D,0,C,0.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Assists,3.5,126,-164.0,betonlineag,2.9,0.341,under,6.1,6,tough D,0,B,5.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jovan Milicevic,6438,Assists,1.5,120,-156.0,betonlineag,1.7,0.568,over,25.0,6,tough D,1,B,1.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Assists,3.5,152,-200.0,betonlineag,2.4,0.209,under,18.7,6,tough D,1,B,3.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Filip Borovicanin,6433,Points,8.5,-115,-112.0,betonlineag,7.4,0.415,under,10.8,6,tough D,1,B,9.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Points,12.5,-130,100.0,betonlineag,11.7,0.438,under,12.4,6,tough D,1,B,13.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jovan Milicevic,6438,Points,12.5,-110,-118.0,betonlineag,11.3,0.405,under,10.0,6,tough D,1,B,9.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Points,21.5,-120,-108.0,betonlineag,17.9,0.236,under,47.2,6,tough D,0,B,18.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Points,14.5,115,-149.0,betonlineag,11.9,0.302,under,16.6,6,tough D,1,B,3.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Rebounds,5.5,-123,-104.0,betonlineag,5.5,0.497,under,-1.4,6,tough D,0,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Filip Borovicanin,6433,Rebounds,5.5,100,-130.0,betonlineag,4.6,0.341,under,16.5,6,tough D,1,B,6.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jovan Milicevic,6438,Rebounds,4.5,136,-179.0,betonlineag,3.6,0.34,under,2.9,6,tough D,0,B,6.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Rebounds,4.5,110,-143.0,betonlineag,4.0,0.408,under,0.6,6,tough D,0,B,6.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Rebounds,1.5,-141,108.0,betonlineag,1.5,0.508,under,2.3,6,tough D,0,B,2.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Mackenzie Mgbako,7837,Threes,1.5,-105,-123.0,betonlineag,1.8,0.622,over,21.5,6,tough D,1,B,2.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,PJ Haggerty,5514,Threes,1.5,174,-233.0,betonlineag,0.9,0.274,under,3.7,6,tough D,0,B,0.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T19:30:00Z,Xavier Musketeers,Texas A&M Aggies,Xavier,Texas A&M,Jordan Pope,436,Threes,2.5,152,-200.0,betonlineag,1.8,0.244,under,13.4,6,tough D,1,B,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Aleksas Bieliauskas,203451,Points,9.5,100,-130.0,betonlineag,10.2,0.552,over,10.4,5,tough D,1,C,18.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Jakub Necas,5541,Points,7.5,-130,100.0,betonlineag,10.4,0.717,over,26.8,5,tough D,1,B,8.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Juan Fernandez,226956,Points,14.5,-105,-123.0,betonlineag,12.6,0.356,under,16.8,5,tough D,1,B,9.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Camden Heide,371,Points,7.5,115,-149.0,betonlineag,7.5,0.497,over,6.8,4,tough D,0,C,12.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Kory Mincy,5100,Points,9.5,-115,-112.0,betonlineag,8.7,0.436,under,6.7,5,tough D,0,B,8.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T21:30:00Z,USC Trojans,South Carolina Gamecocks,USC,South Carolina,Marcus Johnson,226960,Points,13.5,-110,-118.0,betonlineag,11.9,0.376,under,15.3,4,tough D,1,B,11.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Roko Prkacin,231764,Assists,1.5,-164,125.0,betonlineag,1.8,0.599,over,-3.6,6,tough D,0,C,1.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Assists,1.5,118,-154.0,betonlineag,1.5,0.497,over,8.4,6,tough D,0,C,1.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Assists,4.5,-120,-108.0,betonlineag,4.1,0.396,under,16.3,6,tough D,1,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Assists,2.5,-115,-112.0,betonlineag,2.1,0.39,under,15.4,6,tough D,1,B,0.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Points,11.5,-105,-123.0,betonlineag,10.9,0.456,under,-1.4,6,tough D,0,B,9.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Points,16.5,-103,-125.0,betonlineag,13.5,0.276,under,30.4,6,tough D,1,B,14.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Roko Prkacin,231764,Points,14.5,-130,100.0,betonlineag,12.5,0.346,under,30.9,6,tough D,1,B,10.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Points,8.5,-105,-123.0,betonlineag,9.1,0.55,over,7.4,6,tough D,0,C,0.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Rebounds,3.5,146,-192.0,betonlineag,3.2,0.445,over,9.4,6,tough D,0,C,5.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Roko Prkacin,231764,Rebounds,6.5,106,-137.0,betonlineag,5.8,0.372,under,8.7,6,tough D,0,B,5.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Rebounds,4.5,-127,-102.0,betonlineag,4.3,0.464,under,6.2,6,tough D,0,B,3.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Rebounds,3.5,136,-179.0,betonlineag,2.9,0.397,under,-6.0,6,tough D,0,B,3.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Thomas Allard,231756,Threes,2.5,155,-204.0,betonlineag,2.0,0.318,under,1.6,6,tough D,0,B,0.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Josh Reed,473,Threes,0.5,-213,160.0,betonlineag,1.1,0.721,over,6.0,6,tough D,0,C,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:00:00Z,Penn State Nittany Lions,Memphis Tigers,Penn State,Memphis,Dasonte Bowen,2826,Threes,0.5,-110,-118.0,betonlineag,0.6,0.527,over,0.7,6,tough D,0,C,0.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Assists,2.5,167,-222.0,betonlineag,2.0,0.344,under,-4.8,5,tough D,0,B,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Assists,2.5,-141,108.0,betonlineag,2.8,0.595,over,1.8,7,tough D,0,C,1.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Assists,2.5,-115,-112.0,betonlineag,1.9,0.34,under,24.9,7,tough D,1,A,6.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Assists,4.5,136,-179.0,betonlineag,4.2,0.409,over,-3.5,7,tough D,0,C,8.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Arrinten Page,470,Assists,1.5,-110,-118.0,betonlineag,1.4,0.471,under,-2.3,5,tough D,0,B,5.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Assists,4.5,115,-149.0,betonlineag,2.3,0.051,under,58.5,7,tough D,0,A,2.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Assists,1.5,130,-169.0,betonlineag,1.0,0.367,under,0.7,7,tough D,0,B,2.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Points,12.5,-105,-123.0,betonlineag,10.9,0.372,under,13.9,7,tough D,1,B,9.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Tyler Betsey,471,Points,10.5,-110,-118.0,betonlineag,8.3,0.329,under,24.0,7,tough D,1,B,22.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Points,21.5,-120,-108.0,betonlineag,16.4,0.154,under,62.9,7,tough D,0,B,24.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Arrinten Page,470,Points,12.5,-120,-108.0,betonlineag,10.1,0.318,under,31.4,5,tough D,1,B,20.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Points,14.5,100,-130.0,betonlineag,12.5,0.343,under,16.2,7,tough D,1,B,17.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Points,14.5,115,-149.0,betonlineag,11.1,0.253,under,24.9,7,tough D,1,B,9.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jake Wahlin,6584,Points,6.5,-115,-112.0,betonlineag,5.8,0.445,under,5.1,7,tough D,0,B,3.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Points,17.5,110,-143.0,betonlineag,12.0,0.136,under,46.9,7,tough D,0,B,13.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Points,17.5,141,-185.0,betonlineag,15.1,0.315,under,5.6,5,tough D,0,B,7.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Rebounds,5.5,-110,-118.0,betonlineag,5.0,0.419,under,7.3,5,tough D,0,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Tyler Betsey,471,Rebounds,4.5,-130,100.0,betonlineag,4.1,0.427,under,14.6,7,tough D,1,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Rebounds,5.5,141,-185.0,betonlineag,4.5,0.326,under,3.9,7,tough D,0,B,7.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Rebounds,4.5,120,-156.0,betonlineag,3.8,0.373,under,2.9,7,tough D,0,B,5.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jake Wahlin,6584,Rebounds,4.5,106,-137.0,betonlineag,3.6,0.348,under,12.7,7,tough D,1,B,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Rebounds,3.5,106,-137.0,betonlineag,3.3,0.464,over,-4.5,7,tough D,0,C,0.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Rebounds,7.5,-120,-108.0,betonlineag,6.5,0.331,under,28.8,7,tough D,1,A,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Rebounds,5.5,-120,-108.0,betonlineag,4.7,0.361,under,23.1,7,tough D,1,A,6.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Arrinten Page,470,Rebounds,4.5,-143,110.0,betonlineag,3.7,0.353,under,35.8,5,tough D,1,A,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Malik Mack,8174,Threes,2.5,174,-233.0,betonlineag,1.6,0.195,under,15.1,7,tough D,1,B,3.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Ryan Mela,3144,Threes,0.5,-208,157.0,betonlineag,1.4,0.818,over,21.2,5,tough D,1,B,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Collin Chandler,568,Threes,2.5,136,-179.0,betonlineag,2.1,0.33,under,4.4,7,tough D,0,B,5.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Tyler Betsey,471,Threes,1.5,-145,111.0,betonlineag,2.0,0.706,over,19.2,7,tough D,1,C,6.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Bruce Branch III,223514,Threes,1.5,152,-200.0,betonlineag,1.3,0.423,over,6.6,7,tough D,0,C,2.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Jaxon Kohler,2476,Threes,1.5,141,-185.0,betonlineag,1.1,0.339,under,1.8,7,tough D,0,B,1.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-25T22:30:00Z,Providence Friars,BYU Cougars,Providence,BYU,Miles Byrd,8457,Threes,2.5,161,-213.0,betonlineag,2.3,0.417,over,8.9,7,tough D,0,C,2.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Silas Demary Jr.,22,Assists,5.5,-116,-120.0,fanduel,5.6,0.537,under,-15.1,5,tough D,0,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Joaquim Boumtje Boumtje,224079,Points,10.5,-120,-110.0,fanduel,10.9,0.528,over,-3.2,6,tough D,0,C,12.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Braylon Mullins,202778,Points,19.5,-125,-105.0,fanduel,18.4,0.415,under,14.3,5,tough D,1,B,12.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Patrick Ngongba II,216,Points,13.5,-110,-120.0,fanduel,13.2,0.476,under,-3.9,6,tough D,0,B,17.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Dame Sarr,198985,Points,10.5,-105,-125.0,fanduel,8.4,0.341,under,18.7,6,tough D,1,B,6.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Silas Demary Jr.,22,Points,14.5,-110,-120.0,fanduel,13.5,0.421,under,6.2,5,tough D,0,B,25.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Joaquim Boumtje Boumtje,224079,Rebounds,5.5,-140,100.0,fanduel,5.4,0.474,under,5.2,6,tough D,0,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Patrick Ngongba II,216,Rebounds,6.5,-122,-112.0,fanduel,6.7,0.532,over,-3.2,6,tough D,0,C,11.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Braylon Mullins,202778,Assists,1.5,-135,104.0,betonlineag,1.8,0.592,over,3.1,5,tough D,0,C,1.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Silas Demary Jr.,22,Assists,7.5,136,-179.0,betonlineag,5.6,0.083,under,42.9,5,tough D,0,B,4.0,W
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Jayden Ross,7802,Points,8.5,100,-130.0,betonlineag,9.4,0.567,over,13.5,5,tough D,1,C,8.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Joaquim Boumtje Boumtje,224079,Points,11.5,-120,-108.0,betonlineag,10.9,0.449,under,6.2,6,tough D,0,B,12.0,L
+2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,UConn Huskies,Duke Blue Devils,UConn,Duke,Patrick Ngongba II,216,Points,17.5,136,-179.0,betonlineag,13.2,0.196,under,25.3,6,tough D,1,B,17.0,W
 2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,Wisconsin Badgers,Northeastern Huskies,Wisconsin,Northeastern,Owen Foxwell,233751,Assists,6.5,120,-156.0,betonlineag,4.5,0.074,under,51.9,6,average D,0,B,,
 2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,Wisconsin Badgers,Northeastern Huskies,Wisconsin,Northeastern,Nolan Winter,5416,Assists,1.5,-159,122.0,betonlineag,1.6,0.537,under,2.8,6,average D,0,B,,
 2026-11-25T15:20:18.704087+00:00,2026-11-26T00:00:00Z,Wisconsin Badgers,Northeastern Huskies,Wisconsin,Northeastern,Owen Foxwell,233751,Points,17.5,106,-137.0,betonlineag,14.4,0.268,under,26.6,6,average D,1,B,,
@@ -1860,3 +1860,177 @@ run_at,kickoff,home,away,home_cbbd,away_cbbd,player,athleteId,prop_market,line,o
 2026-11-26T00:11:15.051370+00:00,2026-11-27T00:00:00Z,LSU Tigers,SMU Mustangs,LSU,SMU,Jaden Toombs,202026,Assists,1.5,-154,118.0,betonlineag,2.2,0.708,over,16.8,6,tough D,1,C,,
 2026-11-26T00:11:15.051370+00:00,2026-11-27T00:00:00Z,LSU Tigers,SMU Mustangs,LSU,SMU,Jaden Toombs,202026,Points,10.5,-114,-114.0,betonlineag,10.0,0.458,under,1.7,6,tough D,0,B,,
 2026-11-26T00:11:15.051370+00:00,2026-11-27T00:00:00Z,LSU Tigers,SMU Mustangs,LSU,SMU,Jaden Toombs,202026,Rebounds,5.5,106,-137.0,betonlineag,5.9,0.577,over,18.9,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Ishan Sharma,8195,Assists,1.5,-115,-112.0,betonlineag,1.7,0.548,over,2.5,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Quentin Jones,2583,Assists,4.5,109,-141.0,betonlineag,4.3,0.433,under,-3.1,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Trey Green,4071,Assists,2.5,161,-213.0,betonlineag,1.8,0.294,under,3.7,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Nick Townsend,4819,Assists,3.5,-145,111.0,betonlineag,4.4,0.739,over,24.9,7,tough D,1,B,7.0,W
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Julius Price,232578,Assists,2.5,152,-200.0,betonlineag,2.2,0.42,over,5.9,7,tough D,0,C,2.0,L
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Amari McCottry,818,Assists,2.5,-169,130.0,betonlineag,3.2,0.696,over,10.8,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Ishan Sharma,8195,Points,9.5,-115,-112.0,betonlineag,10.3,0.561,over,4.9,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Trey Green,4071,Points,11.5,-141,108.0,betonlineag,11.8,0.521,under,-0.4,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Kellen Thames,809,Points,11.5,-133,103.0,betonlineag,10.3,0.404,under,21.0,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Austin Maurer,6410,Points,10.5,-109,-119.0,betonlineag,10.4,0.496,over,-4.9,7,tough D,0,C,6.0,L
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Nick Townsend,4819,Points,11.5,-133,103.0,betonlineag,13.5,0.656,over,15.0,7,tough D,1,C,8.0,L
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Julius Price,232578,Points,15.5,-120,-108.0,betonlineag,15.7,0.513,over,-5.9,7,tough D,0,C,18.0,W
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Quentin Jones,2583,Points,10.5,-118,-110.0,betonlineag,10.1,0.471,under,1.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Amari McCottry,818,Points,13.5,-112,-115.0,betonlineag,13.5,0.498,over,-5.7,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Kellen Thames,809,Rebounds,5.5,100,-130.0,betonlineag,5.5,0.492,over,-1.6,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Amari McCottry,818,Rebounds,4.5,-109,-119.0,betonlineag,4.4,0.484,under,-5.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Ishan Sharma,8195,Rebounds,2.5,-110,-118.0,betonlineag,2.7,0.53,over,1.2,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Quentin Jones,2583,Rebounds,3.5,-105,-123.0,betonlineag,3.6,0.511,over,-0.2,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Austin Maurer,6410,Rebounds,5.5,-105,-123.0,betonlineag,5.3,0.467,under,-3.3,7,tough D,0,B,5.0,W
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Julius Price,232578,Rebounds,2.5,-154,118.0,betonlineag,4.0,0.751,over,23.8,7,tough D,0,B,3.0,W
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Nick Townsend,4819,Rebounds,6.5,-135,105.0,betonlineag,6.6,0.522,under,-2.0,7,tough D,0,B,4.0,W
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Amari McCottry,818,Threes,0.5,-135,105.0,betonlineag,0.8,0.614,over,6.9,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Ishan Sharma,8195,Threes,1.5,-149,115.0,betonlineag,2.3,0.784,over,31.1,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Quentin Jones,2583,Threes,0.5,-196,150.0,betonlineag,1.1,0.741,over,11.9,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Trey Green,4071,Threes,2.5,-115,-112.0,betonlineag,2.2,0.366,under,20.0,6,tough D,1,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Nick Townsend,4819,Threes,0.5,-152,117.0,betonlineag,0.8,0.604,over,0.2,7,tough D,0,C,0.0,L
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:00:43Z,Stanford Cardinal,Saint Louis Billikens,Stanford,Saint Louis,Julius Price,232578,Threes,1.5,171,-227.0,betonlineag,1.4,0.441,over,19.4,7,tough D,1,C,1.0,L
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Ace Buckner,3462,Assists,4.5,106,-137.0,betonlineag,4.0,0.363,under,10.2,7,average D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Cole Certa,8163,Assists,1.5,106,-137.0,betonlineag,1.6,0.525,over,8.2,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Dylan Faulkner,5536,Assists,2.5,-115,-112.0,betonlineag,2.3,0.444,under,5.3,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Liutauras Lelevicius,6861,Points,10.5,-115,-112.0,betonlineag,10.3,0.487,under,-2.8,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Ace Buckner,3462,Points,19.5,100,-130.0,betonlineag,16.0,0.245,under,33.6,7,average D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Cole Certa,8163,Points,11.5,-145,111.0,betonlineag,11.8,0.525,under,0.2,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Dylan Faulkner,5536,Points,11.5,-123,-104.0,betonlineag,11.2,0.476,under,2.8,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Cole Certa,8163,Rebounds,3.5,141,-185.0,betonlineag,3.0,0.412,over,-0.8,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Ace Buckner,3462,Rebounds,3.5,152,-200.0,betonlineag,3.4,0.474,over,19.3,7,average D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Liutauras Lelevicius,6861,Rebounds,5.5,-114,-114.0,betonlineag,5.4,0.491,under,-4.4,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Dylan Faulkner,5536,Rebounds,6.5,-115,-112.0,betonlineag,7.0,0.588,over,10.0,7,average D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Ace Buckner,3462,Threes,1.5,-156,121.0,betonlineag,1.9,0.665,over,9.2,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Cole Certa,8163,Threes,2.5,-120,-108.0,betonlineag,2.4,0.463,under,3.4,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T05:30:00Z,Colorado St Rams,Clemson Tigers,Colorado State,Clemson,Liutauras Lelevicius,6861,Threes,1.5,-120,-108.0,betonlineag,1.4,0.45,under,6.0,7,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Andre Mills,329,Assists,1.5,-135,104.0,betonlineag,1.4,0.464,under,9.4,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Latrell Davis,7032,Assists,2.5,152,-200.0,betonlineag,2.3,0.441,over,11.2,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Elzie Harrington,201883,Assists,3.5,115,-149.0,betonlineag,3.9,0.619,over,33.2,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,DJ Wagner,7824,Assists,3.5,155,-204.0,betonlineag,2.4,0.203,under,18.7,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Chance Gladden,203653,Assists,4.5,126,-164.0,betonlineag,4.2,0.408,under,-4.8,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Pharrel Payne,317,Points,19.5,115,-149.0,betonlineag,13.8,0.13,under,45.4,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Andre Mills,329,Points,17.5,106,-137.0,betonlineag,12.5,0.162,under,45.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Elzie Harrington,201883,Points,11.5,-115,-112.0,betonlineag,11.0,0.461,under,1.9,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,DJ Wagner,7824,Points,11.5,100,-130.0,betonlineag,9.0,0.312,under,21.7,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Latrell Davis,7032,Points,19.5,-123,-104.0,betonlineag,17.1,0.314,under,34.5,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Tae Simmons,201889,Points,9.5,-135,104.0,betonlineag,9.8,0.526,under,-3.4,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Chance Gladden,203653,Points,9.5,110,-143.0,betonlineag,9.2,0.473,over,-0.6,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Tomislav Buljan,200858,Points,8.5,-115,-112.0,betonlineag,8.5,0.499,under,-5.2,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Pharrel Payne,317,Rebounds,7.5,-130,100.0,betonlineag,6.2,0.276,under,44.7,6,tough D,0,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Elzie Harrington,201883,Rebounds,2.5,126,-164.0,betonlineag,2.2,0.446,over,0.8,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Latrell Davis,7032,Rebounds,3.5,-145,111.0,betonlineag,3.9,0.567,over,-4.1,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Andre Mills,329,Rebounds,3.5,-120,-108.0,betonlineag,3.1,0.433,under,9.2,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Tomislav Buljan,200858,Rebounds,8.5,126,-164.0,betonlineag,6.6,0.203,under,28.3,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Tae Simmons,201889,Rebounds,5.5,106,-137.0,betonlineag,5.2,0.456,under,-5.8,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,DJ Wagner,7824,Rebounds,3.5,115,-149.0,betonlineag,3.0,0.408,under,-1.1,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Chance Gladden,203653,Rebounds,2.5,-123,-104.0,betonlineag,2.4,0.489,under,0.2,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Andre Mills,329,Threes,2.5,-105,-123.0,betonlineag,2.1,0.328,under,21.8,6,tough D,1,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Elzie Harrington,201883,Threes,0.5,-141,108.0,betonlineag,0.8,0.628,over,7.3,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Latrell Davis,7032,Threes,2.5,-110,-118.0,betonlineag,2.3,0.416,under,7.9,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,DJ Wagner,7824,Threes,1.5,141,-185.0,betonlineag,1.1,0.356,under,-0.8,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T18:00:00Z,San Diego St Aztecs,Maryland Terrapins,San Diego State,Maryland,Chance Gladden,203653,Threes,0.5,-200,151.0,betonlineag,0.9,0.649,over,-2.7,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Elyjah Freeman,198094,Assists,1.5,-106,-122.0,betonlineag,1.7,0.555,over,7.8,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,David Punch,5674,Assists,1.5,-143,110.0,betonlineag,1.8,0.585,over,-0.6,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Austin Goosby,227349,Assists,3.5,-154,118.0,betonlineag,3.7,0.563,under,-4.7,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Kayvaun Mulready,8180,Assists,1.5,-156,120.0,betonlineag,1.8,0.584,over,-4.2,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Jaland Lowe,3044,Assists,5.5,-123,-104.0,betonlineag,5.6,0.537,over,-2.6,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Elyjah Freeman,198094,Points,11.5,-110,-118.0,betonlineag,10.7,0.439,under,3.7,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Austin Goosby,227349,Points,7.5,104,-135.0,betonlineag,7.2,0.478,over,-2.6,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,David Punch,5674,Points,10.5,-108,-120.0,betonlineag,11.2,0.559,over,7.6,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Jaland Lowe,3044,Points,14.5,-115,-112.0,betonlineag,14.3,0.482,under,-2.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Kayvaun Mulready,8180,Points,8.5,-114,-114.0,betonlineag,9.9,0.611,over,14.6,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Matas Vokietaitis,3922,Points,18.5,-123,-105.0,betonlineag,18.3,0.484,under,0.7,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Austin Goosby,227349,Rebounds,4.5,102,-132.0,betonlineag,4.7,0.538,over,8.7,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,David Punch,5674,Rebounds,5.5,100,-130.0,betonlineag,5.2,0.453,under,-3.3,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Matas Vokietaitis,3922,Rebounds,8.5,-103,-125.0,betonlineag,8.5,0.507,over,-0.1,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Elyjah Freeman,198094,Rebounds,5.5,-101,-128.0,betonlineag,4.9,0.4,under,7.0,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Jaland Lowe,3044,Rebounds,2.5,-145,112.0,betonlineag,3.1,0.6,over,1.3,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T19:30:00Z,Texas Longhorns,Georgetown Hoyas,Texas,Georgetown,Elyjah Freeman,198094,Threes,0.5,-196,150.0,betonlineag,0.8,0.615,under,-3.9,6,average D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,DeWayne Brown II,202447,Assists,2.5,146,-192.0,betonlineag,1.9,0.324,under,2.7,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tyler Lundblade,3850,Assists,1.5,115,-149.0,betonlineag,1.3,0.449,over,-3.6,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tamin Lipsey,144,Assists,5.5,141,-185.0,betonlineag,4.0,0.138,under,32.7,5,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tre Singleton,201177,Assists,1.5,-120,-108.0,betonlineag,2.0,0.643,over,17.9,5,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Juke Harris,5773,Assists,1.5,-164,125.0,betonlineag,1.8,0.574,under,-4.2,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Ryan Prather Jr.,3305,Assists,1.5,-156,121.0,betonlineag,2.4,0.748,over,22.8,5,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,DeWayne Brown II,202447,Points,9.5,-130,100.0,betonlineag,9.4,0.491,under,1.9,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tyler Lundblade,3850,Points,9.5,-120,-108.0,betonlineag,7.6,0.352,under,24.7,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Dominykas Pleta,199789,Points,8.5,110,-143.0,betonlineag,8.6,0.508,over,6.8,5,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tamin Lipsey,144,Points,10.5,-110,-118.0,betonlineag,9.4,0.417,under,7.7,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tre Singleton,201177,Points,16.5,-110,-118.0,betonlineag,15.6,0.43,under,5.4,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Ryan Prather Jr.,3305,Points,11.5,106,-137.0,betonlineag,10.5,0.425,under,-0.5,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Juke Harris,5773,Points,11.5,-120,-108.0,betonlineag,9.8,0.366,under,22.1,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Miles Rubin,6077,Points,7.5,-123,-104.0,betonlineag,8.3,0.566,over,2.7,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tyler Lundblade,3850,Rebounds,2.5,-123,-104.0,betonlineag,2.3,0.457,under,6.6,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Dominykas Pleta,199789,Rebounds,6.5,106,-137.0,betonlineag,5.8,0.381,under,7.1,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tamin Lipsey,144,Rebounds,3.5,115,-149.0,betonlineag,3.3,0.461,over,-0.8,5,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,DeWayne Brown II,202447,Rebounds,7.5,-105,-123.0,betonlineag,6.5,0.325,under,22.3,6,tough D,1,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tre Singleton,201177,Rebounds,5.5,126,-164.0,betonlineag,5.3,0.459,over,3.8,5,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Juke Harris,5773,Rebounds,5.5,-105,-123.0,betonlineag,5.3,0.472,under,-4.3,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Miles Rubin,6077,Rebounds,6.5,115,-149.0,betonlineag,5.5,0.329,under,12.1,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Ryan Prather Jr.,3305,Rebounds,3.5,-110,-118.0,betonlineag,3.0,0.411,under,8.9,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tamin Lipsey,144,Threes,1.5,130,-169.0,betonlineag,1.1,0.345,under,4.3,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Tyler Lundblade,3850,Threes,2.5,167,-222.0,betonlineag,2.0,0.318,under,-1.1,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Ryan Prather Jr.,3305,Threes,2.5,152,-200.0,betonlineag,1.8,0.229,under,15.7,5,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Iowa State Cyclones,Tennessee Volunteers,Iowa State,Tennessee,Juke Harris,5773,Threes,1.5,-120,-108.0,betonlineag,1.4,0.474,under,1.3,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Elliot Cadeau,237,Assists,6.5,108,-144.0,fanduel,5.6,0.242,under,28.4,6,tough D,1,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Acaden Lewis,203179,Assists,5.5,-114,-114.0,fanduel,4.9,0.334,under,25.1,7,tough D,1,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Malik Reneau,7836,Points,12.5,-125,-104.0,fanduel,9.3,0.26,under,45.2,5,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Roddy Gayle Jr.,5609,Points,12.5,-108,-120.0,fanduel,12.1,0.467,under,-2.4,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Acaden Lewis,203179,Points,11.5,-114,-114.0,fanduel,11.9,0.529,over,-0.7,7,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Trey McKenney,200517,Points,17.5,-114,-114.0,fanduel,14.8,0.293,under,32.7,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Elliot Cadeau,237,Points,11.5,-130,100.0,fanduel,11.7,0.515,under,-3.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Shelton Henderson,200477,Points,15.5,-114,-114.0,fanduel,14.0,0.381,under,16.3,7,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,J.P. Estrella,307,Points,15.5,-104,-125.0,fanduel,14.3,0.409,under,6.4,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,J.P. Estrella,307,Rebounds,7.5,-114,-114.0,fanduel,7.5,0.498,under,-5.8,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T20:30:00Z,Michigan Wolverines,Miami Hurricanes,Michigan,Miami,Malik Reneau,7836,Rebounds,7.5,-114,-114.0,fanduel,4.9,0.127,under,63.8,5,tough D,0,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Eric Dailey Jr.,530,Assists,1.5,-167,127.0,betonlineag,2.2,0.708,over,13.2,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Joshua Dent,6897,Assists,4.5,-120,-108.0,betonlineag,4.2,0.406,under,14.4,7,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Trent Perry,536,Assists,4.5,-119,-109.0,betonlineag,4.8,0.602,over,10.8,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Mantas Juzenas,201802,Assists,2.5,120,-156.0,betonlineag,2.3,0.448,over,-1.4,7,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Vangelis Zougris,200198,Assists,1.5,-149,115.0,betonlineag,1.7,0.548,under,-2.7,7,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Nikola Kusturica,233062,Assists,3.5,-102,-127.0,betonlineag,3.4,0.474,under,-5.9,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Trent Perry,536,Points,16.5,103,-133.0,betonlineag,14.7,0.358,under,12.5,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Xavier Booker,2472,Points,8.5,-110,-118.0,betonlineag,7.5,0.422,under,6.8,3,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Joshua Dent,6897,Points,11.5,-120,-108.0,betonlineag,11.9,0.528,over,-3.2,7,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Vangelis Zougris,200198,Points,14.5,106,-137.0,betonlineag,11.8,0.298,under,21.5,7,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Mantas Juzenas,201802,Points,18.5,-101,-128.0,betonlineag,16.6,0.351,under,15.6,7,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Eric Dailey Jr.,530,Points,14.5,115,-149.0,betonlineag,13.3,0.41,under,-1.3,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Nikola Kusturica,233062,Points,12.5,-123,-105.0,betonlineag,13.1,0.544,over,-1.4,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Eric Dailey Jr.,530,Rebounds,5.5,-130,101.0,betonlineag,6.2,0.621,over,9.9,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Joshua Dent,6897,Rebounds,1.5,-172,132.0,betonlineag,2.1,0.597,over,-5.6,7,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Trent Perry,536,Rebounds,3.5,112,-145.0,betonlineag,3.6,0.523,over,10.8,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Mantas Juzenas,201802,Rebounds,8.5,109,-141.0,betonlineag,7.7,0.368,under,8.0,7,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Vangelis Zougris,200198,Rebounds,5.5,-115,-112.0,betonlineag,5.9,0.573,over,7.1,7,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Nikola Kusturica,233062,Rebounds,5.5,122,-159.0,betonlineag,4.8,0.376,under,1.7,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Eric Dailey Jr.,530,Threes,0.5,-127,-102.0,betonlineag,0.8,0.627,over,12.1,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Trent Perry,536,Threes,1.5,144,-189.0,betonlineag,1.5,0.504,over,22.9,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Joshua Dent,6897,Threes,1.5,-156,121.0,betonlineag,1.6,0.55,under,-0.4,7,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Xavier Booker,2472,Threes,0.5,-127,-102.0,betonlineag,0.7,0.588,over,5.1,3,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Mantas Juzenas,201802,Threes,3.5,132,-172.0,betonlineag,2.7,0.207,under,25.4,7,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T22:00:00Z,UCLA Bruins,Saint Mary's Gaels,UCLA,Saint Mary's,Nikola Kusturica,233062,Threes,0.5,-227,172.0,betonlineag,1.2,0.772,over,11.2,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Wes Enis,202225,Assists,2.5,130,-169.0,betonlineag,2.1,0.374,under,-0.3,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,BJ Davis,8456,Assists,3.5,146,-192.0,betonlineag,3.4,0.478,over,17.6,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Austin Swartz,3080,Assists,2.5,136,-179.0,betonlineag,2.0,0.348,under,1.7,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Micah Robinson,5675,Assists,1.5,-130,100.0,betonlineag,1.8,0.575,over,1.8,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Xavier Edmonds,202414,Assists,1.5,-105,-123.0,betonlineag,2.1,0.67,over,30.8,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Robbie Avila,807,Assists,2.5,152,-200.0,betonlineag,1.8,0.298,under,5.3,2,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Brock Harding,5482,Assists,6.5,-130,100.0,betonlineag,7.5,0.776,over,37.3,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Austin Swartz,3080,Points,9.5,100,-130.0,betonlineag,10.1,0.546,over,9.1,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Wes Enis,202225,Points,19.5,-120,-108.0,betonlineag,17.1,0.314,under,32.1,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,BJ Davis,8456,Points,14.5,-120,-108.0,betonlineag,14.7,0.515,over,-5.6,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Micah Robinson,5675,Points,15.5,-105,-123.0,betonlineag,16.4,0.572,over,11.7,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Xavier Edmonds,202414,Points,15.5,-110,-118.0,betonlineag,13.9,0.375,under,15.5,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Robbie Avila,807,Points,11.5,115,-149.0,betonlineag,10.2,0.395,under,1.1,2,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Brock Harding,5482,Points,11.5,110,-143.0,betonlineag,11.2,0.473,over,-0.7,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Austin Swartz,3080,Rebounds,3.5,126,-164.0,betonlineag,3.0,0.41,under,-5.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Wes Enis,202225,Rebounds,2.5,-135,104.0,betonlineag,3.1,0.611,over,6.3,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,BJ Davis,8456,Rebounds,3.5,-115,-112.0,betonlineag,3.8,0.561,over,4.9,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Brock Harding,5482,Rebounds,3.5,152,-200.0,betonlineag,2.7,0.367,under,-5.0,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Robbie Avila,807,Rebounds,4.5,126,-164.0,betonlineag,3.2,0.282,under,15.5,2,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Micah Robinson,5675,Rebounds,5.5,120,-156.0,betonlineag,4.5,0.324,under,10.9,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Xavier Edmonds,202414,Rebounds,8.5,115,-149.0,betonlineag,7.6,0.347,under,9.1,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Wes Enis,202225,Threes,3.5,-105,-123.0,betonlineag,2.9,0.263,under,33.7,6,tough D,1,A,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,BJ Davis,8456,Threes,1.5,120,-156.0,betonlineag,1.6,0.526,over,15.8,6,tough D,1,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Micah Robinson,5675,Threes,1.5,110,-143.0,betonlineag,1.5,0.512,over,7.5,6,tough D,0,C,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Austin Swartz,3080,Threes,1.5,-164,125.0,betonlineag,1.7,0.583,under,-6.1,6,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Brock Harding,5482,Threes,1.5,186,-250.0,betonlineag,1.3,0.433,over,23.9,6,tough D,1,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Robbie Avila,807,Threes,1.5,161,-213.0,betonlineag,1.5,0.491,over,28.2,2,tough D,0,B,,
+2026-11-26T03:55:08.413896+00:00,2026-11-26T23:00:00Z,Creighton Bluejays,TCU Horned Frogs,Creighton,TCU,Xavier Edmonds,202414,Threes,0.5,-156,121.0,betonlineag,0.9,0.653,over,7.1,6,tough D,0,C,,
