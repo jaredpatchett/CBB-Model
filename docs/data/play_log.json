@@ -15639,7 +15639,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 138.5,
+   "final_score": "71-68"
   },
   "spread|Dartmouth Big Green|Holy Cross Crusaders|2026-11-25T22:00:00Z|home": {
    "market": "spread",
@@ -15710,6 +15715,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     -10.3,
+     12.8,
+     "A",
+     1,
+     null
     ]
    ]
   },
@@ -15765,7 +15779,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 175.5,
+   "final_score": "92-88"
   },
   "total|Alabama Crimson Tide|Kansas St Wildcats|2026-11-27T02:00:00Z|under": {
    "market": "total",
@@ -15790,6 +15809,15 @@
      7.9,
      "B",
      1,
+     null
+    ],
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     169.5,
+     164.6,
+     4.9,
+     "B",
+     0,
      null
     ]
    ]
@@ -15818,6 +15846,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     -5.6,
+     8.1,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -15842,6 +15879,15 @@
      160.5,
      151.0,
      9.5,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     159.5,
+     151.0,
+     8.5,
      "B",
      1,
      null
@@ -15870,6 +15916,15 @@
      -5.5,
      14.0,
      "A",
+     1,
+     null
+    ],
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     9.5,
+     -5.5,
+     15.0,
+     "B",
      1,
      null
     ]
@@ -16278,7 +16333,13 @@
      1,
      -141
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.7092,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|over|Caleb Holt|Assists": {
    "market": "prop",
@@ -16305,7 +16366,13 @@
      1,
      115
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Caleb Holt|Points": {
    "market": "prop",
@@ -16332,7 +16399,13 @@
      1,
      -152
     ]
-   ]
+   ],
+   "actual": 21.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 19.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Corey Stephenson|Points": {
    "market": "prop",
@@ -16386,7 +16459,13 @@
      1,
      104
     ]
-   ]
+   ],
+   "actual": 15.0,
+   "result": "W",
+   "units": 1.04,
+   "final_grade": "B",
+   "final_line": 19.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Adam Clark|Points": {
    "market": "prop",
@@ -16440,7 +16519,13 @@
      1,
      -120
     ]
-   ]
+   ],
+   "actual": 7.0,
+   "result": "W",
+   "units": 0.8333,
+   "final_grade": "A",
+   "final_line": 9.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Ivan Kharchenkov|Rebounds": {
    "market": "prop",
@@ -16467,7 +16552,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 0.9259,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Corey Stephenson|Rebounds": {
    "market": "prop",
@@ -16521,7 +16612,13 @@
      1,
      151
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "W",
+   "units": 1.51,
+   "final_grade": "A",
+   "final_line": 6.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|over|Derek Dixon|Threes": {
    "market": "prop",
@@ -16548,7 +16645,13 @@
      1,
      130
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 1.3,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "73-84"
   },
   "prop|Arizona Wildcats|Ole Miss Rebels|2026-11-25T19:30:00Z|under|Ilias Kamardine|Threes": {
    "market": "prop",
@@ -17629,7 +17732,1897 @@
      100
     ]
    ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|over|Jaden Toombs|Assists": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "over",
+   "player": "Jaden Toombs",
+   "prop_market": "Assists",
+   "athleteId": 202026,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.6,
+     29.1,
+     "B",
+     1,
+     -154
+    ]
+   ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|over|Mason Falslev|Assists": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "over",
+   "player": "Mason Falslev",
+   "prop_market": "Assists",
+   "athleteId": 8368,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     4.2,
+     12.0,
+     "C",
+     1,
+     -164
+    ]
+   ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|under|Mason Falslev|Points": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "under",
+   "player": "Mason Falslev",
+   "prop_market": "Points",
+   "athleteId": 8368,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 19.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     19.5,
+     17.8,
+     21.8,
+     "B",
+     1,
+     -109
+    ]
+   ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|over|Will Hornseth|Points": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "over",
+   "player": "Will Hornseth",
+   "prop_market": "Points",
+   "athleteId": 5328,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 10.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     10.5,
+     12.3,
+     20.0,
+     "B",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|over|Jaden Toombs|Rebounds": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "over",
+   "player": "Jaden Toombs",
+   "prop_market": "Rebounds",
+   "athleteId": 202026,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     5.5,
+     6.5,
+     36.8,
+     "B",
+     1,
+     106
+    ]
+   ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|under|Dallin Hall|Rebounds": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "under",
+   "player": "Dallin Hall",
+   "prop_market": "Rebounds",
+   "athleteId": 7686,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     3.3,
+     13.4,
+     "B",
+     1,
+     -164
+    ]
+   ]
+  },
+  "prop|SMU Mustangs|Utah State Aggies|2026-11-26T00:30:00Z|under|Mason Falslev|Threes": {
+   "market": "prop",
+   "home": "SMU Mustangs",
+   "away": "Utah State Aggies",
+   "kickoff": "2026-11-26T00:30:00Z",
+   "side": "under",
+   "player": "Mason Falslev",
+   "prop_market": "Threes",
+   "athleteId": 8368,
+   "home_cbbd": "SMU",
+   "away_cbbd": "Utah State",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.0,
+     11.8,
+     "B",
+     1,
+     -164
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|over|Gavin Placide|Assists": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "over",
+   "player": "Gavin Placide",
+   "prop_market": "Assists",
+   "athleteId": 233547,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.3,
+     19.3,
+     "C",
+     1,
+     164
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|under|Kevair Kennedy|Assists": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "under",
+   "player": "Kevair Kennedy",
+   "prop_market": "Assists",
+   "athleteId": 200461,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     3.1,
+     32.3,
+     "B",
+     1,
+     -179
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|under|Gavin Placide|Points": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "under",
+   "player": "Gavin Placide",
+   "prop_market": "Points",
+   "athleteId": 233547,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 16.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     16.5,
+     13.6,
+     29.7,
+     "B",
+     1,
+     -125
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|under|Josh Hubbard|Points": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "under",
+   "player": "Josh Hubbard",
+   "prop_market": "Points",
+   "athleteId": 4158,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 16.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     16.5,
+     15.5,
+     11.2,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|over|Kimani Hamilton|Points": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "over",
+   "player": "Kimani Hamilton",
+   "prop_market": "Points",
+   "athleteId": 8117,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     7.5,
+     8.7,
+     11.2,
+     "C",
+     1,
+     -114
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|under|Gavin Placide|Rebounds": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "under",
+   "player": "Gavin Placide",
+   "prop_market": "Rebounds",
+   "athleteId": 233547,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     7.5,
+     6.7,
+     19.7,
+     "B",
+     1,
+     -112
+    ]
+   ]
+  },
+  "prop|Mississippi St Bulldogs|Wake Forest Demon Deacons|2026-11-26T02:15:00Z|under|Josh Hubbard|Threes": {
+   "market": "prop",
+   "home": "Mississippi St Bulldogs",
+   "away": "Wake Forest Demon Deacons",
+   "kickoff": "2026-11-26T02:15:00Z",
+   "side": "under",
+   "player": "Josh Hubbard",
+   "prop_market": "Threes",
+   "athleteId": 4158,
+   "home_cbbd": "Mississippi State",
+   "away_cbbd": "Wake Forest",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.3,
+     14.0,
+     "B",
+     1,
+     -102
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Brandon Jennings|Assists": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Brandon Jennings",
+   "prop_market": "Assists",
+   "athleteId": 3485,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.6,
+     13.9,
+     "C",
+     1,
+     120
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|under|Ahmad Nowell|Assists": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "under",
+   "player": "Ahmad Nowell",
+   "prop_market": "Assists",
+   "athleteId": 7800,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.4,
+     13.4,
+     "B",
+     1,
+     115
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Lazar Djokovic|Assists": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Lazar Djokovic",
+   "prop_market": "Assists",
+   "athleteId": 728,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.7,
+     20.2,
+     "B",
+     1,
+     120
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Blake Harper|Assists": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Blake Harper",
+   "prop_market": "Assists",
+   "athleteId": 35,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.7,
+     11.2,
+     "C",
+     1,
+     -105
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|under|Nikola Dzepina|Points": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "under",
+   "player": "Nikola Dzepina",
+   "prop_market": "Points",
+   "athleteId": 216575,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 14.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     14.5,
+     11.0,
+     28.7,
+     "B",
+     1,
+     -143
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|under|Lazar Djokovic|Rebounds": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "under",
+   "player": "Lazar Djokovic",
+   "prop_market": "Rebounds",
+   "athleteId": 728,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     4.0,
+     13.9,
+     "B",
+     1,
+     -104
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Brandon Jennings|Threes": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Brandon Jennings",
+   "prop_market": "Threes",
+   "athleteId": 3485,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 0.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     0.5,
+     1.3,
+     36.8,
+     "B",
+     1,
+     -135
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Lazar Djokovic|Threes": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Lazar Djokovic",
+   "prop_market": "Threes",
+   "athleteId": 728,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 0.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     0.5,
+     1.0,
+     10.4,
+     "C",
+     1,
+     -175
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Blake Harper|Threes": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Blake Harper",
+   "prop_market": "Threes",
+   "athleteId": 35,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.0,
+     25.0,
+     "B",
+     1,
+     -130
+    ]
+   ]
+  },
+  "prop|VCU Rams|Washington Huskies|2026-11-26T03:00:00Z|over|Ryan Beasley|Threes": {
+   "market": "prop",
+   "home": "VCU Rams",
+   "away": "Washington Huskies",
+   "kickoff": "2026-11-26T03:00:00Z",
+   "side": "over",
+   "player": "Ryan Beasley",
+   "prop_market": "Threes",
+   "athleteId": 7720,
+   "home_cbbd": "VCU",
+   "away_cbbd": "Washington",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.5,
+     15.3,
+     "C",
+     1,
+     126
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Ishan Sharma|Assists": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Ishan Sharma",
+   "prop_market": "Assists",
+   "athleteId": 8195,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.9,
+     14.6,
+     "C",
+     1,
+     -115
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Quentin Jones|Assists": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Quentin Jones",
+   "prop_market": "Assists",
+   "athleteId": 2583,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     4.8,
+     21.5,
+     "B",
+     1,
+     109
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Amari McCottry|Assists": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Amari McCottry",
+   "prop_market": "Assists",
+   "athleteId": 818,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     3.5,
+     15.2,
+     "C",
+     1,
+     128
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Ishan Sharma|Points": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Ishan Sharma",
+   "prop_market": "Points",
+   "athleteId": 8195,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 9.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     9.5,
+     10.7,
+     11.6,
+     "C",
+     1,
+     -115
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|under|Kellen Thames|Points": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "under",
+   "player": "Kellen Thames",
+   "prop_market": "Points",
+   "athleteId": 809,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     11.5,
+     10.7,
+     14.0,
+     "B",
+     1,
+     103
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Ishan Sharma|Threes": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Ishan Sharma",
+   "prop_market": "Threes",
+   "athleteId": 8195,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.3,
+     33.3,
+     "B",
+     1,
+     -149
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Quentin Jones|Threes": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Quentin Jones",
+   "prop_market": "Threes",
+   "athleteId": 2583,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 0.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     0.5,
+     1.2,
+     13.8,
+     "C",
+     1,
+     -196
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|under|Trey Green|Threes": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "under",
+   "player": "Trey Green",
+   "prop_market": "Threes",
+   "athleteId": 4071,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.2,
+     15.7,
+     "B",
+     1,
+     -112
+    ]
+   ]
+  },
+  "prop|Saint Louis Billikens|Stanford Cardinal|2026-11-26T04:59:00Z|over|Julius Price|Threes": {
+   "market": "prop",
+   "home": "Saint Louis Billikens",
+   "away": "Stanford Cardinal",
+   "kickoff": "2026-11-26T04:59:00Z",
+   "side": "over",
+   "player": "Julius Price",
+   "prop_market": "Threes",
+   "athleteId": 232578,
+   "home_cbbd": "Saint Louis",
+   "away_cbbd": "Stanford",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.3,
+     17.9,
+     "C",
+     1,
+     178
+    ]
+   ]
+  },
+  "prop|Colorado St Rams|Clemson Tigers|2026-11-26T05:30:00Z|under|Ace Buckner|Assists": {
+   "market": "prop",
+   "home": "Colorado St Rams",
+   "away": "Clemson Tigers",
+   "kickoff": "2026-11-26T05:30:00Z",
+   "side": "under",
+   "player": "Ace Buckner",
+   "prop_market": "Assists",
+   "athleteId": 3462,
+   "home_cbbd": "Colorado State",
+   "away_cbbd": "Clemson",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     4.0,
+     10.2,
+     "B",
+     1,
+     -137
+    ]
+   ]
+  },
+  "prop|Colorado St Rams|Clemson Tigers|2026-11-26T05:30:00Z|under|Ace Buckner|Points": {
+   "market": "prop",
+   "home": "Colorado St Rams",
+   "away": "Clemson Tigers",
+   "kickoff": "2026-11-26T05:30:00Z",
+   "side": "under",
+   "player": "Ace Buckner",
+   "prop_market": "Points",
+   "athleteId": 3462,
+   "home_cbbd": "Colorado State",
+   "away_cbbd": "Clemson",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 19.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     19.5,
+     16.0,
+     33.6,
+     "B",
+     1,
+     -130
+    ]
+   ]
+  },
+  "prop|Colorado St Rams|Clemson Tigers|2026-11-26T05:30:00Z|over|Ace Buckner|Rebounds": {
+   "market": "prop",
+   "home": "Colorado St Rams",
+   "away": "Clemson Tigers",
+   "kickoff": "2026-11-26T05:30:00Z",
+   "side": "over",
+   "player": "Ace Buckner",
+   "prop_market": "Rebounds",
+   "athleteId": 3462,
+   "home_cbbd": "Colorado State",
+   "away_cbbd": "Clemson",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     3.4,
+     19.3,
+     "B",
+     1,
+     152
+    ]
+   ]
+  },
+  "prop|Colorado St Rams|Clemson Tigers|2026-11-26T05:30:00Z|over|Dylan Faulkner|Rebounds": {
+   "market": "prop",
+   "home": "Colorado St Rams",
+   "away": "Clemson Tigers",
+   "kickoff": "2026-11-26T05:30:00Z",
+   "side": "over",
+   "player": "Dylan Faulkner",
+   "prop_market": "Rebounds",
+   "athleteId": 5536,
+   "home_cbbd": "Colorado State",
+   "away_cbbd": "Clemson",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     6.5,
+     7.0,
+     10.0,
+     "B",
+     1,
+     -115
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|over|Latrell Davis|Assists": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "over",
+   "player": "Latrell Davis",
+   "prop_market": "Assists",
+   "athleteId": 7032,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.3,
+     12.5,
+     "C",
+     1,
+     155
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|over|Elzie Harrington|Assists": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "over",
+   "player": "Elzie Harrington",
+   "prop_market": "Assists",
+   "athleteId": 201883,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     3.9,
+     30.1,
+     "B",
+     1,
+     110
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|under|DJ Wagner|Assists": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "under",
+   "player": "DJ Wagner",
+   "prop_market": "Assists",
+   "athleteId": 7824,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     2.4,
+     18.7,
+     "B",
+     1,
+     -204
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|under|DJ Wagner|Points": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "under",
+   "player": "DJ Wagner",
+   "prop_market": "Points",
+   "athleteId": 7824,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     11.5,
+     9.0,
+     24.7,
+     "B",
+     1,
+     -123
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|under|Latrell Davis|Points": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "under",
+   "player": "Latrell Davis",
+   "prop_market": "Points",
+   "athleteId": 7032,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 19.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     19.5,
+     17.1,
+     34.5,
+     "B",
+     1,
+     -104
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|under|Tomislav Buljan|Rebounds": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "under",
+   "player": "Tomislav Buljan",
+   "prop_market": "Rebounds",
+   "athleteId": 200858,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 8.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     8.5,
+     6.6,
+     30.8,
+     "B",
+     1,
+     -156
+    ]
+   ]
+  },
+  "prop|San Diego St Aztecs|Maryland Terrapins|2026-11-26T18:00:00Z|under|Andre Mills|Threes": {
+   "market": "prop",
+   "home": "San Diego St Aztecs",
+   "away": "Maryland Terrapins",
+   "kickoff": "2026-11-26T18:00:00Z",
+   "side": "under",
+   "player": "Andre Mills",
+   "prop_market": "Threes",
+   "athleteId": 329,
+   "home_cbbd": "San Diego State",
+   "away_cbbd": "Maryland",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     2.1,
+     21.8,
+     "A",
+     1,
+     -123
+    ]
+   ]
+  },
+  "prop|Texas Longhorns|Georgetown Hoyas|2026-11-26T19:30:00Z|over|Austin Goosby|Rebounds": {
+   "market": "prop",
+   "home": "Texas Longhorns",
+   "away": "Georgetown Hoyas",
+   "kickoff": "2026-11-26T19:30:00Z",
+   "side": "over",
+   "player": "Austin Goosby",
+   "prop_market": "Rebounds",
+   "athleteId": 227349,
+   "home_cbbd": "Texas",
+   "away_cbbd": "Georgetown",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     4.7,
+     13.0,
+     "B",
+     1,
+     110
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Tamin Lipsey|Assists": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Tamin Lipsey",
+   "prop_market": "Assists",
+   "athleteId": 144,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     5.5,
+     4.0,
+     32.7,
+     "B",
+     1,
+     -185
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|over|Tre Singleton|Assists": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "over",
+   "player": "Tre Singleton",
+   "prop_market": "Assists",
+   "athleteId": 201177,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.0,
+     17.9,
+     "C",
+     1,
+     -120
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|over|Ryan Prather Jr.|Assists": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "over",
+   "player": "Ryan Prather Jr.",
+   "prop_market": "Assists",
+   "athleteId": 3305,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.4,
+     22.8,
+     "B",
+     1,
+     -156
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Tyler Lundblade|Points": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Tyler Lundblade",
+   "prop_market": "Points",
+   "athleteId": 3850,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 9.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     9.5,
+     7.6,
+     24.7,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Juke Harris|Points": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Juke Harris",
+   "prop_market": "Points",
+   "athleteId": 5773,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 11.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     11.5,
+     9.8,
+     22.1,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|DeWayne Brown II|Rebounds": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "DeWayne Brown II",
+   "prop_market": "Rebounds",
+   "athleteId": 202447,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     7.5,
+     6.5,
+     22.3,
+     "A",
+     1,
+     -123
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Miles Rubin|Rebounds": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Miles Rubin",
+   "prop_market": "Rebounds",
+   "athleteId": 6077,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 6.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     6.5,
+     5.5,
+     12.1,
+     "B",
+     1,
+     -149
+    ]
+   ]
+  },
+  "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Ryan Prather Jr.|Threes": {
+   "market": "prop",
+   "home": "Iowa State Cyclones",
+   "away": "Tennessee Volunteers",
+   "kickoff": "2026-11-26T20:30:00Z",
+   "side": "under",
+   "player": "Ryan Prather Jr.",
+   "prop_market": "Threes",
+   "athleteId": 3305,
+   "home_cbbd": "Iowa State",
+   "away_cbbd": "Tennessee",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     1.8,
+     15.7,
+     "B",
+     1,
+     -200
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Eric Dailey Jr.|Assists": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "over",
+   "player": "Eric Dailey Jr.",
+   "prop_market": "Assists",
+   "athleteId": 530,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.2,
+     13.2,
+     "C",
+     1,
+     -167
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Joshua Dent|Assists": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "under",
+   "player": "Joshua Dent",
+   "prop_market": "Assists",
+   "athleteId": 6897,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 4.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     4.5,
+     4.2,
+     20.0,
+     "A",
+     1,
+     102
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Trent Perry|Points": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "under",
+   "player": "Trent Perry",
+   "prop_market": "Points",
+   "athleteId": 536,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 16.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     16.5,
+     14.7,
+     16.8,
+     "B",
+     1,
+     -122
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Vangelis Zougris|Points": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "under",
+   "player": "Vangelis Zougris",
+   "prop_market": "Points",
+   "athleteId": 200198,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 14.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     14.5,
+     11.8,
+     21.5,
+     "B",
+     1,
+     -137
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Mantas Juzenas|Points": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "under",
+   "player": "Mantas Juzenas",
+   "prop_market": "Points",
+   "athleteId": 201802,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 18.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     18.5,
+     16.6,
+     15.6,
+     "B",
+     1,
+     -128
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Trent Perry|Rebounds": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "over",
+   "player": "Trent Perry",
+   "prop_market": "Rebounds",
+   "athleteId": 536,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     3.6,
+     13.4,
+     "C",
+     1,
+     117
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Eric Dailey Jr.|Threes": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "over",
+   "player": "Eric Dailey Jr.",
+   "prop_market": "Threes",
+   "athleteId": 530,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 0.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     0.5,
+     0.8,
+     11.0,
+     "C",
+     1,
+     -130
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Trent Perry|Threes": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "over",
+   "player": "Trent Perry",
+   "prop_market": "Threes",
+   "athleteId": 536,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.5,
+     22.9,
+     "B",
+     1,
+     144
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Mantas Juzenas|Threes": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "under",
+   "player": "Mantas Juzenas",
+   "prop_market": "Threes",
+   "athleteId": 201802,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     2.7,
+     26.2,
+     "B",
+     1,
+     -169
+    ]
+   ]
+  },
+  "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Nikola Kusturica|Threes": {
+   "market": "prop",
+   "home": "UCLA Bruins",
+   "away": "Saint Mary's Gaels",
+   "kickoff": "2026-11-26T22:00:00Z",
+   "side": "over",
+   "player": "Nikola Kusturica",
+   "prop_market": "Threes",
+   "athleteId": 233062,
+   "home_cbbd": "UCLA",
+   "away_cbbd": "Saint Mary's",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.2,
+     10.1,
+     "C",
+     1,
+     178
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|BJ Davis|Assists": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "over",
+   "player": "BJ Davis",
+   "prop_market": "Assists",
+   "athleteId": 8456,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     3.4,
+     17.6,
+     "C",
+     1,
+     146
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Wes Enis|Points": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "under",
+   "player": "Wes Enis",
+   "prop_market": "Points",
+   "athleteId": 202225,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 19.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     19.5,
+     17.1,
+     32.1,
+     "B",
+     1,
+     -108
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Wes Enis|Threes": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "under",
+   "player": "Wes Enis",
+   "prop_market": "Threes",
+   "athleteId": 202225,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 3.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     3.5,
+     2.9,
+     36.2,
+     "A",
+     1,
+     -118
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Austin Swartz|Threes": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "under",
+   "player": "Austin Swartz",
+   "prop_market": "Threes",
+   "athleteId": 3080,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 2.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     2.5,
+     1.7,
+     13.6,
+     "B",
+     1,
+     -227
+    ]
+   ]
+  },
+  "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|BJ Davis|Threes": {
+   "market": "prop",
+   "home": "Creighton Bluejays",
+   "away": "TCU Horned Frogs",
+   "kickoff": "2026-11-26T23:00:00Z",
+   "side": "over",
+   "player": "BJ Davis",
+   "prop_market": "Threes",
+   "athleteId": 8456,
+   "home_cbbd": "Creighton",
+   "away_cbbd": "TCU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     1.6,
+     15.8,
+     "C",
+     1,
+     120
+    ]
+   ]
+  },
+  "prop|LSU Tigers|SMU Mustangs|2026-11-27T00:00:00Z|over|Jaden Toombs|Assists": {
+   "market": "prop",
+   "home": "LSU Tigers",
+   "away": "SMU Mustangs",
+   "kickoff": "2026-11-27T00:00:00Z",
+   "side": "over",
+   "player": "Jaden Toombs",
+   "prop_market": "Assists",
+   "athleteId": 202026,
+   "home_cbbd": "LSU",
+   "away_cbbd": "SMU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 1.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     1.5,
+     2.2,
+     16.8,
+     "C",
+     1,
+     -154
+    ]
+   ]
+  },
+  "prop|LSU Tigers|SMU Mustangs|2026-11-27T00:00:00Z|over|Jaden Toombs|Rebounds": {
+   "market": "prop",
+   "home": "LSU Tigers",
+   "away": "SMU Mustangs",
+   "kickoff": "2026-11-27T00:00:00Z",
+   "side": "over",
+   "player": "Jaden Toombs",
+   "prop_market": "Rebounds",
+   "athleteId": 202026,
+   "home_cbbd": "LSU",
+   "away_cbbd": "SMU",
+   "first": {
+    "at": "2026-11-26T00:11:15.051370+00:00",
+    "line": 5.5
+   },
+   "h": [
+    [
+     "2026-11-26T00:11:15.051370+00:00",
+     5.5,
+     5.9,
+     18.9,
+     "C",
+     1,
+     106
+    ]
+   ]
   }
  },
- "updated": "2026-11-25T15:20:18.704087+00:00"
+ "updated": "2026-11-26T00:11:15.051370+00:00"
 }
