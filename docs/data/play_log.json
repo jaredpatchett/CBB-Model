@@ -15974,6 +15974,15 @@
      "B",
      0,
      null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     153.5,
+     151.0,
+     2.5,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -16027,6 +16036,15 @@
      16.0,
      "B",
      1,
+     null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     10.5,
+     2.5,
+     8.0,
+     "C",
+     0,
      null
     ]
    ]
@@ -19545,7 +19563,13 @@
      1,
      -185
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.5405,
+   "final_grade": "B",
+   "final_line": 5.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|over|Tre Singleton|Assists": {
    "market": "prop",
@@ -19581,7 +19605,13 @@
      1,
      -120
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|over|Ryan Prather Jr.|Assists": {
    "market": "prop",
@@ -19617,7 +19647,13 @@
      1,
      -156
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Tyler Lundblade|Points": {
    "market": "prop",
@@ -19653,7 +19689,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 11.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 9.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Juke Harris|Points": {
    "market": "prop",
@@ -19689,7 +19731,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.9259,
+   "final_grade": "B",
+   "final_line": 11.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|DeWayne Brown II|Rebounds": {
    "market": "prop",
@@ -19725,7 +19773,13 @@
      1,
      -123
     ]
-   ]
+   ],
+   "actual": 13.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "A",
+   "final_line": 7.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Miles Rubin|Rebounds": {
    "market": "prop",
@@ -19761,7 +19815,13 @@
      1,
      -149
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.6711,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "75-64"
   },
   "prop|Iowa State Cyclones|Tennessee Volunteers|2026-11-26T20:30:00Z|under|Ryan Prather Jr.|Threes": {
    "market": "prop",
@@ -19797,7 +19857,13 @@
      1,
      -200
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 2.5,
+   "final_score": "75-64"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Eric Dailey Jr.|Assists": {
    "market": "prop",
@@ -19833,7 +19899,13 @@
      1,
      -167
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Joshua Dent|Assists": {
    "market": "prop",
@@ -19869,7 +19941,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 6.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 4.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Trent Perry|Points": {
    "market": "prop",
@@ -19905,7 +19983,13 @@
      1,
      -133
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 0.7519,
+   "final_grade": "B",
+   "final_line": 16.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Vangelis Zougris|Points": {
    "market": "prop",
@@ -19941,7 +20025,13 @@
      1,
      -137
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "W",
+   "units": 0.7299,
+   "final_grade": "B",
+   "final_line": 14.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Mantas Juzenas|Points": {
    "market": "prop",
@@ -19977,7 +20067,13 @@
      1,
      -128
     ]
-   ]
+   ],
+   "actual": 18.0,
+   "result": "W",
+   "units": 0.7812,
+   "final_grade": "B",
+   "final_line": 18.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Trent Perry|Rebounds": {
    "market": "prop",
@@ -20013,7 +20109,13 @@
      1,
      112
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 3.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Eric Dailey Jr.|Threes": {
    "market": "prop",
@@ -20049,7 +20151,13 @@
      1,
      -127
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 0.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Trent Perry|Threes": {
    "market": "prop",
@@ -20085,7 +20193,13 @@
      1,
      144
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|under|Mantas Juzenas|Threes": {
    "market": "prop",
@@ -20121,7 +20235,13 @@
      1,
      -172
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 3.5,
+   "final_score": "85-70"
   },
   "prop|UCLA Bruins|Saint Mary's Gaels|2026-11-26T22:00:00Z|over|Nikola Kusturica|Threes": {
    "market": "prop",
@@ -20157,7 +20277,13 @@
      1,
      -227
     ]
-   ]
+   ],
+   "actual": 1.0,
+   "result": "W",
+   "units": 0.4405,
+   "final_grade": "C",
+   "final_line": 0.5,
+   "final_score": "85-70"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|BJ Davis|Assists": {
    "market": "prop",
@@ -20193,7 +20319,13 @@
      1,
      146
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 3.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Wes Enis|Points": {
    "market": "prop",
@@ -20229,7 +20361,13 @@
      1,
      -108
     ]
-   ]
+   ],
+   "actual": 20.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 19.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Wes Enis|Threes": {
    "market": "prop",
@@ -20265,7 +20403,13 @@
      1,
      -123
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.813,
+   "final_grade": "A",
+   "final_line": 3.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Austin Swartz|Threes": {
    "market": "prop",
@@ -20337,7 +20481,13 @@
      1,
      120
     ]
-   ]
+   ],
+   "actual": 2.0,
+   "result": "W",
+   "units": 1.2,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "87-95"
   },
   "prop|LSU Tigers|SMU Mustangs|2026-11-27T00:00:00Z|over|Jaden Toombs|Assists": {
    "market": "prop",
@@ -20364,7 +20514,13 @@
      1,
      -154
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 1.5,
+   "final_score": "86-95"
   },
   "prop|LSU Tigers|SMU Mustangs|2026-11-27T00:00:00Z|over|Jaden Toombs|Rebounds": {
    "market": "prop",
@@ -20391,7 +20547,13 @@
      1,
      106
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 5.5,
+   "final_score": "86-95"
   },
   "total|USC Trojans|Utah State Aggies|2026-11-26T21:30:00Z|under": {
    "market": "total",
@@ -20418,7 +20580,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 165.5,
+   "final_score": "78-74"
   },
   "total|LSU Tigers|SMU Mustangs|2026-11-27T00:00:00Z|under": {
    "market": "total",
@@ -20445,7 +20612,12 @@
      1,
      null
     ]
-   ]
+   ],
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 160.5,
+   "final_score": "86-95"
   },
   "prop|Stanford Cardinal|Saint Louis Billikens|2026-11-26T05:00:43Z|over|Nick Townsend|Assists": {
    "market": "prop",
@@ -20853,7 +21025,13 @@
      1,
      -119
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 4.5,
+   "final_score": "85-70"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Xavier Edmonds|Assists": {
    "market": "prop",
@@ -20880,7 +21058,13 @@
      1,
      -105
     ]
-   ]
+   ],
+   "actual": 0.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Brock Harding|Assists": {
    "market": "prop",
@@ -20907,7 +21091,13 @@
      1,
      -130
     ]
-   ]
+   ],
+   "actual": 10.0,
+   "result": "W",
+   "units": 0.7692,
+   "final_grade": "B",
+   "final_line": 6.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Micah Robinson|Points": {
    "market": "prop",
@@ -20934,7 +21124,13 @@
      1,
      -105
     ]
-   ]
+   ],
+   "actual": 13.0,
+   "result": "L",
+   "units": -1.0,
+   "final_grade": "C",
+   "final_line": 15.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Xavier Edmonds|Points": {
    "market": "prop",
@@ -20961,7 +21157,13 @@
      1,
      -118
     ]
-   ]
+   ],
+   "actual": 8.0,
+   "result": "W",
+   "units": 0.8475,
+   "final_grade": "B",
+   "final_line": 15.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|under|Micah Robinson|Rebounds": {
    "market": "prop",
@@ -20988,7 +21190,13 @@
      1,
      -156
     ]
-   ]
+   ],
+   "actual": 5.0,
+   "result": "W",
+   "units": 0.641,
+   "final_grade": "B",
+   "final_line": 5.5,
+   "final_score": "87-95"
   },
   "prop|Creighton Bluejays|TCU Horned Frogs|2026-11-26T23:00:00Z|over|Brock Harding|Threes": {
    "market": "prop",
@@ -21015,7 +21223,13 @@
      1,
      186
     ]
-   ]
+   ],
+   "actual": 4.0,
+   "result": "W",
+   "units": 1.86,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "87-95"
   },
   "spread|Louisiana Tech Bulldogs|Texas State Bobcats|2026-11-27T20:00:00Z|home": {
    "market": "spread",
@@ -21041,6 +21255,15 @@
      "A",
      1,
      null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     4.5,
+     2.3,
+     2.2,
+     "B",
+     0,
+     null
     ]
    ]
   },
@@ -21062,6 +21285,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     2.5,
+     -7.8,
+     10.3,
+     "A",
+     1,
+     null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      2.5,
      -7.8,
      10.3,
@@ -21095,6 +21327,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     177.5,
+     166.6,
+     10.9,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -21122,6 +21363,15 @@
      "B",
      1,
      null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     164.5,
+     156.8,
+     7.7,
+     "B",
+     1,
+     null
     ]
    ]
   },
@@ -21143,6 +21393,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     156.5,
+     150.0,
+     6.5,
+     "B",
+     1,
+     null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      156.5,
      150.0,
      6.5,
@@ -21175,6 +21434,15 @@
      5.1,
      "B",
      1,
+     null
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     147.5,
+     143.7,
+     3.8,
+     "B",
+     0,
      null
     ]
    ]
@@ -21393,7 +21661,13 @@
      1,
      -110
     ]
-   ]
+   ],
+   "actual": 3.0,
+   "result": "W",
+   "units": 0.9091,
+   "final_grade": "B",
+   "final_line": 1.5,
+   "final_score": "86-95"
   },
   "prop|Alabama Crimson Tide|Kansas St Wildcats|2026-11-27T02:00:00Z|under|Brock Vice|Assists": {
    "market": "prop",
@@ -22085,6 +22359,24 @@
      "B",
      1,
      -164
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     16.5,
+     14.4,
+     29.2,
+     "B",
+     1,
+     -106
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     19.5,
+     14.4,
+     36.3,
+     "B",
+     1,
+     -164
     ]
    ]
   },
@@ -22112,6 +22404,15 @@
      "B",
      1,
      -118
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     17.5,
+     14.9,
+     30.3,
+     "B",
+     1,
+     -115
     ]
    ]
   },
@@ -22139,6 +22440,15 @@
      "A",
      1,
      -135
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     7.5,
+     6.2,
+     25.1,
+     "A",
+     1,
+     -138
     ]
    ]
   },
@@ -22160,6 +22470,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     1.5,
+     1.5,
+     28.7,
+     "B",
+     1,
+     152
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      1.5,
      1.5,
      28.7,
@@ -22193,6 +22512,15 @@
      "B",
      1,
      -137
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     11.5,
+     9.5,
+     11.5,
+     "B",
+     1,
+     -143
     ]
    ]
   },
@@ -22214,6 +22542,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     13.5,
+     10.7,
+     30.7,
+     "B",
+     1,
+     -118
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      13.5,
      10.7,
      30.7,
@@ -22247,6 +22584,15 @@
      "B",
      1,
      115
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     4.5,
+     4.9,
+     21.9,
+     "B",
+     1,
+     115
     ]
    ]
   },
@@ -22268,6 +22614,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     1.5,
+     0.9,
+     39.1,
+     "A",
+     1,
+     -108
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      1.5,
      0.9,
      39.1,
@@ -22301,6 +22656,15 @@
      "B",
      1,
      -233
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     1.5,
+     1.4,
+     27.1,
+     "A",
+     1,
+     129
     ]
    ]
   },
@@ -22322,6 +22686,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     1.5,
+     1.9,
+     24.8,
+     "B",
+     1,
+     -105
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      1.5,
      1.9,
      24.8,
@@ -22355,6 +22728,15 @@
      "B",
      1,
      -141
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     2.5,
+     3.3,
+     21.6,
+     "B",
+     1,
+     -141
     ]
    ]
   },
@@ -22376,6 +22758,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     4.5,
+     3.7,
+     11.1,
+     "B",
+     1,
+     -179
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      4.5,
      3.7,
      11.1,
@@ -22409,6 +22800,15 @@
      "B",
      1,
      -130
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     17.5,
+     14.4,
+     29.5,
+     "B",
+     1,
+     -130
     ]
    ]
   },
@@ -22430,6 +22830,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     10.5,
+     9.2,
+     14.6,
+     "B",
+     1,
+     -112
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      10.5,
      9.2,
      14.6,
@@ -22463,6 +22872,15 @@
      "B",
      1,
      -108
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     8.5,
+     7.9,
+     16.2,
+     "B",
+     1,
+     -108
     ]
    ]
   },
@@ -22484,6 +22902,15 @@
    "h": [
     [
      "2026-11-27T00:05:32.393747+00:00",
+     1.5,
+     1.9,
+     28.7,
+     "B",
+     1,
+     -110
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
      1.5,
      1.9,
      28.7,
@@ -22517,9 +22944,153 @@
      "B",
      1,
      -115
+    ],
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     1.5,
+     2.0,
+     27.5,
+     "B",
+     1,
+     -115
+    ]
+   ]
+  },
+  "total|UMass Lowell River Hawks|Hampton Pirates|2026-11-27T18:00:00Z|under": {
+   "market": "total",
+   "home": "UMass Lowell River Hawks",
+   "away": "Hampton Pirates",
+   "kickoff": "2026-11-27T18:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "UMass Lowell",
+   "away_cbbd": "Hampton",
+   "first": {
+    "at": "2026-11-27T04:04:57.596528+00:00",
+    "line": 142.5
+   },
+   "h": [
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     142.5,
+     133.4,
+     9.1,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Butler Bulldogs|Bellarmine Knights|2026-11-27T20:00:00Z|under": {
+   "market": "total",
+   "home": "Butler Bulldogs",
+   "away": "Bellarmine Knights",
+   "kickoff": "2026-11-27T20:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Butler",
+   "away_cbbd": "Bellarmine",
+   "first": {
+    "at": "2026-11-27T04:04:57.596528+00:00",
+    "line": 153.5
+   },
+   "h": [
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     153.5,
+     147.8,
+     5.7,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Hofstra Pride|Colgate Raiders|2026-11-27T20:30:00Z|under": {
+   "market": "total",
+   "home": "Hofstra Pride",
+   "away": "Colgate Raiders",
+   "kickoff": "2026-11-27T20:30:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Hofstra",
+   "away_cbbd": "Colgate",
+   "first": {
+    "at": "2026-11-27T04:04:57.596528+00:00",
+    "line": 142.5
+   },
+   "h": [
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     142.5,
+     137.1,
+     5.4,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "total|Marquette Golden Eagles|Texas A&M Aggies|2026-11-27T22:00:00Z|under": {
+   "market": "total",
+   "home": "Marquette Golden Eagles",
+   "away": "Texas A&M Aggies",
+   "kickoff": "2026-11-27T22:00:00Z",
+   "side": "under",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Marquette",
+   "away_cbbd": "Texas A&M",
+   "first": {
+    "at": "2026-11-27T04:04:57.596528+00:00",
+    "line": 158.5
+   },
+   "h": [
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     158.5,
+     152.7,
+     5.8,
+     "B",
+     1,
+     null
+    ]
+   ]
+  },
+  "spread|Saint Mary's Gaels|Texas Longhorns|2026-11-27T22:00:00Z|home": {
+   "market": "spread",
+   "home": "Saint Mary's Gaels",
+   "away": "Texas Longhorns",
+   "kickoff": "2026-11-27T22:00:00Z",
+   "side": "home",
+   "player": null,
+   "prop_market": null,
+   "athleteId": null,
+   "home_cbbd": "Saint Mary's",
+   "away_cbbd": "Texas",
+   "first": {
+    "at": "2026-11-27T04:04:57.596528+00:00",
+    "line": 7.5
+   },
+   "h": [
+    [
+     "2026-11-27T04:04:57.596528+00:00",
+     7.5,
+     -4.3,
+     11.8,
+     "A",
+     1,
+     null
     ]
    ]
   }
  },
- "updated": "2026-11-27T00:05:32.393747+00:00"
+ "updated": "2026-11-27T04:04:57.596528+00:00"
 }
